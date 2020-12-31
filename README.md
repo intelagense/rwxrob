@@ -4,7 +4,7 @@ Code is art. Good code is like the enigmatic innards of a fine 16th
 century timepiece, a good coder not unlike the artisan obsessed with its
 beauty, complexity, and elegance.
 
-Yeah — I admit, I get a little obsessed.
+Yeah — I admit, I get a little [obsessed](type.png).
 
 I love coding and helping others learn. I started
 [SKILSTAK](https://skilstak.io) in May 2013 to do both. Participating as
