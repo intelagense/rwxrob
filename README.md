@@ -4,15 +4,22 @@ Code is art. Good code is like the enigmatic innards of a fine 16th
 century timepiece, a good coder not unlike the artisan obsessed with its
 beauty, complexity, and elegance.
 
-Yeah — I admit, I get a little [obsessed](type.png).
+Yeah — I admit, I do [romanticize](type.png) technology as an art form
+that transforms all our lives for the better. God knows I love [talking
+about it](https://www.16personalities.com/enfp-personality), which is
+why I most enjoy helping others empower their own lives by learning it.
 
-I love coding and helping others learn. I started
-[SKILSTAK](https://skilstak.io) in May 2013 to do both. Participating as
-a member of the [rwxrob.live](https://rwxrob.live) community has become
-my favorite tech-related past-time. I've logged many hours live
-streaming and working on a [beginner boost video
-series](https://youtube.com/rwxrob) to help others get started
-including:
+I started [SKILSTAK](https://skilstak.io) in May 2013 to explore how
+technology can be used for personal empowerment. Learning happens in the
+lab, not the lecture hall. So I built one into a company and have
+enjoyed helping hundreds find their way through the tech jungle.
+
+Extrovert that I am, participating as a member of the
+[rwxrob.live](https://rwxrob.live) community has become my favorite
+tech-related past-time, even more than playing Witcher 3. I've logged
+many hours live streaming and working on a [beginner boost video
+series](https://youtube.com/rwxrob) to help others get started. Topics
+have included:
 
 * Applying autodidactic habits of successful technologists
 * Programming from the command line in Bash, Web, Go, and Python
@@ -20,19 +27,15 @@ including:
 * Learning cloud native architecture and applications development
 * Applying cybersecurity skills in a learning environment
 
-These days I make ends meet through mentoring for the company I founded
-and have been running for close to eight years, but I'm actively seeking
-full-time employment focused on Go development specifically for 
-
 ## Availability
 
-Although mentoring for the company I started eight years ago meets most
-of the needs of my family I am actively seeking full-time employment
-specifically doing CTO work and/or development in Go (golang) creating
-command line, terminal UI, systems and backend applications as well as
-cloud native applications involving Docker, Kubernetes, gRPC, ProtoBuf,
-et cetera. I'm also looking for opportunities to write pentesting and
-security auditing software as I did for IBM but in Go.
+I've been down-sizing my private mentored community gradually and I am
+currently seeking full-time employment specifically doing CTO-type work
+and/or development in Go (golang) creating command line, terminal UI,
+systems and backend applications as well as cloud native applications
+involving Docker, Kubernetes, gRPC, ProtoBuf, et cetera. I'm also
+looking for opportunities to write pentesting and security auditing
+software as I did for IBM but written in the Go programming language.
 
 ## Work History
 
