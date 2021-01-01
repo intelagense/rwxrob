@@ -11,8 +11,9 @@ why I most enjoy helping others empower their own lives by learning it.
 
 I started [SKILSTAK](https://skilstak.io) in May 2013 to explore how
 technology can be used for personal empowerment. Learning happens in the
-lab, not the lecture hall. So I built one into a company and have
-enjoyed helping hundreds find their way through the tech jungle.
+lab, not the lecture hall. So I built a learning lab into a small
+company and have enjoyed helping hundreds find their way through the
+tech jungle.
 
 Extrovert that I am, participating as a member of the
 [rwxrob.live](https://rwxrob.live) community has become my favorite
