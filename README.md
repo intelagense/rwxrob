@@ -4,20 +4,18 @@ Code is art. Good code is like the enigmatic innards of a fine 16th
 century timepiece, a good coder not unlike the artisan obsessed with its
 beauty, complexity, and elegance.
 
-Yeah — I admit, I do [romanticize](type.png) technology as an art form
-that transforms all our lives for the better. God knows I love [talking
-about it](https://www.16personalities.com/enfp-personality), which is
-why I most enjoy helping others empower their own lives by learning it.
+Yeah — I admit, I do romanticize technology as an art form that
+transforms our lives for the better. God knows I love talking about
+it, which is why I most enjoy empowering others by learning it.
 
 I started [SKILSTAK](https://skilstak.io) in May 2013 to explore how
-technology can be used for personal empowerment. Learning happens in the
-lab, not the lecture hall. So I built a learning lab into a small
-company and have enjoyed helping hundreds find their way through the
-tech jungle.
+technology can be used for personal empowerment. I've always observed
+that learning best happens in the lab, not the lecture hall. So I built
+a humble lab into a small company and have enjoyed helping hundreds
+since to find their way through the tech jungle.
 
-Extrovert that I am, participating as a member of the
-[rwxrob.live](https://rwxrob.live) community has become my favorite
-tech-related past-time, even more than playing Witcher 3. I've logged
+Participating as a member of the [rwxrob.live](https://rwxrob.live)
+community has become my favorite tech-related past-time. I've logged
 many hours live streaming and working on a [beginner boost video
 series](https://youtube.com/rwxrob) to help others get started. Topics
 have included:
@@ -40,8 +38,9 @@ software as I did for IBM but written in the Go programming language.
 
 ## Work History
 
-My full work history is available as [a YAML file](rob-muhlestein.yml)
-(from which I can dynamically create customized resumes and CVs).
+📃 My full curriculum vitae is available as [a YAML file](vitae.yml).  
+☺️  Professional referrals and recommendations are [also
+available](refer.yml).
 
 Before starting the company that currently employs me, I spent 14 years
 at IBM making software and caring for the systems it ran on. Perl, Bash,
