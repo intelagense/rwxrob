@@ -6,7 +6,7 @@ beauty, complexity, and elegance.
 
 Yeah — I admit, I do romanticize technology as an art form that
 transforms our lives for the better. God knows I love talking about
-it, which is why I most enjoy empowering others by learning it.
+it, which is why I most enjoy empowering others by helping them learn it.
 
 I started [SKILSTAK](https://skilstak.io) in May 2013 to explore how
 technology can be used for personal empowerment. I've always observed
