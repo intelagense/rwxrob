@@ -59,3 +59,10 @@ first intranet portal. Capturing the Nagano Winter Olympics live on the
 first-ever internal blog was one highlight of my career, more even than
 the live chats I created and ran for CEO Phil Knight, John McEnroe,
 Michael Johnson, and others.
+
+## Personal Site
+
+I maintain a *very* personal web site at <https://robs.io> with a
+sort-of running stream of consciousness I call notes (I hate the term
+blog). Nothing I've written there represents any entity for which I have
+ever worked professionally.
