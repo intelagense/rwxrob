@@ -62,7 +62,7 @@ Michael Johnson, and others.
 
 ## Personal Site
 
-I maintain a *very* personal web site at <https://robs.io> with a
+I maintain a *very* personal web site at [`robs.io`](https://robs.io) with a
 sort-of running stream of consciousness I call notes (I hate the term
 blog). Nothing I've written there represents any entity for which I have
 ever worked professionally.
