@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Evils of Long Comments</title>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+  <link rel="shortcut icon" href="/assets/img/logo.png" type="image/png">
+  <meta http-equiv="Pragma" content="no-cache"/>
+  <meta http-equiv="Expires" content="0"/>
+  <link rel="shortcut icon" href="/assets/img/logo.png" type="image/png">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class=nav-bar>
+  <nav>
+    <div class=sidebar-button>≡</div>
+    <a class="homelink spy" href="/">r<span class=hideable>obs.io</span></a>
+    <div class="nav-right">
+      <!-- div id=search-box></div -->
+      <ul class=nav-links>
+        <li class=nav-item><a class=nav-link href="/coc/">CoC</a></li>
+        <li class=nav-item><a class=nav-link href="/wish/">Wishes</a></li>
+        <li class=nav-item><a class=nav-link href="/quotes/">Quotes</a></li>
+        <li class=nav-item><a class=nav-link href="/really/">Really?</a></li>
+        <li class=nav-item><a class="nav-link" href="https://rwx.gg">rwx.gg</a></li>
+        <li class=nav-item><a class="nav-link" href="https://youtube.com/rwxrob/">YouTube</a></li>
+        <li class=nav-item><a class="nav-link" href="https://gitlab.com/rwxrob/">GitLab</a></li>
+        <li class=nav-item><a class="nav-link" href="https://linkedin.com/in/rwxrob">LinkedIn</a></li>
+        <li class=nav-item><a class="nav-link" href="https://twitter.com/rwxrob">Twitter</a></li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<main id=top>
+<div class=container>  <h1 id=title class=duck><a href="https://duckduckgo.com/lite?kae=t&q=Evils of Long Comments">Evils of Long Comments</a></h1>
+  <h2 id=subtitle>Unreadable, Hard to Update, Inconsistent</h2>
+  <p id=summary>After trying an alternative long comment format for a day I am convinced there is actually a right way, and an evil way to do long comments in large code bases.</p>
+<p>First of all, I’m not saying that long comments are evil. I’m saying there is an <em>evil way to do them</em> and a good way.</p>
+<p>This doesn’t have to be that long of an explanation. Most of it is common sense that is becomes apparent after staring at code with syntax highlighting off for more than an hour.</p>
+<h2 id="i-need-the-lhs-border">I Need the LHS Border</h2>
+<p>I don’t think I realized how important having something consistently on the left hand side of the screen and code is to allow better scanning of code. I’m sure this is why the C people have been putting that <code>*</code> over there for ages. It also supports the Go <code>//</code> approach because the distinction is so pronounced in comparison even to the C approach.</p>
+<h2 id="i-need-wrapping">I Need Wrapping</h2>
+<p>All good editors will wrap pretty much any comment section properly. But long comments with <code>/* ... */</code> are a bit tougher to find support for mostly because they involve more than just simple folding. Blocks of single-line comments resolve better and can even be created with a simple vi/bash filter script:</p>
+<pre class="bash"><code>
+#!/bin/bash
+
+while read -r line; do 
+  echo &quot;${1-##} $line&quot;
+done
+</code></pre>
+<h2 id="i-need-whitespace-before-first-line-of-code">I Need Whitespace Before First Line of Code</h2>
+<p>I thought I really liked that the ending token <code>*/</code> of the long comment on its own line would give me a blank line before the code it covers, but then I realized when the comment isn’t long enough enough for two lines things get really complicated and ugly really fast.</p>
+<p>For a while I had single line comments if only one line and long comments for the rest. But having to context switch between the two is just fucking insane. I don’t know what I was thinking. With a consistent comment approach I don’t need to spend any cognitive overhead on it.</p>
+<p>I did start putting a extra blank before the code if there is more than one line of comments for better visual separation as I have seen other Go projects do.</p>
+<h2 id="i-need-to-be-able-to-comment-out-code">I Need to Be Able to Comment Out Code</h2>
+<p>By far the most annoying realization I had when using the <code>\* ... *\</code> form of long comments was that I no longer could comment out any code that had such long comments in them. The conflict between the comment tokens forced it not to work. This is never an issue if you use single-line comments — as is common practice in the Go community.</p>
+<pre class="go{.wrong}"><code>
+/*
+/* I&#39;m a comment */
+
+func main() {
+  fmt.Println(&quot;Hello World!&quot;
+}
+*/
+</code></pre>
+<p>This one works:</p>
+<pre class="go"><code>
+/*
+// I&#39;m a comment
+
+func main() {
+  fmt.Println(&quot;Hello World!&quot;
+}
+*/
+</code></pre>
+<h2 id="still-makes-sense-sometimes">Still Makes Sense Sometimes</h2>
+<p>There are cases when the stuff on the left-hand side is just not needed. For example, when writing a rather long <code>doc.go</code> file it is pretty standard practice to use the C long-comment form. This is all over in the Go standard library, but we are talking a <em>lot</em> of comments and <em>zero</em> code (well, there’s one line).</p>
+</div>
+</main>
+<footer>
+  <p><a href="/copyright/" id=copyright>© 2020 Rob Muhlestein</a></p>
+</footer>
+<script src="/assets/main.js"></script>
+</body>
+</html>

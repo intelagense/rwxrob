@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Naked Golang Constructors</title>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+  <link rel="shortcut icon" href="/assets/img/logo.png" type="image/png">
+  <meta http-equiv="Pragma" content="no-cache"/>
+  <meta http-equiv="Expires" content="0"/>
+  <link rel="shortcut icon" href="/assets/img/logo.png" type="image/png">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class=nav-bar>
+  <nav>
+    <div class=sidebar-button>≡</div>
+    <a class="homelink spy" href="/">r<span class=hideable>obs.io</span></a>
+    <div class="nav-right">
+      <!-- div id=search-box></div -->
+      <ul class=nav-links>
+        <li class=nav-item><a class=nav-link href="/coc/">CoC</a></li>
+        <li class=nav-item><a class=nav-link href="/wish/">Wishes</a></li>
+        <li class=nav-item><a class=nav-link href="/quotes/">Quotes</a></li>
+        <li class=nav-item><a class=nav-link href="/really/">Really?</a></li>
+        <li class=nav-item><a class="nav-link" href="https://rwx.gg">rwx.gg</a></li>
+        <li class=nav-item><a class="nav-link" href="https://youtube.com/rwxrob/">YouTube</a></li>
+        <li class=nav-item><a class="nav-link" href="https://gitlab.com/rwxrob/">GitLab</a></li>
+        <li class=nav-item><a class="nav-link" href="https://linkedin.com/in/rwxrob">LinkedIn</a></li>
+        <li class=nav-item><a class="nav-link" href="https://twitter.com/rwxrob">Twitter</a></li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<main id=top>
+<div class=container>  <h1 id=title class=duck><a href="https://duckduckgo.com/lite?kae=t&q=Naked Golang Constructors">Naked Golang Constructors</a></h1>
+  <h2 id=subtitle>Less is More, Explicit is Better Than Implicit, Remember?</h2>
+  <p id=summary>I’ve never been a fan of complicated function and method signatures — especially like what are common with Python and Java. The great thing about Go is that you can just leave them naked and empty and set the struct values <em>directly and explicitly</em> immediately after.</p>
+<p>In fact, this is one of the dumbest things Python decided to go with, the most non-specific, wildly open and large constructor signature possible. It’s like th <code>*arsgs</code> and <code>**kwargs</code> were added to deliberately tempt developers into making the most obtuse and unclear constructors possible. Quite ironic give the “explicit” is better mantra from the <a href="https://duck.com/lite?kae=t&amp;q=Zen%20of%20Python">Zen of Python</a>.</p>
+<p>Consider the following, which is just a <em>really bad example</em> to make a point:</p>
+<pre class="go"><code>
+func (b *Base) NewBase(path string, conf string) *Base {
+  b := &amp;Base{
+    ConfDir: conf,
+    Path: path,
+  }
+  return b
+}
+
+var b *Base = NewBase(&quot;./&quot;,&quot;./.kn&quot;)
+var a *Base = NewBase(&quot;./&quot;,&quot;&quot;)
+
+</code></pre>
+<p>This is simply not <em>idiomatic</em> Go programming style.</p>
+<p>This could just as easily and more clearly have been done <em>without</em> the monstrous method parameter signature.</p>
+<pre class="go"><code>
+func (b *Base) NewBase() *Base {
+  b := new(Base)
+  // some derived initialization here
+  return b
+}
+
+var b *Base = NewBase()
+b.Path = &quot;./&quot;
+b.ConfDir = filepath.Join(b.Path,&quot;.kn&quot;)
+
+// ...
+</code></pre>
+<p>Of course this doesn’t work if you intend to do something magic with an incoming argument during your initialization. But do you really need that magic? Does that implicit magic belong in your constructor at all? Are you sure you don’t want just simpler <a href="/cmdop/#command-structs">command structs</a> in general that do less?</p>
+</div>
+</main>
+<footer>
+  <p><a href="/copyright/" id=copyright>© 2020 Rob Muhlestein</a></p>
+</footer>
+<script src="/assets/main.js"></script>
+</body>
+</html>

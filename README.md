@@ -1,5 +1,3 @@
-# Rob Muhlestein
-
 Code is art. Good code is like the enigmatic innards of a fine 16th
 century timepiece, a good coder not unlike the artisan obsessed with its
 beauty, complexity, and elegance.
@@ -60,9 +58,11 @@ first-ever internal blog was one highlight of my career, more even than
 the live chats I created and ran for CEO Phil Knight, John McEnroe,
 Michael Johnson, and others.
 
-## Personal Site
+## Radical Personal Transparency
 
-I maintain a personal web site at [`robs.io`](https://robs.io) with a
-sort-of running stream of consciousness I call notes (I hate the term
-blog). Nothing I've written there represents any entity for which I have
-ever worked professionally.
+While I'm a big fan of privacy and regularly champion companies and
+products that promote it, I'm also a big fan of "radical transparency"
+in everything I do, which is why this site and repo contain so much
+personal information including a [personal log](log). (I've always hated
+the term blog.) Just remember, nothing I've written  represents any
+entity with which I have ever been associated in any capacity.

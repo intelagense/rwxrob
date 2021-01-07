@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Moving Back to Golang for Most Stuff</title>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+  <link rel="shortcut icon" href="/assets/img/logo.png" type="image/png">
+  <meta http-equiv="Pragma" content="no-cache"/>
+  <meta http-equiv="Expires" content="0"/>
+  <!-- link rel="shortcut icon" href="/assets/img/logo.png" type="image/png"-->
+    <link rel="stylesheet" href="/assets/styles.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class=nav-bar>
+  <nav>
+    <div class=sidebar-button></div>
+    <a class="homelink spy" href="/">r<span class=hideable>obs.io</span></a>
+    <div class="nav-right">
+      <!-- div id=search-box></div -->
+      <ul class=nav-links>
+      <ul class=nav-links>
+        <li class=nav-item><a class=nav-link href="/wish/">Wishes</a></li>
+        <li class=nav-item><a class=nav-link href="/really/">Really?</a></li>
+        <li class=nav-item><a class="nav-link" href="https://rwx.gg">rwx.gg</a></li>
+        <li class=nav-item><a class="nav-link" href="https://youtube.com/rwxrob/">YouTube</a></li>
+        <li class=nav-item><a class="nav-link" href="https://gitlab.com/rwxrob/">GitLab</a></li>
+        <li class=nav-item><a class="nav-link" href="https://linkedin.com/in/rwxrob">LinkedIn</a></li>
+        <li class=nav-item><a class="nav-link" href="https://twitter/rwxrob">Twitter</a></li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<main id=top>
+<div class=container>  <h1 id=title class=duck><a href="https://duckduckgo.com/lite?kae=t&q=Moving Back to Golang for Most Stuff">Moving Back to Golang for Most Stuff</a></h1>
+  <h2 id=subtitle>For README.World Knowledge Management Tool and More</h2>
+  <p id=summary>Writing everything that has to be compiled in Golang again now that I have gotten over my latest Rust fixation. I’m happy I survived. Future Rob would have been pissed at taking on that much unnecessary complexity and committment to a politically-motivated community that I really just cannot force myself to like. Turns out that Go <em>is</em> the best job for the <code>kn</code> tool. Time to get busy and port it from Bash even though I am feeling the sunk-cost fallacy of all that work I did to make it so pretty and compliant with Google’s Shell Scripting Guide. Ironically, by dropping shell I’m complying with the part that says, “use another language if you script gets over 500 lines long”.</p>
+<p>Recent experimentation with Rust has once again reminded me that it is <em>not</em> the right tool for most jobs that <em>I need</em> a compiled language for (nor is it the most likely pick for most other jobs out there). Rust is <em>highly</em> specialized and overly and unnecessarily complicated. But it is still the right tool for <em>some</em> jobs. With that in mind I’ve decided to move <em>back</em> to porting the <code>kn</code> tool to Go instead of Rust.</p>
+<h2 id="yaml-knowledge-node-types-with-go">YAML Knowledge Node Types with Go</h2>
+<p>It works out nicely that the new focus on YAML knowledge node types goes better with Go than Rust or anything else. I can create a Go struct for each type and just unmarshal it — especially since I kept the much more readable initial cap names for everything. In fact, that should <em>really</em> speed up that part of the development that easy equivalent in Bash.</p>
+</div>
+</main>
+<footer>
+  <p><a href="/copyright/" id=copyright>© 2020 Rob Muhlestein</a></p>
+</footer>
+<script src="/assets/main.js"></script>
+</body>
+</html>

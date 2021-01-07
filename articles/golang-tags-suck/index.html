@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Golang JSON/YAML Tags Actually Suck</title>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+  <link rel="shortcut icon" href="/assets/img/logo.png" type="image/png">
+  <meta http-equiv="Pragma" content="no-cache"/>
+  <meta http-equiv="Expires" content="0"/>
+  <link rel="shortcut icon" href="/assets/img/logo.png" type="image/png">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class=nav-bar>
+  <nav>
+    <div class=sidebar-button>≡</div>
+    <a class="homelink spy" href="/">r<span class=hideable>obs.io</span></a>
+    <div class="nav-right">
+      <!-- div id=search-box></div -->
+      <ul class=nav-links>
+        <li class=nav-item><a class=nav-link href="/coc/">CoC</a></li>
+        <li class=nav-item><a class=nav-link href="/wish/">Wishes</a></li>
+        <li class=nav-item><a class=nav-link href="/quotes/">Quotes</a></li>
+        <li class=nav-item><a class=nav-link href="/really/">Really?</a></li>
+        <li class=nav-item><a class="nav-link" href="https://rwx.gg">rwx.gg</a></li>
+        <li class=nav-item><a class="nav-link" href="https://youtube.com/rwxrob/">YouTube</a></li>
+        <li class=nav-item><a class="nav-link" href="https://gitlab.com/rwxrob/">GitLab</a></li>
+        <li class=nav-item><a class="nav-link" href="https://linkedin.com/in/rwxrob">LinkedIn</a></li>
+        <li class=nav-item><a class="nav-link" href="https://twitter.com/rwxrob">Twitter</a></li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<main id=top>
+<div class=container>  <h1 id=title>Golang JSON/YAML Tags Actually Suck</h1>
+  <h2 id=subtitle>At Least for Some Things</h2>
+<blockquote>
+<p>You know those things that you thought were cute? Yeah, don’t included them. They always end up to bite you later. (Ryan Dahl, 10 Things I Regret About NodeJS)</p>
+</blockquote>
+<p>As cool as I find Golang automatic JSON and YAML marshalling and unmarshalling directly into tagged structs I’m kinda starting to thing using that technique for anything significant is a really bad idea. Why?</p>
+<h2 id="the-problem">The Problem</h2>
+<p><strong>Unmarshalling often quietly leaves you with an empty structure.</strong> This can be disastrously bad if not caught before depending on that struct for anything later, like the <em>ultimate</em> null pointer error in a way.</p>
+<p><strong>Multiple tags often needed.</strong> For YAML, for example, there are nifty packages to first convert the YAML to JSON and then unmarshal that allowing you to use no tags or either <code>json</code> or <code>yaml</code> tags but these solutions are <em>horribly</em> inefficient. Reading a config file once in a while might be okay, but for parsing hundreds if not thousands of files these methods are simply unsustainable and unacceptable.</p>
+<p><strong>Requires dependency on structs with public attributes.</strong> Tagging <em>requires</em> public struct attributes. If you do not know why that is a bad thing you haven’t been coding Go long enough or on a big enough project yet. For most uses structs are actually a bad pick. You should probably be building things that have proper interfaces instead. Favoring interfaces — even though it about doubles the code you need to use them — simplifies the code that uses them and allows your things to be used in many different contexts — especially if you have followed <a href="https://duck.com/lite?kae=t&amp;q=SOLID%20methodology">SOLID methodology</a> and kept most of your interfaces with one or two methods.</p>
+<h2 id="one-solution">One Solution</h2>
+<p>The solution for me is to create a proper interface for all my things and then to implement my own <code>Unmarshal()</code> method that uses a ubiquitous <code>map[string]interface{}</code>. Then I can decide if I want to cherry pick values out of it to populate an internal, private struct that fulfills the interface or simple pull them directly from it and cast the <code>interface{}</code> to the property type. This indirection is not as heavy as it might seem. Sure it requires a bit more code, but the result provides a solution to all the above problems.</p>
+<ul>
+<li><p>I can validate in one place that all the required data was present in the YAML/JSON.</p></li>
+<li><p>I don’t need any cumbersome tags <em>at all.</em></p></li>
+<li><p>I can build dependencies on my public interface instead of exposing the internals of a struct implementing it that I would rather not.</p></li>
+</ul>
+</div>
+</main>
+<footer>
+  <p><a href="/copyright/" id=copyright>© 2020 Rob Muhlestein</a></p>
+</footer>
+<script src="/assets/main.js"></script>
+</body>
+</html>

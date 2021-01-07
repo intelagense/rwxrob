@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>GFM Markdown Tables FTW!</title>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+  <link rel="shortcut icon" href="/assets/img/logo.png" type="image/png">
+  <meta http-equiv="Pragma" content="no-cache"/>
+  <meta http-equiv="Expires" content="0"/>
+  <link rel="shortcut icon" href="/assets/img/logo.png" type="image/png">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class=nav-bar>
+  <nav>
+    <div class=sidebar-button>≡</div>
+    <a class="homelink spy" href="/">r<span class=hideable>obs.io</span></a>
+    <div class="nav-right">
+      <!-- div id=search-box></div -->
+      <ul class=nav-links>
+        <li class=nav-item><a class=nav-link href="/coc/">CoC</a></li>
+        <li class=nav-item><a class=nav-link href="/wish/">Wishes</a></li>
+        <li class=nav-item><a class=nav-link href="/quotes/">Quotes</a></li>
+        <li class=nav-item><a class=nav-link href="/really/">Really?</a></li>
+        <li class=nav-item><a class="nav-link" href="https://rwx.gg">rwx.gg</a></li>
+        <li class=nav-item><a class="nav-link" href="https://youtube.com/rwxrob/">YouTube</a></li>
+        <li class=nav-item><a class="nav-link" href="https://gitlab.com/rwxrob/">GitLab</a></li>
+        <li class=nav-item><a class="nav-link" href="https://linkedin.com/in/rwxrob">LinkedIn</a></li>
+        <li class=nav-item><a class="nav-link" href="https://twitter.com/rwxrob">Twitter</a></li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<main id=top>
+<div class=container>  <h1 id=title>GFM Markdown Tables FTW!</h1>
+  <h2 id=subtitle>Fastest, Safest, Most Supported</h2>
+<p>I’ve come to realize that even my beloved Pandoc tables are just not enough to keep me using Pandoc as a primary rendering engine over Goldmark’s builtin support for GitHub-Flavored-Markdown.</p>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Column One</th>
+<th>Column Two</th>
+<th style="text-align: right;">Column Three</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Here is</td>
+<td>some</td>
+<td style="text-align: right;">thing</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">And</td>
+<td>another</td>
+<td style="text-align: right;">thing</td>
+</tr>
+</tbody>
+</table>
+<pre class="markdown"><code>|Column One|Column Two|Column Three|
+|:-|-|-:|
+|Here is|some|thing|
+|And|another|thing|  </code></pre>
+<p>Here’s the pandoc version:</p>
+<pre><code>Column One      Column Two    Column Three
+------------   ------------  -------------
+Here is             some       thing 
+And              another       thing</code></pre>
+<p>I know. I know. I’ve railed on GFM for a <em>very</em> long time and there is a lot of crap in it, but if using the above simplified table format is required over Pandoc’s better table format so be it.</p>
+<h2 id="better-for-all-fonts">Better for All Fonts</h2>
+<p>When I read that there are actually a decent enough number of people writing Markdown using non-proportional fonts it really made me stop and realize that making your tables depend on a mono-spaced font is actually a pretty bad idea. That killed my love for Pandoc tables more than the rest. In fact, it made GFM tables look pretty damn intelligent.</p>
+<p>GFM tables require a bar to separate the columns. There is nothing needed with the whitespace at all. This might make them look rather ugly when in raw text but who gives a shit. They are <em>way</em> faster to write than all the other Pandoc tables. I seriously was not expecting to discover that when I gave GFM another chance.</p>
+<h2 id="faster-to-write">Faster to Write</h2>
+<p>To me writing speed trumps source appearance by <em>a lot</em>. Because GFM tables don’t depend on lining anything up <em>at all</em> you can type them way faster than anything else. Sure the source will look a bit mangled but you don’t really need to care. It is one of those trade-offs from the “source should look good as render” principle from original Markdown. You know, the same silliness that gave us literally an infinite number of ways to express a fucking horizontal rule.</p>
+<h2 id="things-ive-come-to-hate-about-pandoc-tables">Things I’ve Come to Hate About Pandoc Tables</h2>
+<p><strong>I’m always messing up the alignment.</strong> They might look pretty but damn they are hard to line up and <em>maintain</em>. If not exactly under the right <code>-</code> you lose all your alignment. GFM tables have an explicit <code>:</code> to visual show where the alignment is and it has <em>nothing</em> to do with the alignment. You can just add that if you feel like futzing around with how the source text should look. Frankly I usually don’t care that much about that.</p>
+<p><strong>Long table cell content actually sucks.</strong> I thought I would love having long table cells full of paragraphs and all kinds of multi-line goodness, but keeping all that shit wrapped properly and lined up is a fucking nightmare, if with all the greatest settings. Besides, tables are <em>not</em> for long content. Every time you need a cell with more than two lines in it you are probably in need of another way to express that information.</p>
+</div>
+</main>
+<footer>
+  <p><a href="/copyright/" id=copyright>© 2020 Rob Muhlestein</a></p>
+</footer>
+<script src="/assets/main.js"></script>
+</body>
+</html>

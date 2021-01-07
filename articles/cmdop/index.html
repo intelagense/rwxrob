@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Command Oriented Programming / CMDOP</title>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+  <link rel="shortcut icon" href="/assets/img/logo.png" type="image/png">
+  <meta http-equiv="Pragma" content="no-cache"/>
+  <meta http-equiv="Expires" content="0"/>
+  <link rel="shortcut icon" href="/assets/img/logo.png" type="image/png">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class=nav-bar>
+  <nav>
+    <div class=sidebar-button>≡</div>
+    <a class="homelink spy" href="/">r<span class=hideable>obs.io</span></a>
+    <div class="nav-right">
+      <!-- div id=search-box></div -->
+      <ul class=nav-links>
+        <li class=nav-item><a class=nav-link href="/coc/">CoC</a></li>
+        <li class=nav-item><a class=nav-link href="/wish/">Wishes</a></li>
+        <li class=nav-item><a class=nav-link href="/quotes/">Quotes</a></li>
+        <li class=nav-item><a class=nav-link href="/really/">Really?</a></li>
+        <li class=nav-item><a class="nav-link" href="https://rwx.gg">rwx.gg</a></li>
+        <li class=nav-item><a class="nav-link" href="https://youtube.com/rwxrob/">YouTube</a></li>
+        <li class=nav-item><a class="nav-link" href="https://gitlab.com/rwxrob/">GitLab</a></li>
+        <li class=nav-item><a class="nav-link" href="https://linkedin.com/in/rwxrob">LinkedIn</a></li>
+        <li class=nav-item><a class="nav-link" href="https://twitter.com/rwxrob">Twitter</a></li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<main id=top>
+<div class=container>  <h1 id=title>Command Oriented Programming / CMDOP</h1>
+  <h2 id=subtitle>Recovering from OOP Thinking</h2>
+  <p id=summary>For me the worst part about having been raised to code and think like an object-oriented programmer is how uncomfortable I feel when methods don’t have an object. The solution seems to be thinking of everything as commands to be executed that require data and then working out where the action is, what the parameters are.</p>
+<h2 id="but-who-owns-that-action">But Who <em>Owns</em> That Action?!</h2>
+<p>In my mind, I fight with myself about what things do and who’s <em>job</em> it is to do what even though that isn’t even the right thing to think about. I’m ruined from people telling me I should be writing everything down that a thing does on an index card. I <em>have</em> to have a virtual index card to contain all the actions.</p>
+<p>I’m so pathetic.</p>
+<p>I’m uneasy with the idea that a method can exist all by itself and not be <em>owned</em> by anything except the program or package in which it is contained.</p>
+<p>The truth is our reality has a <em>lot</em> of stuff that is just stuff, that doesn’t <em>do</em> anything, that is acted upon by other things.</p>
+<h2 id="factory-hell">Factory Hell</h2>
+<p>One sure sign OOP has fallen on its fucking face was when suddenly everything became a “factory” in Java and CPP. How stupid did we all have to be to allow ourselves to make nouns for things that were clearly always just verbs. Rather than allow the calling program or package to be the owner of such actions we made up all kinds of stupid classes that could receive our nice pretty, little, concrete blueprints for how to do everything, never to be changed again.</p>
+<h2 id="unix-philosophy-in-code">Unix Philosophy in Code</h2>
+<ul>
+<li>Create things that do one thing and do it well.<br />
+</li>
+<li>Create things to work together.</li>
+<li>Use data as the universal interface.</li>
+</ul>
+<p>One of the practices that clearly killed OOP was building monolithic classes sort of out of necessity. Inheritance was the same thing because the monolith depended on everything above it. As usually the solution is to break big things down into agile, composable components. It works for <em>everything</em> from social structures, to companies, to operating systems and software.</p>
+<p>The more I think of each bit of code as one procedure, function, or method that does one thing extremely well the better my code base.</p>
+<h2 id="command-structs">Command Structs to the Rescue</h2>
+<p>A <em>command struct</em> is my word for a light-weight struct that has <em>one action method</em> that is an implementation of a one-method interface. Such will almost always be named something related to the interface with the interface name also matching the suffix of the command struct’s name:</p>
+<pre class="go"><code>
+type interface Renderer {
+      Render(node string) error
+}
+</code></pre>
+<pre class="go"><code>
+// here&#39;s a minimal command struct
+
+type PandocHTMLRenderer struct {}
+
+func (r *PandocHTMLRenderer) Render(node string) error {
+      // ...
+}
+</code></pre>
+<pre class="go"><code>
+func Render(node string, base *Base, r Renderer) {
+      // ...
+}
+
+</code></pre>
+<p>Go has figured out a big part of the solution: one method interfaces combined with light-weight structs that fulfill that method. The struct mostly exists to provide context to method simplifying its argument signature sometimes to nothing.</p>
+<p>This is <em>far</em> more effective and sustainable than creating complicated parameter signatures — or worse — non-specific signatures (like Python) that allow <em>anything</em> to be passed in forcing the parsing of them every single time it is called preventing calling again with the same or similar parameters without parsing them all over again.</p>
+<p>Go even allows for drop-dead simple marshaling and unmarshalling of the data in the struct making it even better suited for modern software development. Rather than passing arguments on every call, the light-weight struct can be inflated from JSON or YAML and then only changed as needed between each call.</p>
+<p>The concept has been around for a while. It’s sort of another take on mixins. You take some functionality, encapsulate it, and make it available to anything that needs it. Each light-weight structure wrapping one main method becomes the equivalent of a command in a Unix system.</p>
+<h2 id="think-in-terms-of-commands">Think In Terms of Commands</h2>
+<p>I don’t have to go all the way into a strictly functional programming paradigm to benefit from not creating dependencies on the encapsulating context and state of the thing, at least on a large scale. The idea of keeping small command-like structs is that the struct data is more of a set of highly-efficient argument parameters than an environment.</p>
+<p>The point is, the less dependent everything I write is on other stuff that was not fed into it the better. It’s easier to test, debug, and maintain later. Those are the big wins of the functional paradigm.</p>
+<p>Here’s an example I recently had to decide. I’m creating a knowledge management utility that uses Pandoc currently for rendering Markdown into HTML. The action could be easily stated in English as the following:</p>
+<pre><code>
+Render a node from a knowledge base using pandoc as html. 
+^^^^^^   ^^^^        ^^^^^^^^^^^^^^       ^^^^^^^^^^^^^^
+action   what            where                 how
+</code></pre>
+<p>In code this would look like this:</p>
+<pre class="go"><code>
+kn.Render(node,base,renderer)
+</code></pre>
+<p>For a time I was tempted to make an implicit renderer with a strong dependency on something in the <code>kn</code> package itself, say a default renderer.</p>
+<pre class="go"><code>
+kn.Render(node,base)
+</code></pre>
+<p>Before that I was thinking of putting all that action into the knowledge base <em>class</em> itself:</p>
+<pre class="go"><code>
+base.Render(node)
+</code></pre>
+<p>It’s obvious to see how different that is from the command approach.</p>
+<p>The OOP looks downright stupid. The focus is on the <em>thing</em> and not the <em>command</em> (action).</p>
+<p>The first is just a translation of most spoken languages and could be easily thought of as a shell command:</p>
+<pre class="sh"><code>
+kn render &lt;node&gt; [&lt;base&gt;] [&lt;renderer&gt;]
+</code></pre>
+<p>In fact, that is <em>exactly</em> what the command is. The place for implicit defaults is at the highest level — the user level — not in the code itself.</p>
+<p>That command is <em>so</em> clear, in fact, that it could be spoken to a conversational voice interface and executed. Think of <code>kn</code> as <em>Alexa</em> or <em>Ciri</em>.</p>
+<p>Thankfully the world has <em>really</em> woken up from the absolute idiocy of thinking of everything in terms of objects instead of actions. I know it isn’t a thing yet, but I am going to start calling it <em>Command-Oriented Programming</em>.</p>
+<h2 id="parallels-to-well-organized-militaries">Parallels to Well-Organized Militaries</h2>
+<p>Creating a military force — as with some war games — requires different units that perform one main task really well. The pikeman holds off the initial attack. Archers hold back and launch from the back ranks. Cave trolls haul heavy war machines. The more organized and specific the roles the better. Commanders then give the command with a few parameters and stuff just works. The commands are not complicated. Only the minimum amount of information is provided as parameters to keep the communication concise, clear, and quick. The units have been <em>coded</em> with all the other instructions and data they need to perform their main tasks when commanded.</p>
+<p>When a military is well trained and prepared and able to adjust to the environment of the battlefield the only command needed — for the entire collective of battle-ready fighters — is “fight!”</p>
+<p>We can learn a lot from this comparison while creating software designs dynamically.</p>
+<h2 id="learning-from-the-exec-system-call">Learning from the <code>exec()</code> System Call</h2>
+<p>Perhaps it is all my love for the Unix command line that has driven this discovery. The secret to what might be the most successful software design paradigm in history might <em>already</em> have been captured in the most successful human-computer interface, which is captured in the simple but powerful Unix <code>exec()</code> system call. The entire Unix philosophy can be entirely represented in its humble function signature:</p>
+<pre class="go"><code>
+func Exec(argv0 string, argv []string, envv []string) (err error)
+</code></pre>
+<p>The <code>argv0</code> is just the name of the command. Then all the information needed by the command are passed as <code>argv</code>. But the secret just might be that the environment, the context, the surrounding conditions of that command, are passed as <code>envv</code>.</p>
+<p>The not-so-amazing reminder here is that the <code>envv</code> can be passed to <em>multiple different commands</em>. Rather than encapsulating each, the commands are given the information they need to do their jobs and the larger environment that they <em>share with every other command.</em>.</p>
+<p>Obviously, using the environment can create problems, but it is an essential part of Unix’s success. Considering that <em>every other major operating system</em> also has environment variables in some form it is worth taking note.</p>
+<p>In terms of our fantasy army metaphor a number of soldiers are given a single command with parameters, the tools and munitions to execute the command, and have an implicit environment — the battlefield — in which to carry them out.</p>
+<p>Say its raining or windy. The archers are expected to check the environment and adapt, not be commanded specifically about how to execute the task they’ve been commanded. The only information besides “fire” in the command given is where, not how.</p>
+<h2 id="no-its-not-functional-programming">No It’s Not Functional Programming</h2>
+<p>Some might be tempted to think of this as functional programming. It’s not. It has a lot of inspiration from it, but strictly speaking command oriented programming is more broad. It is okay to violate the sacred functional commandments in order to code and execute a command in the easiest and clearest way possible.</p>
+</div>
+</main>
+<footer>
+  <p><a href="/copyright/" id=copyright>© 2020 Rob Muhlestein</a></p>
+</footer>
+<script src="/assets/main.js"></script>
+</body>
+</html>

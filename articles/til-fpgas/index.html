@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>TIL What FPGAs are and Why They Matter</title>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+  <link rel="shortcut icon" href="/assets/img/logo.png" type="image/png">
+  <meta http-equiv="Pragma" content="no-cache"/>
+  <meta http-equiv="Expires" content="0"/>
+  <link rel="shortcut icon" href="/assets/img/logo.png" type="image/png">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class=nav-bar>
+  <nav>
+    <div class=sidebar-button>≡</div>
+    <a class="homelink spy" href="/">r<span class=hideable>obs.io</span></a>
+    <div class="nav-right">
+      <!-- div id=search-box></div -->
+      <ul class=nav-links>
+        <li class=nav-item><a class=nav-link href="/coc/">CoC</a></li>
+        <li class=nav-item><a class=nav-link href="/wish/">Wishes</a></li>
+        <li class=nav-item><a class=nav-link href="/quotes/">Quotes</a></li>
+        <li class=nav-item><a class=nav-link href="/really/">Really?</a></li>
+        <li class=nav-item><a class="nav-link" href="https://rwx.gg">rwx.gg</a></li>
+        <li class=nav-item><a class="nav-link" href="https://youtube.com/rwxrob/">YouTube</a></li>
+        <li class=nav-item><a class="nav-link" href="https://gitlab.com/rwxrob/">GitLab</a></li>
+        <li class=nav-item><a class="nav-link" href="https://linkedin.com/in/rwxrob">LinkedIn</a></li>
+        <li class=nav-item><a class="nav-link" href="https://twitter.com/rwxrob">Twitter</a></li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<main id=top>
+<div class=container>  <h1 id=title>TIL What FPGAs are and Why They Matter</h1>
+  <h2 id=subtitle>Logic Gate “Softcore” Chips You can Code</h2>
+<p>Imagine you could design the logic of an electrical device (gates, etc.). There have been simulators for a while but relatively recently <em>Field Programmable Gate Arrays</em> now provide the ability to not just simulate the device, but essentially flash it to a chip. Before this would have required having the chip manufactured. It sorta reminds me of the functionality provided by virtualization of operating systems but for low-level chips, even lower than LLVM. You can actually <em>code</em> the electronics of the device. The term “softcore” gets used a lot.</p>
+<p>Programmable logic, or LUTs (logical units, AND, OR, XOR) allow the chaining of logic primitives that are then made into persistent code that runs as the core logic of the chip. Imagine being able to code your own chip like an ARM or AMD64 or MicroChip PIC. Not just coding the operating system that runs on it, but the electronic logic of the chip itself. It’s like an interface on top of a <em>real</em> chip, not a virtual one.</p>
+<p>Apparently the process of programming a core is far more cost effective than programming — and producing <em>actual</em> cores. FPGA are especially useful for the interface between the world and computer because they can parallelize and process input like crazy fast. No wonder they are trending for AI applications.</p>
+<h2 id="see-also">See Also</h2>
+<ul>
+<li><a href="https://symbiflow.github.io/">Symbiflow Main Site</a></li>
+<li><a href="https://symbiflow.readthedocs.io/en/latest/introduction.html">Introduction to Symbiflow</a></li>
+<li><a href="https://www.intel.com/content/www/us/en/artificial-intelligence/programmable/solutions.html">Intel AI and FPGAs</a></li>
+</ul>
+</div>
+</main>
+<footer>
+  <p><a href="/copyright/" id=copyright>© 2020 Rob Muhlestein</a></p>
+</footer>
+<script src="/assets/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title>Goldmark vs Pandoc Markdown</title>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+  <link rel="shortcut icon" href="/assets/img/logo.png" type="image/png">
+  <meta http-equiv="Pragma" content="no-cache"/>
+  <meta http-equiv="Expires" content="0"/>
+  <link rel="shortcut icon" href="/assets/img/logo.png" type="image/png">
+  <link rel="stylesheet" href="/assets/styles.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class=nav-bar>
+  <nav>
+    <div class=sidebar-button>≡</div>
+    <a class="homelink spy" href="/">r<span class=hideable>obs.io</span></a>
+    <div class="nav-right">
+      <!-- div id=search-box></div -->
+      <ul class=nav-links>
+        <li class=nav-item><a class=nav-link href="/coc/">CoC</a></li>
+        <li class=nav-item><a class=nav-link href="/wish/">Wishes</a></li>
+        <li class=nav-item><a class=nav-link href="/quotes/">Quotes</a></li>
+        <li class=nav-item><a class=nav-link href="/really/">Really?</a></li>
+        <li class=nav-item><a class="nav-link" href="https://rwx.gg">rwx.gg</a></li>
+        <li class=nav-item><a class="nav-link" href="https://youtube.com/rwxrob/">YouTube</a></li>
+        <li class=nav-item><a class="nav-link" href="https://gitlab.com/rwxrob/">GitLab</a></li>
+        <li class=nav-item><a class="nav-link" href="https://linkedin.com/in/rwxrob">LinkedIn</a></li>
+        <li class=nav-item><a class="nav-link" href="https://twitter.com/rwxrob">Twitter</a></li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<main id=top>
+<div class=container>  <h1 id=title class=duck><a href="https://duckduckgo.com/lite?kae=t&q=Goldmark vs Pandoc Markdown">Goldmark vs Pandoc Markdown</a></h1>
+  <h2 id=subtitle>Speed Over Powerful Syntax</h2>
+<p>The more I get into the guts of developing the <code>kn</code> Component-Oriented Knowledge Management tool the more I realize that many of Pandoc’s extras are actually not needed at all — the biggest of which is Pandoc tables. Spans and divs are so incredibly important when creating Pandoc documents, but spans with attributes are being discussed in the CommonMark forum and will likely be adopted while most Pandoc divs are better managed as a separate knowledge component that is compiled into a dynamic type so that the content of the div can also stand on its own and be included elsewhere.</p>
+<h2 id="callouts-kinda-suck">Callouts Kinda Suck</h2>
+<p>I wasn’t expecting to realize that the entire idea of callouts and asides in publishing is based on the limitation books place on content in general. Since you cannot link to that other content it gets put in a big rectangle with a different background and perhaps a fun icon underlay. But that content could be just as easily compiled into another document for its parenthetical relevance.</p>
+<p>Being able to cover divs without using Pandoc divs by providing for it at the meta-content component model level frees me entirely from Pandoc since there is no other compelling reason to use it.</p>
+<h2 id="other-stuff-is-covered">Other Stuff is Covered</h2>
+<ul>
+<li>LaTeX is covered with MathJax</li>
+<li>Spans with attributes are not critical</li>
+<li>References, bibliography, and the rest kinda suck</li>
+</ul>
+<p>Seriously, there just isn’t anything else that most people would care about.</p>
+<h2 id="speed-increase">Speed Increase</h2>
+<p>Removing the dependency on Pandoc means <em>zero</em> loss of performance in order to create a <code>pandoc</code> subprocess every time. This is not a small increase.</p>
+<p>It also means that I can use Go templates instead of the sufficient, but very weak Pandoc templates. Since the very idea of a knowledge component is itself similar to the new Pandoc partials I get all the additional speed of <em>precompiled</em> Go templates with the solid association from the Pandoc model.</p>
+<h2 id="goldmark-extensibility">Goldmark Extensibility</h2>
+<p>Goldmark is 100% pure GO and is rock-fucking-solid. It is the fastest CommonMark parser in the world right now second only to the C reference implementation. <em>No</em> other parsing engine can claim that. This is why the Hugo project immediately switched to it.</p>
+<h2 id="cross-training-from-hugo">Cross Training from Hugo</h2>
+<p>Hugo is quickly becoming the number one SSG in the world and deserves it. It has been kinda fun to watch it kick all the others asses slowly but surely on every metric — finally adoption. Being able to leverage all the learning everyone has done about Go templates is an obvious win. In fact, Pandoc template syntax has always been rather quirky and weird. It is definitely Pandoc’s biggest liability next to being written in Haskell, which practically no one else codes in these days.</p>
+<h2 id="knowledge-component-registry">Knowledge Component Registry</h2>
+<p>Using a template syntax from Go also brings a solid stability that could easily lend itself to a full knowledge component ecosystem with a registry and everything. This is perhaps the most compelling reason of all.</p>
+</div>
+</main>
+<footer>
+  <p><a href="/copyright/" id=copyright>© 2020 Rob Muhlestein</a></p>
+</footer>
+<script src="/assets/main.js"></script>
+</body>
+</html>
