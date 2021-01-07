@@ -1,3 +1,33 @@
+##  Thursday, January 7, 2021, 4:53:17PM
+
+Just out on [CodeCombat.com](https://duck.com/lite?kd=-1&kp=-1&q=CodeCombat.com) and noticed it still has ancient
+JavaScript in it. They really didn't design any of that system for the
+future. It is completely brittle and unable to be changed. It's a stark
+reminder that educational systems that focus on technology need to be
+thought of as short-lived things that *will* expire and need quarterly
+updates with new material. That is what I did with SkilBots (and
+probably need to bring out of the closet again). That's what I need to
+create for the <https://skils.dev> domain.
+
+##  Thursday, January 7, 2021, 6:25:13AM
+
+Just added a way to instantly post to the live chat a link that searches
+my YouTube videos for a specific keyword or phrase:
+
+```sh
+vids lynx
+```
+
+I can also use it from Vim to include links.
+
+```
+https://www.youtube.com/c/rwxrob/search?query=lynx
+```
+
+I never get tired of how amazing the Linux command line can be at
+solving problems so quickly. The UNIX philosophy really is the best
+approach to computing for those who can muster the patience to learn it.
+
 ##  Wednesday, January 6, 2021, 8:28:08PM
 
 As I write the [books](books) page I'm reminded how useless all the
