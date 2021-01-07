@@ -58,11 +58,30 @@ first-ever internal blog was one highlight of my career, more even than
 the live chats I created and ran for CEO Phil Knight, John McEnroe,
 Michael Johnson, and others.
 
-## Radical Personal Transparency
+## Radical Transparency
 
 While I'm a big fan of privacy and regularly champion companies and
 products that promote it, I'm also a big fan of "radical transparency"
 in everything I do, which is why this site and repo contain so much
-personal information including a [personal log](log). (I've always hated
-the term blog.) Just remember, nothing I've written  represents any
-entity with which I have ever been associated in any capacity.
+personal information including my [notes on different topics](notes) a
+[personal log](log). (I've always hated the term blog.) Just remember,
+nothing I've written  represents any entity with which I have ever been
+associated in any capacity.
+
+## Other Stuff
+
+Personality
+Personal Code of Conduct
+
+## Copyright
+
+Everything on this profile site is copyright me (Rob Muhlestein)
+released under [Creative Commons Attribution-NonCommercial-NoDerivatives
+4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+I give a lot of stuff away for free, but my personal writing, content,
+and videos are *not* included. (My writing has been directly plagiarized
+so many times frankly I'm just fucking sick of it.) Ask in
+advance before you cut and paste *anything.* (Copyright law does allows
+snippets here and there with attribution.)
+
