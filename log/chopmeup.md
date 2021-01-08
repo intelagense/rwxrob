@@ -1,3 +1,16 @@
+##  Thursday, January 7, 2021, 7:13:18PM
+
+Realized that if I use good commit messages --- even on my personal log
+entries --- that it provides a very nice history that can easily be
+searched just from `git`. It has the added benefit of forcing me to
+stick with one log entry per topic that can be summarized within the
+length of a commit message (50 characters). In other words, the commit
+message becomes the TL;DR for those following me and encourages people
+to follow you on GitHub as opposed to RSS or something.
+
+Humm, I wonder if there is a built-in RSS feed for GitHub commit
+notifications.
+
 ##  Thursday, January 7, 2021, 7:07:34PM
 
 Learned the hard way that you cannot listen to music from studio
