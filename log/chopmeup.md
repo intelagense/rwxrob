@@ -1,3 +1,9 @@
+##  Friday, January 8, 2021, 2:29:28PM
+
+Been a while since playing with IRC. This `bit` tool is really nice.
+Here's the [best write
+up](https://flexion.org/posts/2014-04-bip-irc-proxy/) on it I've found so far.
+
 ##  Thursday, January 7, 2021, 8:55:21PM
 
 I'm officially dropping Twitch as a primary streaming platform. I have
