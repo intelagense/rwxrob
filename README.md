@@ -70,18 +70,15 @@ associated in any capacity.
 
 ## Other Stuff
 
-Personality
-Personal Code of Conduct
+* [Personality](personality)
+* [Personal Code of Conduct](conduct)
 
 ## Copyright
 
-Everything on this profile site is copyright me (Rob Muhlestein)
-released under [Creative Commons Attribution-NonCommercial-NoDerivatives
-4.0 International](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
 I give a lot of stuff away for free, but my personal writing, content,
-and videos are *not* included. (My writing has been directly plagiarized
-so many times frankly I'm just fucking sick of it.) Ask in
-advance before you cut and paste *anything.* (Copyright law does allows
-snippets here and there with attribution.)
-
+and videos are not included. Everything on this profile site is
+copyrighted and released under [Creative Commons
+Attribution-NonCommercial-NoDerivatives 4.0
+International](https://creativecommons.org/licenses/by-nc-nd/4.0/) which
+means you can duplicate it as is for noncommercial purposes, but cannot
+change a thing.

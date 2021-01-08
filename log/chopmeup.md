@@ -1,3 +1,12 @@
+##  Thursday, January 7, 2021, 8:55:21PM
+
+I'm officially dropping Twitch as a primary streaming platform. I have
+almost deleted all the VODS and have disabled VODS and clips. The next
+step will be only reading the chat from YouTube, period. If I could drop
+Twitch chat as well I would. This is the best for everyone. People can
+more reliably get a hold of me and my content. They already have a
+YouTube so they don't have to add another account. 
+
 ##  Thursday, January 7, 2021, 7:13:18PM
 
 Realized that if I use good commit messages --- even on my personal log
