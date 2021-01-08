@@ -26,7 +26,7 @@ than specific technologies.
 
 * Autodidactic Habits of Successful Technologists
 * Good to Gig, Surviving the Radical New Sharing Economy
-* Modern Developer Practices
+* Works on My Machine, Modern Collaborative Developer Practices
 
 ### Survival Guides
 

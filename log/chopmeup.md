@@ -1,3 +1,9 @@
+##  Thursday, January 7, 2021, 7:07:34PM
+
+Learned the hard way that you cannot listen to music from studio
+speakers if there is *any* bleed into the microphone because it will
+demonetize and mute your video.
+
 ##  Thursday, January 7, 2021, 5:28:36PM
 
 Had a momentary lapse of insanity allowing myself to actually believe
