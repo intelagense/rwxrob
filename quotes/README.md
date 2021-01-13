@@ -1,6 +1,9 @@
 ---
 Title: Quotes
 ---
+* "I love deadlines. I like the wooshing sound they make as they fly
+  by."
+* "The S in IoT stands for Security"
 * "Boredom is a disease caused by the luxury of time." Anak Wannaphaschaiyong
 * "Blink works, its just at 60fps" [\@akdakdakd](https://twitch.tv/akdakdakd) 
 * "Present the man with information and he'll ignore it, anger a man with an information and he'll devour it" [\@caprice1800](https://twitch.tv/caprice1800)

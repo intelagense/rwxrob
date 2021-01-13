@@ -1,3 +1,76 @@
+##  Wednesday, January 13, 2021, 4:10:36AM
+
+I really need to invest in a good chair. I have all the other stuff,
+just not a chair. The IKEA chairs are great because I usually sit in
+half-lotus but perhaps one with better padding would help. I hear good
+things about the Steelcase brand (better than Herman Miller imho).
+
+On second thought, if I maintain my yoga and sit in half-lotus any
+padding thing that rotates will work. I don't need to spend more than a
+thousand dollars, I just need to fucking sit correctly. The end.
+
+##  Tuesday, January 12, 2021, 4:24:13PM
+
+I am just giddy learning that the Mirai botnet used cgo and go to hack
+IOT. Seems like they get around cgo cross compilation problems with
+Docker containers.
+
+##  Tuesday, January 12, 2021, 2:00:58PM
+
+Need to have a look at the [amazing Zig
+language](https://ziglang.org/documentation/master/#Grammar) which is
+specified entirely in PEG that is true to Bryan Ford's original from the
+paper. I already really want to meet Andrew, who made it.
+
+##  Tuesday, January 12, 2021, 12:44:47PM
+
+After a quick review of the "modal text editor" Kakoune I'm left
+wondering why anyone would use it while Vim and (🤮 NeoVim) exist. They
+don't make a strong enough case to throw away decades of iterative
+improvement on the world's standard text editor. Just no, *hell* no.
+
+##  Tuesday, January 12, 2021, 3:50:24AM
+
+Super pleased with the results of `gstreamd` which makes dual-streaming
+to YouTube and Twitch simultaneously with 3-second lag a breeze. Can't
+believe I didn't try this until now. It solves so many problems for
+community live streamers who require *ultra* low latency.
+
+In fact, I think I will coin a new moniker for this type of thing. From
+now on this type of streaming *shall* be known as *community live
+streaming*, which is live streaming that depends on a vibrant exchange
+with the community in chat versus the brain-dead emoji spams of other
+streaming approaches. 
+
+It is rather idiotic that wanting to actually *read* the chat and
+interactive with those on the stream is somehow a novel, innovative
+approach. You would think that would have been the default from the
+start. A lot of streamers are assholes who just want to be seen and paid
+instead of actually responding the needs of a community that makes them
+a streamer in the first place. It's not *just* about me, it's about
+them. I can never forget that, and not just in the gushing "you're
+awesome" way that most idiotic streamers do, but with authentic concern
+for those creating valuable dialog, not some shitty distraction.
+
+##  Tuesday, January 12, 2021, 3:22:07AM
+
+Imma make a prediction. As the number of people doing  live coding and
+streaming increases there will be less tolerance for things like
+stream keys, tokens, and passwords that are not obfuscated and hidden
+even within a secure web session because *everyone* will be streaming
+and the risks are just too high. I won't even look at a service that
+doesn't understand this.
+
+##  Monday, January 11, 2021, 1:15:40PM
+
+Been wondering about the `yml` v.s. `yaml` again and after reading that
+the overwhelming majority of Internet searches result in the preference
+for `yml` as well as the Kubernetes popularity of the shorter extension
+I've decided to keep the shorter one for my `cv` standard. One thing
+that came to mind was the pronunciation of it. I've always hated
+sounding out things instead of citing the letters in the suffix. By
+going with the shorter version citing the letters is easier.
+
 ##  Friday, January 8, 2021, 2:29:28PM
 
 Been a while since playing with IRC. This `bit` tool is really nice.
@@ -119,7 +192,7 @@ the most important domain model of my life because *everything* else
 depends on it, not just some application. Thankfully, I have most of it
 done, but I just need to document it.
 
-##  Wednesday, January 6, 2021, 3:64:25PM
+##  Wednesday, January 6, 2021, 3:54:25PM
 
 Those seditious assholes finally showed their true colors, storming the
 capital building while waving American flags. 
@@ -8807,9 +8880,13 @@ depending on a JavaScript library *at all!*
 Big great discussion about MathJax or KaTeX and what to call the AST
 element. Pandoc mistakenly called it `Math`.
 
-```markdown Here is a $\epsilon$ thing.
+```markdown
 
-$$ \forall x \in X, \quad \exists y \leq \epsilon $$ ```
+Here is a $\epsilon$ thing.
+
+$$ \forall x \in X, \quad \exists y \leq \epsilon $$
+
+```
 
 So that turns into this:
 
@@ -9041,7 +9118,7 @@ So the RWX KN spec *only* allows a single YAML header and *optional*
 body of limited Pandoc Markdown. Both are very solid standards that have
 been in use for years.
 
-##  Friday, July 10, 2020, 8:53:58AM 
+##  Friday, July 10, 2020, 8:53:58AM
 
 Back to masturbatory note taking. The idea that I could whip up a blog
 for every one of these random, spontaneous thoughts was just stupid.
@@ -9079,7 +9156,9 @@ The real question is what to make the URLs. Some say that the text in
 the URL gives it a better score. I don't really care. I just want a
 short, time-based URL. Hummm ...
 
-``` 2020/wk24/some ```
+```
+2020/wk24/some
+```
 
 Yeah that's the ticket.
 
@@ -9301,33 +9380,38 @@ This works particularly well for a new knowledge node format I've called
 body `P`. I can see if the topical sentence is getting to long just by
 seeing if it wraps. 
 
-```yaml --- Title: Don't Be a Lazy Learner Subtitle: Identifying an
-Anti-Autodidact Quote: This is all just too much talking. Query: true
+```yaml
+---
+Title:    Don't Be a Lazy Learner
+Subtitle: Identifying an Anti-Autodidact
+Quote:    This is all just too much talking. Query: true
+Type:     ParaList
 
-Type: ParaList
-
-Summary: Sometimes understanding how to become one thing means first
-understanding what that thing is *not*. Here's a list of characteristics
-and behaviors you will find in an *anti*-autodidact, a lazy learner who
-would rather make excuses than do the real work to learn on their own.
+Summary: |
+  Sometimes understanding how to become one thing means first
+  understanding what that thing is *not*. Here's a list of
+  characteristics and behaviors you will find in an *anti*-autodidact, a
+  lazy learner who would rather make excuses than do the real work to
+  learn on their own.
 
 ParaList:
 
 - T: They are bored and confused by words in general.
   P: The more words, the more they check out, spoken or written. Most
-  have a ridiculously low vocabulary and don't ever let on how many of
-  the words they don't understand in any given conversation. 
+     have a ridiculously low vocabulary and don't ever let on how many of
+     the words they don't understand in any given conversation. 
 
 - T: They don't have the capacity or motivation to figure things out.
   P: They say shit like, "I don't get it" or "It's not working" or "I
-  did what you said" or "The stupid computer won't..." or "What is
-  happening?" They ask a lot of questions during movies.
+     did what you said" or "The stupid computer won't..." or "What is
+     happening?" They ask a lot of questions during movies.
 
 - T: They want to be in the same space with people who *do* learn. 
   P: They are uncomfortable working from home. They wander into your
-  cubical at work a lot. The feel safer in your presence because they
-  don't on their own. They feel they need you close to learn, even on
-  their own. ---
+     cubical at work a lot. The feel safer in your presence because they
+     don't on their own. They feel they need you close to learn, even on
+     their own.
+---
 
 ```
 
@@ -11001,8 +11085,15 @@ do well.
 Can you use nothing but the magic wand `!!` in `vi` to replace these
 with their outputs?. Can you tell what program to use?
 
-``` for i in {1..10};do echo Item. $i; done [print(f"Item {x}.") for x
-in range(1,11)] (234234 * 3423423) / 234 ```
+```bash
+for i in {1..10};do
+  echo Item. $i;
+done 
+```
+
+```
+[print(f"Item {x}.") for x in range(1,11)] (234234 * 3423423) / 234
+```
 
 Can you guess the output of each?
 
@@ -11053,9 +11144,7 @@ completely anonymous post from the command line by just sending a file
 to the `ix` command after creating a simple `~/bin/ix` script like this:
 
 ```sh
-
 #!/bin/sh argsorin "$*" | curl -F 'f:1=<-' ix.io
-
 ```
 
 The `argsorin` is a useful script I made some time ago to intelligently
@@ -11063,22 +11152,20 @@ detect arguments and smoosh them together or read from stdin for here
 doc syntax and stuff:
 
 ```sh
-
 #!/bin/sh
 
 argsorin () { buf="$*" if [ -n "$buf" ]; then echo -n "$buf" return fi
 while IFS= read -r line; do buf=$buf$line done echo "$buf" }
 
 echo $(argsorin $*)
-
 ```
 
 Here's a simple example:
 
 
-``` ix echo hello world http://ix.io/2dLp curl ix.io/2dLp echo hello
+```
+ix echo hello world http://ix.io/2dLp curl ix.io/2dLp echo hello
 world
-
 ```
 
 I usually write this stuff as functions so they can be cut and paste
@@ -13513,24 +13600,24 @@ need more of that, we need more Ryan Dahls.
 
 More conclusions:
 
-## It's okay to have kids use VSCode.
+### It's okay to have kids use VSCode.
 
 Those who prefer it can still use it, but I'm going to make another very
 clear map of what they *cannot* do until they learn `vim`.
 
-## Need a fun three with fruit on it.
+### Need a fun three with fruit on it.
 
 This way they can see what they get when they climb out onto a
 particular branch. 
 
-## Need to find or write some good mind mapping software.
+### Need to find or write some good mind mapping software.
 
 So far I cannot find anything that has a decent outline conversion.
 Inspiration was *so* good but they shut their doors in November 2019.
 That was a pretty good run for them. I used them in 1996 a lot for all
 my college work.
 
-## GPLv3 all the things.
+### GPLv3 all the things.
 
 After reading a lot more about
 [Tivoization](http://www.linfo.org/tivoization.html) I'm finding myself

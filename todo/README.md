@@ -2,7 +2,15 @@
 
 Stuff I am doing and need to do, case you were wondering.
 
+* Add a schedule for <https://rwxrob.live>
+* Add disclaimer related to the schedule regarding
 
+## More Urgent Than Other Stuff
+
+* Get `git commits` verified again.
+* Port `gstreamd` to use `--env-file` instead of `-e`
+
+## The Rest
 
 * Need to submit change merge request to https://golang.org/pkg/testing/
   to update the docs to say "Output:" or "Unordered output:" instead
