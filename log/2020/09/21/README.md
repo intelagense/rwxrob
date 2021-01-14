@@ -1,4 +1,4 @@
-## Monday, September 21, 2020, 8:05:50PM EDT [1600733150]
+## Monday, September 21, 2020, 8:05:50PM EDT <1600733150>
 
 Having amazing people in my little mentored community makes all the
 difference. These five hours a day are a *breeze*. They really fly by.

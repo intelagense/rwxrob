@@ -1,4 +1,4 @@
-## Monday, November 2, 2020, 12:21:19PM EST [1604337679]
+## Monday, November 2, 2020, 12:21:19PM EST <1604337679>
 
 Just got a response to a ban request on Twitter in like 10 minutes.
 Twitter has *really* taken up the call to do as much as possible to put
@@ -28,7 +28,7 @@ have them when needed, such as the silencing of this tiny pawn just now.
 It felt good to defend *our* America, the one that doesn't tolerate
 threats of violence.
 
-## Monday, November 2, 2020, 10:59:37AM EST [1604332777]
+## Monday, November 2, 2020, 10:59:37AM EST <1604332777>
 
 The new [Raspberry Pi 400](https://duck.com/lite?kd=-1&kp=-1&q=Raspberry
 Pi 400) proves once and for all that any educational institution is

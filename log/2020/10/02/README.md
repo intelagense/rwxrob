@@ -1,4 +1,4 @@
-## Friday, October 2, 2020, 8:08:46AM EDT [1601640526]
+## Friday, October 2, 2020, 8:08:46AM EDT <1601640526>
 
 There is a God. Trump and Melania have the Corona virus. I don't want
 *anyone* to get it, but if there is one asshole who deserves to get it

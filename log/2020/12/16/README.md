@@ -1,4 +1,4 @@
-## Wednesday, December 16, 2020, 5:54:06PM EST [1608159246]
+## Wednesday, December 16, 2020, 5:54:06PM EST <1608159246>
 
 Locked down some URLs. Some for the newly formed Association of
 Federated Knowledge Workers:
@@ -50,7 +50,7 @@ into a slogan.
 Yeah, I'm pretty damn proud that I came up with that all by my little
 self. I'm kinda good with words, even when I spell them wrong.
 
-## Wednesday, December 16, 2020, 5:21:49PM EST [1608157309]
+## Wednesday, December 16, 2020, 5:21:49PM EST <1608157309>
 
 Just discovered [The Association of Knowledge Workers,
 Lucknow](https://akwl.org) which appears to never have taken off, but
@@ -74,7 +74,7 @@ and most of the rest of everything created based on 1950s ideologies.
 The 50s, not unlike the Catherine era, was one of the worst times in
 human history from which we have still not recovered.
 
-## Wednesday, December 16, 2020, 4:54:00PM EST [1608155640]
+## Wednesday, December 16, 2020, 4:54:00PM EST <1608155640>
 
 So much came out of the last live stream:
 
@@ -135,7 +135,7 @@ My not-so-evil-plan-to-change-the-world is to organize knowledge workers
 empowering them in every way possible. It's been my plan all along, but
 the details have only gradually been revealed.
 
-## Wednesday, December 16, 2020, 12:53:35AM EST [1608098015]
+## Wednesday, December 16, 2020, 12:53:35AM EST <1608098015>
 
 Started the first live stream for *Designing Mim, a Framework for
 Decentralized Knowledge Management*. The more I thought about it all day

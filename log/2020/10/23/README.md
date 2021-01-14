@@ -1,4 +1,4 @@
-## Friday, October 23, 2020, 2:53:30PM EDT [1603479210]
+## Friday, October 23, 2020, 2:53:30PM EDT <1603479210>
 
 Need to explore the option of using the Golang `go/ast` package for
 adding prefixes to avoid namespace conflicts when generating one-file

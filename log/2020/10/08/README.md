@@ -1,17 +1,17 @@
-## Thursday, October 8, 2020, 9:03:59PM EDT [1602205439]
+## Thursday, October 8, 2020, 9:03:59PM EDT <1602205439>
 
 The [Quantum
 Internet](https://www.discovermagazine.com/technology/the-quantum-internet-will-blow-your-mind-heres-what-it-will-look-like)
 is going to be an actual thing, absolutely mind-boggling.
 
-## Thursday, October 8, 2020, 7:41:32PM EDT [1602200492]
+## Thursday, October 8, 2020, 7:41:32PM EDT <1602200492>
 
 I love that when Eric S. Raymond gets around to saying something that
 I've been saying since early 2019 that it makes [ZDNet news](https://www.zdnet.com/article/linux-based-windows-makes-perfect-sense/).
 
 *(What is a "blog" for if not self-pity.)*
 
-## Thursday, October 8, 2020, 9:52:18AM EDT [1602165138]
+## Thursday, October 8, 2020, 9:52:18AM EDT <1602165138>
 
 Plans for the future:
 
@@ -23,7 +23,7 @@ t
   knowledge base that is also a progressive web app with localized
   search capability).
 
-## Thursday, October 8, 2020, 8:59:13AM EDT [1602161953]
+## Thursday, October 8, 2020, 8:59:13AM EDT <1602161953>
 
 This one well-worded paragraph from [Eloquent JavaScript](https://duck.com/lite?kd=-1&kp=-1&q=Eloquent JavaScript) says
 everything I ever could about why I so strongly believe Go is a better
@@ -45,7 +45,7 @@ first language than JavaScript to learn *true* programming the right way
 There just has to be a better beginning programming book that just so
 happens to use Go as the language. Imma write it.
 
-## Thursday, October 8, 2020, 8:22:58AM EDT [1602159778]
+## Thursday, October 8, 2020, 8:22:58AM EDT <1602159778>
 
 One of the great things about settling on Go as a first language is that
 the rest of my documentation can focus on it as the reference language.

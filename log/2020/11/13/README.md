@@ -1,4 +1,4 @@
-## Friday, November 13, 2020, 11:36:43PM EST [1605328603]
+## Friday, November 13, 2020, 11:36:43PM EST <1605328603>
 
 A few conclusions about integrating <https://developers.restream.io>
 with my terminal-based live streams:
@@ -17,7 +17,7 @@ when I need to send something quickly could just use something to paste
 into Discord or could have a Discord bot that does the post for me. But
 it's really not that hard to post to Discord.
 
-## Friday, November 13, 2020, 6:21:18PM EST [1605309678]
+## Friday, November 13, 2020, 6:21:18PM EST <1605309678>
 
 Been helping a really talented artist get back into web game development
 with Phaser3 and I have to say they have really improved the
@@ -40,7 +40,7 @@ is abstracted into widgets. This is the very reason SmallTalk was
 created in the first place inspired by other similar systems from the
 [Elgelbart's Mother of all Demos](https://duck.com/lite?kd=-1&kp=-1&q=Elgelbart's Mother of all Demos).
 
-## Friday, November 13, 2020, 6:16:25AM EST [1605266185]
+## Friday, November 13, 2020, 6:16:25AM EST <1605266185>
 
 TIL that `strconv.ParseInt("0x1A",0,32)` is a thing. The `0` says to
 infer the base from the prefix of the string. Not intuitive, but staring

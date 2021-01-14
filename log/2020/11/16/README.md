@@ -1,4 +1,4 @@
-## Monday, November 16, 2020, 6:11:01PM EST [1605568261]
+## Monday, November 16, 2020, 6:11:01PM EST <1605568261>
 
 Feeling a real need to rebalance my time and get on some sort of
 schedule again. The election and move really blew everything away.
@@ -51,7 +51,7 @@ The struggle I have is that when I get coding on a project (or frankly
 into anything) I have a hard time focusing on anything else. I'm very
 obsessive about stuff.
 
-## Monday, November 16, 2020, 4:47:37PM EST [1605563257]
+## Monday, November 16, 2020, 4:47:37PM EST <1605563257>
 
 I'm struggling with balancing the work on PEGN and the other stuff to
 push along my mastery of the core backend tech I mentioned in the
@@ -75,7 +75,7 @@ to start run/shuffling again to reduce my stress.
 
 I know everything will work out in the end. Somehow I just know that.
 
-## Monday, November 16, 2020, 4:14:38PM EST [1605561278]
+## Monday, November 16, 2020, 4:14:38PM EST <1605561278>
 
 The more I've been futzing around with Oauth2, HTTP, and such I'm
 reminded how substantial the field of knowledge has become in *just* the
@@ -172,7 +172,7 @@ even further ahead of all the Ruby and Node people who are now
 scrambling to learn what I predicted would take over the server-side in
 2014 when I made the switch to Go as my primary language. So glad I did.
 
-## Monday, November 16, 2020, 3:39:17PM EST [1605559157]
+## Monday, November 16, 2020, 3:39:17PM EST <1605559157>
 
 This entire paragraph (1.3.1 Authorization Code) from the Oauth RFC is
 just not relevant when one has to overcome the fact that an API
@@ -195,13 +195,13 @@ entire process because the fucking API provided requires it. Arguably,
 it isn't that bad, and is getting better now that I'll have a library
 for it. But still, not everything is a fucking web app.
 
-## Monday, November 16, 2020, 3:34:03PM EST [1605558843]
+## Monday, November 16, 2020, 3:34:03PM EST <1605558843>
 
 All that Python programming has me forgetting that Go does not have the
 `foo.Get("key")` method, which is probably a good thing because of how
 slow all that unnecessary indirection is. Still, I always forget.
 
-## Monday, November 16, 2020, 3:23:38PM EST [1605558218]
+## Monday, November 16, 2020, 3:23:38PM EST <1605558218>
 
 I'm torn between using the simplest HTTP server for the job with just
 `http.ListenAndServe()` and creating a `Server` instance. There is no
@@ -211,14 +211,14 @@ because I can always reuse it by passing in new app contexts. This is
 not a full production server after all, it's just a quick-n-dirty local
 server to handle local redirects and mocks for testing stuff.
 
-## Monday, November 16, 2020, 3:07:04PM EST [1605557224]
+## Monday, November 16, 2020, 3:07:04PM EST <1605557224>
 
 It occurred to me that I might not want to lock down the server to
 `http://localhost:8080` --- especially since I might want to use the
 `mock` path on interfaces other than the local one. So I'm just going to
 allow it to be passed and push off that decision to the caller.
 
-## Monday, November 16, 2020, 2:32:20PM EST [1605555140]
+## Monday, November 16, 2020, 2:32:20PM EST <1605555140>
 
 I always forget that to make a channel in Go effective you need to
 create it and send it to the function that is going to need it, or do
@@ -229,7 +229,7 @@ with a simple loop makes for easier code to understand even if it puts
 the work of creating the channel on the caller and not the function
 itself.
 
-## Monday, November 16, 2020, 2:20:49PM EST [1605554449]
+## Monday, November 16, 2020, 2:20:49PM EST <1605554449>
 
 Oooo, there's a shiny new Golang [blog post](https://blog.golang.org/)
 about gRPC that I *definitely* need to check out. Truth of the matter is
@@ -242,7 +242,7 @@ most of any secondary packages in all of Go. Add
 the list. It has quickly become the standard communication method for
 all things cloud-ish including both `k8s` and `k3s`.
 
-## Monday, November 16, 2020, 1:22:24PM EST [1605550944]
+## Monday, November 16, 2020, 1:22:24PM EST <1605550944>
 
 Trying something different with the `net/http` package this time. I'm
 going to embed the `http.Server` and implement a `Handler` for the
@@ -253,7 +253,7 @@ might be better. In fact, for a bunch of stuff I don't even need to
 determine the route at all since what is wanted can be derived from the
 incoming data.
 
-## Monday, November 16, 2020, 1:06:16PM EST [1605549976]
+## Monday, November 16, 2020, 1:06:16PM EST <1605549976>
 
 Today I need to focus on the main flow for authorization. I have it
 completely tested, but need to clean it up and make it reusable. It
@@ -261,7 +261,7 @@ consists of firing off a local HTTP server to handle the redirects and
 process the data only available from them. Thankfully Go is a breeze to
 work with when it comes to concurrency and firing up HTTP servers.
 
-## Monday, November 16, 2020, 3:32:55AM EST [1605515575]
+## Monday, November 16, 2020, 3:32:55AM EST <1605515575>
 
 I sent this [long
 tweet](https://twitter.com/rwxrob/status/1328252857221525508) to Leah

@@ -1,4 +1,4 @@
-## Saturday, October 31, 2020, 3:26:39PM EDT [1604172399]
+## Saturday, October 31, 2020, 3:26:39PM EDT <1604172399>
 
 Now that I've accepted that I am forever committed to Vimisms, whether I
 like it or not, I've become okay trying other new things like
@@ -10,7 +10,7 @@ for editing in each. Another good thing is how the `ex` line stays
 visible allowing people who are watching to see what my last command was
 rather than asking me to redo it for them.
 
-## Saturday, October 31, 2020, 1:11:11PM EDT [1604164271]
+## Saturday, October 31, 2020, 1:11:11PM EDT <1604164271>
 
 How do we fix this?
 

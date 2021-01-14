@@ -1,11 +1,11 @@
-## Saturday, September 19, 2020, 11:27:04AM EDT [1600529224]
+## Saturday, September 19, 2020, 11:27:04AM EDT <1600529224>
 
 Feels good to get [GPG Git commit
 signing](https://docs.gitlab.com/ee/user/project/repository/gpg_signed_commits/)
 working again (even though not needed for DCO since any merge request or
 commit covers that.
 
-## Saturday, September 19, 2020, 10:48:57AM EDT [1600526937]
+## Saturday, September 19, 2020, 10:48:57AM EDT <1600526937>
 
 Hard to see our paddle boards go. Just sold most of them. Feels like the
 end of an era for me. It just makes sense to keep them around given the
@@ -16,7 +16,7 @@ daily morning Ashtanga again in the new place, however. Now that my gut
 is finally burned off I might even be able to hit Marichyasana again
 with some regularity.
 
-## Saturday, September 19, 2020, 9:21:43AM EDT [1600521703]
+## Saturday, September 19, 2020, 9:21:43AM EDT <1600521703>
 
 So much cleanup. Oh my God. If I were nearly as fast at writing code as
 I am at writing rhetoric, well, I'd be another person. I blame my mother
@@ -53,7 +53,7 @@ looking the other way and bringing in the sweet money are complicit as
 well as every person who chooses to use it --- yes even if you think you
 *have* to because your job depends on it.
 
-## Saturday, September 19, 2020, 8:21:49AM EDT [1600518109]
+## Saturday, September 19, 2020, 8:21:49AM EDT <1600518109>
 
 Why learn data structures and algorithms? Kyle Loudon puts it perfectly
 in his very pragmatic book 

@@ -1,4 +1,4 @@
-## Wednesday, December 9, 2020, 6:16:17PM EST [1607555777]
+## Wednesday, December 9, 2020, 6:16:17PM EST <1607555777>
 
 One thing is for sure. Rob Pike seems like he has nothing to do with the
 day-to-day direction and proposals to the Go language any longer. I
@@ -53,18 +53,18 @@ pissed because something so obvious has created such a controversy,
 mostly because it came from some random dude, and not a Google/Go team
 member.
 
-## Wednesday, December 9, 2020, 3:06:20PM EST [1607544380]
+## Wednesday, December 9, 2020, 3:06:20PM EST <1607544380>
 
 It was unusually difficult to discover the format for `protoc-gen-doc`
 comments which turn out to be the same at Go, yet another suspicious
 similarity between Go and Protobuf.
 
-## Wednesday, December 9, 2020, 3:08:43AM EST [1607501323]
+## Wednesday, December 9, 2020, 3:08:43AM EST <1607501323>
 
 Looks like the word [crowdcoding](https://duck.com/lite?kd=-1&kp=-1&q=crowdcoding) already exists. It is definitely
 what we are doing on the live stream.
 
-## Wednesday, December 9, 2020, 2:23:34AM EST [1607498614]
+## Wednesday, December 9, 2020, 2:23:34AM EST <1607498614>
 
 I've actually never written a browser plugin and think it would be a fun
 and useful addition to the "overengineered resume" project since

@@ -1,4 +1,4 @@
-## Thursday, November 19, 2020, 5:57:05PM EST [1605826625]
+## Thursday, November 19, 2020, 5:57:05PM EST <1605826625>
 
 Another way that I can contribute in ways that benefit corporations as
 well as the world is to get them *off* of AWS/Azure/GCP dependency. It's
@@ -18,7 +18,7 @@ applications written and deploying them to internal Kubernetes clouds.
 That's my target core expertise, which is nice because it is *entirely*
 in line with exactly what I built for IBM.
 
-## Thursday, November 19, 2020, 5:24:03PM EST [1605824643]
+## Thursday, November 19, 2020, 5:24:03PM EST <1605824643>
 
 *Cloud Software Platform Developer* is the title I recently heard for a
 position that perfectly describes the skills I seek to do on a daily
@@ -60,7 +60,7 @@ Engineer" and the stuff dealing with "Cloud Software Platform
 Development". I've heard some call it "deep end" but that has a lot of
 meanings to different people.
 
-## Thursday, November 19, 2020, 12:53:58PM EST [1605808438]
+## Thursday, November 19, 2020, 12:53:58PM EST <1605808438>
 
 I have noticed that I write better code when live streaming in *music
 and code* mode (without voice). Because I can't just talk through what
@@ -70,12 +70,12 @@ It's not just about not being distracted by voice and those on the
 stream. It's about composing better thoughts all around. Plus there is
 the calming music factor.
 
-## Thursday, November 19, 2020, 12:10:01PM EST [1605805801]
+## Thursday, November 19, 2020, 12:10:01PM EST <1605805801>
 
 I need to check out [`esh`](https://github.com/jirutka/esh) for basic
 templates that can safely use the shell directly.
 
-## Thursday, November 19, 2020, 12:03:04PM EST [1605805384]
+## Thursday, November 19, 2020, 12:03:04PM EST <1605805384>
 
 I'm a little conflicted at the moment about whether to use base64 now
 and encrypted file formats later or to just use the encrypted stuff now.
@@ -104,7 +104,7 @@ Nope, no encryption until there is a need for it, but I should
 definitely have it as an option for security conscious applications that
 might be running on Internet-facing services.
 
-## Thursday, November 19, 2020, 4:57:21AM EST [1605779841]
+## Thursday, November 19, 2020, 4:57:21AM EST <1605779841>
 
 It occurred to me that Go is actually the perfect language to write a
 little `gotmpl` utility that reads from a collection of cached
@@ -116,7 +116,7 @@ command line.
 There's too many cool things to build and too little time. I need to
 tell someone about that so they can make it and I don't have to.
 
-## Thursday, November 19, 2020, 4:18:20AM EST [1605777500]
+## Thursday, November 19, 2020, 4:18:20AM EST <1605777500>
 
 I want to create a bash script or Go utility for my favorite methods to
 add to a simple data struct:
@@ -135,7 +135,7 @@ related methods.
 Maybe just a macro would be better than a generator because there is
 nothing really dependent on the rest of the code.
 
-## Thursday, November 19, 2020, 3:53:49AM EST [1605776029]
+## Thursday, November 19, 2020, 3:53:49AM EST <1605776029>
 
 While doing the `auth.Data` struct and all the reading and writing and
 saving and simple example testing I realize it would be a good exercise
@@ -144,7 +144,7 @@ challenges](https://rwx.gg/lang/cha), which reminds me I still need to
 port all those others over there from the original Python days of
 [SkilStak]{.spy}.
 
-## Thursday, November 19, 2020, 2:27:58AM EST [1605770878]
+## Thursday, November 19, 2020, 2:27:58AM EST <1605770878>
 
 So it looks like it's worth it to go with the `golang.org/x/oauth2`
 package and see there that goes. In fact, it already has an

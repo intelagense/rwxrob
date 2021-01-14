@@ -1,8 +1,8 @@
-## Monday, November 23, 2020, 10:59:16PM EST [1606190356]
+## Monday, November 23, 2020, 10:59:16PM EST <1606190356>
 
 More than a little annoyed that PopOS broke my man page colors.
 
-## Monday, November 23, 2020, 4:55:51AM EST [1606125351]
+## Monday, November 23, 2020, 4:55:51AM EST <1606125351>
 
 I'm randomly annoyed at the sudden memory of a person who just kept my
 "loaner" laptop and never contacted me at all after that, he was a

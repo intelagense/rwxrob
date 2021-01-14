@@ -1,4 +1,4 @@
-## Wednesday, January 13, 2021, 8:01:17AM EST [1610542877]
+## Wednesday, January 13, 2021, 8:01:17AM EST <1610542877>
 
 Okay, finished the `chopme` utility for converting my year of log posts
 into a directory tree organized by year, month, and day with entries in
@@ -10,7 +10,7 @@ For example, I added the UNIX time in seconds because the natural
 language of the heading depends on the locale. This way, people can file
 that information directly just by reading the heading.
 
-## Wednesday, January 13, 2021, 4:10:36AM EST [1610529036]
+## Wednesday, January 13, 2021, 4:10:36AM EST <1610529036>
 
 I really need to invest in a good chair. I have all the other stuff,
 just not a chair. The IKEA chairs are great because I usually sit in

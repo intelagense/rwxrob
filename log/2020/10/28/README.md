@@ -1,4 +1,4 @@
-## Wednesday, October 28, 2020, 4:38:51PM EDT [1603917531]
+## Wednesday, October 28, 2020, 4:38:51PM EDT <1603917531>
 
 As much as I would very much love to work for the *right* company doing
 DevOps work, or Go programming, or cybersecurity engineering I really
@@ -41,14 +41,14 @@ be gruff, even annoying, and people will still fund many of these
 efforts if I just give them the opportunity. If nothing more, Linus
 Torvalds has proven that.
 
-## Wednesday, October 28, 2020, 3:42:27PM EDT [1603914147]
+## Wednesday, October 28, 2020, 3:42:27PM EDT <1603914147>
 
 I practically just need to cut and paste this every time some dumb ass
 says, "Joe Biden is compromised":
 
 > Flaccid. You have zero evidence for that while a mountain of documented evidence and sworn testimony from some of America's greatest FBI and military veterans and Trump's own turned inner circle have testified that Trump is *overwhelmingly* compromised enough to be impeached. 
 
-## Wednesday, October 28, 2020, 1:15:58PM EDT [1603905358]
+## Wednesday, October 28, 2020, 1:15:58PM EDT <1603905358>
 
 Found this great little daemon written in Go for displaying message
 notifications with `tmux display-message` (which I did not know existed
@@ -60,7 +60,7 @@ it enough. Using this I can add notifications when people join the chat
 from Restream API, reminders to myself instead of flashing the entire
 screen, and so much more.
 
-## Wednesday, October 28, 2020, 11:25:40AM EDT [1603898740]
+## Wednesday, October 28, 2020, 11:25:40AM EDT <1603898740>
 
 Lately I've been participating (poorly) in Twitter dialog, which is
 practically an oxymoron. You just cannot dialog over Twitter, yet for

@@ -1,4 +1,4 @@
-## Monday, January 4, 2021, 8:11:50PM EST [1609809110]
+## Monday, January 4, 2021, 8:11:50PM EST <1609809110>
 
 After a member informed me his domain name is expiring and costs a lot
 more to renew I got to thinking of the need for a domain at all for
@@ -23,7 +23,7 @@ single GitHub repo seems to be the logical thing to do for all of these
 reasons. The repo itself is enough for many needs and adding a simple
 web interface is trivial.
 
-## Monday, January 4, 2021, 4:41:43PM EST [1609796503]
+## Monday, January 4, 2021, 4:41:43PM EST <1609796503>
 
 After reading the legal agreement for "Memberships" on YouTube I cannot
 believe anyone actually agrees to it. It gives YouTube an insane amount

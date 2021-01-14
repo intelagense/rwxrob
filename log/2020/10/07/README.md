@@ -1,4 +1,4 @@
-## Wednesday, October 7, 2020, 5:12:04PM EDT [1602105124]
+## Wednesday, October 7, 2020, 5:12:04PM EDT <1602105124>
 
 Just got my formal invitation to be on the IT Program Advisory Committee
 for a local community college. I do so love helping them out, even if it
@@ -61,7 +61,7 @@ still trying to figure out the relationship between [SkilStak]{.spy} and
 management app and the latter the progressive knowledge app containing
 all the consumable content. That sounds like the right path.
 
-## Wednesday, October 7, 2020, 4:43:33PM EDT [1602103413]
+## Wednesday, October 7, 2020, 4:43:33PM EDT <1602103413>
 
 The book that *needs* to be written is *Learning to Program with
 Go as Your First Language*. The books that exist now are frankly
@@ -81,13 +81,13 @@ KnowledgeNet framework *then* I'll have all the tools I need to really
 launch some learning materials that can be published in book form as
 well (with accompanying videos).
 
-## Wednesday, October 7, 2020, 10:26:20AM EDT [1602080780]
+## Wednesday, October 7, 2020, 10:26:20AM EDT <1602080780>
 
 Also looks like the [Intro to
 Linux](https://www.zdnet.com/article/linux-foundations-free-online-intro-to-linux-class-opens-its-doors/)
 free course, also from the Linux Foundation, is doing rather well.
 
-## Wednesday, October 7, 2020, 10:20:57AM EDT [1602080457]
+## Wednesday, October 7, 2020, 10:20:57AM EDT <1602080457>
 
 The level of dumb-ass, cluelessness in this Gatsby review just confirms
 all my feelings about it. Still, it is so satisfying seeing people
@@ -98,7 +98,7 @@ for the sustainability of their core knowledge bases.
 
 Seriously, anyone who uses MDX is a fucking moron.
 
-## Wednesday, October 7, 2020, 10:15:45AM EDT [1602080145]
+## Wednesday, October 7, 2020, 10:15:45AM EDT <1602080145>
 
 The Linux Foundation has a new "IT Associate" absolute beginner
 [certification](https://www.prnewswire.com/news-releases/upcoming-entry-level-it-certification-from-the-linux-foundation-to-provide-an-onramp-to-an-it-career-301133168.html). Looks interesting, perhaps something to follow and help

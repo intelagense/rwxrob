@@ -1,4 +1,4 @@
-## Friday, November 20, 2020, 11:37:32PM EST [1605933452]
+## Friday, November 20, 2020, 11:37:32PM EST <1605933452>
 
 I'm going to spend my Friday night playing with symmetric cipher
 encryption and the combining of all `auth` configuration data into a
@@ -46,7 +46,7 @@ encryption. These are the same (almost) as KeePassXC.
 
 
 
-## Friday, November 20, 2020, 5:50:25PM EST [1605912625]
+## Friday, November 20, 2020, 5:50:25PM EST <1605912625>
 
 This week I learned that one person I helped for several years started
 their first tech job for \$100,000.
@@ -234,7 +234,7 @@ have one last thing to say:
 
 *You* are the losers and the world is *sick* of you.
 
-## Friday, November 20, 2020, 2:50:27PM EST [1605901827]
+## Friday, November 20, 2020, 2:50:27PM EST <1605901827>
 
 Top skills to search for, in order:
 
@@ -254,7 +254,7 @@ Linux terminal will be a given. A lot will include NodeJS, but I'm only
 looking at those if they are migrating off of that horrible piece of
 shit.
 
-## Friday, November 20, 2020, 2:46:28PM EST [1605901588]
+## Friday, November 20, 2020, 2:46:28PM EST <1605901588>
 
 Just posted that note and *boom* already stuff popping up on it. It
 seems like the entire tech Internet is a-buzz with chatter about gRPC
@@ -264,7 +264,7 @@ The fact something is posted *on freecodecamp.org* about gRPC shows you
 what I mean. It is quickly becoming mandatory learning, just like Go in
 2014 when I made everyone learn it at [skilstak]{.spy}.
 
-## Friday, November 20, 2020, 2:20:12PM EST [1605900012]
+## Friday, November 20, 2020, 2:20:12PM EST <1605900012>
 
 I want to [code Go gRPC applications](https://duck.com/lite?kd=-1&kp=-1&q=code Go gRPC applications).
 
@@ -338,7 +338,7 @@ will match this ethical priority of mine, but not always. People still
 use `k8s` on centralized cloud providers, but it does really filter a
 lot of cloud-dependent companies out of the potential positions pool.
 
-## Friday, November 20, 2020, 2:08:21PM EST [1605899301]
+## Friday, November 20, 2020, 2:08:21PM EST <1605899301>
 
 So [\@markamatu](https://twitch.tv/markamatu) from the stream mentioned
 something Stephen King has written in [On Writing: A Memoir of the
@@ -371,7 +371,7 @@ I'll have a better board on Sunday so we'll see. Being really proficient
 at switching between those modes is a must for anyone wanting to get
 into this stuff, for fun or profit.
 
-## Friday, November 20, 2020, 1:58:43PM EST [1605898723]
+## Friday, November 20, 2020, 1:58:43PM EST <1605898723>
 
 So the new "cozy term" streams are working out *for me* for some it is
 less valuable than "rubber ducking" while I'm doing the coding. Here's
@@ -418,7 +418,7 @@ Cons:
 * Chatting my responses is exhausting in a different way
 * More of what I think and conclude gets captured in my notes
 
-## Friday, November 20, 2020, 12:42:29PM EST [1605894149]
+## Friday, November 20, 2020, 12:42:29PM EST <1605894149>
 
 TIL there's a package called `term` (used to be `terminal`) that takes
 care of all the tough stuff:
@@ -436,13 +436,13 @@ care of all the tough stuff:
 Ugh, I cannot believe I was still using Ioctl for so much of that stuff.
 Don't be me. User `term` from the start.
 
-## Friday, November 20, 2020, 4:52:47AM EST [1605865967]
+## Friday, November 20, 2020, 4:52:47AM EST <1605865967>
 
 ```go
 _ = something // shuts up compaints about not being used
 ```
 
-## Friday, November 20, 2020, 4:08:32AM EST [1605863312]
+## Friday, November 20, 2020, 4:08:32AM EST <1605863312>
 
 Found this nice
 [Gist](https://gist.github.com/bbengfort/ee6d3bda44b8cc8d10a26f66be9ced70)
@@ -470,13 +470,13 @@ that made me chuckle a bit. The Oauth2 spec goes to great lengths to
 make sure only the word "authorization" is ever used in conjunction with
 anything Oauth2 does.
 
-## Friday, November 20, 2020, 3:26:49AM EST [1605860809]
+## Friday, November 20, 2020, 3:26:49AM EST <1605860809>
 
 Apparently Google has an "advanced protection program" to "keep
 dissidents, politicians, and activists safe" that I really want to read
 about. I still don't trust them for one second.
 
-## Friday, November 20, 2020, 3:14:22AM EST [1605860062]
+## Friday, November 20, 2020, 3:14:22AM EST <1605860062>
 
 So `auth` has become primarily about safe storage of all my
 authentication data (not passwords, per se). And
@@ -490,7 +490,7 @@ FIDO U2F is only supported on the newer keys, so I have to check mine.
 Been meaning to get one that uses regular USB instead of the smaller
 USB3 form factor as well.
 
-## Friday, November 20, 2020, 2:41:57AM EST [1605858117]
+## Friday, November 20, 2020, 2:41:57AM EST <1605858117>
 
 Looks like there's another [great tutorial on Oauth2 in
 Go](https://tutorialedge.net/golang/go-oauth2-tutorial/) that includes a
@@ -513,7 +513,7 @@ use `auth` to manage the `auth.Data` just so I have someplace to put my
 tokens and such. Humm, I wonder if the Go package manages local token
 storage already. I need to research that.
 
-## Friday, November 20, 2020, 1:59:40AM EST [1605855580]
+## Friday, November 20, 2020, 1:59:40AM EST <1605855580>
 
 Why are hoodies so damn comfortable? Wearing one with the medieval music
 on makes me feel like a monk or something, a coding monk. Lol. Okay, now

@@ -1,4 +1,4 @@
-## Saturday, October 10, 2020, 1:13:54PM EDT [1602350034]
+## Saturday, October 10, 2020, 1:13:54PM EDT <1602350034>
 
 This is a person blog, right? I keep forgetting sometimes that it is
 literally everything I might want to write about, not just tech. 

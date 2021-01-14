@@ -1,15 +1,15 @@
-## Monday, October 19, 2020, 5:46:08PM EDT [1603143968]
+## Monday, October 19, 2020, 5:46:08PM EDT <1603143968>
 
 Just discovered that Mímir is a central figure to the [2019 game God of
 War](https://youtu.be/r5CzjYADxZ4?t=1796). I'm loving that it has made it into pop culture.
 
-## Monday, October 19, 2020, 5:35:04PM EDT [1603143304]
+## Monday, October 19, 2020, 5:35:04PM EDT <1603143304>
 
 Just noticed that Microsoft Identify Manger uses that acronym so I will
 be sure to never write it in all caps. I can only hope there isn't a
 `mim` command already being used.
 
-## Monday, October 19, 2020, 5:24:57PM EDT [1603142697]
+## Monday, October 19, 2020, 5:24:57PM EDT <1603142697>
 
 So I just registered `mim.directory` and `mim.sh` for 10 years and
 locked down the `mimdir` org and group on GitHub and GitLab. From now on
@@ -29,7 +29,7 @@ A: It has several references including the origin of the word memory and
    he was. In fact, the vocalized version uses the word "Mímir" (instead
    of Alexa or Siri).
 
-## Monday, October 19, 2020, 4:24:34PM EDT [1603139074]
+## Monday, October 19, 2020, 4:24:34PM EDT <1603139074>
 
 As I've been contemplating the KnowledgeNet more and more I wonder if we
 could come up with some name for it that is unique and unknown to anyone
@@ -50,7 +50,7 @@ even though I liked the "README World Exchange." The key to this is
 really getting something catchy that people will remember and want to be
 a part of. That way they will produce content for it.
 
-## Monday, October 19, 2020, 4:07:04PM EDT [1603138024]
+## Monday, October 19, 2020, 4:07:04PM EDT <1603138024>
 
 This was a *rough* weekend. I made the mistake of engaging with people
 on Twitter with the assumption that perhaps we could have a rational

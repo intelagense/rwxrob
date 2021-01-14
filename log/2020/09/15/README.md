@@ -1,4 +1,4 @@
-## Tuesday, September 15, 2020, 5:45:55PM EDT [1600206355]
+## Tuesday, September 15, 2020, 5:45:55PM EDT <1600206355>
 
 Once again I'm reminded of just how right I got the whole SkilStak thing
 in the beginning by having a centralized multi-user server.
@@ -57,7 +57,7 @@ create a lightweight server with ssh tunnelling enabled so that the
 machine with the users on it would never give up the IP of those
 connecting. Hummm.
 
-## Tuesday, September 15, 2020, 9:55:06AM EDT [1600178106]
+## Tuesday, September 15, 2020, 9:55:06AM EDT <1600178106>
 
 It occurred to me while walking through a simulated parsing session in
 order to check my PEGN for the AST JSON that it is perfectly possible to
@@ -70,7 +70,7 @@ the possibility of creating an AST that can be traversed.
 There's just way to many cool things you can do once you have a solid
 meta-language grammar. 
 
-## Tuesday, September 15, 2020, 8:07:59AM EDT [1600171679]
+## Tuesday, September 15, 2020, 8:07:59AM EDT <1600171679>
 
 Just discovered [magefiles](https://magefile.org/magefiles/), a Golang
 makefiles alternative. Very intriguing. I'll have to get good with them.

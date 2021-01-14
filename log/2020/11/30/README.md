@@ -1,4 +1,4 @@
-## Monday, November 30, 2020, 5:10:15PM EST [1606774215]
+## Monday, November 30, 2020, 5:10:15PM EST <1606774215>
 
 Read this [interesting write-up on [immutable data structures in
 Go](https://levelup.gitconnected.com/persistent-data-structures-for-gophers-persistent-stack-70aa012d3bfa).
@@ -8,7 +8,7 @@ avoided at all costs until you *really* need it and have someone
 proficient with the profiler to do it *after* you've already prototyped
 your application.
 
-## Monday, November 30, 2020, 3:11:07PM EST [1606767067]
+## Monday, November 30, 2020, 3:11:07PM EST <1606767067>
 
 I've concluded that the best to combine my career learning and fun
 projects is to turn this `live` project, an assistant for live
@@ -17,7 +17,7 @@ notifiers in their own containers and a centralized interface that
 supports commands from the command, a terminal user interface in
 `cview`, and an HTTP interface using websockets.
 
-## Monday, November 30, 2020, 9:52:00AM EST [1606747920]
+## Monday, November 30, 2020, 9:52:00AM EST <1606747920>
 
 Jackpot! The [Certified Kubernetes Application Developer
 (CKAD)](https://www.cncf.io/certification/ckad/) as a completely free
@@ -39,7 +39,7 @@ project will definitely be over-engineered for the basic need, but I
 will accomplish my goal of modularity while also working toward CKAD
 certification.
 
-## Monday, November 30, 2020, 9:31:48AM EST [1606746708]
+## Monday, November 30, 2020, 9:31:48AM EST <1606746708>
 
 Learning all about [Protocol Buffers](https://restream.io/channel) from
 Google today and so far been really impressed. It also really makes me
@@ -60,7 +60,7 @@ PEGN AST JSON long and short form:
 It sounds really arrogant, but I could totally work for Google if
 I *really* wanted to. I just *really* don't want to.
 
-## Monday, November 30, 2020, 5:21:41AM EST [1606731701]
+## Monday, November 30, 2020, 5:21:41AM EST <1606731701>
 
 Looks like it clearly is better to send a link to the YouTube live
 stream instead of using Periscope *at all* which is *horrendous* quality
@@ -80,7 +80,7 @@ real time.
 That reminds me that I also have to integrate comments on the YouTube
 live stream videos so that they show up in the chat log pane.
 
-## Monday, November 30, 2020, 5:08:27AM EST [1606730907]
+## Monday, November 30, 2020, 5:08:27AM EST <1606730907>
 
 Did some calculations of what if we used Digital Ocean for my own
 restreaming of RTMP in conjunction with chat from bots logged into the

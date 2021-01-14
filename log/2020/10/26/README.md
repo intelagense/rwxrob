@@ -1,11 +1,11 @@
-## Monday, October 26, 2020, 8:48:52PM EDT [1603759732]
+## Monday, October 26, 2020, 8:48:52PM EDT <1603759732>
 
 I couldn't help myself. I ranted about [how bad Cobra
 is](/wish/#generator-replacement-to-go-cobra-commander) and opened an
 [issue](https://github.com/spf13/cobra/issues/1266) on it. I'm a bad
 person, but I promise my heart is in the right place.
 
-## Monday, October 26, 2020, 6:07:26PM EDT [1603750046]
+## Monday, October 26, 2020, 6:07:26PM EDT <1603750046>
 
 Few things help me more to manage my random depressed mood swings than
 observing someone *really* learning a lot after having learned to give
@@ -41,7 +41,7 @@ Harry takes on the task of sharing his skills with absolute humility
 while keeping it fun. *Dumbledore's Army* is literally a celebration of
 the *Pedagogy of the Oppressed*. No wonder I love it so much.
 
-## Monday, October 26, 2020, 4:39:59PM EDT [1603744799]
+## Monday, October 26, 2020, 4:39:59PM EDT <1603744799>
 
 Nice to learn that Netlify does all the [cache busting for
 you](https://www.netlify.com/blog/2015/09/11/instant-cache-invalidation/).
@@ -50,7 +50,7 @@ having moved our community to staging on a server running Nginx. Another
 thing is setting the `charset` to `UTF-8` which is otherwise required
 with the `<meta>` tag by the default Nginx configuration.
 
-## Monday, October 26, 2020, 12:53:47PM EDT [1603731227]
+## Monday, October 26, 2020, 12:53:47PM EDT <1603731227>
 
 TIL that by adding an `Error()` method to *anything* in Go you can then
 use it in place of anything that takes an `error` type. It is similar to

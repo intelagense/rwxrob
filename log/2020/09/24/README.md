@@ -1,4 +1,4 @@
-## Thursday, September 24, 2020, 9:40:09PM EDT [1600998009]
+## Thursday, September 24, 2020, 9:40:09PM EDT <1600998009>
 
 After reading a lot of [Sid's Twitter feed](https://twitter.com/sytses)
 I'm blown away (again) by how much the guy just understands the modern
@@ -27,7 +27,7 @@ encourage as many other living, breathing, amazingly authentic humans to
 do the same in the best way they can. We *will* change this world for
 the better.
 
-## Thursday, September 24, 2020, 9:02:12PM EDT [1600995732]
+## Thursday, September 24, 2020, 9:02:12PM EDT <1600995732>
 
 I found my [tweet about how much silicon valley stank is on
 RedVentures](https://twitter.com/rwxrob/status/1194668719928160258) and
@@ -52,7 +52,7 @@ providing open-core value. They *do* exist and Imma hold out to find
 one. Hell, I might even *create* one. I already built one company. I can
 do it again.
 
-## Thursday, September 24, 2020, 8:49:37PM EDT [1600994977]
+## Thursday, September 24, 2020, 8:49:37PM EDT <1600994977>
 
 So I went searching through the jobs list for secops professionals and I
 don't even know what I was thinking. Cybersecurity jobs for corporations
@@ -78,7 +78,7 @@ So no thank you, I want to stick with building and maintain stuff more
 than breaking in. Let's face it. I fucking love to code on Linux all
 day.
 
-## Thursday, September 24, 2020, 7:19:56PM EDT [1600989596]
+## Thursday, September 24, 2020, 7:19:56PM EDT <1600989596>
 
 So while just looking at the stuff on <https://picoctf.org> with a
 member who is really quite good at it I have to admit I'm a bit
@@ -100,7 +100,7 @@ As it happens, there is a lot of work in this area for red and blue team
 secops and Offensive Security itself has a mailing address not even 20
 miles from my location.
 
-## Thursday, September 24, 2020, 5:52:08PM EDT [1600984328]
+## Thursday, September 24, 2020, 5:52:08PM EDT <1600984328>
 
 "I'm also a *published* author..." 
 
@@ -130,7 +130,7 @@ the lure of "hell, I could do that" in this regard I fight it back down
 and get busy making shit that will be *far* more important for the world
 later.
 
-## Thursday, September 24, 2020, 5:07:30PM EDT [1600981650]
+## Thursday, September 24, 2020, 5:07:30PM EDT <1600981650>
 
 While waiting for my next session to start I'm reassessing the priority
 of my existing projects. The [PEGN](https://pegn.dev) stuff clearly is
@@ -165,7 +165,7 @@ As much as I love the SRE side, I'm really, really good at creating
 APIs, grammars, and stuff that other developers need. That's what
 backend development is all about.
 
-## Thursday, September 24, 2020, 4:38:52PM EDT [1600979932]
+## Thursday, September 24, 2020, 4:38:52PM EDT <1600979932>
 
 Had a great phone conversation with a recruiter who went the extra mile
 to check-in and watch my Twitch stream for a while, really great guy. I

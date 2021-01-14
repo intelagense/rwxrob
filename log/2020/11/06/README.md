@@ -1,4 +1,4 @@
-## Friday, November 6, 2020, 6:24:54PM EST [1604705094]
+## Friday, November 6, 2020, 6:24:54PM EST <1604705094>
 
 So there is someone claiming that MI, WI, NC, GA and PA all have Democrat
 governors except so I decided to confirm this:
@@ -12,7 +12,7 @@ governors except so I decided to confirm this:
 Turns out it is true, which is amazing even if the person making the
 claims was arguing that the they are "stealing" the election.
 
-## Friday, November 6, 2020, 3:07:00PM EST [1604693220]
+## Friday, November 6, 2020, 3:07:00PM EST <1604693220>
 
 Now is the time people's true nature comes out. Here's one example from
 a random good person on Twitter:

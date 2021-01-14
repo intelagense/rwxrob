@@ -1,11 +1,11 @@
-## Sunday, January 3, 2021, 7:42:44PM EST [1609720964]
+## Sunday, January 3, 2021, 7:42:44PM EST <1609720964>
 
 Quora is shit. Why on Earth would a site dedicated to questions and
 answers not even load without JavaScript enabled. How fucking *stupid*
 can you get? Fucking morons over there at Quora. Be warned, don't work
 for that shit-stain of a company.
 
-## Sunday, January 3, 2021, 6:31:42PM EST [1609716702]
+## Sunday, January 3, 2021, 6:31:42PM EST <1609716702>
 
 I've concluded Paulo Friere's [Pedagogy of the Oppressed](https://duck.com/lite?kd=-1&kp=-1&q=Pedagogy of the Oppressed), which I
 learned recently was banned in Arizona in 2012 by the powers that be
@@ -111,7 +111,7 @@ these skills and change their own stars. I just have to do it better,
 which is why I think I might be most interested in a career that pays me
 to do it. Now it's time to find one that does.
 
-## Sunday, January 3, 2021, 6:17:36PM EST [1609715856]
+## Sunday, January 3, 2021, 6:17:36PM EST <1609715856>
 
 Wife passed on this [great
 article](https://www.cbsnews.com/news/sanjay-gupta-prescription-for-fighting-off-dementia-keep-sharp/)

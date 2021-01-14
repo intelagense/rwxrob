@@ -1,4 +1,4 @@
-## Wednesday, December 23, 2020, 4:44:12PM EST [1608759852]
+## Wednesday, December 23, 2020, 4:44:12PM EST <1608759852>
 
 As I've been reviewing the materials that are out there (and believe me
 I've reviewed a lot of them) it has become overwhelmingly clear that I
@@ -70,7 +70,7 @@ it with the first in a series. I really love that O'Reilly did that.
 
 Some of these books would be super short, but that is just fine.
 
-## Wednesday, December 23, 2020, 2:59:57AM EST [1608710397]
+## Wednesday, December 23, 2020, 2:59:57AM EST <1608710397>
 
 Many things came out of the live stream about GitHub destroying the
 progress of GitLab, but perhaps the most disturbing is this move by
@@ -92,7 +92,7 @@ big deal about it. Companies like IBM have navigated these issues far
 better even if their methods are more conservative. There's a reason
 IBM's entire software division is headquartered in Canada.
 
-## Wednesday, December 23, 2020, 2:28:31AM EST [1608708511]
+## Wednesday, December 23, 2020, 2:28:31AM EST <1608708511>
 
 Need to take a look at Ultralight, which is apparently "what Electron
 should have been."

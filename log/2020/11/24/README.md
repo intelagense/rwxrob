@@ -1,4 +1,4 @@
-## Tuesday, November 24, 2020, 8:12:32PM EST [1606266752]
+## Tuesday, November 24, 2020, 8:12:32PM EST <1606266752>
 
 Over coffee with my family here I arrived at something of a discovery
 about what I actually believe. I believe in *not* knowing anything for
@@ -98,7 +98,7 @@ conviction for which people would fucking die, or worse, kill others.
 Therefore, dogmatic surety about *anything* is not just dangerous, but
 the source of the worst evils humanity has ever known.
 
-## Tuesday, November 24, 2020, 7:17:50AM EST [1606220270]
+## Tuesday, November 24, 2020, 7:17:50AM EST <1606220270>
 
 While working on a [simple command prompt
 module](https://gitlab.com/rwxrob/prompt) for the collection of best

@@ -1,10 +1,10 @@
-## Sunday, September 20, 2020, 4:16:42PM EDT [1600633002]
+## Sunday, September 20, 2020, 4:16:42PM EDT <1600633002>
 
 Apparently there is no good way to allow people to subscribe to anything
 you are doing. There really needs to be an open alternative to all the
 greedy Patreon clones.
 
-## Sunday, September 20, 2020, 12:39:29PM EDT [1600619969]
+## Sunday, September 20, 2020, 12:39:29PM EDT <1600619969>
 
 I really need to write more about the critical problems of depending on
 Golang's internal `json.Unmarshal()`. When there are no parse errors but
@@ -23,7 +23,7 @@ performance unmarshalling the internal reflection based code is horrible
 anyway and you likely want to create your own JSON parser to get around
 the several substantial quicks of it.
 
-## Sunday, September 20, 2020, 11:01:41AM EDT [1600614101]
+## Sunday, September 20, 2020, 11:01:41AM EDT <1600614101>
 
 Been thinking (and discussing) the challenge of testing applications
 that depend on services with credentials and interactive HTTP sessions.

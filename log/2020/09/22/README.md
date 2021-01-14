@@ -1,11 +1,11 @@
-## Tuesday, September 22, 2020, 7:48:28PM EDT [1600818508]
+## Tuesday, September 22, 2020, 7:48:28PM EDT <1600818508>
 
 All anyone *really* wants to learn is how to create things, even if
 their creations are just really great conversations, stories, and
 relationships. The act of creation brings joy and since learning *is*
 creating learning does also. Hence the "joy" of learning.
 
-## Tuesday, September 22, 2020, 7:30:24PM EDT [1600817424]
+## Tuesday, September 22, 2020, 7:30:24PM EDT <1600817424>
 
 Nothing convinces me more that the age of broadcast television is dead
 than randomly watching 10 minutes of ESPN. Ask a random sampling of
@@ -15,7 +15,7 @@ other broadcast television channels) an absolute fucking waste of social
 resources as are the exorbitant salaries paid to athletes while we slip
 into social Idiocracy.
 
-## Tuesday, September 22, 2020, 4:30:12PM EDT [1600806612]
+## Tuesday, September 22, 2020, 4:30:12PM EDT <1600806612>
 
 Ah yes, shitty entitled parents. Had a run in with one today. It's the
 unfortunate down-side of private mentoring --- especially those who

@@ -1,10 +1,10 @@
-## Thursday, October 22, 2020, 3:59:48PM EDT [1603396788]
+## Thursday, October 22, 2020, 3:59:48PM EDT <1603396788>
 
 Just realized I've been using the word *verbose* (use a lot of words to
 say something) wrongly when *loquacious* (prone to talking a lot) is
 almost always a better pick. Often, both apply.
 
-## Thursday, October 22, 2020, 11:29:46AM EDT [1603380586]
+## Thursday, October 22, 2020, 11:29:46AM EDT <1603380586>
 
 Just read the following in Friere's *Pedagogy of the Oppressed* that
 perfectly describes the social conundrum we find ourselves facing today:
@@ -17,7 +17,7 @@ It's clear what is killing us is dogmatic "sectarianism" combined with a
 full denial that the people practicing are not, that the "other" side
 are the sectarians that have to be overthrown at all costs.
 
-## Thursday, October 22, 2020, 9:57:58AM EDT [1603375078]
+## Thursday, October 22, 2020, 9:57:58AM EDT <1603375078>
 
 I'm such a dork. I just connected some fun dots. [\@Erikthedev](https://twitch.tv/Erikthedev) is the
 same Erik from the GoTime podcast that I've always been meaning to

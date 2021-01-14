@@ -1,4 +1,4 @@
-## Thursday, November 26, 2020, 10:34:07PM EST [1606448047]
+## Thursday, November 26, 2020, 10:34:07PM EST <1606448047>
 
 The more I think about this `live` tool and where to put all my emphasis
 when it comes to the chat portion of the stream, the more I think
@@ -28,7 +28,7 @@ have to have the bot login and post everything to Discord. Then I can
 relay everything from Restream to Discord or let the Restream Bot do
 that instead. 
 
-## Thursday, November 26, 2020, 10:23:43PM EST [1606447423]
+## Thursday, November 26, 2020, 10:23:43PM EST <1606447423>
 
 As I dive back into Websockets in Go it looks like the landscape has not
 changed that much from the last time I looked (which was like four years
@@ -42,7 +42,7 @@ the Restream.io chat via websocket buffers I am thinking
 dependency (unlike the standard library version) but oh well, I have at
 least two other dependencies already.
 
-## Thursday, November 26, 2020, 1:59:49AM EST [1606373989]
+## Thursday, November 26, 2020, 1:59:49AM EST <1606373989>
 
 So while trying to fix my <https://rwxrob.live> page with the
 Restream.io embed that is broken I randomly found the place in my Twitch

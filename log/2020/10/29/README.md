@@ -1,4 +1,4 @@
-## Thursday, October 29, 2020, 7:47:11PM EDT [1604015231]
+## Thursday, October 29, 2020, 7:47:11PM EDT <1604015231>
 
 I really need to make a meme with Dolorous Umbrage handing out AP
 Computer Science course text books that contain the stuff
@@ -21,13 +21,13 @@ practice and working with a common goal is the key. That is why the
 world's best book on JavaScript programming currently is the result of a
 Kickstarter and lots of collaboration. We need a Go one as well.
 
-## Thursday, October 29, 2020, 5:03:28PM EDT [1604005408]
+## Thursday, October 29, 2020, 5:03:28PM EDT <1604005408>
 
 Just had a community member mention the [Gemini
 Project](https://gemini.circumlunar.space/), a cross between Gopher and
 HTTP. At least people are thinking about the alternatives.
 
-## Thursday, October 29, 2020, 2:24:00AM EDT [1603952640]
+## Thursday, October 29, 2020, 2:24:00AM EDT <1603952640>
 
 I've never been more convinced that paywalls are part of what is killing
 our world. People like the former campaign manager for Bernie Sanders

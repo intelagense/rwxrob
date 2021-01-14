@@ -1,4 +1,4 @@
-## Wednesday, September 16, 2020, 7:29:10PM EDT [1600298950]
+## Wednesday, September 16, 2020, 7:29:10PM EDT <1600298950>
 
 Now that [SkilStak]{.spy} is essentially just a personal hobby/night job
 and I'm down to 25 maximum members of my mentored community and that I
@@ -34,7 +34,7 @@ time *before* the return of `skilstak.sh` and the modern
 
 I cannot fucking wait to get my [SkilBots]{.spy} back online.
 
-## Wednesday, September 16, 2020, 5:17:45PM EDT [1600291065]
+## Wednesday, September 16, 2020, 5:17:45PM EDT <1600291065>
 
 Reading through more of the job postings that usual today and was
 laughing my ass off with my wife at the rampant spelling errors and
@@ -86,7 +86,7 @@ who originally conceived it. That's reason enough to get pissed.
 
 Don't get mad. Get busy. Don't get mad. Get busy. Don't get mad ...
 
-## Wednesday, September 16, 2020, 4:09:45PM EDT [1600286985]
+## Wednesday, September 16, 2020, 4:09:45PM EDT <1600286985>
 
 While on my run a few obvious portfolio applications came to mind that
 match the skills I've recently concluded have the most hire-able appeal
@@ -228,7 +228,7 @@ Come to think of it. I need to stream how to create packages and polish
 up those videos for others to consume as well. That will further two
 goals as once.
 
-## Wednesday, September 16, 2020, 1:18:50PM EDT [1600276730]
+## Wednesday, September 16, 2020, 1:18:50PM EDT <1600276730>
 
 Putting together some notes on skills that I know that I need to polish
 up specific examples of so I can justify the target contract jobs of
@@ -247,7 +247,7 @@ I haven't found any cybersecurity senior software engineering positions
 but I'm sure they will eventually show up. If not, maybe I'll just need
 to make a flagship product or two.
 
-## Wednesday, September 16, 2020, 7:58:00AM EDT [1600257480]
+## Wednesday, September 16, 2020, 7:58:00AM EDT <1600257480>
 
 I really need to get the base RWX KnowledgeNet template cleaned up since
 I keep using it for different knowledge base sites. Hell, I even use it

@@ -1,4 +1,4 @@
-## Wednesday, September 30, 2020, 8:56:29PM EDT [1601513789]
+## Wednesday, September 30, 2020, 8:56:29PM EDT <1601513789>
 
 Just dropped in on a "learn to code rust" stream and the dude said,
 "Just a little thing to keep your code that much cleaner" regarding the
@@ -11,7 +11,7 @@ make *everyone* a better programmer, but the level of pain just
 swallowing that butt-ugly syntax all day is simply unbearable for me and
 most who value minimalism and clarity.
 
-## Wednesday, September 30, 2020, 7:42:05PM EDT [1601509325]
+## Wednesday, September 30, 2020, 7:42:05PM EDT <1601509325>
 
 I'm at a crossroads with PEGN where I have to decide whether to support
 binary packing or not. By allowing `Rune` types that are hex and octal
@@ -51,7 +51,7 @@ though it is way out of range for UNICODE code points.
 users who always want to use PEGN to clearly represent complicated bit
 fields that has the best chance of pushing PEGN into universal adoption.
 
-## Wednesday, September 30, 2020, 5:08:49PM EDT [1601500129]
+## Wednesday, September 30, 2020, 5:08:49PM EDT <1601500129>
 
 While those in mentoring sessions work on their projects and I watch
 them push the pretty Gruvbox colorful cursor across my screen from a
@@ -105,7 +105,7 @@ being paid for it --- and maintaining my great mentoring relationships.
 I continue to get better at making every minute of this life count for
 something.
 
-## Wednesday, September 30, 2020, 4:11:33PM EDT [1601496693]
+## Wednesday, September 30, 2020, 4:11:33PM EDT <1601496693>
 
 Just reading about FlatPack and I'm really impressed. It blows the
 doors off of Canonical's Snap, which I still cannot believe people
@@ -115,7 +115,7 @@ would approve. The disastrous horrid architecture Snap uses (polluting
 the mount space) is a testament to the lack of experience on the Snap
 team and at Canonical.
 
-## Wednesday, September 30, 2020, 2:08:31PM EDT [1601489311]
+## Wednesday, September 30, 2020, 2:08:31PM EDT <1601489311>
 
 On the stream <https://twitch.com/strager> had a great idea to
 reverse lexicographically order `TokenIds` with a linter so that I don't

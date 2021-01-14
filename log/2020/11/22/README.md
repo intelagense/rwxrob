@@ -1,4 +1,4 @@
-## Sunday, November 22, 2020, 10:45:13AM EST [1606059913]
+## Sunday, November 22, 2020, 10:45:13AM EST <1606059913>
 
 Now that the hard part of the `auth` tool is finished, the rest is just
 clean up, like "closing" in the medical world. If I was a surgeon like
@@ -70,12 +70,12 @@ Horologist adjusting his glasses as he looks back at his watches.
 
 There, I feel better.
 
-## Sunday, November 22, 2020, 2:38:33AM EST [1606030713]
+## Sunday, November 22, 2020, 2:38:33AM EST <1606030713>
 
 I really need to take a full look at `context` again. I really never
 liked them but they *are everywhere* these days.
 
-## Sunday, November 22, 2020, 2:26:19AM EST [1606029979]
+## Sunday, November 22, 2020, 2:26:19AM EST <1606029979>
 
 Now that everything works for the `Authorize` flow --- integrated web
 browser authorization and redirect and all --- it's time to look at how
@@ -111,7 +111,7 @@ The embedded `oauth2` stuff doesn't have accessors so that would get
 really hairy really fast. No, I need to think like a C programmer about
 this.
 
-## Sunday, November 22, 2020, 2:00:06AM EST [1606028406]
+## Sunday, November 22, 2020, 2:00:06AM EST <1606028406>
 
 I just have to write about what this dumb ass had to say on my YouTube
 channel because it just makes me laugh so much and is *so* indicative of
@@ -167,7 +167,7 @@ still even though I just code on it these days. That's all I care about.
 The elite will see it for what it is and learn. The rest will enjoy
 their mediocre lives.
 
-## Sunday, November 22, 2020, 12:29:10AM EST [1606022950]
+## Sunday, November 22, 2020, 12:29:10AM EST <1606022950>
 
 If I get burned one more time by forgetting to put a `*` in front of the
 type for a receiver Imma scream, or something. It is one of the hardest

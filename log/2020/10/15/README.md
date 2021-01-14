@@ -1,4 +1,4 @@
-## Thursday, October 15, 2020, 4:06:37PM EDT [1602792397]
+## Thursday, October 15, 2020, 4:06:37PM EDT <1602792397>
 
 I'm really feeling the call to highly specialize in writing Go backend
 API and security applications after completing the KnowledgeNet
@@ -14,7 +14,7 @@ creating the software that automates such things all the more. In fact,
 I think I really need to make room for some solid machine learning in my
 self-learning plan in order to incorporate it into everything else.
 
-## Thursday, October 15, 2020, 1:17:11PM EDT [1602782231]
+## Thursday, October 15, 2020, 1:17:11PM EDT <1602782231>
 
 Yes! The [Introduction to Linux
 Course](https://www.edx.org/course/introduction-to-linux) *is* Creative
@@ -26,7 +26,7 @@ commons. My question was answered in the forums about it:
 This means I will definitely carve out a time on Sunday to go over the
 material live every week, probably on Sunday.
 
-## Thursday, October 15, 2020, 10:41:43AM EDT [1602772903]
+## Thursday, October 15, 2020, 10:41:43AM EDT <1602772903>
 
 While using EdX platform I'm reminded that it requires the use of
 Markdown to post anything to its forums, yet *no one* is teaching
@@ -35,7 +35,7 @@ most important languages to learn because it is the most essential. It
 allows the capture and communication of knowledge by the most people. It
 is what HTML *should* have been, and yet no one teaches it.
 
-## Thursday, October 15, 2020, 10:15:22AM EDT [1602771322]
+## Thursday, October 15, 2020, 10:15:22AM EDT <1602771322>
 
 As I begin the [Introduction to
 Linux Course](https://www.edx.org/course/introduction-to-linux) in order
@@ -68,7 +68,7 @@ although it is something I hear a lot from others --- I must "write a
 book" (even though my book will be a searchable progressive web app that
 can optionally be printed instead of the traditional type).
 
-## Thursday, October 15, 2020, 9:31:41AM EDT [1602768701]
+## Thursday, October 15, 2020, 9:31:41AM EDT <1602768701>
 
 Got this in the chat from [\@cybergenik](https://twitch.tv/cybergenik) as I was winding up yesterday:
 

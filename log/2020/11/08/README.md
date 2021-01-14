@@ -1,4 +1,4 @@
-## Sunday, November 8, 2020, 2:57:06PM EST [1604865426]
+## Sunday, November 8, 2020, 2:57:06PM EST <1604865426>
 
 Another day of the new normal. People are being directly attacked for
 suggesting that we should keep cool but firm with Trump and the
@@ -82,7 +82,7 @@ right time." When is the right time? Who gets to decide? I am back to
 yelling at the sky about my frustrations because only a tiny minority of
 people would even let me express these feelings right now.
 
-## Sunday, November 8, 2020, 6:11:22AM EST [1604833882]
+## Sunday, November 8, 2020, 6:11:22AM EST <1604833882>
 
 Aw yes, and so it begins. I've been banned by Twitter for a perfectly
 reasonable dissenting opinion just as I was hoping Twitter had changed

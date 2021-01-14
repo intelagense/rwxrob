@@ -1,4 +1,4 @@
-## Thursday, December 17, 2020, 1:13:11AM EST [1608185591]
+## Thursday, December 17, 2020, 1:13:11AM EST <1608185591>
 
 After a lot of discussion about implications for users not being able to
 use something created with MimWorks if the license is banned by a

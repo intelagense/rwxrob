@@ -1,4 +1,4 @@
-## Monday, October 12, 2020, 4:10:30PM EDT [1602533430]
+## Monday, October 12, 2020, 4:10:30PM EDT <1602533430>
 
 I'm reminded today how important learning basic web development skills
 is --- definitely before learning any other programming. The reason is

@@ -1,9 +1,9 @@
-## Wednesday, November 18, 2020, 5:44:50PM EST [1605739490]
+## Wednesday, November 18, 2020, 5:44:50PM EST <1605739490>
 
 I love that `git config --global pull.ff only` is a thing now. I used to
 always hate resolving the ugly merge conflicts that would sneak in.
 
-## Wednesday, November 18, 2020, 4:29:45PM EST [1605734985]
+## Wednesday, November 18, 2020, 4:29:45PM EST <1605734985>
 
 Just taking a moment to enjoy the fact that I do have at least one
 super-power: tech learning and research. I can find information in
@@ -23,7 +23,7 @@ One more thing, when a period of intense learning focus is needed
 putting some comfortable earplugs in is every bit as good as what I
 imagine taking drugs would be.
 
-## Wednesday, November 18, 2020, 4:16:31PM EST [1605734191]
+## Wednesday, November 18, 2020, 4:16:31PM EST <1605734191>
 
 Just would [this amazing Oauth2
 walkthrough](https://fusionauth.io/blog/2020/10/22/securing-a-golang-app-with-oauth/).
@@ -41,7 +41,7 @@ any kind of command line utility to help with shell script integration.
 That's what I can focus on (and get done with this stuff a lot faster
 from now on).
 
-## Wednesday, November 18, 2020, 3:28:06PM EST [1605731286]
+## Wednesday, November 18, 2020, 3:28:06PM EST <1605731286>
 
 I feel kinda dumb for not noticing it earlier, but using the convenience
 function `http.ListenAndServe()` *obviously* uses a single local server
@@ -74,7 +74,7 @@ thing will be common.
 In other words, gotta back away a bit now and diagram some stuff to
 manage the flow (as well as document it for others).
 
-## Wednesday, November 18, 2020, 9:11:55AM EST [1605708715]
+## Wednesday, November 18, 2020, 9:11:55AM EST <1605708715>
 
 Okay, I have to rant about it. <https://developer.restream.io>, a site
 entirely dedicated to documentation and communication *requires*
@@ -86,14 +86,14 @@ just so *fucking* stupid.
 
 There. I feel better.
 
-## Wednesday, November 18, 2020, 7:29:47AM EST [1605702587]
+## Wednesday, November 18, 2020, 7:29:47AM EST <1605702587>
 
 Turns out to disable screen locking on PopOS!/Debian all I needed was to
 install `dconf-editor` and then find the settings under
 `org/gnome/desktop`. Working from home having to type that password in
 all the time is rather annoying. 
 
-## Wednesday, November 18, 2020, 5:48:36AM EST [1605696516]
+## Wednesday, November 18, 2020, 5:48:36AM EST <1605696516>
 
 Another thing I need is a way to mark locations such that they can be
 exported to a YouTube video description so that I can automatically mark
@@ -101,7 +101,7 @@ locations in the YouTube video. I definitely need a way, post
 processing, to update the YouTube title and description so that I can
 just run a command and not have to even log into the thing.
 
-## Wednesday, November 18, 2020, 5:38:16AM EST [1605695896]
+## Wednesday, November 18, 2020, 5:38:16AM EST <1605695896>
 
 I'm questioning the value of doing anything with the Restream chat
 messages other than displaying them on the screen for me to respond to
@@ -123,7 +123,7 @@ means there isn't a searchable chat for people to go back and reference.
 I will have that, but others won't. I suppose I can create a searchable
 web site with all the chat logs at some point.
 
-## Wednesday, November 18, 2020, 4:42:15AM EST [1605692535]
+## Wednesday, November 18, 2020, 4:42:15AM EST <1605692535>
 
 This is not going to make any sense, but when I voice stream it keeps me
 up. For some reason speaking messes with my sleep schedule more than

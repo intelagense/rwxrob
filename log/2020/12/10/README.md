@@ -1,4 +1,4 @@
-## Thursday, December 10, 2020, 2:55:32AM EST [1607586932]
+## Thursday, December 10, 2020, 2:55:32AM EST <1607586932>
 
 I *must* create `rwxcoin` to coincide with the giving of points in my
 live stream. It would just be too much fun not to do it. I can offset
@@ -11,7 +11,7 @@ separate from the points on the stream (after they've been given)
 because people could start trading in `rwxcoin` to buy time and
 influence in the chat without earning it.
 
-## Thursday, December 10, 2020, 1:01:10AM EST [1607580070]
+## Thursday, December 10, 2020, 1:01:10AM EST <1607580070>
 
 Here are some links about Protocol Buffers that seem better than others:
 

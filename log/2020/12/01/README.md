@@ -1,4 +1,4 @@
-## Tuesday, December 1, 2020, 2:20:21PM EST [1606850421]
+## Tuesday, December 1, 2020, 2:20:21PM EST <1606850421>
 
 I'm finally hitting some nasty hanging `pandoc` errors due to the size
 of my running notes file. I've known I would hit this day and in the
@@ -25,7 +25,7 @@ when they do hear about the designs they want it *now*. So do I.
 I'll go ahead and rotate these notes by year. The end of this one is
 fast approaching.
 
-## Tuesday, December 1, 2020, 1:53:51AM EST [1606805631]
+## Tuesday, December 1, 2020, 1:53:51AM EST <1606805631>
 
 Need to consider [Helm](https://duck.com/lite?kd=-1&kp=-1&q=Helm) and [Kustomize](https://duck.com/lite?kd=-1&kp=-1&q=Kustomize) and other visualization and
 template creation tool for Kubernetes on this "over-engineered live

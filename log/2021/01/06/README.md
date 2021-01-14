@@ -1,4 +1,4 @@
-## Wednesday, January 6, 2021, 8:28:08PM EST [1609982888]
+## Wednesday, January 6, 2021, 8:28:08PM EST <1609982888>
 
 As I write the [books](books) page I'm reminded how useless all the
 educational approaches are without a method of mapping skills,
@@ -12,12 +12,12 @@ the most important domain model of my life because *everything* else
 depends on it, not just some application. Thankfully, I have most of it
 done, but I just need to document it.
 
-## Wednesday, January 6, 2021, 3:54:25PM EST [1609966465]
+## Wednesday, January 6, 2021, 3:54:25PM EST <1609966465>
 
 Those seditious assholes finally showed their true colors, storming the
 capital building while waving American flags. 
 
-## Wednesday, January 6, 2021, 1:21:18AM EST [1609914078]
+## Wednesday, January 6, 2021, 1:21:18AM EST <1609914078>
 
 During a live stream we were discussing how cool the Raspberry Pi 400 is
 and how great it is for education. It occurred to me that the number one

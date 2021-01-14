@@ -1,10 +1,10 @@
-## Saturday, November 21, 2020, 10:25:49PM EST [1606015549]
+## Saturday, November 21, 2020, 10:25:49PM EST <1606015549>
 
 Holy shit. My fan just took off from just one Restream preview window
 being opened and when I closed it everything is fine. Must have hit some
 kind of threshold.
 
-## Saturday, November 21, 2020, 8:52:11PM EST [1606009931]
+## Saturday, November 21, 2020, 8:52:11PM EST <1606009931>
 
 Struggling with how to handle the possibility of multiple redirections
 happening at the same time. At one point I had each `App` have their own
@@ -18,7 +18,7 @@ them within a given amount of time. I do think `state` should be the
 index key for those because you might theoretically have more than one
 redirect in different flows and need to make sure they line up.
 
-## Saturday, November 21, 2020, 7:01:56PM EST [1606003316]
+## Saturday, November 21, 2020, 7:01:56PM EST <1606003316>
 
 Live coding has really caused me to do all the things I have been
 meaning to and just been putting off. For example, just the tweaking of
@@ -32,7 +32,7 @@ The reason, I believe, is because everything I am doing is to make it
 easier for a non-initiate to understand and therefore I end up making
 things easier for me as well.
 
-## Saturday, November 21, 2020, 6:55:23PM EST [1606002923]
+## Saturday, November 21, 2020, 6:55:23PM EST <1606002923>
 
 So after a request to fix `screenkey`, which after what looks like a
 full hour of futzing with it (for the better) I found this great
@@ -45,7 +45,7 @@ that requires a high level of attentiveness. But I think if I do it that
 I could get used to it --- especially when I'm doing a lot of note
 taking and don't need to make all of that visible. Like just now.
 
-## Saturday, November 21, 2020, 5:47:37PM EST [1605998857]
+## Saturday, November 21, 2020, 5:47:37PM EST <1605998857>
 
 I really need to get `screenkey` working in a way that is safe. Ideally
 it would shut off if certain applications were running, or if I had
@@ -56,7 +56,7 @@ it because I don't think cutting and pasting things ever gets sent to
 `screenkey` in the first place. Definitely need to add it to my *Focus
 Mode* streams.
 
-## Saturday, November 21, 2020, 5:09:39PM EST [1605996579]
+## Saturday, November 21, 2020, 5:09:39PM EST <1605996579>
 
 Even though I fucking hate Dev.to because of their shitty, unnecessary
 dependency on JavaScript to read anything on their *forum* site (Tim
@@ -66,7 +66,7 @@ benchmark](https://dev.to/pmalhaire/concatenate-strings-in-golang-a-quick-benchm
 I was too lazy to do myself. Long story short, always use `+` to
 concatenate strings when you can.
 
-## Saturday, November 21, 2020, 4:26:30PM EST [1605993990]
+## Saturday, November 21, 2020, 4:26:30PM EST <1605993990>
 
 I was typing yet another `if err != nil` when I remembered seeing a tool
 somewhere about that. While off researching it I looked through the
@@ -79,7 +79,7 @@ move packages and resolve all the package name changes. It's `gomvpkg`.
 I still haven't found anything for `nil` but the other stuff is worth
 mentioning.
 
-## Saturday, November 21, 2020, 9:31:38AM EST [1605969098]
+## Saturday, November 21, 2020, 9:31:38AM EST <1605969098>
 
 I feel like I'm always that guy that obsesses about something that is
 broken with an API enough to want to do my own. Just realizing that the
@@ -93,7 +93,7 @@ gives. The place that I would check doesn't even return an error so I
 have to check for random unauthorized errors from the client and then
 trigger a new `.Authorize()` call.
 
-## Saturday, November 21, 2020, 4:53:17AM EST [1605952397]
+## Saturday, November 21, 2020, 4:53:17AM EST <1605952397>
 
 While writing all the Oauth2 stuff it occurred to me that, well, this
 has been around a long time and *surely* someone else has already
@@ -106,7 +106,7 @@ that last week, but this journey has been extremely educational.
 Except for when I just tried it looks like it is only for testing
 *servers* not client implementations. 
 
-## Saturday, November 21, 2020, 4:17:39AM EST [1605950259]
+## Saturday, November 21, 2020, 4:17:39AM EST <1605950259>
 
 I find myself once again annoyed that I cannot *write* YAML reliably in
 Go (or any language for that matter). The complex nature of YAML with
@@ -124,7 +124,7 @@ That kind of thing would be short work once PEGN is complete. Hell, the
 parser would even be automatically generated from the spec. Looks like
 something to add to my wish list.
 
-## Saturday, November 21, 2020, 3:42:33AM EST [1605948153]
+## Saturday, November 21, 2020, 3:42:33AM EST <1605948153>
 
 Added more to the [`gotmpl`](https://gitlab.com/rwxrob/gotmpl) wish.
 
@@ -134,14 +134,14 @@ secrets from it anyway. So rather than test and debug all that just
 going to skip it for now and put that effort into getting an *actual*
 encrypted cache working later.
 
-## Saturday, November 21, 2020, 2:05:22AM EST [1605942322]
+## Saturday, November 21, 2020, 2:05:22AM EST <1605942322>
 
 I'm really fighting the draw of OOP right now. Like having been in a
 cult. "It is me or the cult?" I'm inclined to put all the `auth` package
 functions as methods on the new `Collection` struct. Ugh, it just makes
 too much sense. I feel another branch coming on.
 
-## Saturday, November 21, 2020, 1:55:28AM EST [1605941728]
+## Saturday, November 21, 2020, 1:55:28AM EST <1605941728>
 
 After a fair amount of research it looks like I still have to maintain
 some form of cached key generated from the YubiKey, so that complicates
@@ -173,7 +173,7 @@ implemented the whole thing without doing that before, but the need to
 have everything in a file is what allows the whole file to eventually be
 encrypted. So yeah.
 
-## Saturday, November 21, 2020, 1:08:04AM EST [1605938884]
+## Saturday, November 21, 2020, 1:08:04AM EST <1605938884>
 
 I'm a bit conflicted whether to use YubiKey (FIDO2 U2F) in my little
 `auth` module because doing so automatically adds a `cgo` dependency
@@ -186,7 +186,7 @@ stuff in there. I do know that building will require installing the
 `libfido2-dev` package on Linux at least, which leads me to believe the
 build is no longer truly cross-platform. We'll see.
 
-## Saturday, November 21, 2020, 12:21:15AM EST [1605936075]
+## Saturday, November 21, 2020, 12:21:15AM EST <1605936075>
 
 Found this interesting [blog
 post](https://blog.madewithdrew.com/post/statically-linking-c-to-go/)

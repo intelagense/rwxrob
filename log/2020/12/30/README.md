@@ -1,8 +1,8 @@
-## Wednesday, December 30, 2020, 3:44:10AM EST [1609317850]
+## Wednesday, December 30, 2020, 3:44:10AM EST <1609317850>
 
 I *really* need to read the Command Line book from Neal Stephenson.
 
-## Wednesday, December 30, 2020, 3:29:14AM EST [1609316954]
+## Wednesday, December 30, 2020, 3:29:14AM EST <1609316954>
 
 *Update: I was wrong and so are most of the concerns in the article.
 Submodules are fine when combined with tagging and locking down to a

@@ -1,4 +1,4 @@
-## Saturday, December 12, 2020, 10:00:15PM EST [1607828415]
+## Saturday, December 12, 2020, 10:00:15PM EST <1607828415>
 
 It has been tough working through time very difficult decisions to be
 made regarding the changes being forced on our family. Perhaps the
@@ -30,7 +30,7 @@ capitalism has decided that I simply cannot help them, not me.
 If crony capitalism were an actual human I would shoot it in the 
 face with zero remorse. It has destroyed the lives of millions.
 
-## Saturday, December 12, 2020, 7:29:18PM EST [1607819358]
+## Saturday, December 12, 2020, 7:29:18PM EST <1607819358>
 
 It has been a tough day. It feels like all the realities of our current
 time and situation are crashing down on my family. We haven't gotten

@@ -1,4 +1,4 @@
-## Thursday, November 5, 2020, 2:06:27AM EST [1604559987]
+## Thursday, November 5, 2020, 2:06:27AM EST <1604559987>
 
 I have been completely consumed with the election and what is happening
 in social media. I've been pretty damn tame during all of it seeking to

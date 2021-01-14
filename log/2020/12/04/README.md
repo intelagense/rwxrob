@@ -1,10 +1,10 @@
-## Friday, December 4, 2020, 1:39:37PM EST [1607107177]
+## Friday, December 4, 2020, 1:39:37PM EST <1607107177>
 
 I *really* need to get a [Steelcase Gesture chair](https://duck.com/lite?kd=-1&kp=-1&q=Steelcase Gesture chair) when I have money.
 This one from IKEA has never really cut it. But all the fancy gaming
 chairs have arms preventing from sitting in Lotus and are overpriced.
 
-## Friday, December 4, 2020, 3:43:36AM EST [1607071416]
+## Friday, December 4, 2020, 3:43:36AM EST <1607071416>
 
 <https://developers.google.com/protocol-buffers/docs/proto3>  
 <https://blog.golang.org/protobuf-apiv2>  
@@ -14,12 +14,12 @@ chairs have arms preventing from sitting in Lotus and are overpriced.
 <https://github.com/envoyproxy/protoc-gen-validate>  
 <https://research.google/pubs/pub43438/>
 
-## Friday, December 4, 2020, 2:17:51AM EST [1607066271]
+## Friday, December 4, 2020, 2:17:51AM EST <1607066271>
 
 Take a look at [Mage](https://github.com/magefile/mage) when you get a
 second. It's an interesting `make` alternative.
 
-## Friday, December 4, 2020, 2:05:11AM EST [1607065511]
+## Friday, December 4, 2020, 2:05:11AM EST <1607065511>
 
 Nice tip from [\@taniwha3](https://twitch.tv/taniwha3) about this "hard earned" generator line for
 incorporating Protocol Buffer IDL into a Go project:

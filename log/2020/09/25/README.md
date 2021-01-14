@@ -1,11 +1,11 @@
-## Friday, September 25, 2020, 6:23:44PM EDT [1601072624]
+## Friday, September 25, 2020, 6:23:44PM EDT <1601072624>
 
 TIL you can include `type blah struct{}` declarations within blocks in
 Golang but you *cannot* give them receiver methods. For that you have to
 put them outside of a block. It's a small thing, but definitely made me
 go, "Humm."
 
-## Friday, September 25, 2020, 6:09:58PM EDT [1601071798]
+## Friday, September 25, 2020, 6:09:58PM EDT <1601071798>
 
 Shared `tmux` sessions are the *only* way to pair program as far as I'm
 concerned. The level of ability to monitor and directly help someone is

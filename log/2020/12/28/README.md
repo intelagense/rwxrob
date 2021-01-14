@@ -1,4 +1,4 @@
-## Monday, December 28, 2020, 5:01:33PM EST [1609192893]
+## Monday, December 28, 2020, 5:01:33PM EST <1609192893>
 
 Discovered an [amazing summary of HTML element
 usage](https://www.advancedwebranking.com/html/) while wondering if such

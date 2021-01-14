@@ -1,4 +1,4 @@
-## Thursday, January 7, 2021, 8:55:21PM EST [1610070921]
+## Thursday, January 7, 2021, 8:55:21PM EST <1610070921>
 
 I'm officially dropping Twitch as a primary streaming platform. I have
 almost deleted all the VODS and have disabled VODS and clips. The next
@@ -7,7 +7,7 @@ Twitch chat as well I would. This is the best for everyone. People can
 more reliably get a hold of me and my content. They already have a
 YouTube so they don't have to add another account. 
 
-## Thursday, January 7, 2021, 7:13:18PM EST [1610064798]
+## Thursday, January 7, 2021, 7:13:18PM EST <1610064798>
 
 Realized that if I use good commit messages --- even on my personal log
 entries --- that it provides a very nice history that can easily be
@@ -20,13 +20,13 @@ to follow you on GitHub as opposed to RSS or something.
 Humm, I wonder if there is a built-in RSS feed for GitHub commit
 notifications.
 
-## Thursday, January 7, 2021, 7:07:34PM EST [1610064454]
+## Thursday, January 7, 2021, 7:07:34PM EST <1610064454>
 
 Learned the hard way that you cannot listen to music from studio
 speakers if there is *any* bleed into the microphone because it will
 demonetize and mute your video.
 
-## Thursday, January 7, 2021, 5:28:36PM EST [1610058516]
+## Thursday, January 7, 2021, 5:28:36PM EST <1610058516>
 
 Had a momentary lapse of insanity allowing myself to actually believe
 that I could bring some reform to the educational system by working for
@@ -68,7 +68,7 @@ supporting the system I'm fighting against. Never again. I'm done
 falling into this thought trap. I'll need a reminder again in a few
 months. I always do.
 
-## Thursday, January 7, 2021, 4:53:17PM EST [1610056397]
+## Thursday, January 7, 2021, 4:53:17PM EST <1610056397>
 
 Just out on
 [CodeCombat.com](https://duck.com/lite?kd=-1&kp=-1&q=CodeCombat.com) and
@@ -80,7 +80,7 @@ expire and need quarterly updates with new material. That is what I did
 with SkilBots (and probably need to bring out of the closet again).
 That's what I need to create for the <https://skils.dev> domain.
 
-## Thursday, January 7, 2021, 6:25:13AM EST [1610018713]
+## Thursday, January 7, 2021, 6:25:13AM EST <1610018713>
 
 Just added a way to instantly post to the live chat a link that searches
 my YouTube videos for a specific keyword or phrase:

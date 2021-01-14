@@ -1,4 +1,4 @@
-## Wednesday, November 25, 2020, 1:00:46PM EST [1606327246]
+## Wednesday, November 25, 2020, 1:00:46PM EST <1606327246>
 
 Worth noting that learning Vim registers really isn't worth it, to me.
 After spending a few minutes researching it just writing to temporary
@@ -11,7 +11,7 @@ discovering this will same someone some time later. Just stick with `:w
 /tmp/blah` and `:r /tmp/blah` and you're good.
 
 
-## Wednesday, November 25, 2020, 2:20:28AM EST [1606288828]
+## Wednesday, November 25, 2020, 2:20:28AM EST <1606288828>
 
 Mormonism is Scientology Lite, a Christian-ish form of it much like
 Jehovah's Witnesses. All of them destroy families by getting them to

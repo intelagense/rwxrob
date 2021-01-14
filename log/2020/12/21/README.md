@@ -1,4 +1,4 @@
-## Monday, December 21, 2020, 6:05:01PM EST [1608591901]
+## Monday, December 21, 2020, 6:05:01PM EST <1608591901>
 
 Something so simple can make me so happy. I can't believe I totally
 forgot about this gem of a `lynx` configuration addition. This open a

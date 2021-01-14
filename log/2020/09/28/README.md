@@ -1,4 +1,4 @@
-## Monday, September 28, 2020, 4:30:23PM EDT [1601325023]
+## Monday, September 28, 2020, 4:30:23PM EDT <1601325023>
 
 So I applied to Linkedin for streaming and am feeling remorse for using
 so many swear words on my streams. I am back to finding as many *other*

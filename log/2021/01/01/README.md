@@ -1,4 +1,4 @@
-## Friday, January 1, 2021, 6:51:02PM EST [1609545062]
+## Friday, January 1, 2021, 6:51:02PM EST <1609545062>
 
 [This](https://www.theguardian.com/film/2021/jan/01/robin-williamss-widow-there-were-so-many-misunderstandings-about-what-had-happened-to-him)
 is why I refused to read *anything* when Robin Williams died.
@@ -33,7 +33,7 @@ can understand. Do better. You can make it."
 
 Thank you, Robin.
 
-## Friday, January 1, 2021, 6:19:57PM EST [1609543197]
+## Friday, January 1, 2021, 6:19:57PM EST <1609543197>
 
 2020 ends with the undeniable, overwhelming --- and now very main-stream
 --- importance of
@@ -45,7 +45,7 @@ engineers.
 In other words, understanding `docker` is as important as understanding
 Linux or `ssh` today. That's how fundamental those skills are.
 
-## Friday, January 1, 2021, 7:39:55AM EST [1609504795]
+## Friday, January 1, 2021, 7:39:55AM EST <1609504795>
 
 Ran into an some info about an [old friend and
 mentor](https://humanities.byu.edu/person/devin-n-asay/) who is still

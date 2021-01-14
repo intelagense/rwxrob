@@ -1,4 +1,4 @@
-## Monday, September 14, 2020, 6:24:13PM EDT [1600122253]
+## Monday, September 14, 2020, 6:24:13PM EDT <1600122253>
 
 I am back to stuffing all my notes and rants into a single file per
 year. It's just easier all around: makes searching a breeze even without
@@ -10,7 +10,7 @@ As for scrolling and user performance? It's just a bunch of text so it
 should be fine plus it makes me more aware when I write too much that
 belongs either in a video or separate article.
 
-## Monday, September 14, 2020, 6:07:50PM EDT [1600121270]
+## Monday, September 14, 2020, 6:07:50PM EDT <1600121270>
 
 You'd think I would pay more attention to the quality of this site.
 Mostly its just a place to brain dump and take notes. I certainly don't
@@ -52,7 +52,7 @@ exorbitant amounts they demand.
 Nothing will ever beat a personal connection and work evaluation. Git
 services are just one part of that.
 
-## Monday, September 14, 2020, 4:41:56PM EDT [1600116116]
+## Monday, September 14, 2020, 4:41:56PM EDT <1600116116>
 
 I'm again reminded how superior a simple, multi-user cloud Linux machine
 from Digital Ocean is to REPL.it. Once again we had several problems

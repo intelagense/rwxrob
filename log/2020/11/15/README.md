@@ -1,4 +1,4 @@
-## Sunday, November 15, 2020, 7:54:50PM EST [1605488090]
+## Sunday, November 15, 2020, 7:54:50PM EST <1605488090>
 
 God I hate when even an IETF RFC can't be in sync with what everyone
 uses out there. Something as simple as `expires` with the UNIX epoch
@@ -10,7 +10,7 @@ minutes just to be safe. I'll use the `expires` field if there is one,
 otherwise I'll calculate it before caching and keep that 10 minute
 buffer for renews to play it safe.
 
-## Sunday, November 15, 2020, 5:36:06PM EST [1605479766]
+## Sunday, November 15, 2020, 5:36:06PM EST <1605479766>
 
 I swear, object-oriented programming has ruined me. I *still* think of
 everything as a object with methods from the very beginning when just
@@ -18,7 +18,7 @@ data and functions will be better most of the time. Caught myself this
 time and really simplified the `oauth` domain model, but I really have
 to keep on it.
 
-## Sunday, November 15, 2020, 2:32:40PM EST [1605468760]
+## Sunday, November 15, 2020, 2:32:40PM EST <1605468760>
 
 Noticing that <https://developers.restream.io> really puts a lot of extra
 unnecessary, redundant shit into their token JSON. The
@@ -51,7 +51,7 @@ token is for an extended period of time and when attempting a refresh
 with it if there is a failure than simply grab an entirely new token
 using the full Oauth2 user authentication cycle.
 
-## Sunday, November 15, 2020, 2:19:36PM EST [1605467976]
+## Sunday, November 15, 2020, 2:19:36PM EST <1605467976>
 
 One of the ways that Oauth2 is so broken is the assumptions surrounding
 the `redirect_uri`. While there is a caution and explanation as to why
@@ -74,14 +74,14 @@ locations.
 Lucky for me there is no way they can ever change that without releasing
 a *very* breaking change to the entire framework.
 
-## Sunday, November 15, 2020, 12:50:23PM EST [1605462623]
+## Sunday, November 15, 2020, 12:50:23PM EST <1605462623>
 
 I *really* need to remember the following for `tmux`:
 
 * `!` - `break-pane` default key (instead of `z`)
 * `list-keys` - lists all the bindings
 
-## Sunday, November 15, 2020, 12:09:31PM EST [1605460171]
+## Sunday, November 15, 2020, 12:09:31PM EST <1605460171>
 
 So turns out Oauth2 is quite a
 [mess](https://en.wikipedia.org/wiki/OAuth#Controversy) but it is

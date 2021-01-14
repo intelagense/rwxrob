@@ -1,4 +1,4 @@
-## Saturday, January 2, 2021, 9:21:48PM EST [1609640508]
+## Saturday, January 2, 2021, 9:21:48PM EST <1609640508>
 
 Need to remember the font type and color in OBS for my video thumbnails:
 
@@ -9,7 +9,7 @@ Size|255
 Color 1|`#fadb2f`
 Color 2|`#d79921`
 
-## Saturday, January 2, 2021, 8:17:23PM EST [1609636643]
+## Saturday, January 2, 2021, 8:17:23PM EST <1609636643>
 
 Below are the different profile sections one can add to their LinkedIn
 profile. 
@@ -38,7 +38,7 @@ profile.
   * Organizations
 * Recommendations
 
-## Saturday, January 2, 2021, 2:15:50PM EST [1609614950]
+## Saturday, January 2, 2021, 2:15:50PM EST <1609614950>
 
 As I transfer my work history from LinkedIn into a simple `vitae.yml` file I've
 been enjoying the opportunity to reflect back on everything. Most of it

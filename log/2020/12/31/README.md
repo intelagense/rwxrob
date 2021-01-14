@@ -1,4 +1,4 @@
-## Thursday, December 31, 2020, 5:10:29PM EST [1609452629]
+## Thursday, December 31, 2020, 5:10:29PM EST <1609452629>
 
 After more research looks like Consul+Nomad is for "small to medium
 sized businesses" while Kubernetes is for "Google scale" enterprises.
@@ -9,7 +9,7 @@ and overengineer things and always has but Kubernetes is the industry
 standard (unfortunately) so I have to learn it first even though
 Hashicorp is clearly a superior company on pretty much every level.
 
-## Thursday, December 31, 2020, 4:34:37PM EST [1609450477]
+## Thursday, December 31, 2020, 4:34:37PM EST <1609450477>
 
 Once again I learn a lot just by following the decisions of a single,
 amazing company. 
@@ -26,7 +26,7 @@ I will be licensing (and relicensing) *everything* under MPLv2. It
 protects trademarks, grants patents, is backed by Mozilla and more. I'll
 do a better write up some day on the rest later along with a video.
 
-## Thursday, December 31, 2020, 4:18:26PM EST [1609449506]
+## Thursday, December 31, 2020, 4:18:26PM EST <1609449506>
 
 After reading through the
 [HCL](https://github.com/hashicorp/hcl/tree/hcl2) spec it is *very*
@@ -36,7 +36,7 @@ between YAML (humans only) and raw JSON (machines only). It has native
 Go parsing thanks to [fatih](https://github.com/fatih) (who fled the US
 in 2020, by the way).
 
-## Thursday, December 31, 2020, 3:43:04PM EST [1609447384]
+## Thursday, December 31, 2020, 3:43:04PM EST <1609447384>
 
 Nomad 1.0 from Hashicorp came out recently. So far the best review of
 Kubernetes v.s. Nomad is from [Fabrice

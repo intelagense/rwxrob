@@ -1,4 +1,4 @@
-## Wednesday, December 2, 2020, 7:09:50PM EST [1606954190]
+## Wednesday, December 2, 2020, 7:09:50PM EST <1606954190>
 
 I fucking hate how rigged the system is. I simply cannot get health
 insurance unless I work for a particular type of company, one that is
@@ -19,7 +19,7 @@ I fucking hate this. God help us all if an advanced society like that of
 2020 hasn't even figured out how to keep people universally healthy even
 though we spend \$700 billion dollars a year on the military budget.
 
-## Wednesday, December 2, 2020, 5:15:47PM EST [1606947347]
+## Wednesday, December 2, 2020, 5:15:47PM EST <1606947347>
 
 Udemy sucks for people who know how to create their own apps, which is
 not nearly as hard as it used to be. They give creators only 25% of
@@ -35,7 +35,7 @@ content. But I'm *never* going to just produce paid content. Instead,
 those who want the edited and condensed stuff take from the live
 sessions can pay and support the stream and community in the process.
 
-## Wednesday, December 2, 2020, 5:03:31PM EST [1606946611]
+## Wednesday, December 2, 2020, 5:03:31PM EST <1606946611>
 
 I just had a major break-through. It was one of those moments when
 everything just came together. Here's what it was about.
@@ -121,7 +121,7 @@ as simultaneously as possible:
 I'm sure the list will grow, but that is a start to I can keep track of
 stuff.
 
-## Wednesday, December 2, 2020, 4:30:35PM EST [1606944635]
+## Wednesday, December 2, 2020, 4:30:35PM EST <1606944635>
 
 After reading through the YouTube partner policies for advertising
 content I realized there is no way in hell I will ever seek to be a
@@ -151,7 +151,7 @@ cover the general cost to make it. Over time the Udemy money would
 counter the time investment. It's just a matter of running some numbers
 to see how long it would take to recoup the time investment.
 
-## Wednesday, December 2, 2020, 12:20:33AM EST [1606886433]
+## Wednesday, December 2, 2020, 12:20:33AM EST <1606886433>
 
 Need to look into `xwinwrap` in order to make a video into the GNOME
 background.

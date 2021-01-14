@@ -1,4 +1,4 @@
-## Tuesday, December 22, 2020, 5:09:39PM EST [1608674979]
+## Tuesday, December 22, 2020, 5:09:39PM EST <1608674979>
 
 I was about to post a link to these posts about the GitHub stuff and
 realized I have a greater need to build a knowledge base site search
@@ -45,7 +45,7 @@ solution is one of the more substantial thought breakthroughs I've had
 in regard to all of this, and it was born from a real need I'm
 experiencing right now.
 
-## Tuesday, December 22, 2020, 4:52:12PM EST [1608673932]
+## Tuesday, December 22, 2020, 4:52:12PM EST <1608673932>
 
 My last post about GitHub really outpacing GitLab has really caused me
 to look at the reality that Silicon Valley companies still seem to be
@@ -70,7 +70,7 @@ like the `gh` command line, which solidified GitHub's dominance on the
 API front having been the first company to adopt GraphQL when it came
 out. GitLab *still* doesn't have a full GraphQL API.
 
-## Tuesday, December 22, 2020, 4:28:03PM EST [1608672483]
+## Tuesday, December 22, 2020, 4:28:03PM EST <1608672483>
 
 Since discovering I can push to both GitHub and GitLab without any
 problem (no need for the mirroring function of GitLab), I'm really

@@ -1,4 +1,4 @@
-## Friday, December 11, 2020, 4:08:52PM EST [1607720932]
+## Friday, December 11, 2020, 4:08:52PM EST <1607720932>
 
 Here's a summary of the main Go terminal UI modules:
 
@@ -10,7 +10,7 @@ Module | Usage
 [`gocui`](https://github.com/jroimartin/gocui)|Like `cview` but not
 [`termbox`](https://github.com/nsf/termbox-go)|Deprecated but still in use
 
-## Friday, December 11, 2020, 6:50:26AM EST [1607687426]
+## Friday, December 11, 2020, 6:50:26AM EST <1607687426>
 
 I've shifted from random enthusiasm about what this overengineered
 resume project could grow into a centralized database store to a saner
@@ -22,7 +22,7 @@ resume without doxing them in any way. Then someone making use of the
 `resume` tool could decide which template to use to produce public views
 of them. This makes me feel better about the direction.
 
-## Friday, December 11, 2020, 4:33:16AM EST [1607679196]
+## Friday, December 11, 2020, 4:33:16AM EST <1607679196>
 
 After some experimentation with the automated documentation generation
 from `protoc` it is clear that I *never* want to use inline style
@@ -42,7 +42,7 @@ message Bar {
 }
 ```
 
-## Friday, December 11, 2020, 3:32:27AM EST [1607675547]
+## Friday, December 11, 2020, 3:32:27AM EST <1607675547>
 
 A quick glance around the Internetz reveals no *obvious* AST parser for
 the Protocol Buffer grammar. There is something in Antlr, but yeah.
@@ -54,7 +54,7 @@ whatever for it.
 If nothing more, this is a good example of why a *good* meta-language to
 capture *any* grammar is such a powerful idea.
 
-## Friday, December 11, 2020, 2:42:24AM EST [1607672544]
+## Friday, December 11, 2020, 2:42:24AM EST <1607672544>
 
 Need to create an addition to my Vi/m guide that covers the specific
 most common key combinations during an edit session, for example:

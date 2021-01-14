@@ -1,4 +1,4 @@
-## Saturday, November 14, 2020, 9:32:25PM EST [1605407545]
+## Saturday, November 14, 2020, 9:32:25PM EST <1605407545>
 
 Watching the series about [Scientology on Netflix](https://duck.com/lite?kd=-1&kp=-1&q=Scientology on Netflix) serves as a
 horrifying reminder just how bad I *could* have had it had I been raised
@@ -15,7 +15,7 @@ because I fucking lived through it, barely. I can never seem to
 understand how we humans fall for it, but we do over and over. In fact,
 Trumpism is a form of it.
 
-## Saturday, November 14, 2020, 3:45:01PM EST [1605386701]
+## Saturday, November 14, 2020, 3:45:01PM EST <1605386701>
 
 \$100,000 starting salary as a "Junior" developer, that's what one of my
 former members just shared that they are making after I checked in on
@@ -34,7 +34,7 @@ obtained that level of expertise had they been a member of a group of
 even two learning at the same time. One-on-one mentoring is the *only*
 true form of "teaching" that *really* works.
 
-## Saturday, November 14, 2020, 2:19:51PM EST [1605381591]
+## Saturday, November 14, 2020, 2:19:51PM EST <1605381591>
 
 It really breaks my heart to realize that --- as much as I love C and
 embedded computing --- I'm just not going to be able to turn that into
@@ -57,7 +57,7 @@ strict typing with Go.
 In fact, it is more important to learn Python and Ruby than C for the
 targeted backend engineering positions, even Erlang and Rust before C.
 
-## Saturday, November 14, 2020, 1:02:19PM EST [1605376939]
+## Saturday, November 14, 2020, 1:02:19PM EST <1605376939>
 
 As I prepare to work for someone else (not myself) I have had to isolate
 the best possible contribution I can make to any organization as well as

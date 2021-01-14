@@ -1,4 +1,4 @@
-## Saturday, December 19, 2020, 6:22:10PM EST [1608420130]
+## Saturday, December 19, 2020, 6:22:10PM EST <1608420130>
 
 Now that I've accepted my vimism fate (so long `vi` purism) there are
 all kinds of possibilities that are just for my personal fingers. Here's
@@ -18,7 +18,7 @@ I'm dropping VSCode completely from the *Learning Web Design*
 walkthrough and never even discussing it other than to tell them to go
 get an editor and install it.
 
-## Saturday, December 19, 2020, 5:41:29PM EST [1608417689]
+## Saturday, December 19, 2020, 5:41:29PM EST <1608417689>
 
 I cannot overstate my joy at discovering the rather obvious solution to
 `git` committing to multiple repositories by adding extra origins.
@@ -38,7 +38,7 @@ which is *by far* the most practical way to keep the repos coordinated.
 Obviously, adding the canonical source is essential in the `README.md`
 file --- especially for Go package modules.
 
-## Saturday, December 19, 2020, 7:41:09AM EST [1608381669]
+## Saturday, December 19, 2020, 7:41:09AM EST <1608381669>
 
 After discovering this cool little trick with multiple origins I thought
 why not post to Source Hut as well. Then I saw that URLs have tilde's in
@@ -48,7 +48,7 @@ repositories. That is a *major* oversight on the part of the Source Hut
 designers. No wonder the very amazing `cview` project abandoned it when
 they got serious. I guess some people have to learn the hard way.
 
-## Saturday, December 19, 2020, 7:31:11AM EST [1608381071]
+## Saturday, December 19, 2020, 7:31:11AM EST <1608381071>
 
 TIL that the easiest way to keep GitLab and GitHub in sync is simply to
 push to both of them at the same time (instead of messing around with

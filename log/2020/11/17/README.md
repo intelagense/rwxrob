@@ -1,4 +1,4 @@
-## Tuesday, November 17, 2020, 9:48:59PM EST [1605667739]
+## Tuesday, November 17, 2020, 9:48:59PM EST <1605667739>
 
 Need to take some time and really read through all the [Oauth2 Golang
 library](https://duck.com/lite?kd=-1&kp=-1&q=Oauth2 Golang library). I
@@ -17,7 +17,7 @@ to a temporary HTTP server that then passes it within the same runtime
 to the client side within the command line app effectively taking care
 of the cut and paste step doing it internally.
 
-## Tuesday, November 17, 2020, 4:55:03PM EST [1605650103]
+## Tuesday, November 17, 2020, 4:55:03PM EST <1605650103>
 
 Finally figured out what was wrong with `gruvbox` for Vim. It has the
 background set to `#262626` instead of `#282828`, which I actually like
@@ -25,7 +25,7 @@ better so I set my terminal background to the same instead of changing
 the `gruvbox` plugin. I don't know why there is such a difference
 between them when they come from the same project repo, but oh well.
 
-## Tuesday, November 17, 2020, 3:27:10PM EST [1605644830]
+## Tuesday, November 17, 2020, 3:27:10PM EST <1605644830>
 
 Just discovered that YouTube does an awesome job of creating subtitles
 provided the audio is really clear and good. Yet another reason I should
@@ -38,7 +38,7 @@ with Twitch. (YouTube, remember, also offers free transcoding that
 requires you to be partner to get on Twitch reliably.) Twitch, however,
 has a much better chat interface with its support for IRC. 
 
-## Tuesday, November 17, 2020, 3:50:05AM EST [1605603005]
+## Tuesday, November 17, 2020, 3:50:05AM EST <1605603005>
 
 Wouldn't you know it. After clicking on the Restream bot I never checked
 the terminal IRC I have been using and sure enough there it was. Vierra
@@ -47,7 +47,7 @@ works. I'm still going to complete the `oauth` module (and the
 `restream` app) just 'cuz. If nothing more I need to slug through the
 angst of Oauth2 fully in order to grok it fully.
 
-## Tuesday, November 17, 2020, 3:07:22AM EST [1605600442]
+## Tuesday, November 17, 2020, 3:07:22AM EST <1605600442>
 
 Okay so my goal for the next few hours is to get the `RequestToken()`
 function finished and working along with a `mock` handler for testing
@@ -57,7 +57,7 @@ Here's some good Oauth2 resources found during this session:
 
 * <https://256stuff.com/gray/docs/oauth2.0/>
 
-## Tuesday, November 17, 2020, 2:25:31AM EST [1605597931]
+## Tuesday, November 17, 2020, 2:25:31AM EST <1605597931>
 
 Just one more entry about this schedule stuff.
 
@@ -114,14 +114,14 @@ magical about having chillhop music on while the rest of the world is
 slumbering. It is so relaxing, and God knows I need relaxation to keep
 alive today.
 
-## Tuesday, November 17, 2020, 1:42:36AM EST [1605595356]
+## Tuesday, November 17, 2020, 1:42:36AM EST <1605595356>
 
 Watching the NASA Live from Space Twitch feed has really lit a fire
 under my ass. Live streaming has completely changed the world. It is
 truly 2020. I can do *even* more to more human along in a good
 direction.
 
-## Tuesday, November 17, 2020, 1:18:59AM EST [1605593939]
+## Tuesday, November 17, 2020, 1:18:59AM EST <1605593939>
 
 *Senior Software Engineer (Full Stack Developer)*, that's my new title.
 I'll be *Project Lead* and *Architect* as well. Imma give those titles to
@@ -142,7 +142,7 @@ throughout the entire year, while the two SaaS apps will be one after
 the other. We might finish before that, but not going to push it. I want
 this stuff to be done right.
 
-## Tuesday, November 17, 2020, 1:04:44AM EST [1605593084]
+## Tuesday, November 17, 2020, 1:04:44AM EST <1605593084>
 
 It's gonna be a bitch to kick my new sleep pattern. Perhaps starting to
 run/walk will help later. Currently, I have a thing where my body is

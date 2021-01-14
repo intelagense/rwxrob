@@ -1,4 +1,4 @@
-## Saturday, November 28, 2020, 1:43:29PM EST [1606589009]
+## Saturday, November 28, 2020, 1:43:29PM EST <1606589009>
 
 As I was worked more on my `cmdtab` library today I realized that my
 dream of doing code generation, instead of depending on `init` functions
@@ -16,7 +16,7 @@ flowing through the logic of a massive switch.
 It's just good to know I can add it either way. This means that any
 hesitation I had about `cmdtab` using `init` has been obliterated.
 
-## Saturday, November 28, 2020, 12:24:37AM EST [1606541077]
+## Saturday, November 28, 2020, 12:24:37AM EST <1606541077>
 
 Out of curiosity related to the `iferr` tool (that I still haven't
 figured out) I happened upon the [vim-go

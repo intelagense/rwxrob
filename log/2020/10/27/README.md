@@ -1,4 +1,4 @@
-## Tuesday, October 27, 2020, 1:58:47PM EDT [1603821527]
+## Tuesday, October 27, 2020, 1:58:47PM EDT <1603821527>
 
 Peter had another great recommendation for those considering BSD,
 [*Absolute FreeBSD - The Complete Guide to

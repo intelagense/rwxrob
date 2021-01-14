@@ -1,4 +1,4 @@
-## Monday, January 11, 2021, 1:15:40PM EST [1610388940]
+## Monday, January 11, 2021, 1:15:40PM EST <1610388940>
 
 Been wondering about the `yml` v.s. `yaml` again and after reading that
 the overwhelming majority of Internet searches result in the preference

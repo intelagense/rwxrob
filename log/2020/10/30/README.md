@@ -1,10 +1,10 @@
-## Friday, October 30, 2020, 11:16:48PM EDT [1604114208]
+## Friday, October 30, 2020, 11:16:48PM EDT <1604114208>
 
 Just found out that using a GitHub raw URL includes a token in the query
 string that expires after seven days but makes that resource available
 to anyone with the URL --- including those watching my live stream.
 
-## Friday, October 30, 2020, 2:14:27AM EDT [1604038467]
+## Friday, October 30, 2020, 2:14:27AM EDT <1604038467>
 
 I finally got around to reinstalling the [Vimium](https://duck.com/lite?kd=-1&kp=-1&q=Vimium) plugin. I had been
 using it for years and for some reason --- probably all my renewed Lynx
@@ -16,7 +16,7 @@ a big screen and a long keyboard that makes this old man very happy.
 Sometimes it can be the little things like this that make all the
 difference.
 
-## Friday, October 30, 2020, 12:55:32AM EDT [1604033732]
+## Friday, October 30, 2020, 12:55:32AM EDT <1604033732>
 
 The pain in my hands --- especially my pinky fingers --- from hours on
 end of keyboarding is finally happening as I draw closer to my mid 50s

@@ -1,4 +1,4 @@
-## Monday, October 5, 2020, 4:26:54PM EDT [1601929614]
+## Monday, October 5, 2020, 4:26:54PM EDT <1601929614>
 
 This move has to be one of the best things that has happened to us in
 the last 10 years. We are so minimal that everything is clean and

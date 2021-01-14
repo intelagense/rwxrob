@@ -1,4 +1,4 @@
-## Saturday, September 26, 2020, 9:48:45AM EDT [1601128125]
+## Saturday, September 26, 2020, 9:48:45AM EDT <1601128125>
 
 I think I'm finally coming to terms with my favorite naming conventions
 in Go despite their departure from the standard. Thankfully, I'm not the

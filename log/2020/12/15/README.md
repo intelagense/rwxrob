@@ -1,4 +1,4 @@
-## Tuesday, December 15, 2020, 4:28:20PM EST [1608067700]
+## Tuesday, December 15, 2020, 4:28:20PM EST <1608067700>
 
 The more I work on this `protoresume` project, the more I realize it
 isn't really solving the main problem I have. It might assist with the

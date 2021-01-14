@@ -1,4 +1,4 @@
-## Wednesday, September 23, 2020, 7:54:22PM EDT [1600905262]
+## Wednesday, September 23, 2020, 7:54:22PM EDT <1600905262>
 
 I've come to understand that parents --- no matter how well intentioned
 --- just do not have the time to do basic things like read policy

@@ -1,4 +1,4 @@
-## Friday, November 27, 2020, 10:08:46PM EST [1606532926]
+## Friday, November 27, 2020, 10:08:46PM EST <1606532926>
 
 Torn between doing this a quick way that I know will work because it is
 just a little application that will only run currently as a command and
@@ -18,7 +18,7 @@ time to start approaching what seem to be simple menial tasks with a
 *default* consideration for how they can be done concurrently (without
 losing maintainability and simplicity too much).
 
-## Friday, November 27, 2020, 9:37:51PM EST [1606531071]
+## Friday, November 27, 2020, 9:37:51PM EST <1606531071>
 
 Turns out that the super "clever" practice of embedding a GitHub Gist in
 your blog (instead of just fucking typing in the code) makes the code
@@ -33,7 +33,7 @@ relatively good, but the choice 1) to use Medium and 2) to embed a Gist
 when you could have just backticked in the code makes it really lame and
 distracts from the content.
 
-## Friday, November 27, 2020, 9:15:21PM EST [1606529721]
+## Friday, November 27, 2020, 9:15:21PM EST <1606529721>
 
 I've been putting off using Golang contexts in anything significant. I
 really hate them. But, they are used everywhere and I feel like firing
@@ -67,7 +67,7 @@ in on that front if it can make up its fucking mind how it wants to do
 concurrency (they are on like their fourth iteration of official ways to
 do it). I *really fucking hate* contexts.
 
-## Friday, November 27, 2020, 7:49:08PM EST [1606524548]
+## Friday, November 27, 2020, 7:49:08PM EST <1606524548>
 
 So the design that is emerging for this `live` streaming helper utility
 stuff is to just capture the websockets data to a rotated log file with
@@ -124,7 +124,7 @@ Still, I could approach the whole thing in a K8S style. We'll see. Don't
 want to get too crazy. It's just a way to search the logs after all and
 grep (or equivalent) is fine for most of it.
 
-## Friday, November 27, 2020, 7:25:01PM EST [1606523101]
+## Friday, November 27, 2020, 7:25:01PM EST <1606523101>
 
 Have to be really careful with OBS Studio lately. It keeps crashing but
 keeps streaming. Something about the desktop GUI that stops working but
@@ -149,13 +149,13 @@ working are perhaps good for others as well so that more people can gain
 a level of comfort sharing their daily coding work with others, thereby
 helping and motivating them to contribute more themselves.
 
-## Friday, November 27, 2020, 6:12:00PM EST [1606518720]
+## Friday, November 27, 2020, 6:12:00PM EST <1606518720>
 
 Forgot to add [Golang Swagger
 implementation](https://duck.com/lite?kd=-1&kp=-1&q=Golang Swagger
 implementation) to the list of core skills, and also Kafka.
 
-## Friday, November 27, 2020, 3:11:46PM EST [1606507906]
+## Friday, November 27, 2020, 3:11:46PM EST <1606507906>
 
 I need to create a video and walkthrough of how to isolate bugs that are
 not obvious without the use of any sort of error reporting that gives
@@ -168,13 +168,13 @@ that even the best debugging, stepping IDE execution, and other code
 analysis tools still are not as reliable as the good 'ol "comment and
 print" method.
 
-## Friday, November 27, 2020, 3:22:09AM EST [1606465329]
+## Friday, November 27, 2020, 3:22:09AM EST <1606465329>
 
 I have to remember that `slop` is the name of the X geometry helper
 utility. It is essential when changing position for the `screenkey`
 utility.
 
-## Friday, November 27, 2020, 3:02:52AM EST [1606464172]
+## Friday, November 27, 2020, 3:02:52AM EST <1606464172>
 
 Oooo, more good resources for learning Kubernetes from one of the
 original architects. <https://kube.academy/> 
@@ -203,7 +203,7 @@ change one can bring about by helping other organizations and
 individuals master this shit. That's really my, um, calling? Oh, god.
 Where's my coffee?
 
-## Friday, November 27, 2020, 2:06:52AM EST [1606460812]
+## Friday, November 27, 2020, 2:06:52AM EST <1606460812>
 
 Doh! Turns out Restream has *two* websockets channels, one with a `chat`
 subdomain and another with `streaming`. The first is the one I wanted,
@@ -212,7 +212,7 @@ because I love that they are completely concurrent so that I can have
 one goroutine updating status in the terminal view (incoming, outgoing,
 views, etc.) while the other just focuses on drawing the incoming chat.
 
-## Friday, November 27, 2020, 1:28:37AM EST [1606458517]
+## Friday, November 27, 2020, 1:28:37AM EST <1606458517>
 
 So looks like I have to do a round-trip for every "event" chat message
 that comes in. The websocket API (that I got working finally) just tells

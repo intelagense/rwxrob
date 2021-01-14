@@ -1,4 +1,4 @@
-## Sunday, September 13, 2020, 9:59:24AM EDT [1600005564]
+## Sunday, September 13, 2020, 9:59:24AM EDT <1600005564>
 
 Need to read [Good Enough
 Software](https://www.liamwho.com/wp-content/uploads/When-Good-Enough-Software-Is-Best.pdf)

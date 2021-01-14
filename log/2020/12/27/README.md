@@ -1,4 +1,4 @@
-## Sunday, December 27, 2020, 10:48:31PM EST [1609127311]
+## Sunday, December 27, 2020, 10:48:31PM EST <1609127311>
 
 Here's some [strong
 evidence](https://www.sciencealert.com/humans-used-to-sleep-in-two-shifts-and-maybe-we-should-start-it-again)
@@ -14,7 +14,7 @@ productivity":
 > wake period where sleepiness builds up across the day and productivity
 > wanes.
 
-## Sunday, December 27, 2020, 8:40:26PM EST [1609119626]
+## Sunday, December 27, 2020, 8:40:26PM EST <1609119626>
 
 Tonight I learned that just adding a `+build ignore` comment to the top
 of a file in a Go package disables the entire file, which is much easier
@@ -26,7 +26,7 @@ command.
 // +build ignore
 ```
 
-## Sunday, December 27, 2020, 8:32:28PM EST [1609119148]
+## Sunday, December 27, 2020, 8:32:28PM EST <1609119148>
 
 I really need to use the CLDR/Unicode `gen.go` from the following repo:
 

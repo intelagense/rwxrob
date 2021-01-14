@@ -1,4 +1,4 @@
-## Friday, October 9, 2020, 8:12:01AM EDT [1602245521]
+## Friday, October 9, 2020, 8:12:01AM EDT <1602245521>
 
 I just read this Tweet and it sent literally shivers down my spine:
 

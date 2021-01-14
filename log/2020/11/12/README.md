@@ -1,4 +1,4 @@
-## Thursday, November 12, 2020, 5:12:53AM EST [1605175973]
+## Thursday, November 12, 2020, 5:12:53AM EST <1605175973>
 
 Finished watching *One Flew Over the Cuckoo's Nest* and realizing I have
 probably have more trauma from having been Mormon for 40 years than I

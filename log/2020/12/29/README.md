@@ -1,4 +1,4 @@
-## Tuesday, December 29, 2020, 1:19:22AM EST [1609222762]
+## Tuesday, December 29, 2020, 1:19:22AM EST <1609222762>
 
 TIL some cool Bash tricks.
 
