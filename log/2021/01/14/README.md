@@ -1,3 +1,36 @@
+## Thursday, January 14, 2021, 6:30:22AM EST <1610623822>
+
+Finding out some cool stuff about the `gh` command after being a little
+put off by it not supporting removal of repos by default. Turns out you
+can add aliases and even full script integration just in the YAML
+configuration file. It is pretty damn cool and prevents me from having
+to create a wrapper bash script.
+
+By the way, creating a repo is always better with `gh repo create
+<repo-name>` than from within a repo since it does the `git init` for
+you. But, if you happen to have a repo already, then (despite the
+incorrect notification about adding a directory) it will create the repo
+from the contents of the current repo.
+
+For example, here is how you add the missing `rm` subcommand:
+
+```
+gh alias set rm 'api -X DELETE "repos/$1"'
+```
+
+The downside of using `gh` for everything is that it locks you into a
+workflow that is GitHub specific when, in fact, people often have repos
+hosted on different services. It would be great if someone could start a
+project that encapsulated the APIs of the different services providing a
+single command line interface utility to all of them. This was my intent
+with the `gits` project, but I can see it I will likely not do anything
+more on it because I'm [sold on staying with
+GitHub](https://www.youtube.com/c/rwxrob/search?query=github).
+
+So, I guess means I have become subject to their plan to lock people
+into GitHub because of the ease of use of their API and command-line
+utility. Oh well. I have other shit to do.
+
 ## Thursday, January 14, 2021, 4:33:22AM EST <1610616802>
 
 Remember that whole saying about a "picture is worth 1000s words." Yeah,

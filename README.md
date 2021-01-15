@@ -37,9 +37,9 @@ software as I did for IBM but written in the Go programming language.
 
 ## Work History
 
-📃 My full curriculum vitae is available as [a YAML file](vitae.yml).  
+📃 My full curriculum vitae is available as [a YAML file](cv/vitae.yml).  
 ☺️  Professional referrals and recommendations are [also
-available](refer.yml).
+available](cv/refer.yml).
 
 Before starting the company that currently employs me, I spent 14 years
 at IBM making software and caring for the systems it ran on. Perl, Bash,
