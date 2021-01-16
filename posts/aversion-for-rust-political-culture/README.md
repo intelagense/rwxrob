@@ -64,7 +64,7 @@ Rust has the worse syntax I have seen in 30 years of programming. It
 makes Perl look like 3rd grade English and Java look like a Harry Potter
 novel. 
 
-## Rust is *Not* for Beginners, Assholes Love It
+## Rust is *Not* for Beginners
 
 Rust is *not* for beginners. No matter how many documents and fancy
 "Ferris" shirts and posters they make. Rust will *never* be for

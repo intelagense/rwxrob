@@ -8,12 +8,12 @@ the revolution in knowledge management if we are being completely honest
 a loose or tight/strict model for that knowledge component.
 
 I haven't researched it but I'm pretty sure there isn't a lot out there
-about [knowledge components](https://duck.com/lite?kae=t&q=knowledge components). If there were, it would likely have to
+about [knowledge components](https://duck.com/lite?kae=t&q=knowledge+components). If there were, it would likely have to
 deal with the issue of the data model of the knowledge component type.
 
 ## Lessons from Failed Semantic Web
 
-Th [semantic web project](https://duck.com/lite?kae=t&q=semantic web project) attempted to strictly type stuff on the Web.
+Th [semantic web project](https://duck.com/lite?kae=t&q=semantic+web+project) attempted to strictly type stuff on the Web.
 It had ways of dealing with looser and custom content types but
 collapsed under its own weight of unnecessary complexity. I certainly
 don't want that here. I wonder if the main reason is because it tried to

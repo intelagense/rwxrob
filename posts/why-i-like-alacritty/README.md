@@ -7,6 +7,12 @@ Summary:
 
 ---
 
+*Update: I no longer use Alacritty. Gnome-Terminal is plenty fast and
+already there. No need to update. Also Alacritty has bugs and still
+lacks some support for UTF-8, I've discovered. Also I do a lot of
+transparency adjustment and that is just plain easier from a GUI slider
+widget*
+
 ## Fastest Terminal Emulator
 
 ## Dynamic Configuration in YAML
