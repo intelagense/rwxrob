@@ -1,6 +1,4 @@
----
-title: Personal Work Plan
----
+# Personal Work Plan
 
 ## Upcoming Videos
 

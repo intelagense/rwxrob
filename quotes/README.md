@@ -1,6 +1,5 @@
----
-Title: Quotes
----
+# Great Quotes
+
 * "I love deadlines. I like the wooshing sound they make as they fly
   by."
 * "The S in IoT stands for Security"
@@ -46,7 +45,7 @@ Title: Quotes
 - 'What I was I played. Now I stay. (BKSI)'
 - 'Begin where you are. (BKSI)'
 - 'Just browsing around today with Lynx made me realize how often I have to parse things into shapes in my mind to make sense of the information. (@shawnadelotte)'
-- 'For almost every purpose aliases are superceded by shell functions. (Bash Manual Page)'
+- 'For almost every purpose aliases are superseded by shell functions. (Bash Manual Page)'
 - '9/10 times someone is just behaving like an asshole momentarily, rather than just plain being an asshole. (mousepotato)'
 - 'Zsh cannot export functions? Do I need to say more? (@rwxrob)'
 - 'Close when you open. (@rwxrob)'
@@ -56,7 +55,7 @@ Title: Quotes
 - "It's sort of a terrible abstraction fly-strip. (Brian Cantrill)"
 - "The biggest thing I look for in a candidate is self-motivated learners. Home labs, personal projects, and participation in CTFs stood out. (neogodfather)"
 - "A smooth sea never made a skilled sailor."
-- "Dont judge art by it's creator, otherwise we can't like anything. (kipvanderzee)"
+- "Don't judge art by it's creator, otherwise we can't like anything. (kipvanderzee)"
 - "I git-commit every 20 seconds. Commit is not a commitment. (strager)"
 - "My \$0.02 is that you can find a whole list of things wrong with *every* language depending on how you look at it. (MousePotato)"
 - "Electron: Where XSS is RCE. (equipollent_z)"
