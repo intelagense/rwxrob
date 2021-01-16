@@ -1,5 +1,6 @@
 # Great Quotes
 
+* "You look at the painting not the tools the artist uses." [\@moz_uk](https://twitch.tv/moz_uk)
 * "I love deadlines. I like the wooshing sound they make as they fly
   by."
 * "The S in IoT stands for Security"
