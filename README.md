@@ -58,20 +58,17 @@ first-ever internal blog was one highlight of my career, more even than
 the live chats I created and ran for CEO Phil Knight, John McEnroe,
 Michael Johnson, and others.
 
-## Radical Transparency
+## Reasonable Transparency
 
 While I'm a big fan of privacy and regularly champion companies and
-products that promote it, I'm also a big fan of "radical transparency"
-in everything I do, which is why this site and repo contain so much
-personal information including my [notes on different topics](notes) a
-[personal log](log). (I've always hated the term blog.) Just remember,
-nothing I've written  represents any entity with which I have ever been
-associated in any capacity.
-
-## Other Stuff
-
-* [Personality](personality)
-* [Personal Code of Conduct](conduct)
+products that promote it, I've also chosen to be reasonably transparent
+online. I figure at this point in my life it is a way to help others out
+who might want to learn from my successes and failures. This is why I've
+included so much personal information including my [notes on different
+topics](notes), [favorite quotes](quotes), a [personality
+summary](personality), [personal code of conduct](conduct), and [reverse
+chonological log](log). (I've always hated the term blog.) Nothing I've
+written represents any entity with which I have ever been associated.
 
 ## Copyright
 
@@ -80,5 +77,7 @@ and videos are not included. Everything on this profile site is
 copyrighted and released under [Creative Commons
 Attribution-NonCommercial-NoDerivatives 4.0
 International](https://creativecommons.org/licenses/by-nc-nd/4.0/) which
-means you can duplicate it as is for noncommercial purposes, but cannot
-change a thing.
+means you may duplicate it for noncommercial purposes, but cannot modify
+it. This allows you to create a copy for your own personal reference if
+you wish (which is required for any knowledge base in the MimWorks
+Knowledge Network).
