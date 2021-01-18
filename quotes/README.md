@@ -1,5 +1,7 @@
 # Great Quotes
 
+* "The FSF refers to their GPLv3 restriction as free software, which is
+  like North Korea calling itself 'democratic', it's a newspeaky redefinition of language."
 * "Didn't the Family Guy owner make pandoc?" (someone from stream)
 * "You look at the painting not the tools the artist uses." [\@moz_uk](https://twitch.tv/moz_uk)
 * "I love deadlines. I like the wooshing sound they make as they fly
