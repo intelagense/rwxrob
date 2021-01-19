@@ -14,4 +14,6 @@ majors. It is not secret [Adobe Flash is no longer supported](https://duck.com/l
 
 * [More
   information](https://eduspiral.com/about-us-eduspiral-consultant-services/advise-best-course-study-top-private-universities-malaysia/choosing-your-course/best-design-courses-top-universities-malaysia/animation/malaysias-top-universities-offering-diploma-in-digital-animation-visual-effects-vfx/)
+* <http://www.apu.edu.my/> 
+* <https://new.apu.edu.my/> 
 
