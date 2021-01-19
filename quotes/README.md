@@ -1,5 +1,6 @@
 # Great Quotes
 
+* "GPLv3: It's copyleft with a gun put to your head." [\@semiote](https://twitch.tv/semiote)
 * "Life's most persistent and urgent question is: 'What are you doing for others?’” (Martin Luther King Jr.)
 * "The FSF refers to their GPLv3 restriction as free software, which is
   like North Korea calling itself 'democratic', it's a newspeaky redefinition of language."
