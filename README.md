@@ -15,11 +15,11 @@ observed that learning best happens in the lab, not the lecture hall. So
 I built a humble lab into a small company and have enjoyed helping
 hundreds since to find their way through the tech jungle.
 
-Participating as a member of the [rwxrob.live](https://rwxrob.live)
-community has become my favorite tech-related past-time. I've logged
-many hours live streaming and working on a [beginner boost video
-series](https://youtube.com/rwxrob) to help others get started. Topics
-have included:
+Live coding and conversation with my friends who join
+[rwxrob.live](https://rwxrob.live) has become my favorite tech-related
+past-time. I've logged thousands of hours and have been working on a
+[beginner boost video series](https://youtube.com/rwxrob) for some time
+to help others get started. Topics have included:
 
 * Applying autodidactic habits of successful technologists
 * Programming from the command line in Bash, Web, Go, and Python
@@ -27,15 +27,19 @@ have included:
 * Learning cloud native architecture and applications development
 * Applying cybersecurity skills in a learning environment
 
+I love to read and write and maintain a list of [books](books) I've
+read, reviewed, and want to write.
+
 ## Availability
 
-I've been down-sizing my private mentored community gradually and I am
-currently seeking full-time employment specifically doing CTO-type work
-and/or development in Go (golang) creating command line, terminal UI,
-systems and backend applications as well as cloud native applications
-involving Docker, Kubernetes, gRPC, ProtoBuf, et cetera. I'm also
-looking for opportunities to write pentesting and security auditing
-software as I did for IBM but written in the Go programming language.
+I've been down-sizing my private, in-person mentored community gradually
+in an effort to reach out to thousands through streaming and writing.
+This means I am aggressively seeking full-time employment that supports
+this goal doing CTO-type work and/or development in Go (golang) creating
+command line, terminal UI, systems and backend applications as well as
+cloud native applications involving Docker, Kubernetes, gRPC, ProtoBuf,
+et cetera. I'm also considering opportunities to write pentesting and
+security auditing software as I did for IBM as an SRE there.
 
 ## Work History
 
