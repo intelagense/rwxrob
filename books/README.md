@@ -18,6 +18,10 @@ consistent voice and reader in mind and are (usually) edited better.
 That said, the books I write will always be free online with paper
 equivalents in print (like No Starch Press).
 
+### Deep Dives
+
+* The Hidden Power of Bash
+
 ### General Technology
 
 This category of books contains stuff of general interest and import to
