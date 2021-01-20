@@ -5,17 +5,15 @@ they want to join me for live streaming or whatever.
 
 Time|Activity
 -|-
-0400|Coffee
+0130|Shake, Coffee, Work, Stream
 0430|Yoga
-0530|Bath (Savasana)
-0600|Dress, Eat
+0530|Savasana, Bath
 0630|Work, Stream
 0930|Eat, Stream
 1000|Work, Stream
-1230|Eat, Stream
-1400|Outside, Family
-1430|Eat, Nap
+1230|Eat
+1300|Sleep
 1600|Coffee, Mentor, Work, Stream
-1800|Eat, Mentor, Work, Stream
+1800|Eat (while working)
 2100|Eat, Family
 2130|Sleep

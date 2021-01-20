@@ -2,17 +2,19 @@ TimeZone: 'America/Eastern'
 Schedule:
 - WeekDays: [1,2,3,4,5] # Sunday = 0
   Activities:
-  - ['0400', 'Coffee']
-  - ['0430', 'Yoga']
-  - ['0530', 'Bath (Savasana)']
-  - ['0600', 'Dress, Eat']
-  - ['0630', 'Work, Stream']
-  - ['0930', 'Eat, Stream']
-  - ['1000', 'Work, Stream']
-  - ['1230', 'Eat, Stream']
-  - ['1400', 'Outside, Family']
-  - ['1430', 'Eat, Nap']
-  - ['1600', 'Coffee, Mentor, Work, Stream']
-  - ['1800', 'Eat, Mentor, Work, Stream']
-  - ['2100', 'Eat, Family']
-  - ['2130', 'Sleep']
+  - ['0130', 'Shake, Coffee, Work, Stream']  # 3 hours
+  - ['0430', 'Yoga']                         # 1 hour
+  - ['0530', 'Savasana, Bath']               # 1 hour
+  - ['0630', 'Work, Stream']                 # 3 hours
+  - ['0930', 'Eat, Stream']                  # .5 hours
+  - ['1000', 'Work, Stream']                 # 2.5 hours
+  - ['1230', 'Eat']                          # .5 hours
+  - ['1300', 'Sleep']                        # 3 hours
+  - ['1600', 'Coffee, Mentor, Work, Stream'] # 5 hours
+  - ['1800', 'Eat (while working)']         
+  - ['2100', 'Eat, Family']                  # .5 hours
+  - ['2130', 'Sleep']                        # 4 hours
+
+# 8 hours sleep
+# 5 hours mentoring
+# 8 work and streaming
