@@ -1,5 +1,5 @@
 🗿 [Log](log) 📝 [Notes](notes) 📃 [Posts](posts) 🪄 [Tips](tips)
-💪 [CV](cv) 📚 [Books](books) ☠️  [Blacklist](blacklist)
+💪 [CV](cv) 📆 [Schedule](schedule) 📚 [Books](books) ☠️  [Blacklist](blacklist)
 
 Code is art. Good code is like the enigmatic innards of a fine 16th
 century timepiece, a good coder not unlike the artisan obsessed with its
