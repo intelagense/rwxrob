@@ -1,0 +1,25 @@
+#!/bin/bash
+
+handler()
+{
+    kill -s SIGINT $PID80
+    kill -s SIGINT $PID443
+}
+
+PID80=-1
+PID443=-1
+
+serve
+
+serve() 
+{
+  program &
+  PID80=$!
+  program2 &
+  PID443=$!
+}
+
+trap handler SIGINT
+
+wait $PID80
+wait $PID443

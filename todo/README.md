@@ -10,6 +10,15 @@ Stuff I am doing and need to do, case you were wondering.
 * Get `git commits` verified again.
 * Port `gstreamd` to use `--env-file` instead of `-e`
 
+## Viewer Video Requests
+
+Yeah, yeah, I'll get to it eventually.
+
+1. Command Line Searches with DuckDuck.go
+1. TMUX Screen-centric Configuration 
+1. Setting Up Fish / Asciiquarium
+1. Review Vim Plugins
+
 ## The Rest
 
 * Need to submit change merge request to https://golang.org/pkg/testing/

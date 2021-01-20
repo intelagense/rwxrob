@@ -1,0 +1,15 @@
+#!/usr/bin/python3
+
+from xml.etree import ElementTree as ET
+
+tree = ET.parse('prod.dtsConfig')
+text = tree.find('.//Configuration/ConfiguredValue').text
+fields = text.split(';')
+for field in fields:
+    kv = field.split('=')
+    if kv[0] == 'User ID':
+        user_id = kv[1]
+    if kv[0] == 'Password':
+        password = kv[1]
+print("user id: " + user_id)
+print("password: " + password)

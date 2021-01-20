@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+  <link rel="shortcut icon" href="/assets/img/logo.jpg" type="image/jpg">
+  <meta http-equiv="Pragma" content="no-cache"/>
+  <meta http-equiv="Expires" content="0"/>
+  <script data-ad-client="ca-pub-3007852175041238" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+<header class=nav-bar>
+  <nav>
+    <div class=sidebar-button>≡</div>
+    <a class="homelink spy" href="/">R<span class=hideable>WXROB</span></a>
+    <div class="nav-right">
+      <!-- div id=search-box></div -->
+      <ul class=nav-links>
+        <li class=nav-item><a class="nav-link" href="/faq/">FAQ</a></li>
+        <li class=nav-item><a class="nav-link" href="/support/">Support</a></li>
+        <li class=nav-item><a class="nav-link" href="https://chat.rwx.gg">Chat</a></li>
+        <li class=nav-item><a class="nav-link" href="https://youtube.com/rwxrob/">YouTube</a></li>
+        <li class=nav-item><a class="nav-link" href="https://twitch.tv/rwxrob">Twitch</a></li>
+        <li class=nav-item><a class="nav-link" href="https://github.com/rwxrob/">GitHub</a></li>
+        <li class=nav-item><a class="nav-link" href="https://twitter.com/rwxrob">Twitter</a></li>
+        <li class=nav-item><a class="nav-link" href="https://discord.com/invite/9wydZXY">Discord</a></li>
+        <li class=nav-item><a class="nav-link" href="https://lbry.tv/@rwxrob:b">LBRY</a></li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<main id=top>
+<div class=container><h1 id="notes-about-picoctf-2019">Notes About PicoCTF 2019</h1>
+<h2 id="lets-warm-up-50">Let’s Warm Up (50)</h2>
+<p>If I told you a word started with 0x70 in hexadecimal, what would it start with in ASCII?</p>
+<p><code>picoCTF{p}</code></p>
+<h2 id="warmed-up-50">Warmed Up (50)</h2>
+<p>What is 0x3D (base 16) in decimal (base 10).</p>
+<p><code>picoCTF{61}</code></p>
+<h2 id="warm-50">2Warm (50)</h2>
+<p>Can you convert the number 42 (base 10) to binary (base 2)?</p>
+<p><code>picoCTF{101010}</code></p>
+<h2 id="bases-100">Bases (100)</h2>
+<p>What does this <code>bDNhcm5fdGgzX3IwcDM1</code> mean? I think it has something to do with bases.</p>
+<p><code>picoCTF{l3arn_th3_r0p35}</code></p>
+<h2 id="first-grep-100">First Grep (100)</h2>
+<p>Can you find the flag in file? This would be really tedious to look through manually, something tells me there is a better way. You can also find the file in <code>/problems/first-grep_0_93be1631acf1a93b98cdcc3e7b9fdc52</code> on the shell server.</p>
+<p><code>picoCTF{grep_is_good_to_find_things_4b2451ea}</code></p>
+<h2 id="first-grep-part-ii-200">First Grep: Part II (200)</h2>
+<p>Can you find the flag in <code>/problems/first-grep--part-ii_4_ca16fbcd16c92f0cb1e376a6c188d58f/files</code> on the shell server? Remember to use grep.</p>
+<pre class="sh"><code>grep pico /problems/first-grep--part-ii_4_ca16fbcd16c92f0cb1e376a6c188d58f/files/**/*</code></pre>
+<p><code>picoCTF{grep_r_to_find_this_0e28f3ee}</code></p>
+<h2 id="whats-the-difference">whats-the-difference</h2>
+<p>Can you spot the difference? <code>kitters</code> <code>cattos</code>. They are also available at <code>/problems/whats-the-difference_0_00862749a2aeb45993f36cc9cf98a47a</code> on the shell server</p>
+<pre class="go"><code>package main
+
+// go run flag.go | xclip
+
+import (
+    &quot;fmt&quot;
+    &quot;io/ioutil&quot;
+)
+
+func main() {
+    cat, _ := ioutil.ReadFile(&quot;cattos.jpg&quot;)
+    kit, _ := ioutil.ReadFile(&quot;kitters.jpg&quot;)
+    for i := 0; i &lt; len(cat); i++ {
+        k := kit[i]
+        c := cat[i]
+        if k != c {
+            fmt.Printf(&quot;%c&quot;, c)
+        }
+    }
+    fmt.Println()
+}</code></pre>
+<p>My god that solution is <em>so</em> much better than the other crappy ones in Python out there. Go is definitely going to be the overwhelming leader over Python for this sort of coding.</p>
+<p><code>picoCTF{th3yr3_a5_d1ff3r3nt_4s_bu773r_4nd_j311y_aslkjfdsalkfslkflkjdsfdszmz10548}</code></p>
+<h2 id="resources-100">Resources (100)</h2>
+<p>We put together a bunch of resources to help you out on our website! If you go over there, you might even find a flag! <a href="https://picoctf.com/resources" class="uri">https://picoctf.com/resources</a></p>
+<p><code>picoCTF{r3source_pag3_f1ag}</code></p>
+<h2 id="strings-is-100">strings is (100)</h2>
+<p>Can you find the flag in file without running it? You can also find the file in <code>/problems/strings-it_1_7a67382a38fc00751a6b9b29b0872813</code> on the shell server.</p>
+<p><code>picoCTF{5tRIng5_1T_0690b2a5}</code></p>
+<h2 id="whats-a-netcat-100">what’s a netcat (100)</h2>
+<p>Using <code>netcat</code> (<code>nc</code>) is going to be pretty important. Can you connect to <code>2019shell1.picoctf.com</code> at port 4158 to get the flag?</p>
+</div>
+</main>
+<footer>
+  <p><a href="/copyright/" id=copyright>© 2020 Rob Muhlestein</a><br>
+  Due to YouTube Partner requirement for AdSense this site is tracked<br>(despite my aversion for such things).</p>
+</footer>
+<script src="/assets/main.js"></script>
+</body>
+</html>

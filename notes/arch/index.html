@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate"/>
+  <link rel="shortcut icon" href="/assets/img/logo.jpg" type="image/jpg">
+  <meta http-equiv="Pragma" content="no-cache"/>
+  <meta http-equiv="Expires" content="0"/>
+  <script data-ad-client="ca-pub-3007852175041238" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <link rel="stylesheet" href="/assets/styles.css">
+</head>
+<body>
+<header class=nav-bar>
+  <nav>
+    <div class=sidebar-button>≡</div>
+    <a class="homelink spy" href="/">R<span class=hideable>WXROB</span></a>
+    <div class="nav-right">
+      <!-- div id=search-box></div -->
+      <ul class=nav-links>
+        <li class=nav-item><a class="nav-link" href="/faq/">FAQ</a></li>
+        <li class=nav-item><a class="nav-link" href="/support/">Support</a></li>
+        <li class=nav-item><a class="nav-link" href="https://chat.rwx.gg">Chat</a></li>
+        <li class=nav-item><a class="nav-link" href="https://youtube.com/rwxrob/">YouTube</a></li>
+        <li class=nav-item><a class="nav-link" href="https://twitch.tv/rwxrob">Twitch</a></li>
+        <li class=nav-item><a class="nav-link" href="https://github.com/rwxrob/">GitHub</a></li>
+        <li class=nav-item><a class="nav-link" href="https://twitter.com/rwxrob">Twitter</a></li>
+        <li class=nav-item><a class="nav-link" href="https://discord.com/invite/9wydZXY">Discord</a></li>
+        <li class=nav-item><a class="nav-link" href="https://lbry.tv/@rwxrob:b">LBRY</a></li>
+      </ul>
+    </div>
+  </nav>
+</header>
+<main id=top>
+<div class=container><h1 id="rwxarch-hacking-vm-project">rwxArch Hacking VM Project</h1>
+<p>Remember this is <em>specifically</em> for setting up Arch to run <em>from within a virtual machine for hacking (not development)</em> so things like time and boot manager setup are irrelevant.</p>
+<ol type="1">
+<li>Setup VMware or VirtualBox.</li>
+<li>Download the vanilla Arch ISO (not <code>bootstrap</code>).</li>
+<li>Validate the ISO sig and checksums.</li>
+<li>Create and configure the VM.</li>
+<li>Boot into the <em>live boot</em>.</li>
+<li>Set the <code>root</code> password.</li>
+<li>Update package repo list <code>pacman -Sy</code>.</li>
+<li>Install SSHD <code>pacman -S openssh</code> (not <code>openssh-server</code>).</li>
+<li>Enable SSHD <code>systemctl enable sshd</code> (not <code>ssh</code>).</li>
+<li>Active SSHD <code>systemctl start sshd</code>.</li>
+<li>Check your IP <code>ip -br a</code> then ping from host.</li>
+<li>Connect from host OS with SSH (using new password).</li>
+<li>Enable password-less login with <code>ssh-copy-id &lt;ip&gt;</code>.</li>
+<li>Take a snapshot for use later.</li>
+<li>Create single bootable root partition: <code>cfdisk /dev/sda</code> (no GPT)</li>
+<li>Format and create a filesystem: <code>mkfs.ext4 /dev/sda1</code></li>
+<li>Mount the partition: <code>mount /dev/sda1 /mnt</code></li>
+<li>Validate and view partition: <code>lsblk; df -h</code></li>
+<li>Install essential package with <code>pacstrap /mnt base linux linux-firmware vim less openssh inetutils netctl which dhcpcd</code></li>
+<li>Generate the <code>fstab</code>: <code>genfstab -P /mnt &gt;&gt; /mnt/etc/fstab</code></li>
+</ol>
+<p>Do these steps again (forget to arch-chroot last time in new window):</p>
+<ol type="1">
+<li>Chroot into the new fs: <code>arch-chroot /mnt</code></li>
+<li>Setup timezone: <code>ln -sf /usr/share/zoneinfo/Region/City /etc/localtime</code></li>
+<li>Check timezone <code>timedatectl status</code></li>
+<li>Fix the time: <code>timedatectl set-ntp true</code></li>
+<li>Check NTP servers: <code>timedatectl show-timesync --all</code></li>
+<li>Check the hardware time clock: <code>hwclock</code></li>
+<li>Setup locale: <code>locale-gen</code></li>
+</ol>
+</div>
+</main>
+<footer>
+  <p><a href="/copyright/" id=copyright>© 2020 Rob Muhlestein</a><br>
+  Due to YouTube Partner requirement for AdSense this site is tracked<br>(despite my aversion for such things).</p>
+</footer>
+<script src="/assets/main.js"></script>
+</body>
+</html>
