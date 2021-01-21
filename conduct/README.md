@@ -6,16 +6,17 @@ help remember in the heat of the moment. Obviously, this is not an
 exhaustive list, but it sure helps.
 
 * Chill out!
+* Swear better.
 * Foster dialog.
-* Stop swearing.
 * Live with less.
 * Let people change.
 * Read the fancy manual.
 * Don't get mad, get busy. 
 * What if everybody did it?
 * Create, don't just consume.
+* Take stock of your successes.
 * Give the benefit of the doubt.
-* Build something useful, not clever
+* Build something useful, not clever.
 * Show and share, don't teach and preach.
 * Go outside. Remind your body you're human.
 

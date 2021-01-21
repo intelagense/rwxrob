@@ -2,8 +2,14 @@
 
 Stuff I am doing and need to do, case you were wondering.
 
+* Shave top margin off of first menu item on rwxrob.live
 * Add a schedule for <https://rwxrob.live>
 * Add disclaimer related to the schedule regarding
+
+## Videos That *Must* Be Made
+
+* Everything about `date -d` 
+* YAML and JSON from Bash Shell with `yq`/`jq`
 
 ## More Urgent Than Other Stuff
 

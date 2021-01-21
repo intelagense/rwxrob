@@ -357,21 +357,6 @@ more.
 Hell just a realistic chem lab that taught about what happens when you
 combine different chemicals would be amazing.
 
-## Full YAML 1.2 and JQ Parser Command
-
-The `jq` command is absolutely phenomenal. It just only exists for JSON.
-There needs to be a `yq` as well that is *good* --- not that Python
-PyYAML shit. It also needs to be written in Go, C, or Rust and maybe
-have a lot of the unnecessary query stuff removed. It could be installed
-as *both* `yq` and `jq` and detect how it is called in order to process
-data differently. Fuck the old `jq` which never plans to support more
-than the "JSON internal structures".
-
-Such a tool would be so monumentally useful it might even put a serious
-dent in the use of databases in general. Something that supported that
-level of power, including the full remote files idea, would completely
-dominate the flat-file data management space.
-
 ## YAML "Lite"
 
 Let's face it. YAML kinda sucks. It allows for execution of code and

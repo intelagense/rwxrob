@@ -1,3 +1,25 @@
+## Thursday, January 21, 2021, 9:24:44AM EST <1611239084>
+
+So my inauguration video --- that contains absolute *zero* copyrighted
+material --- has been claimed by NHK, a shitty Japanese company for no
+reason whatsoever. My four hour video with commentary and coding has
+been completely blocked from view and I'm not hopeful that the dispute
+will end up resolved well.
+
+I'm so angry I could spit. In fact, it's all caught live.
+
+## Thursday, January 21, 2021, 7:25:06AM EST <1611231906>
+
+Other day I heard someone refer to Cloud Native and DevOps people
+as "YAML programmers" (as a joke of course). But it's worth noting since
+YAML has become *such* a foundational skill to have. Like Perl, there is
+good YAML and bad YAML. Most who write YAML do not take advantage of its
+best strengths: whitespace, comments, alignment. This human readability
+and maintainability is what distinguishes it from everything else. No
+application should ever *write* YAML since it will *never* get the
+spacing correct and will discard all those aspects of YAML that make it
+so great.
+
 ## Thursday, January 21, 2021, 6:28:03AM EST <1611228483>
 
 So [\@juciybit](https://twitch.tv/juciybit) just taught me a new word:

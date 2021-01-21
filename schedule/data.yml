@@ -18,3 +18,18 @@ Schedule:
 # 8 hours sleep
 # 5 hours mentoring
 # 8 work and streaming
+
+- WeekDays: [] # Sunday = 0
+  Activities:
+  - ['0130', 'Shake, Coffee, Work, Stream']  # 3 hours
+  - ['0430', 'Yoga']                         # 1 hour
+  - ['0530', 'Savasana, Bath']               # 1 hour
+  - ['0630', 'Work, Stream']                 # 3 hours
+  - ['0930', 'Eat, Stream']                  # .5 hours
+  - ['1000', 'Work, Stream']                 # 2.5 hours
+  - ['1230', 'Eat']                          # .5 hours
+  - ['1300', 'Sleep']                        # 3 hours
+  - ['1600', 'Coffee, Mentor, Work, Stream'] # 5 hours
+  - ['1800', 'Eat (while working)']         
+  - ['2100', 'Eat, Family']                  # .5 hours
+  - ['2130', 'Sleep']                        # 4 hours
