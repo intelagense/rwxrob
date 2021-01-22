@@ -1,4 +1,4 @@
-|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday
+⏰|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday
 -|-|-|-|-|-|-|-
 5|-|-|-|-|-|-|-
 6|-|-|-|-|-|-|-
