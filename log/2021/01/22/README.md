@@ -1,3 +1,16 @@
+## Friday, January 22, 2021, 3:33:22PM EST <1611347602>
+
+TimG reports More reason to never use Java if you have a choice:
+
+> Speaking of arrays. I finally found a Java limitation that I needed to make a
+workaround for. Java array initializers are limited to 65k elements. Java
+classes are limited to 65k worth of initializer cumulative. I ended up
+needing to write automation to split arrays into chucks and put each chunk in a
+subclass with functions to combine everything.  Java is an old language, why
+have something so limiting? I can't be the first to run into such a thing???  
+
+That is for JDK 12.0.1.
+
 ## Friday, January 22, 2021, 11:37:02AM EST <1611333422>
 
 People who name their repose dumb shit like "Twitch-IRC-Bot" should be
