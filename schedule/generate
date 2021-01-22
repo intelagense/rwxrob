@@ -1,0 +1,10 @@
+#!/bin/bash
+
+buf=$(yq e '.Schedule[0].Activities[] | join("|")' data.yml)
+
+while IFS= read -r line; do
+  hour=${line%%|*}
+  activity=${line#*|}
+  echo "$hour $activity"
+done <<< "${buf}"
+

@@ -1,19 +1,30 @@
 # Schedule
 
-The schedule I try to keep published so people can try to sync up if
-they want to join me for live streaming or whatever.
+This is the weekly schedule I try to keep and publish so people can try
+to sync up if they want to join me for live streaming or whatever.
 
-Time|Activity
--|-
-0130|Shake, Coffee, Work, Stream
-0430|Yoga
-0530|Savasana, Bath
-0630|Work, Stream
-0930|Eat, Stream
-1000|Work, Stream
-1230|Eat
-1300|Sleep
-1600|Coffee, Mentor, Work, Stream
-1800|Eat (while working)
-2100|Eat, Family
-2130|Sleep
+## Weekdays
+
+## Weekends
+
+## Considerations
+
+A few things to note about this schedule before you attempt anything
+similar:
+
+* I take meals while working as snacks or breaks.
+* I'm able to check in with my family while I work and stream.
+* I've been working from home since 1996.
+* My wife and I sleep in separate bedrooms.
+* I make sure to block all the light possible when sleeping.
+* I've found that ineffective sleep is hurts my body and brain.
+
+## "So when do you stream?"
+
+Saturday and Sunday, 10am American/Eastern (-0500)
+
+I also live stream as much as possible during anything marked Work,
+Mentor, or Free as I am able, and as those I mentor gradually move on to
+other things I plan to replace the Mentoring time completely with
+structured live stream sessions.
+
