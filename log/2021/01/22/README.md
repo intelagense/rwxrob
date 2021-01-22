@@ -1,3 +1,8 @@
+## Friday, January 22, 2021, 4:55:50PM EST <1611352550>
+
+[Here's](https://medium.com/analytics-vidhya/github-cli-brings-github-to-your-terminal-809cea627d62)
+the best write-up on the GitHub CLI I've found so far. 
+
 ## Friday, January 22, 2021, 3:33:22PM EST <1611347602>
 
 TimG reports More reason to never use Java if you have a choice:
