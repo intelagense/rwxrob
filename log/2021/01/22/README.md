@@ -1,3 +1,8 @@
+## Friday, January 22, 2021, 11:37:02AM EST <1611333422>
+
+People who name their repose dumb shit like "Twitch-IRC-Bot" should be
+roundly chastened for their lack of good decision making.
+
 ## Friday, January 22, 2021, 10:41:41AM EST <1611330101>
 
 Looking back at all the initiatives I've attempted over the years I
