@@ -1,3 +1,25 @@
+## Thursday, January 21, 2021, 7:48:32PM EST <1611276512>
+
+Added `git commit` after at the end of the
+[log](https://gitlab.com/rwxrob/dotfiles/-/blob/master/scripts/log)
+script.
+
+## Thursday, January 21, 2021, 7:42:55PM EST <1611276175>
+
+Cancelled Netlify analytics. The more I get (back) into GitHub and
+realize all the stuff they've added the more I realize Netlify doesn't
+offer anything I really need. In fact, I'll be slowly migrating off of
+Netlify and back to GitHub pages. If and when I need anything Netlify
+provides (such as form submission handling) I'll just make a form
+handler subdomain on Netlify and just use that, or maybe I'll give
+Heroku another look.
+
+It is so amazing how the dynamics of the tech market change over even a
+few months. I really love Netlify, but GitHub is rendering them
+irrelevant very quickly --- especially with GitHub actions and web
+hooks. I don't particularly like that Microsoft/GitHub is destroying the
+competition right now, but it is clear to me at this point that they are.
+
 ## Thursday, January 21, 2021, 9:24:44AM EST <1611239084>
 
 So my inauguration video --- that contains absolute *zero* copyrighted
