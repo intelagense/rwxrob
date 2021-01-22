@@ -1,3 +1,9 @@
+## Friday, January 22, 2021, 6:29:23PM EST <1611358163>
+
+Discovered that for power `gh` (GitHub CLI) users it makes a lot more
+sense to use `gh auth login --with-token < <(auth token github)` after
+having added a <https://github.com/settings/tokens> will full access.
+
 ## Friday, January 22, 2021, 4:55:50PM EST <1611352550>
 
 [Here's](https://medium.com/analytics-vidhya/github-cli-brings-github-to-your-terminal-809cea627d62)
