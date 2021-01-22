@@ -3,9 +3,27 @@
 This is the weekly schedule I try to keep and publish so people can try
 to sync up if they want to join me for live streaming or whatever.
 
-## Weekdays
-
-## Weekends
+⏰|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday
+-|-|-|-|-|-|-|-
+5|Up|Up|Up|Up|Up|Up|Up
+6|Work|Work|Work|Work|Work|Work|Work
+7|Work|Work|Work|Work|Work|Work|Work
+8|Work|Work|Work|Work|Work|Work|Work
+9|Work|Work|Work|Work|Work|Work|Work
+10|Work|Work|Work|Work|Work|Beginner Boost Stream|Beginner Boost Stream
+11|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream
+12|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream
+13|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga
+14|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga
+15|Nap|Nap|Nap|Nap|Nap|Nap|Nap
+16|Mentor|Mentor|Mentor|Mentor|Mentor|Free|Free
+17|Free|Free|Free|Free|Free|Free|Free
+18|Free|Free|Free|Free|Free|Free|Free
+19|Free|Free|Free|Free|Free|Free|Free
+20|Free|Free|Free|Free|Free|Free|Free
+21|Family|Family|Family|Family|Family|Family|Family
+22|Relax|Relax|Relax|Relax|Relax|Relax|Relax
+23|Sleep|Sleep|Sleep|Sleep|Sleep|Sleep|Sleep
 
 ## Considerations
 

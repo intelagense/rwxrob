@@ -5,7 +5,7 @@ Schedule:
   Activities:
   - [5,  Up]
   - [6,  Work]
-  - [13, Yoga/Run]
+  - [13, Run/Yoga]
   - [15, Nap]
   - [16, Mentor]
   - [21, Family]
@@ -16,7 +16,7 @@ Schedule:
   Activities:
   - [5,  Up]
   - [10, Beginner Boost Stream]
-  - [13, Yoga/Run]
+  - [13, Run/Yoga]
   - [15, Nap]
   - [16, Free]
   - [23, Sleep]
