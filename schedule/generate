@@ -21,27 +21,33 @@ days () {
     #echo "$hour $activity"
   done < <(yq e '.Schedule[1].Activities[] | join("|")' data.yml)
 
-  # TODO calc the min and max hours automatically
-  declare last_activity
+
   for hour in {5..23}; do
     echo -n "$hour|"
+
+    # weekdays
+    declare last_weekday_activity
     for day in {1..5}; do
       activity=${weekdays[$hour]}
       if [[ -n "${activity}" ]]; then
-        last_activity="${activity}"
+        last_weekday_activity="${activity}"
       fi
-      echo -n "$last_activity|"
+      echo -n "$last_weekday_activity|"
     done
+
+    # weekends
+    declare last_weekend_activity
     for day in 7 0; do 
       activity=${weekends[$hour]}
       if [[ -n "${activity}" ]]; then
-        last_activity="${activity}"
+        last_weekend_activity="${activity}"
       fi
-      echo -n "$last_activity"
+      echo -n "$last_weekend_activity"
       if [[ $day != 0 ]];then
         echo -n "|"
       fi
     done
+
     echo
   done
 }
@@ -79,4 +85,4 @@ replace_schedule () {
 }
 
 new=$(replace_schedule "$file")
-echo "$new"
+echo "$new" > "${file}"

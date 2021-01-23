@@ -6,23 +6,23 @@ to sync up if they want to join me for live streaming or whatever.
 ⏰|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday
 -|-|-|-|-|-|-|-
 5|Up|Up|Up|Up|Up|Up|Up
-6|Work|Work|Work|Work|Work|Work|Work
-7|Work|Work|Work|Work|Work|Work|Work
-8|Work|Work|Work|Work|Work|Work|Work
-9|Work|Work|Work|Work|Work|Work|Work
+6|Work|Work|Work|Work|Work|Up|Up
+7|Work|Work|Work|Work|Work|Up|Up
+8|Work|Work|Work|Work|Work|Up|Up
+9|Work|Work|Work|Work|Work|Up|Up
 10|Work|Work|Work|Work|Work|Beginner Boost Stream|Beginner Boost Stream
-11|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream
-12|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream|Beginner Boost Stream
+11|Work|Work|Work|Work|Work|Beginner Boost Stream|Beginner Boost Stream
+12|Work|Work|Work|Work|Work|Beginner Boost Stream|Beginner Boost Stream
 13|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga
 14|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga
 15|Nap|Nap|Nap|Nap|Nap|Nap|Nap
 16|Mentor|Mentor|Mentor|Mentor|Mentor|Free|Free
-17|Free|Free|Free|Free|Free|Free|Free
-18|Free|Free|Free|Free|Free|Free|Free
-19|Free|Free|Free|Free|Free|Free|Free
-20|Free|Free|Free|Free|Free|Free|Free
-21|Family|Family|Family|Family|Family|Family|Family
-22|Relax|Relax|Relax|Relax|Relax|Relax|Relax
+17|Mentor|Mentor|Mentor|Mentor|Mentor|Free|Free
+18|Mentor|Mentor|Mentor|Mentor|Mentor|Free|Free
+19|Mentor|Mentor|Mentor|Mentor|Mentor|Free|Free
+20|Mentor|Mentor|Mentor|Mentor|Mentor|Free|Free
+21|Family|Family|Family|Family|Family|Free|Free
+22|Relax|Relax|Relax|Relax|Relax|Stream|Stream
 23|Sleep|Sleep|Sleep|Sleep|Sleep|Sleep|Sleep
 
 ## Considerations
@@ -45,4 +45,3 @@ I also live stream as much as possible during anything marked Work,
 Mentor, or Free as I am able, and as those I mentor gradually move on to
 other things I plan to replace the Mentoring time completely with
 structured live stream sessions.
-
