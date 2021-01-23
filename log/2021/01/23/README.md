@@ -1,7 +1,7 @@
 ## Saturday, January 23, 2021, 4:17:30AM EST <1611393450>
 
-After watching the documentary on Bitcoin there is no fucking way I will
-ever participate in any of it. It is such a disaster. 
+After watching the documentary on Bitcoin [Cryptopia](https://duck.com/lite?kd=-1&kp=-1&q=Cryptopia) there is no
+fucking way I will ever participate in any of it. It is such a disaster. 
 
 First it tried to tell the world it would replace fiat currency for
 exchanges from everything to pizza and stocks. Then it fell on its
