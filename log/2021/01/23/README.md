@@ -1,3 +1,20 @@
+## Saturday, January 23, 2021, 8:39:17AM EST <1611409157>
+
+Sometimes it's the small victories, like getting Spotify most recent
+playlist to show on Twitch, or my Twitter feed extension. I mean, one
+*must* have priorities. 
+
+Oh, and getting emojis to work, of course. Still need to work on that
+one.
+
+Need to create an emoji keyword filter that can be applied to incoming IRC chat
+messages as well as an automatic replacement filter in Vimrc when dealing with
+Markdown files. None of the others that are included with Pandoc work that well
+and they use HTML entities instead of UTF-8 (UNICODE). In fact, all the old
+tools for Markdown conversion complete discount the solid fact that emojis are
+support in all editors and files these days. All this shit about escape codes
+is finally irrelevant.
+
 ## Saturday, January 23, 2021, 4:17:30AM EST <1611393450>
 
 After watching the documentary on Bitcoin [Cryptopia](https://duck.com/lite?kd=-1&kp=-1&q=Cryptopia) there is no
