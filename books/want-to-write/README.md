@@ -37,15 +37,15 @@ interpreted and executed by human brains (provided they have booted up
 and been given sufficient cognitive resources to process the
 instructions).
 
-* Survive the Linux Command Line
-* Survive Text Editing with Vi (Vim)
-* Survive Coding a Web Site
-* Survive Writing in Pandoc Markdown
-* Survive Programming in Go
-* Survive Shell Scripting with Bash
-* Survive Docker Containers
-* Survive Managing Source with Git
-* Survive Programming in C
+* The Linux Command Line Survival Guide
+* The Vim Text Editor Survival Guide
+* The Web Development Survival Guide
+* The Pandoc Markdown Survival Guide
+* The Go Programming Survival Guide
+* The Bash Scripting Survival Guide
+* The Docker Containers Survival Guide
+* The Git with GitHub Survival Guide
+* The C Programming Survival Guide
 
 *The titles use a verb in gerund form unless it would be "Using" in
 which case it is simply dropped.*

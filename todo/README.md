@@ -2,22 +2,20 @@
 
 Stuff I am doing and need to do, case you were wondering.
 
-
+* Fix `give` to link to GitHub script location
+* Fix vimrc perl default link replacement to use `urlencode`
+* Fix my `sched` command
+* Need to create an emoji keyword filter (see log for jan 23) 
+* Add a follow section to GitHub profile (RSS, etc.)
+* Pull environment info in `gl` out into `.env`
 * Simple 00:00:00 converter to seconds for date math
 * Shave top margin off of first menu item on rwxrob.live
-* Add a schedule for <https://rwxrob.live>
-* Add disclaimer related to the schedule regarding
 
 ## Videos That *Must* Be Made
 
 * Difference between `<<<` and `< <(`
 * Everything about `date -d` 
 * YAML and JSON from Bash Shell with `yq`/`jq`
-
-## More Urgent Than Other Stuff
-
-* Get `git commits` verified again.
-* Port `gstreamd` to use `--env-file` instead of `-e`
 
 ## Viewer Video Requests
 
