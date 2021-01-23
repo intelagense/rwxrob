@@ -1,3 +1,12 @@
+## Friday, January 22, 2021, 7:53:11PM EST <1611363191>
+
+Just watching some Twitch coding streamers and I gotta say I have
+nothing positive to say. I'm trying really hard to not go negative. I
+just cannot believe what people actually think is important to work on.
+There's nothing wrong with recreation, but when that becomes the entire
+focus of everything you do it's time to re-examine your life's choices.
+It's probably just my age showing, as usual.
+
 ## Friday, January 22, 2021, 6:29:23PM EST <1611358163>
 
 Discovered that for power `gh` (GitHub CLI) users it makes a lot more
