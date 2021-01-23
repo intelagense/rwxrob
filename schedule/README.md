@@ -22,7 +22,7 @@ to sync up if they want to join me for live streaming or whatever.
 19|Mentor|Mentor|Mentor|Mentor|Mentor|Free|Free
 20|Mentor|Mentor|Mentor|Mentor|Mentor|Free|Free
 21|Family|Family|Family|Family|Family|Free|Free
-22|Relax|Relax|Relax|Relax|Relax|Stream|Stream
+22|Relax|Relax|Relax|Relax|Relax|Free|Free
 23|Sleep|Sleep|Sleep|Sleep|Sleep|Sleep|Sleep
 
 ## Considerations
