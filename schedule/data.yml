@@ -15,7 +15,8 @@ Schedule:
 - WeekDays: [7,0] # Sunday, Saturday
   Activities:
   - [5,  Up]
-  - [10, 'Walkthrough: Learning Web Design']
+  - [6,  Free]
+  - [10, '[Stream] Walkthrough: Learning Web Design']
   - [13, Run/Yoga]
   - [15, Nap]
   - [16, Free]

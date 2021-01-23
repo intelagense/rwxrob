@@ -6,13 +6,13 @@ to sync up if they want to join me for live streaming or whatever.
 ⏰|Monday|Tuesday|Wednesday|Thursday|Friday|Saturday|Sunday
 -|-|-|-|-|-|-|-
 5|Up|Up|Up|Up|Up|Up|Up
-6|Work|Work|Work|Work|Work|Up|Up
-7|Work|Work|Work|Work|Work|Up|Up
-8|Work|Work|Work|Work|Work|Up|Up
-9|Work|Work|Work|Work|Work|Up|Up
-10|Work|Work|Work|Work|Work|Walkthrough: Learning Web Design|Walkthrough: Learning Web Design
-11|Work|Work|Work|Work|Work|Walkthrough: Learning Web Design|Walkthrough: Learning Web Design
-12|Work|Work|Work|Work|Work|Walkthrough: Learning Web Design|Walkthrough: Learning Web Design
+6|Work|Work|Work|Work|Work|Free|Free
+7|Work|Work|Work|Work|Work|Free|Free
+8|Work|Work|Work|Work|Work|Free|Free
+9|Work|Work|Work|Work|Work|Free|Free
+10|Work|Work|Work|Work|Work|[Stream] Walkthrough: Learning Web Design|[Stream] Walkthrough: Learning Web Design
+11|Work|Work|Work|Work|Work|[Stream] Walkthrough: Learning Web Design|[Stream] Walkthrough: Learning Web Design
+12|Work|Work|Work|Work|Work|[Stream] Walkthrough: Learning Web Design|[Stream] Walkthrough: Learning Web Design
 13|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga
 14|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga
 15|Nap|Nap|Nap|Nap|Nap|Nap|Nap
