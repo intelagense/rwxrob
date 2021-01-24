@@ -2,7 +2,6 @@
 
 Stuff I am doing and need to do, case you were wondering.
 
-* Fix `give` to link to GitHub script location
 * Finish the `gh orgs` alias
 * Fix vimrc perl default link replacement to use `urlencode`
 * Fix my `sched` command
