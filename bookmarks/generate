@@ -1,0 +1,16 @@
+#!/bin/bash
+
+tmp=$(mktemp)
+
+new () {
+  while IFS= read -r line; do
+    if [[ $line =~ ^\* ]];then
+      break
+    fi
+    echo "$line"
+  done < README.md
+  yq e '.[] | "* [" + .T + "](" + .L + ")"' data.yml | tac
+}
+
+new > "${tmp}"
+mv "${tmp}" README.md
