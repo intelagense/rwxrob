@@ -3,6 +3,7 @@
 Stuff I am doing and need to do, case you were wondering.
 
 * Fix `give` to link to GitHub script location
+* Finish the `gh orgs` alias
 * Fix vimrc perl default link replacement to use `urlencode`
 * Fix my `sched` command
 * Need to create an emoji keyword filter (see log for jan 23) 

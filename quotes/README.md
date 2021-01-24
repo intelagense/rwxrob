@@ -1,5 +1,7 @@
 # Great Quotes
 
+> Stong opinions, help for a week. (rwxrob aka "flip flop" rob)
+
 > The level of technical content quality is inversely proportional to
 > the prolificness of the author. This is why it is so difficult and
 > valuable to uncover those few who actually know what they are talking
