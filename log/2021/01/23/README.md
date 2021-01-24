@@ -1,9 +1,7 @@
 ## Saturday, January 23, 2021, 1:36:19PM EST <1611426979>
 
 Just found <https://moderncss.dev/> and am completely blown away by it.
-My initial feeling is that it might be a replacement for [Learning
-JavaScript from Jennifer Robbins]() that we are using now, at least the
-CSS part. It has become very clear from the workthrough that the book is
+My initial feeling is that it might be a replacement for [Learning JavaScript from Jennifer Robbins](https://duck.com/lite?kd=-1&kp=-1&q=Learning JavaScript from Jennifer Robbins) that we are using now, at least the CSS part. It has become very clear from the workthrough that the book is
 substantially out of date to the point of being borderline unusable
 today. Still, Jennifer focuses on so many important things that *must*
 be covered.
