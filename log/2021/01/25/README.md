@@ -1,3 +1,9 @@
+## Monday, January 25, 2021, 9:01:28AM EST <1611583288>
+
+Recently learned that `apt search <thing>` is not *actually* the same as
+`apt-cache search <thing>` (which works better). I had read that
+dropping the `-cache` was the same thing. But that's a lie.
+
 ## Monday, January 25, 2021, 8:50:51AM EST <1611582651>
 
 I continue to be intrigued by the [Vivaldi web
