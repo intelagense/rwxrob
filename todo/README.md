@@ -1,8 +1,9 @@
 # Personal Public TODO List
 
-Stuff I am doing and need to do, case you were wondering.
+Stuff I am doing and need to do.
 
 * Finish the `gh orgs` alias
+* Finish the KEG Recording YAML schema
 * Fix vimrc perl default link replacement to use `urlencode`
 * Fix my `sched` command
 * Need to create an emoji keyword filter (see log for jan 23) 
