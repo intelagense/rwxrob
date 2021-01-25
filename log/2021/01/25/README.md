@@ -1,3 +1,10 @@
+## Monday, January 25, 2021, 8:50:51AM EST <1611582651>
+
+I continue to be intrigued by the [Vivaldi web
+browser](https://duck.com/lite?kd=-1&kp=-1&q=Vivaldi+web+browser) ---
+particularly because of the quality of the people who continue to
+recommend it to me. I think I need to give it a look.
+
 ## Monday, January 25, 2021, 8:26:55AM EST <1611581215>
 
 One of the main cleanup activities I must do is change all my scripts
