@@ -9,7 +9,7 @@ new () {
     fi
     echo "$line"
   done < README.md
-  yq e '.[] | "* [" + .T + "](" + .L + ")"' data.yml | tac
+  yq e '.[] | "* `" + .B + "` - [" + .T + "](" + .L + ")"' data.yml | tac
 }
 
 new > "${tmp}"

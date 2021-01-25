@@ -5,7 +5,7 @@ bookmarks that is something I control and has versioning. These are not
 arranged in any particular order but the newest additions are always at
 the top.
 
-* [Modern CSS](https://moderncss.dev)
-* [rwxrob.live](https://rwxrob.live)
-* [SKILSTAK Private Mentored Community](https://skilstak.io)
-* [Gordon's Art Work](https://www.deviantart.com/zephyrwork)
+* `moderncss` - [Modern CSS](https://moderncss.dev)
+* `rwxrob` - [rwxrob.live](https://rwxrob.live)
+* `skilstak` - [SKILSTAK Private Mentored Community](https://skilstak.io)
+* `gordon` - [Gordon's Art Work](https://www.deviantart.com/zephyrwork)
