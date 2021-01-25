@@ -1,16 +1,21 @@
-- T: Gordon's Art Work
-  L: https://www.deviantart.com/zephyrwork
-  B: gordon
-
-- T: SKILSTAK Private Mentored Community
-  L: https://skilstak.io
-  B: skilstak
-
-- T: rwxrob.live 
-  L: https://rwxrob.live
-  B: rwxrob
-
-- T: Modern CSS
-  L: https://moderncss.dev
-  B: moderncss
-
+-
+ T: Gordon's Art Work
+ L: https://www.deviantart.com/zephyrwork
+ B: gordon
+-
+ T: SKILSTAK Private Mentored Community
+ L: https://skilstak.io
+ B: skilstak
+-
+ T: rwxrob.live 
+ L: https://rwxrob.live
+ B: rwxrob
+-
+ T: Modern CSS
+ L: https://moderncss.dev
+ B: moderncss
+-
+ T: Best YAML Schema Introduction Eva
+ L: http://blogs.perl.org/users/tinita/2018/01/introduction-to-yaml-schemas-and-tags.html
+ B: yamlschema
+            
