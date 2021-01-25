@@ -1,5 +1,9 @@
 # Great Quotes
 
+> The more you know, the more you know you don't know (Aristotle)
+
+> The most skillful blacksmith is the one that does the best blade and not the one that handles the largest hammer. [\@spationaute](https://twitch.tv/spationaute)
+
 > Those who speak do not know. Those who know do not speak. (Lao Tzu)
 
 > Strong opinions, held for a week. (rwxrob aka "flip flop" rob)
