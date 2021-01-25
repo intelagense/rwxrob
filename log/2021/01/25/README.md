@@ -1,3 +1,13 @@
+## Monday, January 25, 2021, 8:26:55AM EST <1611581215>
+
+One of the main cleanup activities I must do is change all my scripts
+library to have zero insignificant dependencies on anything else, such
+as for dumb shit like colors and usage output. Makes is much harder to
+share them. 
+
+This means I need to create tools for adding these useful things more
+easily in an independent way, like snippets.
+
 ## Monday, January 25, 2021, 8:01:26AM EST <1611579686>
 
 By the way, I forgot to mention that Ez-Lynx is still on (a simple shell
