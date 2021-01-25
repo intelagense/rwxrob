@@ -1,3 +1,19 @@
+## Monday, January 25, 2021, 6:54:09PM EST <1611618849>
+
+There is just *nothing* out there to do raw YAML custom schema
+validation. I've been searching for an hour and asking on the `#yaml`
+IRC channel.
+
+I did discover that the JSON-Schema proposal is moving along in the IETF
+and will likely be the best way to *universally* define precise schemas
+for such data.
+
+And there's nothing that says I can't write a JSON Schema definition in
+YAML (which will be way easier to read).
+
+It's pretty clear at this point that YAML and JSON are here to stay, a
+forced marriage made in tech Hell.
+
 ## Monday, January 25, 2021, 3:14:23PM EST <1611605663>
 
 Decided to go with `rec` within a `log` directory for saving video (or
