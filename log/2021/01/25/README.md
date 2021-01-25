@@ -1,3 +1,10 @@
+## Monday, January 25, 2021, 8:01:26AM EST <1611579686>
+
+By the way, I forgot to mention that Ez-Lynx is still on (a simple shell
+script that configures an installation of Lynx for a specific user). I
+just cannot give up how much easier Lynx is to read than W3M because of
+indentation of paragraphs and such that seems to be hard coded.
+
 ## Monday, January 25, 2021, 7:51:23AM EST <1611579083>
 
 Having that thing where I have so much to get done that I don't know
