@@ -2,6 +2,7 @@
 
 Stuff I am doing and need to do.
 
+* Change chat refs to chat.rwx.gg (from rwxrob.live)
 * Finish the `gh orgs` alias
 * Finish the KEG Recording YAML schema
 * Fix vimrc perl default link replacement to use `urlencode`

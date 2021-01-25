@@ -1,3 +1,14 @@
+## Monday, January 25, 2021, 3:14:23PM EST <1611605663>
+
+Decided to go with `rec` within a `log` directory for saving video (or
+audio) recordings. There's definitely a difference between a video and a
+recording. A video generally means something that was produced for
+publishing (despite the generic term). The term "vlog" has been taken by
+people talking to the camera mostly. So it seems like "recording" is a
+most accurate term for what I'm doing, which is just recording what I'm
+doing. You can't really call it a "stream" because it's a recording of a
+stream.
+
 ## Monday, January 25, 2021, 9:01:28AM EST <1611583288>
 
 Recently learned that `apt search <thing>` is not *actually* the same as
