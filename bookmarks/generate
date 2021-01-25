@@ -4,12 +4,14 @@ tmp=$(mktemp)
 
 new () {
   while IFS= read -r line; do
-    if [[ $line =~ ^\* ]];then
+    if [[ $line =~ ^\Shortcut\| ]];then
       break
     fi
     echo "$line"
   done < README.md
-  yq e '.[] | "* `" + .B + "` - [" + .T + "](" + .L + ")"' data.yml | tac
+  echo "Shortcut|Bookmark"
+  echo "-|-"
+  yq e '.[] | "`" + .B + "` | [" + .T + "](" + .L + ")"' data.yml | tac
 }
 
 new > "${tmp}"
