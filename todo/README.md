@@ -2,8 +2,7 @@
 
 Something here.
 
-- [ ] foo
-
+* Create a Recording YAML to YouTube converter 
 - [x] Change `topic` to use log recording YAML files
 - [ ] Change `KNPATH` to `KN` everywhere
 - [ ] Finish the KEG Recording YAML schema
@@ -151,6 +150,8 @@ Yeah, yeah, I'll get to it eventually.
     1. What order should I get them?
 
 ## Eventually
+
+* Add full `date -d` support to a Go date package.
 
 * Submit `FileContains()` to Go testity
 * Watch Hidden Figures
