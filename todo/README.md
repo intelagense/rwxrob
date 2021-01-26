@@ -1,17 +1,26 @@
 # Personal Public TODO List
 
-Stuff I am doing and need to do.
+- [] Change `topic` to use log recording YAML files
+- [] Change `KNPATH` to `KN` everywhere
+- [] Finish the KEG Recording YAML schema
+- [] Universal bot for YouTube, Discord, and Twitch chat.
+- [] Add ability to `select` from `lasturl` 
+- [] Change chat refs to chat.rwx.gg (from rwxrob.live)
+- [] Finish the `gh orgs` alias
+- [] Fix vimrc perl default link replacement to use `urlencode`
+- [] Fix my `sched` command
+- [] Need to create an emoji keyword filter (see log for jan 23) 
+- [] Add a follow section to GitHub profile (RSS, etc.)
+- [] Pull environment info in `gl` out into `.env`
+- [] Simple 00:00:00 converter to seconds for date math
+- [] Shave top margin off of first menu item on rwxrob.live
 
-* Change chat refs to chat.rwx.gg (from rwxrob.live)
-* Finish the `gh orgs` alias
-* Finish the KEG Recording YAML schema
-* Fix vimrc perl default link replacement to use `urlencode`
-* Fix my `sched` command
-* Need to create an emoji keyword filter (see log for jan 23) 
-* Add a follow section to GitHub profile (RSS, etc.)
-* Pull environment info in `gl` out into `.env`
-* Simple 00:00:00 converter to seconds for date math
-* Shave top margin off of first menu item on rwxrob.live
+## AFKWorks Questions for Discussion
+
+* Do we assume a single KEG base per account?
+* Or do we allow multiple context/workspaces per account?
+* How often would a knowledge worker shift between roles/accounts?
+* Would just environment vars cover it for a single account?
 
 ## Videos That *Must* Be Made
 
