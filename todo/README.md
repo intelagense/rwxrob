@@ -1,6 +1,8 @@
 # Personal Public TODO List
 
-- [ ] Change `topic` to use log recording YAML files
+Something here.
+
+- [x] Change `topic` to use log recording YAML files
 - [ ] Change `KNPATH` to `KN` everywhere
 - [ ] Finish the KEG Recording YAML schema
 - [ ] Universal bot for YouTube, Discord, and Twitch chat.
