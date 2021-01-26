@@ -117,13 +117,14 @@ Employment:
   - Sized and delivered log rotation migration processes in shell
   - Participated in and lead Agile SCRUM meetings
 
-- Role:     Site Reliability Engineer / Software Engineer
+- Role:     Site Reliability Engineer / Senior Software Engineer
   Entity:   IBM Global Services
   Started:  January 2000
   Stopped:  July 2009
   Location: Remote, USA
   Details: 
-  - Created core GPG-based transport protocol used for 150K servers
+  - Developed high-volume central multi-threaded TCP/IP server
+  - Created custom GPG-based transport protocol used for 150K servers
   - Contributed to core security compliance for 250 accounts
   - Made universal, auto-updating UNIX/Linux endpoint in Perl 
   - Designed PostgreSQL code and data store accepting terrabytes a week
