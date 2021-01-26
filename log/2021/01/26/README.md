@@ -21,6 +21,10 @@ to get PEGN grammars *really* off the ground. We could capture the
 entire grammar for `jq` and generate automatic AST parsers for them that
 could be embedded in anything.
 
+Another option is to just leave it all in shell and let someone else
+worry about creating software that requires a compiled binary. I don't.
+😜
+
 ## Tuesday, January 26, 2021, 5:51:19AM EST <1611658279>
 
 Ya know, it just makes the most sense to standardize KEG log file
