@@ -2,6 +2,8 @@
 
 Something here.
 
+- [ ] foo
+
 - [x] Change `topic` to use log recording YAML files
 - [ ] Change `KNPATH` to `KN` everywhere
 - [ ] Finish the KEG Recording YAML schema
