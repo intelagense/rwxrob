@@ -1,10 +1,11 @@
 ## Wednesday, January 27, 2021, 9:30:00AM EST <1611757800>
 
-Great insight from [\@vonclites](https://twitch.tv/vonclites) about the requirement to "publish or die"
-in the academic world. Just goes to show that the community of knowledge
-workers is vast and relevant. These people all need to be able to
-capture there knowledge in real time and polish into publications and
-other ways of sharing later. In other words, the world needs KEG.
+Great insight from [\@lambduh](https://twitch.tv/lambduh) about the
+requirement to "publish or die" in the academic world. Just goes to show
+that the community of knowledge workers is vast and relevant. These
+people all need to be able to capture there knowledge in real time and
+polish into publications and other ways of sharing later. In other
+words, the world needs KEG.
 
 ## Wednesday, January 27, 2021, 7:52:52AM EST <1611751972>
 
