@@ -1,3 +1,42 @@
+## Wednesday, January 27, 2021, 4:41:28PM EST <1611783688>
+
+I'm wondering about the cross-over between `live` and `kn`. The argument
+could be made that live streaming is a form of recording knowledge not
+unlike logging and therefore should be managed under the `kn` tool as a
+set of plugins. Perhaps creating a `kn-live` plugin set and repo would
+be better. The number of people who will not be live streaming is very
+high and bloating the `kn` tool with that seems like a bad idea.
+
+This is definitely the right direction since `live` can leverage the
+framework, configuration, and content from `kn` where it would be more
+difficult as it's own thing.
+
+But would it be better for `kn-live` to be a composition of other social
+media and streaming plugins:
+
+* `kn-twitter`
+* `kn-discord`
+* `kn-slack`
+* `kn-youtube`
+* `kn-twitch`
+* `kn-github`
+* `kn-gitlab`
+
+Why do I feel like an event model is emerging here?
+
+## Wednesday, January 27, 2021, 4:21:34PM EST <1611782494>
+
+Fasted possible way to get the full path to the currently running Bash
+script:
+
+```bash
+if [[ $0 =~ ^/ ]];then
+  echo "$0"
+else
+  echo "$PWD/${0//\.*\//}"
+fi
+```
+
 ## Wednesday, January 27, 2021, 11:45:07AM EST <1611765907>
 
 Yet another reason to use `gh repo clone <repo>` after you have forked
