@@ -1,5 +1,8 @@
 # Great Quotes
 
+> The nice thing about standards is that there are so many to choose
+from. (Andrew Tanenbaum)
+
 > The more you know, the more you know you don't know (Aristotle)
 
 > The most skillful blacksmith is the one that does the best blade and not the one that handles the largest hammer. [\@spationaute](https://twitch.tv/spationaute)
