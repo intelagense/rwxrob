@@ -1,3 +1,63 @@
+## Tuesday, January 26, 2021, 7:14:44PM EST <1611706484>
+
+Going through the Google Bash script guidelines again and noticed the
+`foo() {}` preference over `foo () {}`. I really don't like it. But oh
+well.
+
+## Tuesday, January 26, 2021, 6:18:23PM EST <1611703103>
+
+Just realized another good reason to make `give` (soon to be `share`)
+into something that points to the GitHub version (instead of a new copy
+in ix.io every time) is to cover the stuff under license for the
+dotfiles repo itself (Mozilla Public License Version 2).
+
+## Tuesday, January 26, 2021, 5:35:27PM EST <1611700527>
+
+Following on that last thought I'm thinking the main commands I will be
+using every day are pretty limited:
+
+Command|Why
+|:-:|-
+`vim`|Edit files
+`git`|Managing code and knowledge source
+`kn`|Managing all knowledge as it occurs
+`keg`|Packaging, sharing, and tapping (searching) KEG
+`live`|Managing a live stream and interacting with community
+`repos`|Managing git repos hosted in multiple locations
+`sk`|Manage my personal privately mentored community
+
+I wish I could calculate how much time I spend in any particular command
+or app during the day. It'd just be interesting to me.
+
+In fact, `kn` will be the most used tool I have (besides `vim`). I plan
+on using it for tweeting and everything else. I got to thinking that I
+still want a record of anything I tweet so I need to make a log entry
+for each. After all, Twitter is just "micro-blogging".
+
+But the above main tools have a lot of dependencies (which aren't
+particularly bad given the UNIX philosophy):
+
+Command|Why|Owner
+-|-|-
+`auth`|API authentication|Me
+`youtube`|YouTube API integration|Me
+`twitter`|Twitter integration|Me
+`twitch`|Twitch API integration|Me
+`github`|GitHub integration|GitHub
+`gitlab`|GitHub integration|Me
+`yq`|YAML queries|Other
+`jq`|JSON queries|Other
+
+## Tuesday, January 26, 2021, 4:43:31PM EST <1611697411>
+
+I'm realizing that most of what I have in my personal scripts directory
+could be replace by a single `kn` script with multiple subcommands.
+
+## Tuesday, January 26, 2021, 4:41:18PM EST <1611697278>
+
+For streaming it is more important to have a powerful CPU than GPU. OBS
+and the RTMP Nginx plugin don't use the GPU.
+
 ## Tuesday, January 26, 2021, 11:17:00AM EST <1611677820>
 
 The more I get into creating the `kn` tool the more shell specific
