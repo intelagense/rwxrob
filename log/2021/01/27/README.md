@@ -3,4 +3,5 @@
 I've had no less than four different knowledge manager apps in different
 forms of Bash and Go over the last five years. I don't bemoan any of it,
 but find I keep getting better at identifying what matters most. I've
-put the details of latest thinking in a new [note](/note/kn)
+put the details of latest thinking in a new [`kn`
+repo](https://github.com/rwxrob/kn).
