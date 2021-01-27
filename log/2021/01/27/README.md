@@ -1,3 +1,10 @@
+## Wednesday, January 27, 2021, 11:45:07AM EST <1611765907>
+
+Yet another reason to use `gh repo clone <repo>` after you have forked
+something is that it updates the upstream master automatically making it
+easier to keep the latest changes to the original code synced into your
+forked copy.
+
 ## Wednesday, January 27, 2021, 9:30:00AM EST <1611757800>
 
 Great insight from [\@lambduh](https://twitch.tv/lambduh) about the
