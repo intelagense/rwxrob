@@ -1,5 +1,20 @@
 # Random Discoveries and Tricks in Bash Shell
 
+## Fastest Possible Way to Get Full Path of Running Script
+
+If you don't have Bash then `realpath` is your best option, but it
+requires a subshell. This Bash method does not. (And yeah, StackOverflow
+is full of brain-dead, moronic suggested alternatives to this, some of
+which use as many as 12 subshells.)
+ 
+```bash
+if [[ $0 =~ ^/ ]];then
+  echo "$0"
+else
+  echo "$PWD/${0//\.*\//}"
+fi
+```
+
 ## Use `printf` Instead of Date
 
 Turns out all of the [strftime
