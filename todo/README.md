@@ -1,6 +1,8 @@
 # TODO List
 
+* Discuss the `sudo` hack with the live community
 * Unicode (go) convenience classes in PEGN
+* Add comment only modification to PEGN.dev for 'rhetorical'
 * Create a Recording YAML to YouTube converter 
 * Change `topic` to use log recording YAML files
 * Change `KNPATH` to `KN` everywhere
