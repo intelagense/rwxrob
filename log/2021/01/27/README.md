@@ -1,3 +1,41 @@
+## Wednesday, January 27, 2021, 7:27:52PM EST <1611793672>
+
+Just had the best idea while working on the `kn` tool related to the KEG
+URI format. 
+
+Why not allow a limited `jq` query?
+
+```pegn
+KEGURI <-- 'keg:' Node JQ? ('@' Domain)?
+Node   <-- (!'.' visible)+ ('.' (!'.' visible)+)*
+JQ     <-- # jq query 
+```
+
+Examples:
+
+```
+keg:md.lang.Summary@rwx.gg
+keg:log.2021.01.03@rwx.gg
+keg:cv.Employment[].Entity@rwx.gg
+```
+
+The limited `jq` is enough to then pass it further to `jq` if needed.
+
+```
+keg 'cv.Employment[].Entity@rwx.gg' | jq '.Name,.Address'
+```
+
+*`keg` is the `curl` of the Knowledge Exchange Grid but better because
+it uses the latest cached pull of a knowledge node instead of a fresh
+net query every time.*
+
+This could be far more useful and valuable than GraphQL could ever be
+because it is universal. GraphQL is way more complicated than it really
+needs to be. You can tell `jq` was created by people who are much better
+data query designers than the Facebook people behind GraphQL. For one
+thing the `jq` designers adopted the concept of pipes, which is far
+superior to the block hell that is GraphQL.
+
 ## Wednesday, January 27, 2021, 4:41:28PM EST <1611783688>
 
 I'm wondering about the cross-over between `live` and `kn`. The argument
