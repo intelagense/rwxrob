@@ -1,5 +1,9 @@
 # TODO List
 
+* Lynx in Docker container with ? and ??
+* `kn` in a Docker container
+* Add all relevant IRC rooms on startup.
+* Turn status bar in weechat back on
 * Back to single monolithic `.bashrc`
 * Discuss the `sudo` hack with the live community
 * Unicode (go) convenience classes in PEGN
@@ -22,6 +26,7 @@
 
 ## AFKWorks Questions for Discussion
 
+* What runes are allowed in a KEG URI?
 * Do we assume a single KEG base per account?
 * Or do we allow multiple context/workspaces per account?
 * How often would a knowledge worker shift between roles/accounts?
