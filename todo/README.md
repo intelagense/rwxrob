@@ -1,5 +1,6 @@
 # TODO List
 
+* Back to single monolithic `.bashrc`
 * Discuss the `sudo` hack with the live community
 * Unicode (go) convenience classes in PEGN
 * Add comment only modification to PEGN.dev for 'rhetorical'
