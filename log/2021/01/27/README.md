@@ -1,3 +1,22 @@
+## Wednesday, January 27, 2021, 8:09:47PM EST <1611796187>
+
+The biggest [root access
+bug](https://www.theregister.com/2021/01/26/qualys_sudo_bug/) in
+Linux/Unix was discovered recently in `sudo` allowing *anyone* on *any*
+such system to have root access nearly immediately. 
+
+Aren't you glad you never trusted your system in the first place?
+
+Zero trust is the only way to approach security. You should never save
+anything to disk on a multi-user system that doesn't have encryption,
+and even then, with `sudo` giving everyone root access there is a strong
+chance such systems already have key-loggers installed.
+
+This bug affects millions of computers right now and has for more than a
+decade. So for the foreseeable future *no one* should be using
+multi-user access to anything, unless you trust each person with root
+access.
+
 ## Wednesday, January 27, 2021, 7:27:52PM EST <1611793672>
 
 Just had the best idea while working on the `kn` tool related to the KEG
