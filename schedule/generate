@@ -17,22 +17,38 @@ days () {
   while IFS= read -r line; do
     hour=${line%%|*}
     activity=${line#*|}
-    weekends[$hour]="${activity}"
+    friday[$hour]="${activity}"
     #echo "$hour $activity"
   done < <(yq e '.Schedule[1].Activities[] | join("|")' data.yml)
 
+  while IFS= read -r line; do
+    hour=${line%%|*}
+    activity=${line#*|}
+    weekends[$hour]="${activity}"
+    #echo "$hour $activity"
+  done < <(yq e '.Schedule[2].Activities[] | join("|")' data.yml)
 
   for hour in {5..23}; do
     echo -n "$hour|"
 
     # weekdays
     declare last_weekday_activity
-    for day in {1..5}; do
+    for day in {1..4}; do
       activity=${weekdays[$hour]}
       if [[ -n "${activity}" ]]; then
         last_weekday_activity="${activity}"
       fi
       echo -n "$last_weekday_activity|"
+    done
+
+    # fridays
+    declare last_friday_activity
+    for day in {4}; do
+      activity=${friday[$hour]}
+      if [[ -n "${activity}" ]]; then
+        last_friday_activity="${activity}"
+      fi
+      echo -n "$last_friday_activity|"
     done
 
     # weekends
@@ -47,6 +63,8 @@ days () {
         echo -n "|"
       fi
     done
+
+    ## FIXME Individual weekday generation instead of clumping
 
     echo
   done

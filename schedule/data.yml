@@ -1,11 +1,23 @@
 TimeZone: 'America/Eastern'
 
 Schedule:
-- WeekDays: [1,2,3,4,5] # Monday - Friday
+- WeekDays: [1,2,3,4] # Monday - Thursday
   Activities:
   - [5,  Up]
   - [6,  Work]
   - [13, Run/Yoga]
+  - [15, Nap]
+  - [16, Mentor]
+  - [21, Family]
+  - [22, Relax]
+  - [23, Sleep]
+
+- WeekDays: [4] # Friday
+  Activities:
+  - [5,  Up]
+  - [6,  Work]
+  - [10, '[Stream] PEGN']
+  - [12, '[Stream] AFKWorks']
   - [15, Nap]
   - [16, Mentor]
   - [21, Family]
