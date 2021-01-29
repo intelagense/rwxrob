@@ -1,3 +1,27 @@
+## Friday, January 29, 2021, 6:36:53PM EST <1611963413>
+
+Gitea has users and organizations and repositories so I'm wondering if
+having a monolithic Gitea instance for all repos might be the way to go.
+We can have multiple domains with Giteas for each, or just one with all
+of them organized underneath it. I'm thinking of having some overarching
+Gitea domains:
+
+Domain|Organization|Projects
+|:-:|-|:-:
+rwx.gg|RWX Community focused on supporting one another as autodidacts|rwx.gg,boost,skilz,auth,cmdtab
+afk.works|Association for Federated Knowledge Workers|keg,kn,pegn.dev,know.sh
+
+Then we can just mirror to GitHub.
+
+God, after seeing all the momentum in the issues posted on Gitea it's no
+wonder GitLab is suffering so much. I imagine GitLab has lost all
+momentum from the open source community contributions. Gitea is clearly
+a superior offering and is blazing fast built on Go at its core. GitLab
+does stand a fucking change against Gitea on the one front and GitHub
+--- especially with GitHub Enterprise and Microsoft's financial backing
+--- on the other. I really, really feel bad for GitLab. That company is
+going to evaporate in less than five years. Mark my words. So sad.
+
 ## Friday, January 29, 2021, 6:25:13PM EST <1611962713>
 
 OMG the logo for Gitea is amazing. I'm so fucking done with GitHub
