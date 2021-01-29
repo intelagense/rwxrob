@@ -7,6 +7,7 @@ the top.
 
 Shortcut|Bookmark
 -|-
+`validtwittercard` | [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 `yamlschema` | [Best YAML Schema Introduction Eva](http://blogs.perl.org/users/tinita/2018/01/introduction-to-yaml-schemas-and-tags.html)
 `moderncss` | [Modern CSS](https://moderncss.dev)
 `rwxrob` | [rwxrob.live](https://rwxrob.live)

@@ -1,3 +1,31 @@
+## Monday, January 25, 2021, 7:06:50PM EST <1611619610>
+
+If the future is meta programming (writing declaration of what programs
+should do) then the future syntaxes will be JSON and YAML and things
+like Protobuf because they are the most declarative languages on the
+planet (along with SQL).
+
+More of our time as developers is being spent connecting and
+configuring things rather than writing new code.
+
+Could the future of IT be *mostly* configuring things rather than
+building new things? Eventually most things will get built, then it's
+just a matter of making it all work together.
+
+I mean, companies are using third-party applications and open source and
+just configuring them for their environments. Less money on new
+development, and more on configuration and maintenance. 
+
+I wonder if that means the SRE role actually has more of a future than I
+imagined. Perhaps it just means that the "developers" are sort of like
+database administrators where the databases are clusters of
+configurations and domain models.
+
+It probably means that the new development opportunities will be
+associated farther on the edge where hardware sensors and things still
+need to be coded at a lower level. Database integration is getting
+easier and easier.
+
 ## Monday, January 25, 2021, 6:54:09PM EST <1611618849>
 
 There is just *nothing* out there to do raw YAML custom schema

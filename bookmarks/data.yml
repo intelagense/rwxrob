@@ -18,4 +18,7 @@
  T: Best YAML Schema Introduction Eva
  L: http://blogs.perl.org/users/tinita/2018/01/introduction-to-yaml-schemas-and-tags.html
  B: yamlschema
-            
+-
+ T: Twitter Card Validator
+ L: https://cards-dev.twitter.com/validator
+ B: validtwittercard

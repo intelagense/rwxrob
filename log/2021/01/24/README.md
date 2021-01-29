@@ -1,3 +1,14 @@
+## Sunday, January 24, 2021, 1:24:20PM EST <1611512660>
+
+Now that we can just use `em` for media queries. It will save you a lot
+of hassle to just use `rem` and `vh` and `vw` for everything *except*
+media queries (use `em`). Looks like `px` are only used to set root font
+size these days. I'm kinda glad all of this is getting standardized
+(more than in 2014, at least).
+
+Here's [ the
+bug](https://medium.com/@barrypeng6/why-should-not-use-rem-unit-in-media-query-5645d0163ce5).
+
 ## Sunday, January 24, 2021, 8:45:53AM EST <1611495953>
 
 Just added this repo as well with log and everything. The cool thing

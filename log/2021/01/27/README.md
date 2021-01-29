@@ -44,9 +44,9 @@ The limited `jq` is enough to then pass it further to `jq` if needed.
 keg 'cv.Employment[].Entity@rwx.gg' | jq '.Name,.Address'
 ```
 
-*`keg` is the `curl` of the Knowledge Exchange Grid but better because
+`keg` becomes the `curl` of the Knowledge Exchange Grid but better because
 it uses the latest cached pull of a knowledge node instead of a fresh
-net query every time.*
+net query every time.
 
 This could be far more useful and valuable than GraphQL could ever be
 because it is universal. GraphQL is way more complicated than it really
