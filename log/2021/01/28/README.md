@@ -1,3 +1,37 @@
+## Thursday, January 28, 2021, 9:07:53PM EST <1611886073>
+
+Reminded today how little popularity really matters to me, obviously. I
+don't stream to be popular. I stream to help and make social connections
+with people who actually get and appreciate my stupid humor and rants.
+
+Ran across someone today on Twitter who has a book, lots of speaking
+engagements, and a fancy avatar but was one of the authors who wrote the
+shitty code that actually got published that I had to fix in my version
+of it after having read the book and being, "wait, what?"
+
+I know this is just me stroking my own ego, but everyone needs a good
+stoke sometime. 
+
+And yeah, TJ is right. The more likely you are to hear from someone, the
+less likely what they have to say is worth listening to.
+
+I've never been famous nor sought fame really, but I'm a pretty good
+communicator, and a communicator's gotta communicate. 
+
+I've also been "blessed" (and cursed) with an overabundance of life
+experiences that others find interesting enough to want me to recount.
+Must have been part of my deal with the Universe before coming here.
+
+One of the more sucky professional phenomenons I have noticed through
+the years as a successful engineer is how much being really fucking good
+at what you do can actually prompt others --- who are sometimes more
+well known --- to find ways to silence, marginalize, or even attack you
+without provocation while also using you as their "pocket" SME. 
+
+I know that sounds like sour grapes (at best) and full-blown paranoia
+(at worst). But at this point I have observed it so many times in my
+life, and the lives of others, that I am sure it's a thing.
+
 ## Thursday, January 28, 2021, 6:36:53PM EST <1611877013>
 
 Learning from Greg that there is a thing called
