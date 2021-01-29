@@ -1,3 +1,22 @@
+## Friday, January 29, 2021, 6:25:13PM EST <1611962713>
+
+OMG the logo for Gitea is amazing. I'm so fucking done with GitHub
+already, but spending 10 minutes on <https://gitea.io> has me completely
+hating that I didn't port everything to it last year.
+
+I'm imagining a day now where I can having nothing on my GitHub but
+"find me on rwx.gg." Only the most fearless will take up the call.
+
+Obviously, the next step will be a full subdomain to all users of
+`rwx.gg` with accounts so that instead of `github.com/someuser` (which was
+always stupid) we give *every* member their own subdomain as a part of
+it. Rather than promoting a single monolithic service, we encourage
+everyone to setup their own servers with Gitea on them, or GitLab,
+thereby promoting open source to the fullest extend.
+
+This is clearly the right thing to do. The rest of the mediocre, Silicon
+Valley stoking, sheep/drones can stay on GitHub.
+
 ## Friday, January 29, 2021, 6:12:08PM EST <1611961928>
 
 ```go
