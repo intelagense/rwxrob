@@ -1,3 +1,108 @@
+## Friday, January 29, 2021, 6:12:08PM EST <1611961928>
+
+```go
+import (
+  "rwx.gg/auth"
+  "rwx.gg/cmdtab"
+  "rwx.gg/uniq"
+  "rwx.gg/colors"
+  "rwx.gg/term"
+)
+```
+
+And yes, we can do better than `gh`. As cool as it is, it will always be
+married to GitHub and I would rather promote a tool and muscle memory
+that is service-agnostic and encapsulates the others. The average
+developer is now pull repos from all over the place, not just GitHub. It
+is possible that `git` clone could do it, but that doesn't add the level
+of opinionated organization about how all those repos are stored
+and managed locally.
+
+```bash
+repos clone rwx.gg/auth
+```
+
+I'm obsessed with what the Git paths and Go package import signatures
+will look like now. Before I would have attacked people using their own
+hosting for important package libraries, but there are so many ways to
+provide rock solid longevity with the Go caching server and the
+`replace` directive in `go.mod` now that no one need fear anything.
+Besides, the ethos of Go is to *include* stuff directly rather than
+depend on 100s of remote, unvalidated dependencies (like Node infamously
+fucked up from the very beginning). In other words, if you are afraid of
+a weird domain host that might to away some day, then just clone it into
+your own or fork it. In fact, this will encourage me to do the same. The
+packages hosted on `rwx.gg` will become a finely curated list of amazing
+packages out there, some just simple forks, others improved upon. It
+will be *way* more awesome than any fucking "awesome" list.
+
+Oh my God, we have to do this.
+
+## Friday, January 29, 2021, 5:50:52PM EST <1611960652>
+
+A bit of quick research and comparison shopping between Netlify hosting
+and Digital Ocean shows that running my own Kubernetes cluster with
+Gitea as one of the services is completely doable. A single \$5/month
+droplet gets 1 full terabyte of transfer. Netlify gives 100gb on their
+free plan.
+
+The more I look at the new offerings of Digital Ocean the more I realize
+this is what I really want. While Netlify is amazing for getting a site
+up quickly for most people --- especially when combined with GitHub for
+automatic pushes --- it is something of a limiter to what I want to
+eventually do with the RWX community. 
+
+As for the cost, once I have a more traditional full-time job to go
+along with the mentoring I'll have the money to support a full Digital
+Ocean deployment and will also approach them about potential
+sponsorships and hosting discounts. Hell, I might apply to work there
+first. God knows they value open source individuality and have
+positioned themselves as "the developers' cloud." 
+
+I want to see DO succeed more than any other given my life-long focus
+helping *everyone* become a developer. In fact, if you take the idea
+from GitHub about being the "Facebook for Developers" and eliminate the
+horrible Facebook association you have a corporate mission that seeks to
+promote "developers, developers, developers" and *no one* does that
+better than DO, absolutely no one.
+
+I see my path emerging before me, and frankly GitHub ain't on it.
+
+God it must be hard trying to keep up with all my changes in direction.
+It will be fun for some people to say, "I told you so." I can hear them
+now.
+
+Seriously though, I've said many times publicly that I value
+decentralized individuality over cloud simplicity. Centralization to the
+scale we see with GitHub and the others is fucking bad for humanity. 
+
+I can bring myself to be okay with hosting services, however. They are
+centralized, for sure, but they are not controlling those using the
+services to the degree that GitHub does. And if they ever tried to do
+so, people can take their server images and deploy them someplace else.
+
+I guess what I'm saying is that I support Amazon, Azure, GCP --- and
+most of all --- Digital Ocean because they are centralized
+infrastructure and not services. Locking people into services is far
+more dangerous than locking people into a hosting provider because
+people can pick up their containers and images and move when and if they
+need. This promotes competition instead of lock-in to a specific
+service.
+
+I'm glad I came to this realization at this point in my refactoring and
+house cleaning. It means all I need to do is clone all my repos locally,
+back them up, and eventually creation my own hosting service for them.
+
+GitHub be damned.
+
+The real question is if I will maintain this level of commitment in a
+day or so. God knows it will be a lot more fun to work with as a
+community since I can get everyone to help support it and list their
+support as a project on their resumes/cvs.
+
+I mean the whole *fucking* point of Git is decentralization? GitHub is
+completely and totally antithetical to that goal.
+
 ## Friday, January 29, 2021, 4:33:09PM EST <1611955989>
 
 GitHub "Education" just denied my renewal as an educational institution
