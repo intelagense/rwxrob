@@ -1,5 +1,6 @@
 # TODO List
 
+* Discuss rewriting GNU utils in something other than GPLv3
 * Lynx in Docker container with ? and ??
 * `kn` in a Docker container
 * Add all relevant IRC rooms on startup.
@@ -79,7 +80,6 @@ Yeah, yeah, I'll get to it eventually.
 * Create oscp project in gitlab for collaborative collection of *legal* resources
 * CafeSec
 * Disable all VODs, use OBS to make vids for posting.
-* Make robs.io public
 * Convert WeeChat stuff to use `/secure` command so it gets saved as encrypted.
 * Carefully vet and test to enable WeeChat config to be public without the secure files. There is so much configuration to do creating a boilerplate with vim-centric bindings and such is worth it.
 
@@ -303,11 +303,8 @@ Later:
 - figure out how to be notified if a twitch viewer has a question
 - finish config for bash
 - port all medium blogs to main
-- port old blogs from github to robs.io
-- create robs.io
 - search browser history from the command line
 - look into ultrasnips and youcompleteme
-- filter all the entries in skilstak.io to robs.io that belong there
 - fix functions.bash exports
 - create vimscript for my bash extensions
 - make `save` use gh or gitlab to commit
