@@ -16,8 +16,9 @@ Schedule:
   Activities:
   - [5,  Up]
   - [6,  Work]
-  - [10, '[Stream] PEGN']
-  - [12, '[Stream] AFKWorks']
+  - [9, '[Stream] AFKWorks']
+  - [11, '[Stream] PEGN']
+  - [13, Run/Yoga]
   - [15, Nap]
   - [16, Mentor]
   - [21, Family]

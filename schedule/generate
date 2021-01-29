@@ -1,5 +1,7 @@
 #!/bin/bash
 
+## FIXME Individual weekday generation instead of clumping
+
 declare file=README.md
 
 days () {
@@ -64,7 +66,6 @@ days () {
       fi
     done
 
-    ## FIXME Individual weekday generation instead of clumping
 
     echo
   done
