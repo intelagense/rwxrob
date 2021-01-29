@@ -1,3 +1,8 @@
+## Friday, January 29, 2021, 6:59:25PM EST <1611964765>
+
+Started a list of [companies](/notes/companies) to help keep track of
+the *really* good ones.
+
 ## Friday, January 29, 2021, 6:36:53PM EST <1611963413>
 
 Gitea has users and organizations and repositories so I'm wondering if
