@@ -1,3 +1,19 @@
+## Friday, January 29, 2021, 8:07:57PM EST <1611968877>
+
+I feel so shallow for not being able to think of anything but how much
+more easily and quickly coded all Caleb's "fuzzer" code could have been
+in Go. Caleb is obviously a skilled coder, which strangely is more
+anomalous than you might think for typical cybersecurity people ---
+especially pentesters.
+
+One thing is for sure, Go is really going to rock the hacking world even
+more as the up and coming generation realizes this true fact: Go is
+actually better than Python for writing *all* secops-related code ---
+especially anything with concurrency. That's *why* it was created.
+
+Python just still has the lead in libraries and tools currently. But
+that is changing very rapidly.
+
 ## Friday, January 29, 2021, 6:59:25PM EST <1611964765>
 
 Started a list of [companies](/notes/companies) to help keep track of
