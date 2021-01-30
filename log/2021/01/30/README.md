@@ -8,3 +8,12 @@ the role. I *definitely* was a "Developer Advocate" which makes me think
 that might be the major role I'm actually looking for next in a
 full-time job.
 
+I think the reason I missed this before is because I build and maintain
+stuff as well as advocate for using it. There are a bunch of roles that
+are mangled together so its hard to pick one. 
+
+I've enjoyed the *results* of coding and creating IT systems more than
+the *act* of creating them. In fact, it sort of annoys me. I just want
+to see the vision done and usable in my hands. Coding and ops are
+essential tasks in the critical path to getting these things.
+
