@@ -4,7 +4,8 @@ Those I've either read or absolutely must read eventually.
 
 ## Not Yet Read
 
-* The Innovators
+* The Innovators (reading now)
+* The Art of Computer Programming (Knuth)  
 * Introduction to Boolean Algebras (Springer)
 
 ## Books I Love
