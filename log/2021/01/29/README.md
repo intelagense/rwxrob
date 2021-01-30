@@ -1,10 +1,10 @@
 ## Friday, January 29, 2021, 8:07:57PM EST <1611968877>
 
 I feel so shallow for not being able to think of anything but how much
-more easily and quickly coded all Caleb's "fuzzer" code could have been
-in Go. Caleb is obviously a skilled coder, which strangely is more
-anomalous than you might think for typical cybersecurity people ---
-especially pentesters.
+more easily and quickly coded all [Caleb's "fuzzer"
+code](https://youtu.be/2_ZaNBl6qNo?t=1476) could have been in Go. Caleb
+is obviously a skilled coder, which strangely is more anomalous than you
+might think for typical cybersecurity people --- especially pentesters.
 
 One thing is for sure, Go is really going to rock the hacking world even
 more as the up and coming generation realizes this true fact: Go is
