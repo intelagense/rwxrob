@@ -1,3 +1,7 @@
+## Sunday, January 31, 2021, 4:08:13PM EST <1612127293>
+
+Nice raid from [\@NahamSec](https://twitch.tv/NahamSec) who kindly forgave my lack of voice. 😄
+
 ## Sunday, January 31, 2021, 2:36:41PM EST <1612121801>
 
 Oh my God, Perl tab completion is so much simpler than Bash:
