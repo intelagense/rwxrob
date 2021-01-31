@@ -1,3 +1,28 @@
+## Sunday, January 31, 2021, 6:23:44PM EST <1612135424>
+
+Decide to keep the `#!/usr/bin/perl` because it is standard on every
+Linux and UNIX system for Perl. I could give a shit about Windows and
+Mac paths that are someplace else. On Mac people just have to properly
+`brew install gnu-core-utilities`. If people aren't willing to do that,
+fuck 'em they can configure their own. I'm not willing to invoke another
+wasteful indirections and subshell to lookup the local of `perl` every
+fucking time a script runs that needs. In fact, it is absolutely stupid
+to ever put `#!/usr/bin/env <anything>` into anything that is regularly
+going to be run. Add the installer intelligence to do it right.
+
+## Sunday, January 31, 2021, 6:17:10PM EST <1612135030>
+
+All this Perl and automation is pulling me into cybersecurity again.
+There are few industries where living on the terminal are as rewarding
+and profitable.
+
+Also, I realize now that Perl is coming back to me how much Bash felt
+like pushing a rock up a steep hill even after I pretty much mastered
+it. The stuff people hate about Perl makes it like butter to slice and
+serve. So very calming. People will think that I'm crazy that coding and
+reading Perl calms me down, but it just does. It's so fucking brilliant
+for all the things that I most value: manipulating text.
+
 ## Sunday, January 31, 2021, 6:09:16PM EST <1612134556>
 
 Intrigued if there is a chance of using PEGN to capture the `date -d`
