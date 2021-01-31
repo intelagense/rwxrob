@@ -1,3 +1,19 @@
+## Sunday, January 31, 2021, 5:59:33PM EST <1612133973>
+
+While reflecting on all this work with my family at dinner I realized
+that perhaps the *biggest* interest group among knowledge workers across
+the world is cybersecurity. No one makes use of a "black book" of
+customized tweaks and notes than these types. I remember those who
+trained me and the methods they had to manage all these little things in
+a way they could recall later. And there is nothing better for this type
+of need than command line interface to dump stdin and other script
+output into. Combine that with drop-dead simple search ability, and then
+even more, the ability to easily pass it over `keg` to others and you
+have a tool that just doesn't exist that I would have *loved* to have
+had when I started. After all, at the end of the day, this is all just
+for me. If someone else benefits, that's even more amazing. But Imma do
+it anyway just for my own needs.
+
 ## Sunday, January 31, 2021, 5:18:03PM EST <1612131483>
 
 Another realization about doing this `kn` with a `kn.d` script directory
