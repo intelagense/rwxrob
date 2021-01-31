@@ -1,3 +1,7 @@
+## Sunday, January 31, 2021, 1:34:19PM EST <1612118059>
+
+And another thing, Markdown was originally written in Perl.
+
 ## Sunday, January 31, 2021, 12:52:35PM EST <1612115555>
 
 I'm actually a little excited to *re-learn* perl. It's absolutely crazy
