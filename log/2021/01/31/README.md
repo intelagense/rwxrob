@@ -1,3 +1,11 @@
+## Sunday, January 31, 2021, 5:18:03PM EST <1612131483>
+
+Another realization about doing this `kn` with a `kn.d` script directory
+is that I can still leverage shell stuff like the very powerful `date
+-d` arguments. The UNIX way really is the best way. Hell, I could have a
+Python action as well if I wanted to do something that makes sense to do
+in Python.
+
 ## Sunday, January 31, 2021, 4:08:13PM EST <1612127293>
 
 Nice raid from [\@NahamSec](https://twitch.tv/NahamSec) who kindly forgave my lack of voice. 😄
