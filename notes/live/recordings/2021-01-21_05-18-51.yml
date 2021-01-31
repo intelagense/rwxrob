@@ -1,0 +1,30 @@
+Title: 
+  Rants. Reinventing YOUR Wheel. TODO Utility. Bash. GitHub.
+  Markdown. YAML. Sleep Schedules.
+
+Recorded: 2021-01-21T05:18:51-0500
+File: 2021-01-21_05-18-51.mkv
+
+Description: |
+  Having a great day until I found out inauguration video demonetized by
+  some random Japanese company for no reason.
+
+Services:
+-
+  Name: YouTube
+  ID: 'yd1aDYEKNp0'
+- 
+  Name: Twitch
+  ID: '885647186'
+
+Marks:
+-
+  Time: 2021-01-21T05:20:51-05:00
+  Note: Good Morning. Coffee. Coding in Bash. Writing.
+-
+  Time: 2021-01-21T05:24:23-05:00
+  Note: Don't Reinvent the Wheel? Make your OWN Wheel!
+-
+  Time: 2021-01-21T05:55:01-05:00
+  Note: Creating a TODO List Tool in Bash with GitHub
+
