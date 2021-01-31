@@ -1,3 +1,12 @@
+## Sunday, January 31, 2021, 6:09:16PM EST <1612134556>
+
+Intrigued if there is a chance of using PEGN to capture the `date -d`
+grammar for modifying base date and time stamps. It would be relatively
+easy to capture as a grammar and then generate. I'm thinking we need to
+make that a priority for a helper Go package. The syntax is remarkable
+flexible and powerful. It is sort of inline with efforts on the `dtime`
+project that got me into PEG in the first place.
+
 ## Sunday, January 31, 2021, 6:07:24PM EST <1612134444>
 
 Dance All Days (Wang Chung) just randomly played. All is well in the
