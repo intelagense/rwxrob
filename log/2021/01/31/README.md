@@ -1,3 +1,117 @@
+## Sunday, January 31, 2021, 12:21:15PM EST <1612113675>
+
+And, of course, Perl has its own license which is *not* GPLv3!!! Oh my
+god, I love Bash, but that means I can keep my stuff free from that
+shitty license.
+
+Here's the greatest irony of all. This will make some people fucking
+come unglued on my flip-flop. But I have always said the only reason to
+learn Zsh was because it was not GPLv3 (which is why Mac uses it). The
+simply fact is, that if I keep all my shell in Bourne/Dash/Ash (POSIX-y)
+and all the other stuff in Perl that I've avoid GPLv3 completely. That's
+something I simply cannot be ignored.
+
+So here's what 2021's experiment will look like:
+
+Language|Uses
+|:-:|-
+`sh`|Rudimentary Scripts (Bourne/POSIX/Dash/Ash)
+`bash`|Interactive Shell (Only)
+`perl`|Scripts Beyond Dash
+`go`|Anything Compiled
+`c`|Stuff That Requires It
+
+And no fucking Python unless I'm writing automations or something, not
+even for ML, there is plenty in Go for that now (that is actually
+faster).
+
+## Sunday, January 31, 2021, 12:04:50PM EST <1612112690>
+
+I think I finally hit my limit with Bash. For the past year I've been
+conducting a personal programming experiment. I decided to allow myself
+to code Bash and use all the Bashisms I possibly could in an effort to
+see if I could effectively replace Perl and Python with Bash and Go.
+
+Well today I hit two *big* fucking blocks to productivity during this
+experiment.
+
+The first is support for `\p{Cc}` and other Unicode class regular
+expression support. As usual, since Perl is literally the best language
+on planet Earth for regular expressions --- having defined the modern
+standard that is now included *in every other language* --- it is
+naturally the first to invent and deploy support for full Unicode
+classes. (Oh, and by the way, Perl supported Unicode *way* before Python
+and didn't need a breaking change like Python3 to fix it.)
+
+You simply cannot code in any other scripting language with that level
+of regular expression and parsing support. Just think of `pack` all by
+itself?!
+
+Given the amount of language and knowledge manipulation that I do
+regularly the primary criteria of the `kn` implementation language is
+rock solid support for parsing and regular expressions. For that, Perl
+is simply the best.
+
+The second is small but oh so important: POD. I went to create an
+efficient way to document my Actions for `kn` only to realize there is
+simply no efficient way to do this in Bash. Go has it but they I have a
+bunch of compilation steps for different target OSes, perhaps in the
+long run, but not for throwing together stuff quickly. Perl POD comes
+*after* the code (`__END__`) so the interpreter never gets bogged down
+by parsing over it. This is a level of simple genius that most people
+today just don't fucking appreciate. Python does *not* have this. It's
+compiler is fucking brain dead, which is Guido is pushing so hard for a
+new one in PEG. Again, Perl is king of *solid* script documentation.
+
+I have to sit on this conclusion a bit, but these are *huge* discoveries
+made in the fire of scientific personal research that I simply cannot
+ignore. Perl is *literally* the best tool for *this* job, despite its
+moronically uninformed unpopularity today. Given the amount of natural
+language manipulation that I have been doing I have to consider the
+possibility of prototyping `keg` and `kn` in Perl. 
+
+I kind of like the prospect of building the next Internet Knowledge
+Exchange Grid primarily on Perl to get started. Intelligent engineers
+will make their considerations and discover why this is the right thing
+to do.
+
+## Sunday, January 31, 2021, 11:32:01AM EST <1612110721>
+
+Struggling with the potential need for a convention for documenting
+Actions. 
+
+* Should I have the documentation be in a separate YAML file?
+* Should embed it?
+* Is YAML overkill?
+
+People from the MAN page generation would say to keep is separate since
+every execution of a Bash script is slowed by parsing the doc lines
+unnecessarily (even though it is nanoseconds to do it).
+
+This is where I *really* miss Perl where the convention was to put it in
+the file after a certain point that the interpreter would always skip
+and therefore didn't affect compilation. There's really no reason not to
+use Perl for this actually, it's on everything by default as much as
+Bash is. But people will really frown about it. Eventually Perl Actions
+could be replaced with compiled Go code.
+
+The thing about Perl is that it is absolutely the right pick to
+prototype this stuff *mostly* because the `perl` executable is on
+*everything* where a consistent version of Python is not. Besides,
+Python start up times are fucking horrible and always have been. The
+compiler is absolute shit.
+
+But if I do this in Perl everyone will immediately write it off for all
+the wrong fucking reasons. You know what *no* other scripting language has
+right now? `\p{Cc}` Unicode notation. *Only* Perl supports that shit.
+And yet assholes have the gall to suggest Perl is a "boomer" language.
+
+I'm in a fucking bad mood as it is today, thinking about lesser
+programmers throw shade at a language they know fucking nothing about
+just pisses me off more. So Imma remind myself how to code in Perl
+(after having set it down and coded nothing in it for over 15 years)
+just to fucking piss them off.
+
 ## Sunday, January 31, 2021, 11:23:26AM EST <1612110206>
 
 OMG I turned off the lights in my room and am coding like I used to all
