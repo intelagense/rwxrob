@@ -1,3 +1,75 @@
+## Sunday, January 31, 2021, 1:59:01PM EST <1612119541>
+
+Initial impression returning to perl is that it is actually far more
+easy to comprehend --- and definitely safer --- than Bash. I've been
+using `-T` and Bash has nothing like that. Plus there is no surprising
+glob expansion, even though Bash `[[]]` is immune from those
+vulnerabilities these days.
+
+In other words, someone looking at the some complex use of associative
+arrays or `coproc` or any number of new Bash features since 5.0 would be
+equally just as confused and have to really spend time deciphering it
+like they would require for the same code in Perl.
+
+In other words, bubye Bash. For all these text-intensive shell scripts
+Perl is rock solid.
+
+It was nice exploring your possibilities, but ultimately you are no
+where near as powerful --- or modern --- as Perl 5.30+ even if you are
+both likely to be on any system I run across.
+
+Perl has always been such a faithful companion. It's *never* let me
+down. Not once.
+
+When C was too heavy and Shell to insecure to handle the *entirety* of
+backend processing for the entire fucking Web and the Common Gateway
+Standard of the time:
+
+Perl was there (even though it was never designed to be the Web's
+savior).
+
+When Java has a weird bug in the VM that prevented me from hitting Nike
+store checkout system deadlines and no one believed me about it until
+they flew in a guy from Sun to validate it who ended up concluding (and
+I quote) "Huhn" when he saw it.
+
+Perl was there.
+
+When PHP dropped me on my ass with horrendous memory leaks and shitty
+syntax requiring the fastest rewrite of the most lines of code I've ever
+written on a deadline. 
+
+Perl was there. 
+
+When Python's startup time and absolute non-existent command-line
+usability nagged me into leaving it for being so fucking butt ugly and
+fat.
+
+Perl was there.
+
+When Ruby's speed and resource management continued to miss minimum
+benchmarks.
+
+Perl was there.
+
+When the new Bash that has no knowledge of Unicode regular expressions
+nor method of self-documenting scripts without incurring massive
+performance penalties. 
+
+Perl was there.
+
+Here's the bald-face truth. The Perl developers are fucking rock stars
+and always have been. They are more than 10x developers. And they
+actually give a shit about a lot things the Python, Node, Ruby, and Rust
+core teams could never even comprehend, let alone implement. (By the way,
+it's no surprise that Go has been heavily influenced by Perl given
+Plan9's inclusion and use of Perl extensive.)
+
+It's good to be back. The rest of the world won't understand us. But we
+don't have to care about them. We'll just get shit done faster than them
+on every front and prove it. (Once I learn you again. I'm so, so sorry I
+forgot you.)
+
 ## Sunday, January 31, 2021, 1:34:19PM EST <1612118059>
 
 And another thing, Markdown was originally written in Perl.
