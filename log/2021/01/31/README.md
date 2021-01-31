@@ -1,3 +1,19 @@
+## Sunday, January 31, 2021, 2:36:41PM EST <1612121801>
+
+Oh my God, Perl tab completion is so much simpler than Bash:
+
+```perl
+if ($ENV{'COMP_LINE'}) {
+  my $partial = $ARGV[1];
+  my [\@actions](https://twitch.tv/actions) = map {s,^.*/,, and $_} glob "kn.d/*";
+  map {/^$partial/ and say $_} [\@actions](https://twitch.tv/actions);
+  exit 0;
+}
+```
+
+I'm really kicking myself in the ass for ever leaving Perl for this kind
+of stuff.
+
 ## Sunday, January 31, 2021, 1:59:01PM EST <1612119541>
 
 Initial impression returning to perl is that it is actually far more
