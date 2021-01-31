@@ -1,3 +1,40 @@
+## Sunday, January 31, 2021, 12:52:35PM EST <1612115555>
+
+I'm actually a little excited to *re-learn* perl. It's absolutely crazy
+that I wrote this extremely complicated, low-level
+[`perlclasses`](https://github.com/rwxrob/perl-classes-pragma) pragma
+and now I barely remember any of it. Looking through it is really
+bringing it all back though. It's hard to believe I used to give
+presentations on this stuff back in the day.
+
+I am left wondering if, um, this will affect the focus of my imminent
+job search. I'm starting to feel like SRE work is still deep in my
+bones. I've always seemed to be able to straddle the fence of
+development and operations. At this point the main priority is cleaning
+up my GitHub repo and that involves porting a lot of this to Perl.
+Nothing is significantly difficult.
+
+Another advantage is how powerful having Perl back in my toolbox will be
+when it comes to creating the cluster for automated bugbounty
+monitoring, not to mention dealing quickly with stuff after getting in.
+Perl has always been a preferred hacker language for that reason. Go
+compliments it well because it is a single executable payload when the
+time comes.
+
+In fact, having a significant amount of Perl in my GitHub will actually
+be a good filter for dumb ass potential employers who do not truly
+understand when and where Perl is the unquestionable best pick. People
+who dismiss Perl immediately out of hand and write shit like "a healthy
+disdain for Perl" in their Job descriptions (including that completely
+moronic company F-Security) can fuck right off. I don't give a shit. If
+you don't understand it --- and especially if you make fun of it without
+understanding it --- I want *nothing* to do with you. I'll fucking take
+a janitorial job before I work for you.
+
+And to all those people who call me "too emotional," well, you are the
+first to understand me. If that makes you uncomfortable hiring or
+working with me, you can fuck off as well.
+
 ## Sunday, January 31, 2021, 12:21:15PM EST <1612113675>
 
 And, of course, Perl has its own license which is *not* GPLv3!!! Oh my
