@@ -1,3 +1,9 @@
+## Sunday, January 31, 2021, 7:48:38PM EST <1612140518>
+
+More I get into `kn` more I think that creating a Go version eventually
+is going to be the way to go because I can include the `yq` code to
+handle the YAML lookups without a dependency on the `yq` command itself.
+
 ## Sunday, January 31, 2021, 6:23:44PM EST <1612135424>
 
 Decide to keep the `#!/usr/bin/perl` because it is standard on every
