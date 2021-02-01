@@ -1,0 +1,132 @@
+## Monday, February 1, 2021, 5:35:37AM EST <1612175737>
+
+I've noticed a trend. I'll allow myself to be influenced by others only
+to realize that many of those opinions are either not based in fact or
+are objectively flawed for yet unrealized reasons despite them being
+widely popular (remember CoffeeScript, yeah didn't think so). 
+
+Such was the case with Bash and Perl yesterday. I knew using Bash in
+2020 would be an experiment, and it was just me v.s. me in that
+scenario, but my angry reaction to the perceived sudden hate on Perl was
+more about me accepting what I've always known and just being okay with
+it, being okay with the facts, no matter what the others have to say
+about it.
+
+I also find it physically exhausting to constantly have to explain my
+decisions to people many of whom just cannot understand even the
+fundamentals of the priorities for which my criteria are based. I cannot
+simply give others all my collective experience in a single sound bite
+or tweet. There's no way that last sentence doesn't sound arrogant. I
+don't mean it to. It's just a fact.
+
+As much as it fucking hurts, I leave myself open to being wrong when
+presented with new information.
+
+God knows I've change my direction in both my career and personal life
+based on this. In one case, it cost me my marriage. In almost every case
+I perceive that I'm losing the trust of those I've influenced to follow
+the previous direction. But isn't a worse thing to *not* change
+direction and explain why? 
+
+A flood of examples about the horrors that occur when people don't own
+their false finding just came to mind, including the horrible suicide of
+the two people subjected to a study about gender assignment through
+being raised a particular way that some shit-fuck, "author" published
+knowing it was absolute bullshit in private but never said anything
+publicly because of the shame *he* would receive for being oh so wrong.
+There are so many more examples. People just need to own their mistakes,
+but they don't because it hurts even without the public humiliation from
+an asshole mob that doesn't let people learn and change. Darwin knows
+what I'm talking about. Now there's a guy with *mostly* the courage to
+do the right thing.
+
+The popular masses do not allow people to change. "See, you were wrong!"
+They would rather crucify people for making the wrong choices than
+accept them with respect, even just for choices that are different from
+theirs based on less than all the information they had available to
+them.
+
+I think this explains my paranoid lashing out the last few days. It's
+like I've been beaten so much for changing significant direction (and
+being made fun of for it) that I overreact to even the slightest
+question as to why. God knows I've been physically bullied enough to
+give me PTSD forever, let alone emotionally. It is hard enough realizing
+and accepting myself as being wrong or, given a bunch of new
+information, and that I *have* to change despite the cost. I mean, think
+of the *major* things I had to change on this last five years:
+
+* Linux to Windows to Mac to Linux
+* YAML to TOML to YAML
+* Python to Go
+* Google to Protonmail
+* Classroom to Single Mentored
+* Ops to Dev to SecOps to Dev to DevOps
+* DO to AWS to DO
+* VS Code back to Vim
+* NeoVim to Vim
+* Mint to PopOS!
+* GitLab to GitHub
+* GitHub to Gitea
+
+So when I see the path I've been on with Perl over the last 15 years,
+I can maybe understand why I'm so pissed off (even if not at anyone
+specifically):
+
+* Perl to Python to POSIX Shell to Bash back to Perl
+
+Reading that line still angers me. Sure I learned a lot along the way.
+Sure Python is better for some things and my `.bashrc` will always be
+better because of it. But realizing I was right all along about Perl for
+stuff I had tried to squeeze into other languages really hurts ---
+especially given how much of Perl I had simply forgotten. It's like
+showing up on the doorstep of my ex-wife's home and saying, "You know,
+you were absolutely right about me the entire time." It might be true,
+but my God it hurts to face it, even if I'm the only one saying anything
+to myself about it. Even so, it's the right thing to do (the Perl thing,
+not the ex-wife, she's a heinous, soulless bitch and I'm glad to be free
+from her forever).
+
+Given all of that going on in my head, and the fact that all of it is
+live streamed for every pundit to comment on, it's no wonder I was a
+powder keg the last few days. It's one thing to make dumb mistakes while
+coding for all to see (sometimes *really* dumb mistakes). It's quite
+another to publicly realize you have been dead wrong about a *major*
+life decision for more than a year. Being live makes you very
+vulnerable, and you are already sensitive about it and drawing all your
+internal courage to face yourself and your decision.
+
+No wonder when some fucking asshole says, "See I told you" I want to
+fucking ban them immediately, or worse, someone starts spouting the lies
+that got you to change direction in the first place, even if they
+*personally* don't agree with them (or so they say after you call them
+an asshole). It's easy to be a coward watching from your living room or
+couch and chime in for all to see on a live stream that you've done
+absolutely nothing to support, when all you do is enjoy the quick ego
+boost of calling out the streamer for being wrong even though you can't
+manage to pay \$2 a month to support that same streamer that puts up
+with your shit.
+
+I'm doing it again.
+
+I resent many of the people in the community to whom I have given a
+significant voice, whose opinions I take seriously into consideration,
+and who down-right relish the moments when I'm wrong and they get to
+claim they knew it all along --- especially when those same assholes
+spend hours on my live stream without paying a single cent of support or
+doing anything *actually* valuable. Most consider their shared opinions
+to be their most valuable contribution.
+
+It's a wonder I even keep doing this. But, in the end, the good people
+who truly have something to offer make it all the more worth it. I just
+need to focus on them.
+
+But here's the problem, I can't stop caring about what *everyone* thinks.
+It's not a popularity thing. It's something more. It's always been a
+massive flaw. And when I realize it is affecting me I inevitably
+over-react and suddenly *everyone's* an asshole. At least I know that
+about myself and can publicly admit it, which I'm sure certain people
+will say, "See, I told you that you were over-reacting. I'm right, as
+usual. You were wrong." I fucking hate people like that even if most of
+them just simply lack the emotional intelligence to understand why it's
+just not okay to say that shit.
+
