@@ -1,3 +1,11 @@
+## Monday, February 1, 2021, 5:35:22PM EST <1612218922>
+
+I've been adding about 12 YouTube subs every six hours (it's impossible
+to ignore on the dashboard). Quite randomly, however, I ticked down one
+sub and noticed it almost exactly after I published the Perl video and
+it went public. I can only imagine the look on that one Perl-hater's
+face.
+
 ## Monday, February 1, 2021, 5:27:48PM EST <1612218468>
 
 As I start the job browsing process I find myself absolutely giddy
