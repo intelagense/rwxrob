@@ -1,4 +1,4 @@
-📆 [Schedule](schedule) 🗿 [Log](log) 📝 [Notes](notes) 📃 [Posts](posts) 🪄 [Tips](tips)
+🏠 [Home](https://rwxrob.github.io/rwxrob) 📆 [Schedule](schedule) 🗿 [Log](log) 📝 [Notes](notes) 📃 [Posts](posts) 🪄 [Tips](tips)
 💪 [CV](cv) 📚 [Books](books) 🔖 [Bookmarks](bookmarks) ☠️  [Blacklist](blacklist)
 
 Code is art. Good code is like the enigmatic innards of a fine 16th
