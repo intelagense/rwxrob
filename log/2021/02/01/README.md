@@ -1,3 +1,30 @@
+## Monday, February 1, 2021, 5:27:48PM EST <1612218468>
+
+As I start the job browsing process I find myself absolutely giddy
+reading about the SRE automation work out there that involves shell,
+Python, Go, and even some Perl. There is definitely work in it. The
+average salary is \$115k for an SRE, which is more than enough for me to
+maintain my minimums to live and maintain my mentoring and streaming.
+The real question is how many of those roles require being on site. Most
+of the good ones do because you need to be able to manipulate hardware.
+
+With all the development experience I have doing the SRE thing would
+only stick with me if I was writing a lot of automations and
+microservices to integrate with all the other stuff. I'm actually more
+of a DevOps guy at heart since that lands smack dab in between SRE and
+Cloud Native developer.
+
+I've decided as dumb as certifications are that I will be doing all the
+work for the Cloud Native Foundation certifications and then deciding if
+I want to actually go through with getting and maintaining the
+certificate. In order to do that, I'll have to get my on-prem cloud up
+and running here in the apartment again.
+
+Perhaps the best career strategy is to accept a good SRE or dev job and
+work into the DevOps stuff over the course of the year. That way all my
+shell and Go and Linux skills stay as sharp as always but get gradually
+improved with Cloud Native development.
+
 ## Monday, February 1, 2021, 3:27:31PM EST <1612211251>
 
 Running into YouTube channels that are entirely dedicated to a specific
