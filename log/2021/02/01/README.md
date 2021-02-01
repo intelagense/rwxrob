@@ -1,3 +1,23 @@
+## Monday, February 1, 2021, 7:30:48AM EST <1612182648>
+
+One of the things I was very wrong about was <https://dev.to>. Even
+though I find the mountain of incorrect information super annoying that
+is no different than Stack Overflow, Quora, Reddit, Twitter, Facebook,
+or Hacker News. They all *really* suck most of the time, which is why I
+need to spend more time encouraging critical thinking and personal
+decision making and less time ripping on how bad things are. I will
+still state my case and then let people make their own decisions. It's
+what I value even if I don't always follow through on it.
+
+One *stupendously* stupid conclusion I made related to Dev.to was accuse
+them of not support anything but JavaScript and blocking those with
+visual disabilities. They don't. They just use shitty web server
+software that thinks the Lynx web browser (or any browser they don't
+approve) is a malicious bot. That is easily circumvented by changing the
+`User-Agent` header and it works fine after you do. On that particular
+point I feel like a right, dumb asshole. (Leave it to the amazing
+@green_jenny to politely point that out. I thank her.)
+
 ## Monday, February 1, 2021, 5:35:37AM EST <1612175737>
 
 I've noticed a trend. I'll allow myself to be influenced by others only
