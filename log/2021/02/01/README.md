@@ -1,3 +1,47 @@
+## Monday, February 1, 2021, 3:15:11PM EST <1612210511>
+
+Laughing my ass off at this Rust commenter saying
+
+> i hate magic coding. dont do magic shit.
+
+Then you better now use *any* coding language. Rust is one of the *most*
+magical. What the fuck do you think all that borrow checking is?
+
+I understand this person's point (who's avatar is a grumpy cat barfing
+rainbows, by the way, typical of most vocal Rust people). Perl
+*embraces* the magic and allows people to use that magic in whatever
+combination they want. 
+
+Besides, Go is anything but magical.
+
+I just couldn't resist logging a sample of the complete lunacy in my
+comments on that Rust video. Thank God people who matter also chimed in,
+here's my favorite:
+
+> im mid 40s.  I have at least 12 languages known, and 5 of them, I have
+very complex systems in production today.   Originally I watched this
+video thinking rob is full of it.  However I realized I am full of it.
+Why spend weeks figuring out how to write good rust.... WWEEKS for
+someone that has more crap in production... im done... back to Golang.
+
+That is typical of people with Rust. They love the language so much ---
+and are so dogmatically linked to it --- that they cannot stop to look
+at what is *objectively* the right tool for most jobs for which they are
+being paid by people with different priorities than them. This is why
+Java and Go dominate the enterprise right now (and Rust *never* will).
+
+Astute CTOs see the hype --- and more importantly --- the self-ish,
+immaturity of those refusing to accept the reality that they are being
+paid to produce software that is faster to produce and easier and
+cheaper to maintain in *anything* but Rust. These clueless assholes are
+the kind hiring managers need to weed out immediately. They don't give a
+shit about you or your company. They want an excuse to do what they want
+to do, which is fine, but not when *you* are paying them.
+
+Obviously, some companies will benefit from Rust. Edge hardware software
+development is one of those areas potentially. Turns out game
+development wasn't.
+
 ## Monday, February 1, 2021, 7:30:48AM EST <1612182648>
 
 One of the things I was very wrong about was <https://dev.to>. Even
