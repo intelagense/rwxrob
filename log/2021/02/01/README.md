@@ -1,3 +1,10 @@
+## Monday, February 1, 2021, 3:27:31PM EST <1612211251>
+
+Running into YouTube channels that are entirely dedicated to a specific
+programming language. It's not about a specific language, it's about
+getting shit done. I can only hope they have several channels about
+different languages, but I doubt it.
+
 ## Monday, February 1, 2021, 3:15:11PM EST <1612210511>
 
 Laughing my ass off at this Rust commenter saying
