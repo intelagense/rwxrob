@@ -1,5 +1,8 @@
 # Perl Notes
 
+[The Universe was Actually Hacked Together with
+Perl](https://xkcd.com/224/)
+
 Yes, Perl is still a *very* valid shell scripting language ---
 particularly when dealing with lots of text.
 
