@@ -1,5 +1,8 @@
 # Great Quotes
 
+> @justbender: one of my favorite misquotes is "Jack of all trades master of none" which actually was "A jack of all trades is a master of none, but oftentimes better
+than a master of one."          
+
 > The nice thing about standards is that there are so many to choose
 from. (Andrew Tanenbaum)
 
