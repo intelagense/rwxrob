@@ -1,5 +1,7 @@
 # Great Quotes
 
+> @ifohancroft: I've always said about using JavaScript on the backend: I can spread shit on a slice of bread, instead of Nutella - but why? I think the same about using JS on the backend :D 
+
 > @justbender: one of my favorite misquotes is "Jack of all trades master of none" which actually was "A jack of all trades is a master of none, but oftentimes better
 than a master of one."          
 
