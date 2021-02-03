@@ -21,9 +21,9 @@ Rank|Description
 7|Regional expert, books and conference talks
 6|Company expert, critical business direction 
 5|Department expert, speaker and trainer
-4|Local team expert, give meetups about
-3|Comfortable working with professionally
-2|Beginner knowlege, not yet professional
-1|Heard of it, general understanding of
+4|Very experienced, team expert, give meetups
+3|Professional proficiency, experienced
+2|Beginner, working practical proficiency
+1|General, theoretical understanding
 0|Heard of the term
 
