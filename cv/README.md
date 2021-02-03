@@ -9,9 +9,10 @@ choose.
 
 ## Self-Assessed Skills Criteria
 
-Skills are listed with three self-assessed ranks based on the following
-criteria as used by high-profile companies during the initial interview
-phase:
+Skills are listed with two scores:
+
+* Where I am currently
+* Where I am working to be or maintain
 
 Rank|Description
 -|-
