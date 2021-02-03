@@ -7,6 +7,8 @@ Those I've either read or absolutely must read eventually.
 * The Innovators (reading now)
 * The Art of Computer Programming (Knuth)  
 * Introduction to Boolean Algebras (Springer)
+* The Man Who Changed Everything: The Life of James Clerk Maxwell (Basil Mahon)
+* Surely You're Joking (Feinman)
 
 ## Books I Love
 

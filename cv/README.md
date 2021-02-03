@@ -1,15 +1,11 @@
-# Curriculum Vitae (Mimworks Career Manager)
+# Robert Sterling Muhlestein, Curriculum Vitae
 
-The files within this `cv` directory (a standardized name) are used by
-the [Mimworks Career Manager](https://github.com/mimworks/career)
-utility and auto-discovering registry:
-
-File|Purpose|Required
--|-
-`vitae.yml`|Experience and Education|Yes
-`refer.yml`|Referrals and Recommendations|No
-`skills.yml`|Self-Assessed Skills|No
-`photo.jpg`|Photograph of Self|No
+Content for this CV is contained in the [data.yml](data.yml), which can
+be queried, filtered, and used to generate different views. Hence, it's
+length and lack of specificity. Recruiters and employers often prefer a
+broader view of my personal and professional life in order to make their
+own decisions about which elements to focus on rather than have me
+choose.
 
 ## Self-Assessed Skills Criteria
 
@@ -19,15 +15,15 @@ phase:
 
 Rank|Description
 -|-
-10|You made it. You am the world authority.
-9|
-8|
-7|
-6|
-5|
-4|
-3|You are comfortable with this professionally.
-2|
-1|
-0|
+10|Creator, leader, BDFL, world authority, founder
+9|Core team member, director, cofounder
+8|National expert, legal and political advisement
+7|Regional expert, books and conference talks
+6|Company expert, critical business direction 
+5|Department expert, speaker and trainer
+4|Local team expert, give meetups about
+3|Comfortable working with professionally
+2|Beginner knowlege, not yet professional
+1|Heard of it, general understanding of
+0|No knowledge whatsoever other than term
 
