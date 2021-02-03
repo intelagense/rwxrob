@@ -25,5 +25,5 @@ Rank|Description
 3|Comfortable working with professionally
 2|Beginner knowlege, not yet professional
 1|Heard of it, general understanding of
-0|No knowledge whatsoever other than term
+0|Heard of the term
 
