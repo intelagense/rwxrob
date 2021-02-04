@@ -43,9 +43,10 @@ security auditing software as I did for IBM as an SRE there.
 
 ## Work History
 
-📃 My full curriculum vitae is available as [a YAML file](cv/vitae.yml).  
-☺️  Professional referrals and recommendations are [also
-available](cv/refer.yml).
+📃 My full curriculum vitae and professional referrals and
+recommendations are available as [a YAML file](cv) which I use as a base
+from which to build more specific resumes and job applications when
+needed.
 
 Before starting the company that currently employs me, I spent 14 years
 at IBM making software and caring for the systems it ran on. Perl, Bash,
