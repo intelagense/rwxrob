@@ -1,5 +1,7 @@
 # Great Quotes
 
+> @ifohancroft: I often fail to find the simplest way. My boss always jokes  that if I have to calculate 1+1, I would encode it as a QR code, project it on the moon, read it back, decode it, then  calculate it :D
+
 > @ifohancroft: I've always said about using JavaScript on the backend: I can spread shit on a slice of bread, instead of Nutella - but why? I think the same about using JS on the backend :D 
 
 > @justbender: one of my favorite misquotes is "Jack of all trades master of none" which actually was "A jack of all trades is a master of none, but oftentimes better
