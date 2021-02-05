@@ -9,10 +9,10 @@ to sync up if they want to join me for live streaming or whatever.
 6|Work|Work|Work|Work|Work|Free|Free
 7|Work|Work|Work|Work|Work|Free|Free
 8|Work|Work|Work|Work|Work|Free|Free
-9|Work|Work|Work|Work|[Stream] AFKWorks|Free|Free
-10|Work|Work|Work|Work|[Stream] AFKWorks|[Stream] Walkthrough: Learning Web Design|[Stream] Walkthrough: Learning Web Design
-11|Work|Work|Work|Work|[Stream] PEGN|[Stream] Walkthrough: Learning Web Design|[Stream] Walkthrough: Learning Web Design
-12|Work|Work|Work|Work|[Stream] PEGN|[Stream] Walkthrough: Learning Web Design|[Stream] Walkthrough: Learning Web Design
+9|Work|Work|Work|Work|Work|Free|Free
+10|Work|Work|Work|Work|Work|[Stream] Walkthrough: Learning Web Design|[Stream] Walkthrough: Learning Web Design
+11|Work|Work|Work|Work|Work|[Stream] Walkthrough: Learning Web Design|[Stream] Walkthrough: Learning Web Design
+12|Work|Work|Work|Work|Work|[Stream] Walkthrough: Learning Web Design|[Stream] Walkthrough: Learning Web Design
 13|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga
 14|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga|Run/Yoga
 15|Nap|Nap|Nap|Nap|Nap|Nap|Nap
