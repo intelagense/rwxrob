@@ -1,3 +1,17 @@
+## Thursday, February 4, 2021, 7:17:19PM EST <1612484239>
+
+Bumped up date time with timezone on screen to `brightwhite` in TMUX
+config and realized the color format with words matches the color scheme
+so that it perfectly matches whatever the terminal theme colors are,
+another reason to stick with the Solarized approach rather than setting
+specific values that don't play well with a particular theme change.
+
+Going with the brighter white makes sense now that I leave
+`[irc/freenode]` on the screen so it is immediately obvious what is
+happening. It has helped save a lot of confusion, that and making sure
+to but [chat.rwx.gg] into every title (which makes me glad to have a short
+domain).
+
 ## Thursday, February 4, 2021, 6:18:54PM EST <1612480734>
 
 Yeah, it's possible other people are lurking on my live streams
