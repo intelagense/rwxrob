@@ -1,5 +1,9 @@
 # Great Quotes
 
+> @cloud6: You can be: an academic, lost in formalism; an engineer, that doesn't
+see the beauty beyond implementation; or a scholar, that does both the
+implementation and the formalism based on the former.      
+
 > @ifohancroft: I often fail to find the simplest way. My boss always jokes  that if I have to calculate 1+1, I would encode it as a QR code, project it on the moon, read it back, decode it, then  calculate it :D
 
 > @ifohancroft: I've always said about using JavaScript on the backend: I can spread shit on a slice of bread, instead of Nutella - but why? I think the same about using JS on the backend :D 
