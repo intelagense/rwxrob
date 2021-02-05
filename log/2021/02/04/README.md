@@ -1,3 +1,29 @@
+## Thursday, February 4, 2021, 9:00:50PM EST <1612490450>
+
+I'm absolutely losing my cool by how completely frustrating it is
+watching our state of affairs right now. I just watched a dude on Twitch
+fly around his expensive lab with gadgets everywhere with 1000s of
+viewers and a very sustainable following. Then another guy, with
+something like 80k subs on YouTube does his first Twitch stream and
+decides he wants to do cybersecurity, 'cuz that sounds interesting. He
+launches into Linux on TryHackMe, an absolutely horrible resource, and
+when I suggest it is not the best first resource and that he try the one
+from the Linux Foundation he takes that will a bit of trepidation.
+
+It's a fucking up-hill, ongoing battle to counter all the bad
+information out there. People will make their own decisions and I *want*
+them to learn for themselves and be critical thinkers, but they don't
+even know what fucking IRC is, or why TryHackMe is absolute shit and
+when I point these things out I just come off as an asshole.
+
+I take solace in the fact that there *are* clued in people like Nahamsec
+who not only has been supportive and been fun to get to know in the
+community, but chose to raid on Twitch a few times. I have to focus on
+people like him to remind myself that it's not a systemic or generation
+thing, it's a free will and apathy thing. There *are* fucking amazing
+people out there, that would travel hours to have a beer with given the
+chance, they are just a lot harder to find.
+
 ## Thursday, February 4, 2021, 7:17:19PM EST <1612484239>
 
 Bumped up date time with timezone on screen to `brightwhite` in TMUX
