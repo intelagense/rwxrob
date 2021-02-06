@@ -1,3 +1,18 @@
+## Friday, February 5, 2021, 7:41:29PM EST <1612572089>
+
+I've decided to go all in on one specific beginner to technologist path
+with only minimal focus on web design at all. This means I will be
+allowing those I mentor now who are only interested in creating games
+and web development to just atrophy out and replace them with those on
+my waiting list who are specifically interested in the main path I
+offer.
+
+This is a big departure from before where I had multiple paths, one
+leading to front-end kinds of things and another leading to operations
+kinds of things.
+
+I'll be putting all of this organization into the Beginner Boosts.
+
 ## Friday, February 5, 2021, 5:21:00PM EST <1612563660>
 
 Looks like the best balance of full-time job, mentoring, and live
