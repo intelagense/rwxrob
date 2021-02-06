@@ -21,6 +21,8 @@ than specific technologies.
 * Coding for Self-Empowerment, Programming with Purpose  
 * Lessons Learned Over a Decade of Helping Others Learn
 * Learning PEGN, The Parsing Expression Grammar Notation
+* Perl That Kicks Ass; Rapid Shell Scripting in the World's Most
+  Powerful and Ubiquitous Interpreted Language
 
 ### Beginner Boosts
 
