@@ -4,7 +4,8 @@
 
 ```go
 s := exec.Command("less", "-r", "-Ps"+status)
-less.Stdin = strings.NewReader(buf)
+//less.Stdin = strings.NewReader(buf)
+less.Stdin = os.Stdin
 less.Stdout = os.Stdout
 less.Run()
 ```
