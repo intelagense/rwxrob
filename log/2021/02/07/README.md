@@ -1,3 +1,20 @@
+## Sunday, February 7, 2021, 10:23:12PM EST <1612754592>
+
+Been doing a lot research and Resume OCR and best practices discussion
+and have reached a few important conclusions:
+
+* PDF is fine even if old application tracker systems (ATS) prefer Word
+* Fonts do *not* stay with documents (unless PDF), problematic
+* Modern OCR systems used at large companies have "no problem" with PDF
+* PDF from `media-query(print)` not substantially different than others
+* Creating resume as web site addresses multiple needs
+
+This supports another decision I was struggling with about whether to
+learn *basic* HTML and CSS. I now believe *everyone* should learn enough
+to create a resume/portfolio site that uses only these minimums. This is
+a perfect example of progressive web design (which ensures you only
+leverage the minimum capabilities of the browser.
+
 ## Sunday, February 7, 2021, 8:45:53PM EST <1612748753>
 
 The other day Dennis (@lastmiles from Twitch) had a John Goodman topic
