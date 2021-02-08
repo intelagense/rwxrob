@@ -1,8 +1,10 @@
 # TODO List
 
+* FINISH THE RESUME
+* Update resume generator to use `text/template` (on stream)
 * Make status bar transparent
 * More precise IRC topics with `/topicswap`
-* Add all relevant IRC rooms on startup.
+* Add all relevant IRC rooms on startup
 * Back to single monolithic `.bashrc`
 * Discuss the `sudo` hack with the live community
 * Unicode (go) convenience classes in PEGN
@@ -156,6 +158,7 @@ Yeah, yeah, I'll get to it eventually.
 
 ## Eventually
 
+* Interview an HR/Recruiter veteran
 * Discuss rewriting GNU utils in something other than GPLv3
 * Lynx in Docker container with ? and ??
 * `kn` in a Docker container
