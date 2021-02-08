@@ -1,3 +1,8 @@
+## Sunday, February 7, 2021, 10:55:03PM EST <1612756503>
+
+According @bigj1m in Canada, "engineer is a protected title that you can
+sued for using wrongly.
+
 ## Sunday, February 7, 2021, 10:23:12PM EST <1612754592>
 
 Been doing a lot research and Resume OCR and best practices discussion
