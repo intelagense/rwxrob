@@ -2,7 +2,9 @@
 
 * FINISH THE RESUME
 * Update resume generator to use `text/template` (on stream)
-* Make status bar transparent
+* Spellcheck the `cv/data.yml`
+* Sync latest IT engineer resume with cv
+
 * More precise IRC topics with `/topicswap`
 * Add all relevant IRC rooms on startup
 * Back to single monolithic `.bashrc`
