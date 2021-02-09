@@ -1,7 +1,7 @@
 ## Tuesday, February 9, 2021, 2:18:32PM EST <1612898312>
 
-I need to be able to add the following to my resume: Jenkins, Rundeck,
-Terraform, Vault, Ansible, puppet, chef, Grafana, Prometheus,
+I need to be able to add the following to my resume: Jenkins, CI/CD,
+Rundeck, Terraform, Vault, Ansible, puppet, chef, Grafana, Prometheus,
 ElasticSearch, Zabbix.
 
 ## Tuesday, February 9, 2021, 12:00:51PM EST <1612890051>

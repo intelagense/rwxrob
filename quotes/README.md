@@ -1,5 +1,9 @@
 # Great Quotes
 
+> "Programming, no matter what level, is mostly trial & error. So before
+anything else, optimize for the shortest feedback loop possible." -- James
+Ward         
+
 > @cloud6: You can be: an academic, lost in formalism; an engineer, that doesn't
 see the beauty beyond implementation; or a scholar, that does both the
 implementation and the formalism based on the former.      

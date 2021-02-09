@@ -16,3 +16,12 @@ less.Stdout = os.Stdout
 less.Run()
 ```
 
+## Golang Template Joins
+
+```go
+{{ range $index, $element := .Equipment}}
+	{{if $index}},{{end}}
+	{{$element.Name}}
+{{end}}
+```
+

@@ -106,7 +106,7 @@ Employment:
   Stopped:  February 2014
   Location: Remote, USA
   Details:
-  - Provided 3rd level support for IBM Tivoli products
+  - Provided 3rd level support for IBM Tivoli Provisioning Manager
   - Coded and analyzed 600K lines of C++, Java, TCL, Perl, and Python
   - Performed low-level, root cause analysis of core dumps
   - Executed complex, multi-host testing with Python Fabric
@@ -127,7 +127,7 @@ Employment:
   - Created custom GPG-based transport protocol used for 150K servers
   - Contributed to core security compliance for 250 accounts
   - Made universal, auto-updating UNIX/Linux endpoint in Perl 
-  - Designed PostgreSQL code and data store accepting terrabytes a week
+  - Designed PostgreSQL code and data store accepting terabytes a week
   - Spearheaded implementation of source management and package bundling
   - Automated backup of wiki documentation and source tree
   - Mentored and lead team in adoption of industry SRE practices
@@ -247,7 +247,7 @@ Employment:
   Started: September 1995
   Stopped: February 1997
   Details:
-  - Created currency converter web app and with world bank integration
+  - Created currency converter web app with world bank integration
   - Implemented password authentication for local web marketing firm
   - Developed web interface to product database for regional vendor
   - Provided web design consulting to regional advertising firm
@@ -274,7 +274,7 @@ Employment:
   Details:
   - Designed, developed, and maintained corporate web site and clients'
   - Created first public form processing app (`fb.pl`) used by thousands
-  - Trained corporate teams and executives on emerging web and Internet
+  - Trained corporate teams and executives on emerging Web and Internet
   - Actively raised visibility of company through regular networking
 
 - Role:     Cruise Director / Interpreter / Technologist / Sales Person 
@@ -470,7 +470,7 @@ Volunteer:
   - Supervised and assisted French to English mission translations
   - Exercised extreme empathy and development of interpersonal skills
 
-Referrals:
+Accolades:
 
 - Name:  Brent S. Clark
   Title: Site Reliability Engineer, HomeAdvisor

@@ -1,0 +1,12 @@
+<style>
+#tech {
+  padding-left: 2rem;
+}
+</style>
+<h2>Technologies</h2>
+<div id=tech>
+{{- range $n,$v := .Technologies -}}
+{{ if $n }} • {{ end -}}
+{{.}}
+{{- end -}}
+</div>

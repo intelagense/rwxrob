@@ -1,7 +1,10 @@
 # TODO List
 
 * FINISH THE RESUME
-* Update resume generator to use `text/template` (on stream)
+  1. Create the one-page HTML/CSS template
+  1. Chop up template with Go `text/template`
+  1. Write simple Go code to generate index.html
+  1. Test PDF generation (print) from web
 * Spellcheck the `cv/data.yml`
 * Sync latest IT engineer resume with cv
 

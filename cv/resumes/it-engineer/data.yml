@@ -1,0 +1,166 @@
+Name:     Rob Muhlestein
+Role:     IT Infrastructure Engineer • Senior Software Developer
+Email:    rob@rwx.gg
+Web:      rob.rwx.gg
+Location: Mooresville, North Carolina, USA
+
+Skills:
+- Linux/UNIX Systems Architecture and Administration
+- Site Reliability Engineering (SRE)
+- Cloud Native Computing (DevOps)
+- System Software Design and Development
+- Scripted Automation and Orchestration
+- Network Protocol API Design and Development
+- Domain Language and Grammar Specification
+- Web and Proxy Server Setup and Administration
+- Enterprise Data Collection and Management
+- Structured Configuration Management and Exchange
+- Terminal User Interface (TUI) Specialization
+- Enterprise Domain and Data Modeling
+- Event-Driven Enterprise Business Patterns
+- Agile and Test Driven Development Practices
+- Multi-core Asynchronous Programming
+- Interprocess Communication Methods (IPC)
+- Core Dump and Root Cause Analysis
+- Cybersecurity Auditing and Testing
+- On-Prem Systems Hardware Administration
+- Supply Chain Integration
+- Writing and Publication
+
+
+Experience:
+
+- Role:     Founder • Mentor • CEO • Engineer • Developer
+  Entity:   SkilStak, Inc.
+  Started:  May 2013
+  Location: Davidson, North Carolina, USA
+  Details: 
+  - Founded and self-funded corporation to help others learn tech skills
+  - Created SkilBots, unique instructional software framework in Go
+  - Maintained Linux host in cloud for terminal-based (Bash) learning
+  - Created app for managing SkilBux and passwords in Go and PostgreSQL
+  - Administered 100s of workstations running Linux, MacOS, and Windows
+  - Setup and maintained all network operations and cybersecurity
+
+- Role:     Senior Software Developer
+  Entity:   IBM Software Division (Tivoli)
+  Started:  July 2009
+  Stopped:  February 2014
+  Location: Remote, USA
+  Details:
+  - Coded and analyzed 600K lines of C++, Java, TCL, Perl, and Python
+  - Performed low-level, root cause analysis of core dumps
+  - Executed complex, multi-host testing with Python Fabric
+  - Created advanced system performance tests in C with concurrency
+  - Coded VMWare (ESXi) proxy integration inspectors for TEM (BigFix)
+  - Became fluent with vSphere API and Relevance (BigFix) language
+  - Developed over 100 TEM security compliance checks in POSIX shell
+  - Sized and delivered log rotation migration processes in shell
+  - Provided 3rd level support for IBM Tivoli Provisioning Manager
+  - Participated in and lead Agile SCRUM meetings
+
+- Role:     Site Reliability Engineer • Senior Software Developer
+  Entity:   IBM Global Services
+  Started:  January 2000
+  Stopped:  July 2009
+  Location: Remote, USA
+  Details: 
+  - Developed high-volume, central, multi-threaded TCP/IP server
+  - Created custom GPG-based transport protocol used for 150K servers
+  - Contributed to core security compliance for 250 accounts
+  - Made universal, auto-updating UNIX/Linux endpoint in Perl 
+  - Designed PostgreSQL code and data store accepting terabytes a week
+  - Spearheaded implementation of source management and package bundling
+  - Automated backup of wiki documentation and source tree
+
+- Role:     Tivoli Administrator
+  Entity:   IBM Global Services
+  Started:  October 2002
+  Stopped:  July 2004
+  Location: Remote
+  Details:
+  - Managed Tivoli endpoint health achieving 99.99% in first year
+  - Developed web-based ManageNow ticket system for 20% efficiency gain
+  - Lead production Tivoli Framework installations and upgrades
+  - Created numerous administrative tools and commands
+
+- Role:     Site Reliability Engineer • Systems Administrator
+  Entity:   IBM Global Services
+  Started:  March 2000
+  Stopped:  October 2002
+  Location: Remote
+  Details:
+  - Regularly administered to on-prem server systems hardware 
+  - Achieved 99.97% uptime for 12 Sun, AIX, Linux, and SCO servers
+  - Provided secondary support for 45 Windows NT/2000 servers
+  - Conceived and implemented round-trip SMTP mail monitoring system
+  - Achieved highest customer satisfaction rating, 10 of 10
+  - Executed live upgrade of main SMTP mail relay (2000-7000)
+  - Proposed, deployed, and supported team Linux server
+  - Developed automated system performance reports
+  - Proactively discovered infected hosts behind firewall
+  - Identified and corrected faulty corporate firewall configuration
+  - Developed comprehensive tape backup procedure with monitoring
+  - Managed corporate domain name server
+  - Received "Thanks" awards from peers
+
+- Role:     Full Stack Web Developer
+  Entity:   Nike, Inc. (Nike.com)
+  Started:  August 1999
+  Stopped:  January 2000
+  Location: Beaverton, Oregon
+  Details:
+
+- Role:     Intranet Webmaster • Developer • Linux Administrator
+  Entity:   Nike, Inc. (Swooshnet)
+  Started:  August 1996
+  Stopped:  August 1999
+  Location: Beaverton, Oregon
+
+- Role:    Full Stack Web Developer
+  Entity:  Self (Independent Contractor)
+  Started: September 1995
+  Stopped: February 1997
+  Location: Gresham, Oregon
+
+- Role:     Full Stack Web Developer • Presenter
+  Entity:   Teleport Internet Services 
+  Started:  May 1995
+  Stopped:  August 1996
+  Location: Portland, Oregon
+
+- Role:     Director of Sales • Full Stack Web Developer
+  Entity:   Fibernet Internet Services
+  Started:  October 1994
+  Stopped:  May 1995
+  Location: Provo, Utah
+
+Projects:
+
+- Home (on prem) Kubernetes cluster with custom cloud native apps
+- Twitch/YouTube Live Stream Tech Community (rwxrob.live, rwx.gg)
+- Parsing Expression Grammar Notation (pegn.dev)
+- Association of Federated Knowledge Workers (afk.works)
+- Knowledge Exchange Grid (keg.network)
+
+Education:
+
+- 'Bachelors of Arts, Russian, Brigham Young University, 1994, 3.6 GPA (4.0=A)'
+
+Languages:
+- American English (native)
+- Russian (spoken and written)
+- French (spoken and written)
+
+Technologies: [Linux, Ubuntu, Debian, Red Hat (CentOS), Kubernetes (k3s),
+Containers (Docker), Virtual Machines, VMWare, Virtual Box, k3os,
+RancherOS, Raspberry Pi, Arduino, UNIX, Solaris, AIX, Terminal (TUI),
+Command Line (CLI), Secure Shell (SSH), File Systems (SAN/NAS), TCP/IP,
+UDP, Sockets, HTTP, SMTP, IMAP, POP3, LDAP, Samba, SFTP, DNS, TLS,
+Apache, Nginx, Go (golang), Go Templates, Perl, Python, Bash, POSIX
+Shell, Expect (TCL), Fabric (FabFiles), C, gdb, gcc, strace, HTML, CSS,
+JavaScript, JAMStack, Websockets, NodeJS/NPM, PEGN, ABNF, EBNF, SQL,
+PostgreSQL, Redis, UML, ERD, YAML, JSON, XML, TOML, Markdown, Pandoc,
+GraphQL, REST, gRPC, ProtoBuf, curl, nmap, Oauth2, Vim/Vi, VSCode, TMUX,
+screen, Lynx, w3m, Git, GitHub, GitLab, Gitea, DigitalOcean, AWS, IRC,
+Slack, Discord, Twitch, YouTube, Twitter]
