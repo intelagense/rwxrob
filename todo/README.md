@@ -1,10 +1,7 @@
 # TODO List
 
-* FINISH THE RESUME
-  1. Create the one-page HTML/CSS template
-  1. Chop up template with Go `text/template`
-  1. Write simple Go code to generate index.html
-  1. Test PDF generation (print) from web
+* Fix https://afk.works
+
 * Spellcheck the `cv/data.yml`
 * Sync latest IT engineer resume with cv
 

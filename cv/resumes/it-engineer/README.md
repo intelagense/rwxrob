@@ -1,4 +1,4 @@
-# IT Infrastructure Engineer • Senior Software Developer
+# Resume for IT Infrastructure Engineer / Senior Software Developer
 
 Here is my resume targeted at my core IT proficiencies, infrastructure
 engineering, operations, and systems software design and development.

@@ -52,6 +52,19 @@ os.Chdir("/tmp")
 return syscall.Exec(shell, []string{shell}, os.Environ())
 ```
 
+## Testing for Panic
+
+```go
+func assertPanic(t *testing.T, f func()) {
+    defer func() {
+        if r := recover(); r == nil {
+            t.Errorf("The code did not panic")
+        }
+    }()
+    f()
+}
+```
+
 ## Golang Template Joins
 
 ```go
@@ -61,3 +74,17 @@ return syscall.Exec(shell, []string{shell}, os.Environ())
 {{end}}
 ```
 
+## Fastest Way to Get Keys from Map 
+
+```go
+// Keys returns a sort list of keys from the Data
+func (js Config) Keys() []string {
+	keys := make([]string, len(js.Data))
+	n := 0
+	for k, _ := range js.Data {
+		keys[n] = k
+		n++
+	}
+	return keys
+}
+```
