@@ -1,3 +1,22 @@
+## Thursday, February 11, 2021, 5:24:02PM EST <1613082242>
+
+Looks like Discord has really fixed their broken sound and video issues
+that forced me to move to Skype for mentoring. It's a good thing too
+because I am planning on doing live mentoring with small groups of no
+more than three. The first group looks like it will be a bunch of 12
+year olds learning to code and make videos games using Phaser, which
+should make for great viewing by a number of people who watch Twitch and
+YouTube. We will all be in the same video chat room on Discord so people
+can join and watch the different participants rather than just waiting
+for me to show them on the screen.
+
+So far it is being well received by the candidates, but I need
+authorization from the parents to do it since it will be public and
+saved forever on YouTube. I'm giving them a break on the cost since they
+will be combining the time. Most of theme would do it at the same rate
+just to get the Internet channel exposure (these first three already
+have Twitch streaming setup).
+
 ## Thursday, February 11, 2021, 4:11:46PM EST <1613077906>
 
 Still experimenting with live streaming during "monitored mentoring
