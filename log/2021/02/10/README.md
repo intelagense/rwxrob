@@ -1,3 +1,41 @@
+## Wednesday, February 10, 2021, 8:21:53PM EST <1613006513>
+
+Finding it annoying that some of the standard libraries in Go don't
+allow mocking of the inner stuff, but it is clearly for performance
+reasons. For example, `user.Current()` returns a cached version if
+already called.
+
+However, I did find a way to get around this:
+
+1. Create a package called `mockuser` that contains a `user` package.
+1. Implement an identical `user.Current()` function
+1. Return different stuff that points to your `testdata`
+1. Import it with the explicit `user` nickname in your test code
+
+This was much easier than I was expecting. For doing a large test of
+something that could be catastrophic to a system that is a suitable
+replacement to ensure nothing bad happens since the entire test code is
+forced to resolve the `user` symbol to your mock.
+
+I'm sure the pros do this all the time.
+
+## Wednesday, February 10, 2021, 7:25:08PM EST <1613003108>
+
+I keep getting tempted by `testify` but it is so bloated and unnecessary
+for most all unit testing. The latest was getting a good way to test for
+a panic. Here's a gem from Stackexchange (for once):
+
+```go
+func assertPanic(t *testing.T, f func()) {
+    defer func() {
+        if r := recover(); r == nil {
+            t.Errorf("The code did not panic")
+        }
+    }()
+    f()
+}
+```
+
 ## Wednesday, February 10, 2021, 7:12:48PM EST <1613002368>
 
 TIL that `os.Executable()` is preferred since 1.5 over `os.Args[0]`
