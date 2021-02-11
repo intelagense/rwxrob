@@ -1,3 +1,9 @@
+## Thursday, February 11, 2021, 6:58:18PM EST <1613087898>
+
+Finally finished [`rwxrob/conf-go`](https://github.com/rwxrob/conf-go)
+to do all the JSON configuration conventional dirty work of storing
+stuff in the right place.
+
 ## Thursday, February 11, 2021, 5:24:02PM EST <1613082242>
 
 Looks like Discord has really fixed their broken sound and video issues
