@@ -6,3 +6,7 @@ example I've seen in the last three years.
 
 I found some of my old code that uses `path` and changed it.
 
+Thanks to @afrology from stream I learned that `path` observes slashes
+while `filepath` does the expected UNIX thing and cleans them up along
+with dots.
+
