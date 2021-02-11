@@ -1,3 +1,19 @@
+## Wednesday, February 10, 2021, 7:12:48PM EST <1613002368>
+
+TIL that `os.Executable()` is preferred since 1.5 over `os.Args[0]`
+since it is more reliable across platforms and impervious to changes to
+the first argument (as it sometimes done to convey meaning in `ps`
+output). It is also a full path to the executable to allow validation
+against any internal idea of executable path in the code that isn't
+system dependent.
+
+## Wednesday, February 10, 2021, 5:58:36PM EST <1612997916>
+
+Struggling with decision so use `jsonconfig-go` or `jsoncache-go` as the
+name. I feel like `config` is more relevant. I'll use `git` as example,
+which uses `git config` even though it doesn't recognize any of the
+freedesktop standard conventions. 
+
 ## Wednesday, February 10, 2021, 5:36:39PM EST <1612996599>
 
 One of the most annoying things about the otherwise amazing `gh` command
