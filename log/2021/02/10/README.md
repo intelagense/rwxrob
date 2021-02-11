@@ -1,3 +1,7 @@
+## Wednesday, February 10, 2021, 8:40:24PM EST <1613007624>
+
+
+
 ## Wednesday, February 10, 2021, 8:21:53PM EST <1613006513>
 
 Finding it annoying that some of the standard libraries in Go don't
@@ -17,7 +21,10 @@ something that could be catastrophic to a system that is a suitable
 replacement to ensure nothing bad happens since the entire test code is
 forced to resolve the `user` symbol to your mock.
 
-I'm sure the pros do this all the time.
+I was foiled, however, because usually I want to test stuff that imports
+`user` and it has no visibility into my mock. This is one of those times
+when being able to mess with the symbol table directly would have come
+in very nicely (like in Perl).
 
 ## Wednesday, February 10, 2021, 7:25:08PM EST <1613003108>
 
