@@ -1,3 +1,26 @@
+## Friday, February 12, 2021, 6:17:56PM EST <1613171876>
+
+The more I think about how CapsLock has fucked up all our lives the
+angrier I get at the morons who decided to change the default position
+of ESC. The story infuriates me. How many times has CapsLock fucked up
+entering a simple password for billions of people. And why? So a tiny
+minority of people who actually have a need to type in all capital
+letters can do their thing, shout.
+
+In fact, the only assholes who use CapsLock these days are Trump
+supporters, you know, the type of shithead you never want to communicate
+with in the first place that thinks typing *anything* in all capital
+letters is a good idea. The only *good* time is maybe to code Fortran or
+write ENV VARIABLE names (but I just typed that without caps
+lock).
+
+There's something liberating and "FUCK YOU" about remapping Caps Lock on
+my entire computer to ESC. In fact, I'm looking for keyboards that
+enable the remapping permanently. My pinkies have never been happier and
+every time I use it I'm quite sure some pig-headed, all-caps typing,
+shit-fuck of a person feels a slight bit of pain for no rational reason.
+(Hey, I can imagine it anyway.)
+
 ## Friday, February 12, 2021, 5:38:14PM EST <1613169494>
 
 Blows me away that the installation instructions for `gh` have the user
