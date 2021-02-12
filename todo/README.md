@@ -1,5 +1,9 @@
 # TODO List
 
+* Video: reasons I finally switched to CapsLock ESC
+* Add default file/dir path completion to `cmdtab`
+* Add data key completion to `conf-go` along with rest
+* Consider renaming/branding cmdtab to subcommander
 * Get `cmdtab` to complete even without sub-subcommands
 * store the last topic value and if no change do not retweet
 * Fix https://afk.works
