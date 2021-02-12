@@ -1,3 +1,9 @@
+## Friday, February 12, 2021, 6:43:09PM EST <1613173389>
+
+I've done it. I've deleted all my GitHub organization *except* PEGN and
+AFKWorks. It feels wonderful I have all the stuff backed up here so I
+can go through it as I need it without fear.
+
 ## Friday, February 12, 2021, 6:17:56PM EST <1613171876>
 
 The more I think about how CapsLock has fucked up all our lives the
