@@ -1,7 +1,10 @@
 # TODO List
 
+* Get `cmdtab` to complete even without sub-subcommands
+* store the last topic value and if no change do not retweet
 * Fix https://afk.works
 
+* Consider the event of conflicting names for sub-subcommands in cmdtab
 * Spellcheck the `cv/data.yml`
 * Sync latest IT engineer resume with cv
 
