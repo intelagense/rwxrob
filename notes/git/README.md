@@ -2,7 +2,19 @@
 
 Recipes and such for Git source management system.
 
-## Creating a "Bare" Repo for Local Backups
+## Delete Tags
+
+```sh
+git push origin -d <tag>
+```
+
+## List All Remote Tags
+
+```sh
+git ls-remote --tags | perl -pe 's,.+/,,'
+```
+
+## Create a "Bare" Repo for Local Backups
 
 Some repos have no business being on GitHub or GitLab, but using the
 same workflow is nice. I prefer to not even keep this anywhere near my
