@@ -1,3 +1,23 @@
+## Friday, February 12, 2021, 7:57:37PM EST <1613177857>
+
+Having tremendous success helping beginners get started with terminal
+web browsing using `w3m` which comes with drop-dead simple and intuitive
+defaults. Eventually, some may decide to upgrade to a highly configured
+Lynx session, but `w3m` is more than enough for most --- especially now
+that I discovered that tab and shift-tab navigate the links (even though
+that requires two hands and I prefer browsing entirely with one hand
+while I drink coffee with my other, which can be configured in either
+but is not the default).
+
+Perhaps the most annoying thing about Lynx is all the cookie approvals
+that are not accepted by default. That's enough to make any beginner
+reach for w3m (and never leave it, for some). I don't begrudge that
+decision by anyone.
+
+My biggest gripe with `w3m` was always assuming too much about all the
+table and image layouts that cluttered up reading the actual text, but
+that has not been my experience with the defaults of late.
+
 ## Friday, February 12, 2021, 6:43:09PM EST <1613173389>
 
 I've done it. I've deleted all my GitHub organization *except* PEGN and
