@@ -1,12 +1,19 @@
+## Sunday, February 14, 2021, 11:08:57AM EST <1613318937>
+
+If KEG works and people start saving knowledge in Git repos on GitHub,
+then the Arctic Project will preserve it for all time. Think about that
+for a bit.
+
 ## Sunday, February 14, 2021, 10:26:48AM EST <1613316408>
 
 Having smaller files organized in directories is really reminding me of
 the Scrivener vibe from the days when I used it for book writing. This
 smallest possible knowledge node concept is solid. It's the basis for
-the entire [Zettelkasten](https://duck.com/lite?kd=-1&kp=-1&q=Zettelkasten) that I only heard of in February of 2020. I
-really love that so many great thinkers of burned the midnight oil on
-this same question and just come up with similar solutions in different
-languages.
+the entire
+[Zettelkasten](https://duck.com/lite?kd=-1&kp=-1&q=Zettelkasten) that I
+only heard of in February of 2020. I really love that so many great
+thinkers of burned the midnight oil on this same question and just come
+up with similar solutions in different languages.
 
 ## Sunday, February 14, 2021, 10:16:59AM EST <1613315819>
 
