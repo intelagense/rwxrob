@@ -1,3 +1,9 @@
+## Sunday, February 14, 2021, 2:50:52PM EST <1613332252>
+
+I hate that Jekyll (GitHub Pages) decided to insert an `_config.yml`
+file without getting confirmation. This reminds me I have to add `doc`
+to the semi-reserved list of knowledge nodes.
+
 ## Sunday, February 14, 2021, 11:08:57AM EST <1613318937>
 
 If KEG works and people start saving knowledge in Git repos on GitHub,
