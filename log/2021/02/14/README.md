@@ -1,3 +1,18 @@
+## Sunday, February 14, 2021, 10:16:59AM EST <1613315819>
+
+So very happy with moving back to pure Markdown files for KEG nodes.
+Requiring that the first line be a hashtag makes creating generators
+such a since using minimal scripting.
+
+Before when there was a YAML header there it was anything but simple and
+intuitive. Best decision in the last three months has been going with
+the `data.*` files. It also brought in the entire
+File-System-As-A-Database (FADB) stuff that I'd practically written off
+from 2015. It's all there and combined into KEG. In fact, so many one
+off ideas are seemingly coming together on this, stuff that dates back
+even to my IBM days when I used the notion of a node to send knowledge
+packages across the wire.
+
 ## Sunday, February 14, 2021, 8:34:01AM EST <1613309641>
 
 Sometimes I fucking hate how verbose JSON is. I get that it makes things
