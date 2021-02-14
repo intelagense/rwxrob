@@ -1,7 +1,3 @@
-## 
-
-
-
 # Personal Log and Notes
 
 This is unfiltered Rob, a stream of unedited conciousness that satisfies

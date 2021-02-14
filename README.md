@@ -1,5 +1,5 @@
 🏠 [Home](https://rwxrob.github.io/rwxrob) 📆 [Schedule](schedule) 🗿 [Log](log) 📝 [Notes](notes) 📃 [Posts](posts) 🪄 [Tips](tips)
-💪 [CV](cv) 📚 [Books](books) 🔖 [Bookmarks](bookmarks) ☠️  [Blacklist](blacklist)
+💪 [CV](cv) 📚 [Books](books) 🔖 [Bookmarks](bookmarks)
 
 Code is art. Good code is like the enigmatic innards of a fine 16th
 century timepiece, a good coder not unlike the artisan obsessed with its

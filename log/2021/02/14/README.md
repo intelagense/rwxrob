@@ -1,3 +1,8 @@
+## Sunday, February 14, 2021, 8:34:01AM EST <1613309641>
+
+Sometimes I fucking hate how verbose JSON is. I get that it makes things
+flexible, but my God is it wasteful (but so much better than XML).
+
 ## Sunday, February 14, 2021, 6:49:33AM EST <1613303373>
 
 It occurred to me that there is no strict limitation requiring root

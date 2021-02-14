@@ -1,7 +1,7 @@
-# Blacklist
+# Crap List
 
-Here's a blacklist of different organizations, sites, books, things, and people
-that you should avoid lest you hurt yourself in the process.
+Here's a list of different organizations, sites, books, things, and people
+that you should avoid lest you hurt yourself and others in the process.
 
 ## Colleges
 

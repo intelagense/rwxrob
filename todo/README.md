@@ -1,5 +1,7 @@
 # TODO List
 
+* Create a `afkworks/keg-go` (``)
+
 * Video: reasons I finally switched to CapsLock ESC
 * Add default file/dir path completion to `cmdtab`
 * Add data key completion to `conf-go` along with rest
