@@ -3,6 +3,7 @@
 Need to organize all the content and code. Here's some initial thoughts
 and questions:
 
+* Need to add `json.csv`
 * Do we host our own and mirror to GitHub?
 * What are the top-level domains and where do they go?
 * Do we go mono-repo or submodules?
@@ -14,7 +15,6 @@ and questions:
 * Do the WORDS and META files even belong? This is a standard that tools
   agree on the consumer side? In or out of the actual node itself?
 * Where to we create searchable cache data? On the consumer side, duh.
-
 
 ## Domains
 
