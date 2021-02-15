@@ -1,3 +1,59 @@
+
+## Monday, February 15, 2021, 12:27:59PM EST <1613410079>
+
+Just heard from @green_jenny about "orange hat hacking" and 
+[Edward De Bono's Six Hacking
+Hats](https://duck.com/lite?kd=-1&kp=-1&q=Edward+De+Bono's+Six+Hacking+Hats).
+
+## Monday, February 15, 2021, 12:12:02PM EST <1613409122>
+
+If you are a pedantic tech connoisseur who becomes an asshole when
+dealing with shit you can channel that anger in positive ways that make
+you less of an asshole, all of these focus your rage on *destroying*
+that shit in positive ways:
+
+1. Create better tech --- perhaps even open source it --- and then sell
+   support services and give conferences on why yours is better and your
+   competitor is absolute shit.
+
+2. Directly attack the tech through pentesting and publicly shaming the
+   shit out of it. After you are done with it no one will want to use it
+   and they will know exactly *why* because you will have fucking proven
+   it.
+
+But you can actually do both at the same time. That's my intent. Keep my
+coding skills senior while layering on additional redteam skills. I get
+the sense that redteam is all about coding to own. (I'll have to keep
+that phrase in my mind, "code to pwn").
+
+I recently saw a Chuck episode where Casey meets his traitorous sensei
+who gave him shit all his life for not finding "his calm center." I can
+really relate. Chuck saves the day by *really* pissing off Casey at the
+right time and he kicks his sensei's ass concluding, "I realized Casey
+doesn't have a 'calm center', he has an angry center."
+
+Sith Lord I am not. I believe in Yoga. I really do. I believe in being
+positive. But it's the ongoing rage that never leaves me. Our world is
+filled with so much shit I just makes me crazy with anger sometimes.
+
+People have told me it will affect my job opportunities. Perhaps. But
+there are jobs were directing that anger and passion into something good
+can make a difference. God wouldn't have given us anger if it didn't
+have a purpose. I understand that now. Call it righteous fucking
+indignation if you want. I don't give a fuck.
+
+I don't know where it comes from, probably from being fucked in the ass
+by Mormons for 40 years. But maybe not. It certainly is not directed
+toward any *person*. I actually love people. I really do. It is seeing
+them be fucked over constantly that makes me literally shake sometimes.
+But I can channel all that for good and keep the collateral damage to a
+minimum. I know I can. And I will.
+
+Luckily the careers where having tattoos (I don't), swearing, and being
+an angry asshole are almost entirely in the cybersecurity trade.
+
+OSCP here I come, again.
+
 ## Monday, February 15, 2021, 10:31:55AM EST <1613403115>
 
 My new life goal is to fucking own a CTF using nothing but perl and curl
