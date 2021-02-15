@@ -1,3 +1,14 @@
+## Monday, February 15, 2021, 5:33:51PM EST <1613428431>
+
+How do you know you should never use a package because the author does
+not give a shit enough about it to set a tagged version:
+
+```
+go: downloading github.com/nsf/termbox-go v0.0.0-20190121233118-02980233997d
+```
+
+When you get that in your output from `go get` anything.
+
 ## Monday, February 15, 2021, 5:13:59PM EST <1613427239>
 
 It's not always possible, but when it is using IRC and chat for
