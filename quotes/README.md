@@ -1,12 +1,21 @@
 # Great Quotes
 
-> "Programming, no matter what level, is mostly trial & error. So before
-anything else, optimize for the shortest feedback loop possible." -- James
-Ward         
+> "The Internet was done so well that most people think of it as a natural
+> resource like the Pacific Ocean, rather than something that was man-made.
+> When was the last time a technology with a scale like that was so error-free?
+> The Web in comparison is a joke. The Web was done by amateurs." - Alan Kay
 
-> @cloud6: You can be: an academic, lost in formalism; an engineer, that doesn't
-see the beauty beyond implementation; or a scholar, that does both the
-implementation and the formalism based on the former.      
+> "Don't just learn programming. Programming will be everywhere. Learn
+> an industry trade, then learn the programming for that trade."
+> (Grandpa Joe)
+
+> "Programming, no matter what level, is mostly trial & error. So before
+> anything else, optimize for the shortest feedback loop possible." --
+> James Ward         
+
+> @cloud6: You can be: an academic, lost in formalism; an engineer, that
+> doesn't see the beauty beyond implementation; or a scholar, that does
+> both the implementation and the formalism based on the former.      
 
 > @ifohancroft: I often fail to find the simplest way. My boss always jokes  that if I have to calculate 1+1, I would encode it as a QR code, project it on the moon, read it back, decode it, then  calculate it :D
 
