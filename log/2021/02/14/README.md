@@ -1,3 +1,10 @@
+## Sunday, February 14, 2021, 7:59:24PM EST <1613350764>
+
+After a bit of watching I can feel the call to rewrite Burp and make it
+better using an open source alternative that leverages the running
+browser without using it, or better yet, includes something like the
+Chromium engine as a proxy when needed (if needed).
+
 ## Sunday, February 14, 2021, 7:42:42PM EST <1613349762>
 
 I'm so glad I stayed on a bit longer. I found something called "Hacking
