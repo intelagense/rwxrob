@@ -1,3 +1,14 @@
+## Monday, February 15, 2021, 9:50:57AM EST <1613400657>
+
+Had a great conversation with my wife over coffee. She's laughing her
+ass off because she absolutely has always known that hacking is in my
+DNA, even my language skills and asshole-ness play into it. Being a
+pedantic, "water-boiling" asshole is part of the job description, as is
+being able to back it up. The more you can show a corporation how badly
+they suck --- and communicate that effectively --- the more you prosper.
+
+I was born to hack.
+
 ## Monday, February 15, 2021, 9:07:27AM EST <1613398047>
 
 You know, I'm a hacker. I always have been. I don't know why I don't
