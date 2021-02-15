@@ -1,3 +1,46 @@
+## Monday, February 15, 2021, 1:06:19PM EST <1613412379>
+
+I've found that there is another disadvantage of using shell aliases for
+anything. They are not available to subshells including Vim magic shell
+integration. Yet another reason for really small shell scripts and/or
+export Bash functions.
+
+## Monday, February 15, 2021, 12:55:41PM EST <1613411741>
+
+Fighting the temptation to jump right into JSON-schema when creating new
+KEG node types. There are tools for that but they all suck and require a
+graphic browser. Just a table for now.
+
+## Monday, February 15, 2021, 12:50:22PM EST <1613411422>
+
+All this is consistent with my desire to do something more Easter-egg-y
+with skilstak.io and skilz.dev. Once again, a way to take on Try Hack Me
+(which I fucking despise) and come up with an open competitor that is
+supported by the community instead of some fucking fat-cat corporation
+getting people to lie about their sponsorships as part of their
+contractual obligation, while wearing a fucking Try Hack Me tee-shirt on
+a Twitch live stream and never using anything else. Just the absolutely
+shitty Linux "lessons" are worth the attack. Imma destroy Try Hack Me,
+one day.
+
+## Monday, February 15, 2021, 12:34:01PM EST <1613410441>
+
+After deciding to do nothing but muted "CozyCoding" during the work day
+I have realized several advantages from it:
+
+* Zero preparation for the stream
+* No regrets taking breaks
+* I don't have to look good
+* I'm not blinded by lights (can work in cave)
+* I get shit done (even more because stream editors)
+* Soothing ASMR audio with no music preference
+* Only intelligent people are attracted to it
+* It remains relatively suitable for work (audible, at least)
+
+It turns out to be the kind of thing I would love to put on a screen
+next to me and watch while I was working in another screen. Maybe I can
+find others who are doing the same. It's even better if they use IRC
+because I could pop over to chat in their stream anytime.
 
 ## Monday, February 15, 2021, 12:27:59PM EST <1613410079>
 
