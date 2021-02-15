@@ -1,3 +1,19 @@
+## Monday, February 15, 2021, 5:13:59PM EST <1613427239>
+
+It's not always possible, but when it is using IRC and chat for
+text-based mentoring is so much more effective for certain things ---
+mostly because there is something written that the person can go back
+and read again if they didn't understand. Verbal instruction has to be
+repeated a few times and then never has a written record unless it is
+referring to something that was also written.
+
+This phenomena is also why just-in-time curriculum and content
+development is so effective because it literally captures the chat of
+the session and puts it into a form that can be polished up and built
+upon later for others to use as well. 
+
+All things lead to `keg`.
+
 ## Monday, February 15, 2021, 4:36:00PM EST <1613424960>
 
 So far so good with "monitored mentoring" while still live. I have
