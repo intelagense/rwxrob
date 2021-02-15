@@ -1,3 +1,32 @@
+## Monday, February 15, 2021, 10:31:55AM EST <1613403115>
+
+My new life goal is to fucking own a CTF using nothing but perl and curl
+and show all these arrogant python scrids (most of whom can barely code
+at all) what is absolutely impossible with truly contextual programming
+that only perl brings to the table. No one will believe me until the
+announcers covering it don't have a fucking clue what I'm doing. That
+will be my revenge. Shit heads to bag on perl and use python for
+cybersecurity have no *fucking* clue what they are talking about. Python
+won *in the enterprise* because it forces readable code that take a long
+time to write but is still horrible because of whitespace.
+
+Here's the thing. I can *do* Python. Python is good for stuff that has
+to be communicated in a report or some boring machine learning shit or
+some kindergarten coding class. But it is absolutely *not* the best tool
+for the job when the job is fastest hacking and payload creation
+possible. Perl has always dominated at that and always will. The black
+hats who never come up for air know this, but they don't make fucking
+Twitch channels about it. Most of these scrids bagging on Perl on Twitch
+(which is laughable all by itself) don't even know what IRC is.
+
+I don't know what I even bother writing any of this. They won't believe
+it until they see it. So imma show them, eventually. Gotta retrain my
+perl contextual coding skills before I can really give a good
+demonstration. 
+
+1990s Rob is pissed as Hell at 2020s Rob right now. "I
+fucking *told you* never to let your Perl skills get soft!"
+
 ## Monday, February 15, 2021, 9:50:57AM EST <1613400657>
 
 Had a great conversation with my wife over coffee. She's laughing her
