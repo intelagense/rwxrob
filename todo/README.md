@@ -1,8 +1,20 @@
 # TODO List
 
-* Move everything but `org` and `spec` out of afkworks into rwxrob
+* Change the backgrounds in the TMUX window selector
+* I really need to clear out my cloud data
+  * Google Docs and Drive stuff
+  * Dropbox
+
+* A good timer cli app that responds to window size and colors written
+  in golang using a modern TUI package (probably tcell).
+
+* Make a bookmarklast command.
+* Add and test mathjax support in goldmark
+* Look into cmdtab bug with default sub-subcommands
 * Migrate all the stuff in kn to keg-go
 * Finish Edit in conf-go
+* Build site for afk.works and afk.spec
+* Convert quotes into YAML with generator
 
 * Video: reasons I finally switched to CapsLock ESC
 * Add default file/dir path completion to `cmdtab`
