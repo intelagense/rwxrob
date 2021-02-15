@@ -1,6 +1,8 @@
 # TODO List
 
-* Create a `afkworks/keg-go` (``)
+* Move everything but `org` and `spec` out of afkworks into rwxrob
+* Migrate all the stuff in kn to keg-go
+* Finish Edit in conf-go
 
 * Video: reasons I finally switched to CapsLock ESC
 * Add default file/dir path completion to `cmdtab`

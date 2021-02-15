@@ -113,6 +113,12 @@ sure to learn `control+control` or whatever to disable it so that you
 can reliably turn it off when entering any password or secret
 information (yes even KeePassXC or cut and pastes).
 
+## Aren't you afraid someone will see what you type with screenkey?
+
+Nope. Because you can turn it off why holding a hot key combination
+rather easily. I use both the left and right control keys. Some people
+would never dare to do that. I live dangerously. 
+
 ## What editor are you using?
 
 [Choose an Editor That's Right for You](https://youtu.be/420YRb3LVn8)
