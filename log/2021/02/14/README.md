@@ -1,3 +1,69 @@
+## Sunday, February 14, 2021, 7:01:05PM EST <1613347265>
+
+Chuckling at how fucking stupid exclusive Twitch group memberships are.
+
+But worse, are how fucking stupid people look when they obviously spend
+more time on their online persona, branding, and cliche usernames than
+making even the most minimally significant contribution to things that
+matter most in our world --- especially if you *claim* to be an expert
+in. 
+
+Doesn't matter. 
+
+I'm sure many of those people can't imagine spending a single second
+complaining about what I'm complaining about (mostly because it would
+take them five times as long to write the words contained in the
+complaint). 
+
+Yeah, I'm an asshole.
+
+People are financially incented to play the exclusive thing, plus it
+makes them feel included. 
+
+I don't care. As much as I enjoy the energy and fun of the Twitch coding
+streams, sometimes I find them so *fucking* juvenile I have to look
+away.
+
+I'd rather watch a brilliant digital nomad hiking through a frozen
+forest with her stream community.
+
+I feel my get-off-my-lawn guy coming out. Time to watch some Chuck and
+go to sleep.
+
+Obviously, I never say anything about any of this to anyone. I just
+share it in this  super secret log, using, um, prose. They'll never see
+it. Most of them don't read. It's obviously too boring for them. 
+
+But, I'm sure someone out there remembers what prose is, and might even
+appreciate this dark prose saturated with masturbatory, confessional
+self-indulgence. 
+
+I'm in good company. I'm quite sure this is what Rob Pike and Linus
+Torvaldz catch themselves doing in private. I mean, Pike called syntax
+color highlighting "juvenile"  and Torvaldz created a "code of
+conflict."
+
+Yeah, I'm just fine. 
+
+Plus there a ton more amazing human beings who completely agree:
+
+> Those who speak do not know. Those who know do not speak. (Lao Tzu)
+
+Here's my favorite:
+
+> The level of technical content quality is inversely proportional to
+> the prolificness of the author. This is why it is so difficult and
+> valuable to uncover those few who actually know what they are talking
+> about --- because they do it every day for hours a day --- and who are
+> willing and able to write about it. (TJ Halowaychuk)
+
+I aspire to leave this world with a fraction of the contributions these
+people have produced. Spoiler alert: it doesn't happen on Twitch.
+
+(That reminds me, maybe I should actually read some of our Discord
+messages. I never do. Nah, Imma get the docs and structure for AFK.Works
+up instead.)
+
 ## Sunday, February 14, 2021, 2:50:52PM EST <1613332252>
 
 I hate that Jekyll (GitHub Pages) decided to insert an `_config.yml`
