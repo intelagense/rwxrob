@@ -1,3 +1,22 @@
+## Sunday, February 14, 2021, 8:50:39PM EST <1613353839>
+
+Here's what the hackers have to say about note taking:
+
+* "I use a text file and it's not very organized."
+* "I started to work with mind maps."
+* "When I'm working on a project I'll take notes on things I'm not going
+  to remember. Name it something super obvious and have a folder full of
+  text files. It's not burned into my head."
+* "All my notes in markdown in subdirectories, then find on the notes."
+
+So yeah, this knowledge work is *really, really* going to benefit from
+`kn` and `keg`.
+
+## Sunday, February 14, 2021, 8:33:57PM EST <1613352837>
+
+Wondering if the high-level `keg` API should return strings or print
+them directly. But I know the answer.
+
 ## Sunday, February 14, 2021, 8:30:53PM EST <1613352653>
 
 All this hacking CTF watching has me realizing how much this entire
