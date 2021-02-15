@@ -1,3 +1,16 @@
+## Sunday, February 14, 2021, 8:19:10PM EST <1613351950>
+
+I cannot help but think how irrelevant all this hacking competition
+would be if shit like PHP and JavaScript cross-site attacks and SQL
+injection didn't exist. That's almost everything. We fucking failed. We
+should never have let that shit software off the ground. The entire
+world has paid the price. People have died from hospitals being
+hit with ransomware for having shitty pen defense and crappy email that
+runs attachments. It's infuriating because when something as simple as a
+cookie came out, the entire tech community overwhelmingly came out
+against it, but the assholes that made it happen didn't care. Now people
+are literally dying because of their fucking greed.
+
 ## Sunday, February 14, 2021, 7:59:24PM EST <1613350764>
 
 After a bit of watching I can feel the call to rewrite Burp and make it
