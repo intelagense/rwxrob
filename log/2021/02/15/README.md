@@ -1,3 +1,27 @@
+## Monday, February 15, 2021, 4:36:00PM EST <1613424960>
+
+So far so good with "monitored mentoring" while still live. I have
+Discord open with a brother and sister working on their code and can
+still report. Only problem is while on the same computer I have to mute
+the whole thing. I'll fix that tonight with a secondary system just for
+the mentoring. That will allow full simultaneous streaming with
+mentoring breaks as well as eventually live mentoring for those who want
+it. A few are really excited to be the guinea pigs with that. Both of
+them have their own Twitch gaming streams already.
+
+I'm feeling a bit torn about the mentoring of people who just want to
+create games and that's all. I'm okay helping them out, but it is
+completely against the momentum of everything else I'm doing. It's more
+difficult because I have some that I mentor *in* hacking who, if I had
+more of them, would be, um, better uses of my limited mentoring time.
+
+I already feel like the writing is on the wall already. Unless it is at
+least indirectly related to hacking it is likely it will fade out of my
+mentoring and curriculum. It feels like the right thing to do given the
+massive amount of learning people have to do to enter that industry
+with a solid terminal mastery foundation (as opposed to the "I know
+Burp Suite" crowd).
+
 ## Monday, February 15, 2021, 3:23:14PM EST <1613420594>
 
 I am absolutely disgusted with how much I let myself buy into the Google
