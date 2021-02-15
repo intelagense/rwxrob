@@ -1,3 +1,12 @@
+## Sunday, February 14, 2021, 8:30:53PM EST <1613352653>
+
+All this hacking CTF watching has me realizing how much this entire
+industry needs really fast knowledge exchange of the type designed to be
+in KEG. I have to get a CTF person involved to provide input into the
+entire interface to make `kn` the best possible tool for the secops
+knowledge working. It is such a core part of reporting and composing
+pen testing efforts of all kinds.
+
 ## Sunday, February 14, 2021, 8:23:53PM EST <1613352233>
 
 Need to create a method using Go reflection to get the documentation
