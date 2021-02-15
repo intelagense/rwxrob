@@ -1,3 +1,38 @@
+## Sunday, February 14, 2021, 9:23:31PM EST <1613355811>
+
+I'm going through that conflict I always do about where to put stuff. I
+know that `keg-go` and `kn` and `keg` will be under afk.works so that I
+have an organization related to it, but I'm really conflicted about it
+again. Every fucking time I use a GitHub organization ultimately I get
+screwed. I can probably just request open source free private repos and
+make it all better.
+
+I don't know what it is, but I simply cannot create stuff under my own
+personal repo. It feels so wrong architecturally. Meanwhile, people like
+whoever made cobra have no problem building a world-wide dependency on
+their personal repository.
+
+This is the kind of shit other people don't think about, but that causes
+me to lose gobs of time. 
+
+I'm going to do the right thing, which has *always* been to use an
+organization. Putting that shit and allowing all those dependencies on
+your personal repo is just fucking bad practice. People do it because it
+gets people jobs and visibility because of all the users of the repos.
+
+You know what, no, fuck them all. I'm going to own all of it under my
+personal repositories and they can use it if they want or not. I am
+*not* fucking splitting all my code across a half dozen organizations
+like I just got done cleaning up again. Obviously, no one else gives a
+shit so why should I.
+
+## Sunday, February 14, 2021, 9:03:54PM EST <1613354634>
+
+Fighting more than I probably should with `replace` in order to put
+`code.afk.works/keg-go` into all my Go imports. Fuck it. I'll move the
+imports when I get the new Gitea stuff setup, not before. Who knows when
+that will be.
+
 ## Sunday, February 14, 2021, 8:50:39PM EST <1613353839>
 
 Here's what the hackers have to say about note taking:
