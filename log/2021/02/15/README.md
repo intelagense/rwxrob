@@ -1,3 +1,23 @@
+## Monday, February 15, 2021, 3:23:14PM EST <1613420594>
+
+I am absolutely disgusted with how much I let myself buy into the Google
+ecosystem. Been going through my stuff in my drive and blows me away how
+fucking stupid I was. Nothing *really* insecure, just the documents and
+stuff. 
+
+Honestly, I about forgot about all that stuff because I have used
+anything (but YouTube) that has anything to do with Google in over a
+year. Working with my iPad I remembered it is synced to the cloud there,
+because, ya know, mobile doesn't trust us with our own fucking data, we
+have to have an "authorized" cloud provider to even use these devices. 
+
+Seriously how the fuck did the entire world buy into this absolute shit? 
+
+Apple polishes shit up rather nicely, that's how. I'm staring at one
+beautiful piece of shit right now that I use for music.
+
+I've never been more motivated to get off of all of it.
+
 ## Monday, February 15, 2021, 2:43:22PM EST <1613418202>
 
 Seems rather ironic that at about this same time on this same day last
