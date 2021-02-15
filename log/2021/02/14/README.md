@@ -1,3 +1,14 @@
+## Sunday, February 14, 2021, 8:23:53PM EST <1613352233>
+
+Need to create a method using Go reflection to get the documentation
+provided for a high-level function and insert it derive it during
+`init()` to populate subcommand documentation in `cmdtab`.
+
+I suppose I could just create a `cmdtab` subcommand that mines the
+content of a function and generates a stub subcommand that just calls it
+(once `cmdtab` is not just a package but also a utility command). That
+makes the most sense.
+
 ## Sunday, February 14, 2021, 8:19:10PM EST <1613351950>
 
 I cannot help but think how irrelevant all this hacking competition
