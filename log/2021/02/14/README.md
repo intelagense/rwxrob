@@ -1,3 +1,12 @@
+## Sunday, February 14, 2021, 7:42:42PM EST <1613349762>
+
+I'm so glad I stayed on a bit longer. I found something called "Hacking
+Esports" and am remembering that there is an entire *massive* community
+of people *not* like those I described earlier. I really am a hacker in
+at heart, even if I cannot stand learning about bad shit even to hack
+it. I will eventually be all about finding zero days though. I have to
+make my own Web replacement first. But soon.
+
 ## Sunday, February 14, 2021, 7:01:05PM EST <1613347265>
 
 Chuckling at how fucking stupid exclusive Twitch group memberships are.
