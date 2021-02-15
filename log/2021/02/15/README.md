@@ -1,3 +1,20 @@
+## Monday, February 15, 2021, 2:43:22PM EST <1613418202>
+
+Seems rather ironic that at about this same time on this same day last
+year I was touting the value of exportable functions in Bash. They are
+definitely amazing and essential for *real* terminal mastery because
+they can do things that no script (or alias) will ever be able to do.
+But the lack of them being callable from a subshell (that isn't already
+a Bash shell) is enough to tank their share-ability (if that is even a
+word) with others. And these days I'm all about the sharing code.
+
+## Monday, February 15, 2021, 2:27:31PM EST <1613417251>
+
+Porting the `weather` alias to a script I noticed that Chubin's stuff is
+really assuming you have a huge screen. Which leaves room to add stuff
+of my own that is based on a much smaller screen default. Looks like I
+*will* be renewing `know.sh` after all.
+
 ## Monday, February 15, 2021, 1:06:19PM EST <1613412379>
 
 I've found that there is another disadvantage of using shell aliases for
