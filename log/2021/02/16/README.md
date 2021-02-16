@@ -1,3 +1,10 @@
+## Tuesday, February 16, 2021, 5:30:35PM EST <1613514635>
+
+Reminded that when doing my cloud hosting evaluation that the strength
+of the CLI API is really a core criterion. AWS apparently dominates in
+this space, which explains why I hated it so much. I only used their
+shitty web API the entire six months I tried it.
+
 ## Tuesday, February 16, 2021, 5:07:55PM EST <1613513275>
 
 Watching the views dynamically go up and then decline in YouTube is sort
