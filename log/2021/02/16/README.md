@@ -1,3 +1,19 @@
+## Tuesday, February 16, 2021, 5:07:55PM EST <1613513275>
+
+Watching the views dynamically go up and then decline in YouTube is sort
+of funny. People come on in looking for coding and find a bunch of
+documentation and specification writing. But that's required as well.
+
+## Tuesday, February 16, 2021, 10:49:55AM EST <1613490595>
+
+Looks like the RFC3339 format (a highly specific form of ISO8601) does
+not allow for removal of the delimiting dashes and colons, but colons
+appear to be a problem for more than one filesystem and are not friendly
+to URLs (even though they are allowed).
+
+This leaves me with the decision for log file names that must work with
+both.
+
 ## Tuesday, February 16, 2021, 12:52:59AM EST <1613454779>
 
 Watching some great "hacker" streams and they all start out the same:
