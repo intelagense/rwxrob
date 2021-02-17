@@ -1,3 +1,8 @@
+## Tuesday, February 16, 2021, 10:47:37PM EST <1613533657>
+
+What if we made the logo for KEG to be a bearded spider in a web
+drinking beer from a keg?
+
 ## Tuesday, February 16, 2021, 10:24:21PM EST <1613532261>
 
 Once again @green_jenny schools me on stuff I've sort of heard about but
