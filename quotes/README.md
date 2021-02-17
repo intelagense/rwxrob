@@ -1,5 +1,8 @@
 # Great Quotes
 
+> "It is safe to rely on someone's else opinion while you build your
+own, but you must have your own" (Unknown, via Bruno)
+
 > "In the beginning, there was the command line." @mdempsky
 
 > "The Internet was done so well that most people think of it as a natural
