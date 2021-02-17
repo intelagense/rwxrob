@@ -1,3 +1,10 @@
+## Tuesday, February 16, 2021, 8:05:14PM EST <1613523914>
+
+Rairden found the Gamozo clip of him ripping on Python. Makes me
+chuckle and remember that *serious* hackers and 0-day finders "fucking
+hate Python." [Here's the
+clip](https://clips.twitch.tv/RespectfulCourageousHorseradishBudBlast-9EU55E2e3PKrpdGi>.
+
 ## Tuesday, February 16, 2021, 5:30:35PM EST <1613514635>
 
 Reminded that when doing my cloud hosting evaluation that the strength
