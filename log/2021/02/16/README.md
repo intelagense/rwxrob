@@ -1,3 +1,11 @@
+## Tuesday, February 16, 2021, 10:24:21PM EST <1613532261>
+
+Once again @green_jenny schools me on stuff I've sort of heard about but
+cannot remember where:
+
+[Go To Considered
+Harmful](http://www.u.arizona.edu/~rubinson/copyright_violations/Go_To_Considered_Harmful.html)
+
 ## Tuesday, February 16, 2021, 8:05:14PM EST <1613523914>
 
 Rairden found the Gamozo clip of him ripping on Python. Makes me
