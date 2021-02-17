@@ -1,3 +1,10 @@
+## Tuesday, February 16, 2021, 10:51:00PM EST <1613533860>
+
+Dropping the live chat from YouTube was the best thing I've done
+with YouTube all month and not because it silenced everyone, because the
+resulting videos have the amazing Chapters sidebar that is disabled if
+you have live chat in your archives.
+
 ## Tuesday, February 16, 2021, 10:47:37PM EST <1613533657>
 
 What if we made the logo for KEG to be a bearded spider in a web
