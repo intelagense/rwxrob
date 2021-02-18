@@ -1,3 +1,13 @@
+## Thursday, February 18, 2021, 12:05:58PM EST <1613667958>
+
+Just remembering that I need to categorized my TODOs a bit so that the
+semi-trivial stuff I can work on between monitored mentoring challenges
+(so long as they do not require a lot of immersive thought).
+
+The harder TODOs that require a good flow state are the things I should
+play for during the day or on the weekends when I can really focus even
+with a live stream audience.
+
 ## Thursday, February 18, 2021, 10:56:00AM EST <1613663760>
 
 Fuck monetization (or at least any money from it). 
