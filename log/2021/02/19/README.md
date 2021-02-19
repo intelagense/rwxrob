@@ -1,3 +1,8 @@
+## Friday, February 19, 2021, 2:36:49PM EST <1613763409>
+
+Apparently there's a thing called `wappalyzer` (a firefox add-on) for
+analyzing web sites/apps and telling you their tech footprint.
+
 ## Friday, February 19, 2021, 9:53:12AM EST <1613746392>
 
 I've concluded that Beginner Boosts need to simply be structured content
