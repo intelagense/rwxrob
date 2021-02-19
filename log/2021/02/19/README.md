@@ -1,3 +1,24 @@
+## Friday, February 19, 2021, 9:53:12AM EST <1613746392>
+
+I've concluded that Beginner Boosts need to simply be structured content
+and learning paths rather than videos. Then, during mentoring that
+happens every day now between 4pm and 9pm I'll simply be available to
+address the needs of other beginners on the stream who have questions. I
+can do little segments as needed and make sure they are cataloged in my
+<https://rwx.gg> KEG site.
+
+The problem is I cannot do brain-intensive things as the last thing of
+the day. I need to use by best brain energy possible during
+cybersecurity training. 
+
+This leaves the early morning hours and weekends for nothing but
+self-driven hacker training. And, as it works out, I'm most likely to
+find others interested in those same things during that time.
+
+The regular workday hours will continue to be dedicated to the full-time
+job either preparing SkilStak content or doing SRE work for my next
+employer.
+
 ## Friday, February 19, 2021, 9:13:56AM EST <1613744036>
 
 Just got done watching another very experienced "black hat" security
