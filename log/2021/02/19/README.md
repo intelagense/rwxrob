@@ -3,6 +3,15 @@
 Apparently there's a thing called `wappalyzer` (a firefox add-on) for
 analyzing web sites/apps and telling you their tech footprint.
 
+Although, we discovered it wants to "anonymously" track your browsing.
+So, um, no.
+
+Great idea though. Makes me want make an open equivalent by hacking it
+and looking at its code. 
+
+Balena Etcher (something I've recommended for more than year) did the
+same thing. Now there is an open replacement.
+
 ## Friday, February 19, 2021, 9:53:12AM EST <1613746392>
 
 I've concluded that Beginner Boosts need to simply be structured content
