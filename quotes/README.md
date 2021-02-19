@@ -1,5 +1,8 @@
 # Great Quotes
 
+> "No amount of security operations can make up for a lack of
+> operational security" (What is difference between SecOps and OpSec?)
+
 > "It is safe to rely on someone's else opinion while you build your
 own, but you must have your own" (Unknown, via Bruno)
 
