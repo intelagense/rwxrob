@@ -1,3 +1,27 @@
+## Sunday, February 14, 2021, 10:44:45PM EST <1613360685>
+
+Wondering if there is a good reason to combine the `keg-go` library with
+the `keg` tool and smoosh the `kn` tool into it. It would certainly be a
+lot easier to maintain and, after all, is a reference implementation. It
+would mean I could lose the stupid `-go` suffix. It's decided.
+
+## Sunday, February 14, 2021, 10:40:05PM EST <1613360405>
+
+The README.md doc for `github.com/yuin/goldmark` is a fucking disaster.
+I've vetted the whole thing before, even gotten some ideas for my own
+PEGN parser, but this is unforgivable. I must have gotten past it
+somehow before. It is just so fucking ugly.
+
+## Sunday, February 14, 2021, 10:27:28PM EST <1613359648>
+
+I just about installed `hugo` and rushed a `doc` static site for
+afk.works and specs.afk.works but managed to catch myself before doing
+it. I'll have the `kn` tool done by the end of the week and will use
+that for my own generation using Go's `html/template` directly, which is
+good because I need that anyway. 
+
+Until I can get Pandoc replaced I will simply use Goldmark (ugh).
+
 ## Sunday, February 14, 2021, 9:23:31PM EST <1613355811>
 
 I'm going through that conflict I always do about where to put stuff. I

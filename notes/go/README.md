@@ -1,5 +1,13 @@
 # Notes on Go (Golang)
 
+## Deprecated `ioutil` in 1.16
+
+Here are the new locations:
+
+* `os.ReadFile()`
+* `io.ReadAdd()`
+* etc.
+
 ## Stuff That Annoys Me About Go
 
 * Goroutines leak if not dealt with properly

@@ -2,11 +2,13 @@
 
 You ask. I answer, usually.
 
+## What are your specs? What's your rig?
+
+![Rig Specs](rig-specs.png)
+
 ## What keyboard do you use?
 
-Whatever I feel like! ;)
-
-(I have a potty mouth. I'm still your friend. I swear.)
+Whatever I damn well feel like! ;)
 
 I'm so tired of being judged by my keyboard selection. So I'm
 telling you that now before I tell you.

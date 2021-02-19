@@ -1,3 +1,16 @@
+## Thursday, February 18, 2021, 2:44:06PM EST <1613677446>
+
+Summarized the *command with actions* description as post-modern take on
+traditional UNIX philosophy. 
+
+Noting that actions should be 1-5 characters tops, with 3 or less being
+the target when possible.
+
+Command shields extremely brief action names from naming conflicts with
+the shell.
+
+Commands should always be three character or less.
+
 ## Thursday, February 18, 2021, 12:05:58PM EST <1613667958>
 
 Just remembering that I need to categorized my TODOs a bit so that the

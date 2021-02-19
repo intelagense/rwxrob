@@ -3,7 +3,6 @@
 Need to organize all the content and code. Here's some initial thoughts
 and questions:
 
-* Need to add `json.csv`
 * Do we host our own and mirror to GitHub?
 * What are the top-level domains and where do they go?
 * Do we go mono-repo or submodules?

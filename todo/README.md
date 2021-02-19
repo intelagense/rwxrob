@@ -1,15 +1,53 @@
 # TODO List
 
-* Change the backgrounds in the TMUX window selector
+## Requires Flow State
+
+* Get history to save across windows
+* Lookup default shell on arch
+* `kn` action summary
+* Replace `jax` with `snippet`
+* Finish documenting KEG Spec
+* Change reference to KEGMARK to KEG Markdown
+
+## Trivial-ish 
+
+* Update my streaming schedule with mentored times
+* Answer follow up job email
+* Re-up `know.sh` for learning shell interactively without login
+* Change `topic` to `t` and add [chat.rwx.gg] automatically
+* Add uptime and total stream time to TMUX status
+* Add notification in IRC of twitch
+* Add `kn year` 
+* Add `kn day` 
+* Add `kn sec` 
+
+## Eventually 
+
+* Video Post-Modern Take on Unix Philosophy (command with actions)
+* Video about Bash vs Perl + Dash
+* Video about judging a good publisher
+* Video about backing up your settings
+* Add comments to KEG Markdown
+* Research best way to map caps lock to escape on Windows 
+* Add a *playlist* node type (in unofficial)
+* Add "applying git patches" to core skills on skilstak.io, rwx.gg, etc.
+* Move all my rwxrob source to git repos on rwx.gg as primary.
+
+* Create a new `repos` in Perl that wraps `gh` and `gl` and is aware of
+  local bare repos.
+
+* Make a bookmarklast command.
+* I cannot forget about an updated `repo` command
+
 * I really need to clear out my cloud data
   * Google Docs and Drive stuff
   * Dropbox
 
+* Create a dynamically created CDPATH
+
 * A good timer cli app that responds to window size and colors written
   in golang using a modern TUI package (probably tcell).
 
-* Make a bookmarklast command.
-* Add and test mathjax support in goldmark
 * Look into cmdtab bug with default sub-subcommands
 * Migrate all the stuff in kn to keg-go
 * Finish Edit in conf-go

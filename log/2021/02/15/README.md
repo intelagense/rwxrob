@@ -1,3 +1,15 @@
+## Monday, February 15, 2021, 8:09:44PM EST <1613437784>
+
+Now that hosting my Git repos on my own domain seems more doable (and
+palatable) than ever I'm drawn to rethink my domains again:
+
+Domain|Description
+|:-:|:-:|
+skilstak.io|Keep as the mentoring portal.
+skilstak.sh|Keep as the mentoring (TMUX) server.
+skilz.dev|Instructional KEG node.
+rwx.gg|Source and all things in need of cool short-domain.
+
 ## Monday, February 15, 2021, 5:33:51PM EST <1613428431>
 
 How do you know you should never use a package because the author does
