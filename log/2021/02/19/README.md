@@ -1,3 +1,28 @@
+## Friday, February 19, 2021, 3:57:17PM EST <1613768237>
+
+Today I turned down an interview request after realizing (as I've said
+before) Doris and I aren't entertaining any work opportunities that are
+not remote or "from home" --- especially after doing so for the last 23
+years.
+
+It seems like there are more remote jobs for software developers than
+there are for "infrastructure engineers" which makes sense given that
+the stuff you are engineering and maintaining is usually
+on-site/on-prem.
+
+I've been able to straddle development and operations for most of my
+career having last concluded with software development and root cause
+analysis (core dump analysis and stuff) at IBM. Also I wrote a fun fork
+bomb for IBM to stress test software (by their request). This is the
+kind of work that I really love, get in there, get dirty, rip the bits
+apart and see what happens (and how it broke, or how to break it). Turns
+out there is a career in cybersecurity doing exactly that.
+
+Senior Software Developer for a cybersecurity company focused on
+forensics analysis (or contracted to do such analysis) is really my new
+main focus. It's a slight adjustment from the SRE with OffSec emphasis
+(the right direction).
+
 ## Friday, February 19, 2021, 2:36:49PM EST <1613763409>
 
 Apparently there's a thing called `wappalyzer` (a firefox add-on) for
