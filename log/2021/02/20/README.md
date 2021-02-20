@@ -1,3 +1,20 @@
+## Saturday, February 20, 2021, 12:52:54PM EST <1613843574>
+
+Learned today (from @eax) that Google owns the `dev` domain registry.
+
+## Saturday, February 20, 2021, 12:21:30PM EST <1613841690>
+
+Very sound advice to new streamers and YouTube about not using keywords
+--- even in voice --- that will cause your content to hit with AI that
+detects objectionable material. I was realizing that an old word (that
+is used in many plain contexts) could be easily replaced with a better
+one but I repeat that word lot, perhaps putting myself in the scope of
+such an AIs detection.
+
+Another new word I plan to use in you my vocabulary that replaces
+another with rougher meaning is "pilfer" (hopefully that will work until
+I find another). Another is eviscerate.
+
 ## Saturday, February 20, 2021, 12:12:51PM EST <1613841171>
 
 *to gamestop (v)*: destroying something that is shitty in society or
