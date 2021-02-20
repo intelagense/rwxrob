@@ -1,3 +1,9 @@
+## Saturday, February 20, 2021, 12:12:51PM EST <1613841171>
+
+*to gamestop (v)*: destroying something that is shitty in society or
+tech by taking advantage of its flaws and shining a huge light on them
+by maximizing everything I can suck out of them for free.
+
 ## Saturday, February 20, 2021, 12:05:55PM EST <1613840755>
 
 Realized that not having `https` in the URLs when using `lynx` was not
