@@ -1,5 +1,10 @@
 # Great Quotes
 
+> Dogma is death. @rwxrob
+
+> There is nothing wrong with being wrong.    
+> Willfully staying wrong, however...  @exegete46 
+
 > "No amount of security operations can make up for a lack of
 > operational security" (What is difference between SecOps and OpSec?)
 
