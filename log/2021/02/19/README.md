@@ -1,3 +1,10 @@
+## Friday, February 19, 2021, 9:46:58PM EST <1613789218>
+
+TIL that the modulo (remainder) operator does not even support
+operations on real numbers in math. Maybe that is why it requires
+integer operands in Go. Mostly, its just to alternate colors with even
+and odd in tables in JavaScript. ;)
+
 ## Friday, February 19, 2021, 3:57:17PM EST <1613768237>
 
 Today I turned down an interview request after realizing (as I've said
