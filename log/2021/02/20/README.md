@@ -1,3 +1,9 @@
+## Saturday, February 20, 2021, 12:05:55PM EST <1613840755>
+
+Realized that not having `https` in the URLs when using `lynx` was not
+defaulting to it and forcing a redirect that slowed search result
+lookups just enough to be annoying to me.
+
 ## Saturday, February 20, 2021, 9:43:21AM EST <1613832201>
 
 Realized that I have the beginnings of a system-independent, UNIX-like
@@ -9,7 +15,7 @@ things into it would result in a *single* executable that has all the
 wicked fast tools I use to do *everything* making my workspace 100%
 portable to any computer, period.
 
-I must be made.
+I must be made. I think I found something worth of the `mim` name.
 
 ## Saturday, February 20, 2021, 9:32:16AM EST <1613831536>
 
