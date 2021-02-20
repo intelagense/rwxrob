@@ -1,5 +1,10 @@
 # Great Quotes
 
+> Using such services it the modern Faustian Bargain @imattman
+
+> I don't want to do malicious things. I just want to *be able* to do
+> malicious things. @rwxrob
+
 > Dogma is death. @rwxrob
 
 > There is nothing wrong with being wrong.    
