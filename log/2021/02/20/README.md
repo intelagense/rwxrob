@@ -1,3 +1,8 @@
+## Saturday, February 20, 2021, 11:21:27PM EST <1613881287>
+
+So turns out I pissed someone off in 2014 with [The Static Web
+Returns](https://freewaytalk.softpress.com/thread/view/144235).
+
 ## Saturday, February 20, 2021, 11:02:32PM EST <1613880152>
 
 Just learned from @scott91 that [Strict
