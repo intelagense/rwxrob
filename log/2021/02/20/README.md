@@ -1,3 +1,9 @@
+## Saturday, February 20, 2021, 7:12:34PM EST <1613866354>
+
+TIL: Don't forget `yaf` and `yif` when coding in Golang. The first yanks
+the whole function you are in. The second yanks just the body of the
+function.
+
 ## Saturday, February 20, 2021, 12:52:54PM EST <1613843574>
 
 Learned today (from @eax) that Google owns the `dev` domain registry.
