@@ -1,3 +1,10 @@
+## Saturday, February 20, 2021, 11:02:32PM EST <1613880152>
+
+Just learned from @scott91 that [Strict
+Mark](http://doc.replicated.cc/%5EWiki/strictmark.sm) is a thing.
+Extremely interesting take on simplifying Markdown (which lots of things
+in common and many things they simply seem to have not considered).
+
 ## Saturday, February 20, 2021, 7:12:34PM EST <1613866354>
 
 TIL: Don't forget `yaf` and `yif` when coding in Golang. The first yanks
