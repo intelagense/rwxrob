@@ -1,7 +1,14 @@
 # TODO List
 
+## Urgent
+
+* Save latest kn port
+* Get my stuff off Google docs and drive immediately before they delete
+  stuff!
+
 ## Requires Flow State
 
+* Add subcommand completion to `cmdtab` `help` builtin.
 * Get history to save across windows
 * Lookup default shell on arch
 * `kn` action summary
@@ -11,6 +18,11 @@
 
 ## Trivial-ish 
 
+* Find out it w3m stores cookies by default
+* Lookup if Go has S/MIME standard support
+* Add "poor man's burp" to list of reasons to use Lynx
+* Fork and output format configuration to `w3m`
+* Buy a two-pack for YubiKey
 * Update my streaming schedule with mentored times
 * Answer follow up job email
 * Re-up `know.sh` for learning shell interactively without login
@@ -23,6 +35,7 @@
 
 ## Eventually 
 
+* Need to add IRC disclaimer and warning to welcome video
 * Video Post-Modern Take on Unix Philosophy (command with actions)
 * Video about Bash vs Perl + Dash
 * Video about judging a good publisher
