@@ -1,5 +1,7 @@
 # Great Quotes
 
+>  FaaS is CGI for a new generation :-P  @imattman
+
 > Using such services it the modern Faustian Bargain @imattman
 
 > I don't want to do malicious things. I just want to *be able* to do
