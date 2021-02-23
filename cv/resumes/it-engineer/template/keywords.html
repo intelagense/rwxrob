@@ -1,11 +1,12 @@
 <style>
-#tech {
+#keywords {
   padding-left: 2rem;
 }
 </style>
-<h2>Technologies</h2>
-<div id=tech>
-{{- range $n,$v := .Technologies -}}
+<br>
+<h2>Keywords</h2>
+<div id=keywords>
+{{- range $n,$v := .Keywords -}}
 {{ if $n }} • {{ end -}}
 {{.}}
 {{- end -}}
