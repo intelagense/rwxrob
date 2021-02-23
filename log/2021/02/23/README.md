@@ -1,3 +1,9 @@
+## Tuesday, February 23, 2021, 11:07:40AM EST <1614096460>
+
+It appears that I have been burned by the 1.15 to 1.16 change in Go
+requiring that everything have a `go.mod` (where it was somewhat
+optional before, by default).
+
 ## Tuesday, February 23, 2021, 10:44:56AM EST <1614095096>
 
 I cannot say how great the idea is to do a resume at different stages of
