@@ -2,12 +2,14 @@
 
 ## Urgent
 
-* Save latest kn port
+* Update public calendar and add schedule
 * Get my stuff off Google docs and drive immediately before they delete
   stuff!
 
+
 ## Requires Flow State
 
+* Add user colors possibilities
 * Add subcommand completion to `cmdtab` `help` builtin.
 * Get history to save across windows
 * Lookup default shell on arch
@@ -18,6 +20,10 @@
 
 ## Trivial-ish 
 
+* Chapter separators in autodidact videos
+* Give URL to current location by inferring the GitHub/GitLab path
+* Tab completion for notes
+* Discuss creating starting terminal OS in Docker (fast start)
 * Find out it w3m stores cookies by default
 * Lookup if Go has S/MIME standard support
 * Add "poor man's burp" to list of reasons to use Lynx
