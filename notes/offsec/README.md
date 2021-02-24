@@ -18,4 +18,12 @@ First a few core tenets that influence my decisions:
 6. Final Analysis and Review
 7. Utilize the Testing Results
 
+## Discover and Scanning
+
+Some stupid operating systems (including Ubuntu) depend on the following
+`snap` configuration to even get `nmap` to work:
+
+```
+sudo snap connect nmap:network-control
+```
 
