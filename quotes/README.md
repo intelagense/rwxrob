@@ -1,6 +1,9 @@
 # Great Quotes
 
->  FaaS is CGI for a new generation :-P  @imattman
+>  Swarm focused on spinning up containers at scale, k8s is about
+>  distributed system lifecycle   @taniwha3
+
+>  FaaS is CGI for a new generation :-P  @imattman (joking)
 
 > Using such services it the modern Faustian Bargain @imattman
 
