@@ -1,3 +1,9 @@
+## Thursday, February 25, 2021, 1:57:08PM EST <1614279428>
+
+Good read on format for commit messages:
+
+* <https://chris.beams.io/posts/git-commit/>
+
 ## Thursday, February 25, 2021, 12:02:39PM EST <1614272559>
 
 Just heard about Dapr, an abstraction that works with Kubernetes. It
