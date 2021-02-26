@@ -2,6 +2,15 @@
 
 Recipes and such for Git source management system.
 
+## Mandatory Git Reading
+
+* `man gitutorial`
+* `man giteverday`
+* `man git`
+* `man gitcli`
+* Git User's Manual
+* <https://chris.beams.io/posts/git-commit/>
+
 ## Different Uses for Git
 
 People approach Git with different needs. I believe it is very important
