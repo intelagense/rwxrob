@@ -84,6 +84,7 @@ git add -A .     (current dir and all subdirs recursively)
 ## Delete Tags
 
 ```sh
+git tag -d <tag>
 git push origin -d <tag>
 ```
 
