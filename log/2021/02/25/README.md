@@ -1,3 +1,10 @@
+## Thursday, February 25, 2021, 7:54:52PM EST <1614300892>
+
+Really need to read this one all the way since it is so close to what
+I'll be exactly working with:
+
+* <https://openai.com/blog/scaling-kubernetes-to-7500-nodes/>
+
 ## Thursday, February 25, 2021, 1:57:08PM EST <1614279428>
 
 Good read on format for commit messages:
