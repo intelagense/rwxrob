@@ -132,3 +132,22 @@ git diff --cached
 WARNING: `git diff` (for me) is utterly useless. Using `--cached` shows
 *exactly* what is staged (when `git diff` without it will show nothing.
 
+## Change First Commit Message
+
+```
+git rebase -i --root
+```
+
+## Change Last (Unpushed) Commit Message
+
+```
+git commit --amend
+```
+
+## Change Recent Commit Messages (Besides Last)
+
+Careful on this one. `N` is how far back.
+
+```
+git rebase -i HEAD~N
+```
