@@ -20,6 +20,7 @@ stuff is so I can find it quickly:
 
 Other resources:
 
+* <https://kubernetes.io/docs/reference/kubectl/cheatsheet/>
 * <https://kube.academy/lessons/training-and-preparation-resources>
 * <https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_v1.20.pdf>
 * <https://kube.academy/>
