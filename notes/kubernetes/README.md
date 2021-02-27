@@ -7,8 +7,16 @@ directly for a Certified Kubernetes Application Developer (CKAD) which
 will give me information on how dev are deploying to k8s along with k8s
 training.
 
-I'm also going to be directly working with KNative (an abstraction API)
-as a priority.
+I need to learn the following in order of priority:
+
+1. Kubernetes (1.18 for now)
+1. IStio/Envoy - config network L4/L7 proxy (even though linkerd might be better)
+1. KNative - API abstraction
+1. Seldon.io - AI models at scale in production
+1. Prometheus - metrics collector in Go
+1. ElasticSearch - just a log search engine
+
+I'm also going to be directly working with KNative (an abstraction API) as a priority.
 
 ## Documentation
 
@@ -20,6 +28,12 @@ stuff is so I can find it quickly:
 
 Other resources:
 
+* k8s slack
+* <https://operatorhub.io>
+* <https://github.com/NVIDIA/k8s-device-plugin> (access to GPU)
+* <https://www.envoyproxy.io/docs/envoy/latest/start/start>
+* <https://layer5.io/service-mesh-landscape>
+* <https://github.com/dgkanatsios/CKAD-exercises>
 * <https://kubernetes.io/docs/reference/kubectl/cheatsheet/>
 * <https://kube.academy/lessons/training-and-preparation-resources>
 * <https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_v1.20.pdf>
