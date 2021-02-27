@@ -6,6 +6,7 @@ share online as I learn and play with it. I'm sure that should be plenty
 to prove proficiency to anyone who really cares to know my *true* level
 mastery.
 
+* <https://github.com/kelseyhightower/kubernetes-the-hard-way/projects>
 * <https://github.com/kubernetes-sigs/kind>
 * <https://www.alexellis.io/>
 * [qmacro videos](https://www.youtube.com/playlist?list=PLfctWmgNyOIf9rXaZp9RSM2YVxAPGGthe)
