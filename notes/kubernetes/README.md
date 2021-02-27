@@ -6,7 +6,16 @@ share online as I learn and play with it. I'm sure that should be plenty
 to prove proficiency to anyone who really cares to know my *true* level
 mastery.
 
+Apparently you can use this document on the exam itself, so this is
+*mandatory* learning if for nothing more than the structure of where
+stuff is so I can find it quickly:
+
+* <https://kubernetes.io/docs/home/>
+
+Other resources:
+
 * <https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_v1.20.pdf>
+* <https://kube.academy/>
 * <https://github.com/kelseyhightower/kubernetes-the-hard-way/projects>
 * <https://k3d.io/>
 * <https://github.com/kubernetes-sigs/kind>
