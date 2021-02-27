@@ -6,6 +6,7 @@ share online as I learn and play with it. I'm sure that should be plenty
 to prove proficiency to anyone who really cares to know my *true* level
 mastery.
 
+* <https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_v1.20.pdf>
 * <https://github.com/kelseyhightower/kubernetes-the-hard-way/projects>
 * <https://k3d.io/>
 * <https://github.com/kubernetes-sigs/kind>
