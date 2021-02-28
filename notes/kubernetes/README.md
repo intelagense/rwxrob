@@ -28,6 +28,8 @@ stuff is so I can find it quickly:
 
 Other resources:
 
+* <https://github.com/kelseyhightower/envconfig>
+* <https://github.com/cncf/sig-security/blob/master/security-whitepaper/cloud-native-security-whitepaper.md>
 * k8s slack
 * <https://operatorhub.io>
 * <https://github.com/NVIDIA/k8s-device-plugin> (access to GPU)
