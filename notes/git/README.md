@@ -152,3 +152,9 @@ Careful on this one. `N` is how far back.
 ```
 git rebase -i HEAD~N
 ```
+
+## Delete a Branch
+
+```
+git branch -d <name>
+```
