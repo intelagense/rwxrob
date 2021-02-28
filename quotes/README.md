@@ -1,5 +1,8 @@
 # Great Quotes
 
+> “I’ll stop calling you a white man, and I hope you stop calling me a
+> black man. Racism is taught not born.” Morgan Freeman  
+
 >  Swarm focused on spinning up containers at scale, k8s is about
 >  distributed system lifecycle   @taniwha3
 
