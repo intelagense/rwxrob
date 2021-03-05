@@ -1,5 +1,14 @@
 # Great Quotes
 
+> "I'm not using Go till they make React for Go." (some anonymous idiot)
+
+> I don't chase money. I chase opportunity. (Rob)
+
+> GitHub is the largest closed source collection of open source
+> repositories :p  @taniwha3
+
+> Python electrocutes cute small dogs. (Mr. Rob)
+
 > If you give it a URL it's a publication and needs to be treated
 > as such." (Rob)
 
