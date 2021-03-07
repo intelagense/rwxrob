@@ -1,5 +1,7 @@
 # Great Quotes
 
+> "Only fools don't change their mind." (A French Saying)
+
 > "I'm not using Go till they make React for Go." (some anonymous idiot)
 
 > I don't chase money. I chase opportunity. (Rob)
