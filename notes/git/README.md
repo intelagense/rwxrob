@@ -153,8 +153,31 @@ Careful on this one. `N` is how far back.
 git rebase -i HEAD~N
 ```
 
-## Delete a Branch
+## Delete a Branch (Including Remote)
 
 ```
 git branch -d <name>
+git push origin --delete <name>
 ```
+
+## Change Default Branch for Existing Repo
+
+```
+git branch -m master main
+git push -u origin main
+```
+
+## Changing Default Branch for New Repos
+
+```
+git config --global init.defaultBranch main
+```
+
+## Push and Delete Branch
+
+```
+git push origin :branch-to-delete
+```
+
+This works because the colon separates `<from>:<to>` and an empty from
+blows away the destination.
