@@ -1,5 +1,7 @@
 # Great Quotes
 
+> @ivoryjam Went form Python to Go, the speed is real
+
 > "The supreme art of war is to subdue the enemy without      
 >  fighting." -Sun Tzu, The Art of War (We don't fight YouTube 
 >  or twitch or any of that. We just use them all so
