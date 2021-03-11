@@ -1,4 +1,4 @@
-📆 [Schedule](schedule) 🗿 [Log](log) 📝 [Notes](notes) 📃 [Posts](posts) 🪄 [Tips](tips)
+📆 [Schedule](https://calendar.google.com/calendar/u/0/r) 🗿 [Log](log) 📝 [Notes](notes) 📃 [Posts](posts) 🪄 [Tips](tips)
 💪 [CV](cv) 📚 [Books](books) 🔖 [Bookmarks](bookmarks)
 
 Code is art. Good code is like the enigmatic innards of a fine 16th
