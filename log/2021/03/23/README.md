@@ -1,14 +1,30 @@
-## Tuesday, March 23, 2021, 10:33:35AM EDT <1616510015>
+## Tuesday, March 23, 2021, 4:16:46PM EDT <1616530606>
 
-I can't fucking believe they fucked with `alt-tab` (which not does not
-switch to the latest and toggle, but forces you to use your mouse to
-select something). It's so FUCKING stupid! Hey, let's break everyone's
-muscle memory burned in over two fucking decades for no fucking reason!
+Moving to full-time work has obliterated any hope I actually had of
+doing *any* one-on-one mentoring. I knew it would be a risk, but today's
+work call going way over would have been a major fail for the mentoring
+session that got completely bulldozed by it.
 
-Yeah, I want NOTHING to do with that fucking idiotic company. That's
-more moronic that removing the `esc` key. These type of shitty decisions
-that make it onto millions of computers are evidence of HOW FUCKING
-STUPID MICROSOFT IS! (and why everyone should use Linux).
+It was *really* hard sending out the email that suddenly pulled the rug
+out from under all my people with whom I have worked for more than five
+years. And it will be almost as hard to send the \$5000 in refunds. But
+it had to happen. 
+
+At least this way when people come by on Twitch expecting live mentoring they
+can immediately see what is going on (mostly by the pissed off look on
+my face) and can potentially get help from others while I'm unavailable.
+
+Enterprise work never gives a shit about your "hobbies" and
+personal life, not really anyway. Just never forget that.
+
+The craziest thing is how willing these people are to blow thousands of
+dollars on a call that does *not* need everyone on it. Being my own CFO
+really made me aware of that.
+
+## Tuesday, March 23, 2021, 2:22:54PM EDT <1616523774>
+
+Turns out all you need to get `gh` to with internally for an enterprise
+is setting the `GH_HOST`.
 
 ## Tuesday, March 23, 2021, 8:54:20AM EDT <1616504060>
 
