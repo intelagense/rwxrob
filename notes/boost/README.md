@@ -1,5 +1,8 @@
 # Beginner Boost Notes
 
+The soul purpose of Beginner Boost is to know what you don't know (and
+might want to learn).
+
 ## Schedule
 
 * Starts: May the 4th
@@ -7,19 +10,25 @@
 
 Week|Date|Focus
 |:-:|-|-
-0|Tue, May 4|Learn to Learn (RWX)
-1|Mon, May 10|Get a Terminal and Install Docker
-2|Mon, May 17|Get Boost Container and Learn Bash CLI
-3|Mon, May 24|Learn to Edit Files and Manage Terminal
-4|Mon, May 31|Learn Markdown and Pandoc
-5|Mon, Jun 7|Learn JSON and YAML
-6|Mon, Jun 14|Learn GitHub, `git`, and `gh`
-7|Mon, Jun 21|Learn POSIX Shell Scripting
-8|Mon, Jun 28|Learn Perl Shell Scripting
-9|Mon, Jul 5|Learn Go Programming 
-10|Mon, Jul 12|Learn Python Programming
-11|Mon, Jul 19|Learn C Programming (including Make)
-12|Mon, Jul 26|Learn Basic Web Development
+0|Tue, May 4|Learn Effectively and Independently (RWX)
+1|Tue, May 11|Use Docker Containers for Development
+2|Tue, May 18|Use Bash CLI and Manage Software Packages
+3|Tue, May 25|Configure TMUX and Edit Files with Vim
+4|Tue, Jun 1|Grok Network Basics and Code Simple Web Sites
+5|Tue, Jun 8|Write Markdown and Render with Pandoc
+6|Tue, Jun 15|Structure Data with JSON and YAML
+7|Tue, Jun 22|Manage Source with GitHub, `git`, and `gh`
+8|Tue, Jun 29|Code Basic POSIX Shell and Perl Scripts
+9|Tue, Jul 6|Program Simple Automations in Python
+10|Tue, Jul 13|Develop Basic Tools and Services in Go
+11|Tue, Jul 20|Grok CPU and Memory and Write Simple C Code
+12|Tue, Jul 27|Install Linux on Bare Metal
+
+## Containers for Each Week
+
+Start with absolute bare-bones `docker pull ubuntu` and build from
+there, but have containers saved in each weekly state for those who need
+to catch up.
 
 ## Scope and Target Occupations
 

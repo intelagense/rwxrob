@@ -1,11 +1,16 @@
 Name:     Rob Muhlestein
 Location: Mooresville, North Carolina, USA
 
+Mission:
+  Building community and facilitating communication, research, and
+  learning through the focused application of technology.
+
 Summary: |
   Professional Trainer and Mentor • Entrepreneur • CTO • Live Streamer •
   Community Builder • Site Reliability and DevOps Engineer • Terminal UI
-  Developer • Linux Advocate • Senior Software Engineer (Go, Perl, Shell,
-  Python, C) • Cloud Native Platform Developer • Presenter • Writer
+  Developer • Linux Advocate • Senior Software Engineer (Go, Perl,
+  Shell, Python, C) • Cloud Native Platform Developer • Presenter
+  • Writer • Autodidact
 
 Contact: 
   Email:   rob@rwx.gg
@@ -124,7 +129,7 @@ Employment:
   Location: Remote, USA
   Details: 
   - Developed high-volume central multi-threaded TCP/IP server
-  - Created custom GPG-based transport protocol used for 150K servers
+  - Created custom GPG-based transport protocol used for 52K servers
   - Contributed to core security compliance for 250 accounts
   - Made universal, auto-updating UNIX/Linux endpoint in Perl 
   - Designed PostgreSQL code and data store accepting terabytes a week

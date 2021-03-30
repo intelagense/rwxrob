@@ -1,3 +1,10 @@
+## Tuesday, March 23, 2021, 4:51:05PM EDT <1616532665>
+
+Turns out that May the 4th to July 31st is 12 weeks plus sort of a lost
+half of a week for ramp up. This is perfect for a coding and/or art
+retreat since it spans Summer. I'm planning on kicking one off in 2021
+for sure, but it will be entirely remote and not have any.
+
 ## Tuesday, March 23, 2021, 4:16:46PM EDT <1616530606>
 
 Moving to full-time work has obliterated any hope I actually had of

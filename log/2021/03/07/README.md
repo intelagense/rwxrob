@@ -1,3 +1,18 @@
+## Sunday, March 7, 2021, 11:41:46PM EST <1615178506>
+
+Remembered today to not use `-f` with `ln` because you really should not
+be creating a symlink at all if there is already one there. If you try
+it you will end up with a link inside of the directory to which the link
+points. I have had this happen with `.vim` and `.fonts` before because I
+keep forgetting this (which is why I'm writing this down).
+
+## Sunday, March 7, 2021, 11:19:58PM EST <1615177198>
+
+TIL that `.uuid` files that are immediately recreated in a font
+directory are probably the result of `fccache` creating them. The only
+solution is to add `.uuid` to the `.gitignore` file. Apparently, this is
+created by the `FcDirCacheCreateUUID` function (for reference).
+
 ## Sunday, March 7, 2021, 2:23:18AM EST <1615101798>
 
 Today I saw the same asshole `nsa_hacker` on three different Twitch

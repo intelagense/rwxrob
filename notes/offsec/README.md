@@ -27,3 +27,7 @@ Some stupid operating systems (including Ubuntu) depend on the following
 sudo snap connect nmap:network-control
 ```
 
+## Resources
+
+* <https://hackerenv.com>
+* <https://book.hacktricks.xyz/pentesting>

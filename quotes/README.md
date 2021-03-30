@@ -1,5 +1,8 @@
 # Great Quotes
 
+> @floredon Nature has a very messy desk but it always knows where to
+> find something it needs
+
 > @ivoryjam Went form Python to Go, the speed is real
 
 > "The supreme art of war is to subdue the enemy without      

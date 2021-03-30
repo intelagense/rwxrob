@@ -181,3 +181,10 @@ git push origin :branch-to-delete
 
 This works because the colon separates `<from>:<to>` and an empty from
 blows away the destination.
+
+## Dangerous Shit
+
+```
+git push mirror # omg, i juse blew away all local branches
+git push origin :branch-to-delete # deletes remote branch
+```

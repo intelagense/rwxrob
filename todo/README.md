@@ -1,14 +1,52 @@
 # TODO List
 
+## Immediate
+
+* Fix rwx.gg build
+* Revise <https://skilstak.io> site and policy
+* Connect to work ssh login server
+* Get headset that works
+* Send SKILSTAK mailing about change
+* Send refunds to anyone at 7pm
+* Make the Borderless TMUX Conan Container video
+* Compose Docker container that builds borderless TMUX
+* Figure out how Twitch subs work
+* Figure out to do t-shirts for subs/patrons
+
+* Add topic selector
+* `data-go`, `learn-go`, `cmdtab-learn`
+* Upgrade phone for slack usage
+* Add issues for TODOs in conf-go
+* Look into knative and seldon inter-dependencies
+* Add stak to track skilstak
+* Snippets library snip
+
 ## Urgent
 
+* Change Twitter notification to point to Twitch VOD instead
+* Change to Twitch IRC and just have both open
+* Put the `spec-keg` and `spec-kn` into Zettelkasten instead of
+  semi-published specs
 * Update public calendar and add schedule
 * Get my stuff off Google docs and drive immediately before they delete
   stuff!
 
-
 ## Requires Flow State
 
+* Take a look at `taskwarrior`
+* Take a fresh look at you complete me
+* Look into learning/integrating `ctags` into workspace
+* list all private github repos
+* list all public github repos
+* pull out good content from rw into zettels
+* pull out good content from robs.io into zettels
+* pull out good content from robmuh.github.io into zettels
+* Look into best practices for maintaining CHANGES log
+* Responding to video notification tweet should post special chat
+  message
+* Clean commit log histories of *every* public repo
+* Add `kn export` to create aliases in eval-able shell 
+* Add `kn pomo` to manage pomodoro timing (countdown)
 * Add user colors possibilities
 * Add subcommand completion to `cmdtab` `help` builtin.
 * Get history to save across windows
@@ -17,6 +55,9 @@
 * Replace `jax` with `snippet`
 * Finish documenting KEG Spec
 * Change reference to KEGMARK to KEG Markdown
+* Research transcripts to log from videos
+* Correct semi-incorrect dual origin pushes from repos
+* Get all librepay off of repos
 
 ## Trivial-ish 
 
@@ -41,6 +82,7 @@
 
 ## Eventually 
 
+* Look into OStack for K8S cluster of pentesting containers
 * Need to add IRC disclaimer and warning to welcome video
 * Video Post-Modern Take on Unix Philosophy (command with actions)
 * Video about Bash vs Perl + Dash

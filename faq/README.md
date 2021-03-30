@@ -2,6 +2,13 @@
 
 You ask. I answer, usually.
 
+## Why the sunglasses?
+
+Sometimes in the morning my eyes hurt enough from the lights (for
+streaming) that I just do the easy thing and where glasses and/or a cap.
+Plus, it makes me look like Chuck from that one episode, and I love
+Chuck.
+
 ## Do you do code reviews?
 
 No. Not unless I am mentoring you. That said, you can still ask in the
@@ -94,6 +101,8 @@ better given the travel and muscles required to activate the keys. Not
 so with a low-profile, low-travel, writer-preferred Apple keyboard)
 
 ## What are you using for chat? Why not Twitch/YouTube?
+
+# TODO
 
 [chat.rwx.gg](chat) is `##rwx.gg` (for now, soon to be `#rwx.gg`) on
 IRC freenode.net.
