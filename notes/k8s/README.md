@@ -1,22 +1,19 @@
-# Kubernetes Notes
+# Kubernetes Notes and Cheatsheet
 
-Kubernetes is mandatory learning for everything I'm planning from
-full-time enterprise work, to building a pentesting scanning cloud
-on-prem at home. It's been recommended (by those who know) that I can go
-directly for a Certified Kubernetes Application Developer (CKAD) which
-will give me information on how dev are deploying to k8s along with k8s
-training.
+Kubernetes is mandatory learning for everything I do for work and play.
+I might get the CKAD and CAD eventually, but having the skills is more
+important than the paper.
 
 I need to learn the following in order of priority:
 
 1. Kubernetes (1.18 for now)
-1. IStio/Envoy - config network L4/L7 proxy (even though linkerd might be better)
-1. KNative - API abstraction
 1. Seldon.io - AI models at scale in production
 1. Prometheus - metrics collector in Go
 1. ElasticSearch - just a log search engine
 
-I'm also going to be directly working with KNative (an abstraction API) as a priority.
+## Re: Podman
+
+Just say *HELL no* --- especially as an "alternative" to Kubernetes.
 
 ## Documentation
 
@@ -46,3 +43,8 @@ Other resources:
 * <https://www.alexellis.io/>
 * [qmacro videos](https://www.youtube.com/playlist?list=PLfctWmgNyOIf9rXaZp9RSM2YVxAPGGthe)
 
+## Task Cheatsheet
+
+|Task|Command|
+|-|-|
+Watch everything while changing|`k get pods -A -w`
