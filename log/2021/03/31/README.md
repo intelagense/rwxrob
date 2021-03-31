@@ -1,3 +1,8 @@
+## Wednesday, March 31, 2021, 11:51:16AM EDT <1617205876>
+
+There is a lot of industry chatter about [Tekton (Kubernetes)](https://duck.com/lite?kd=-1&kp=-1&q=Tekton (Kubernetes)) as it
+moves to be adopted as OpenShift "Pipelines"
+
 ## Wednesday, March 31, 2021, 11:20:20AM EDT <1617204020>
 
 As Kubernetes "gobbles up the world" people are considering if for
