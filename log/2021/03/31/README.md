@@ -1,7 +1,27 @@
 ## Wednesday, March 31, 2021, 11:51:16AM EDT <1617205876>
 
-There is a lot of industry chatter about [Tekton (Kubernetes)](https://duck.com/lite?kd=-1&kp=-1&q=Tekton (Kubernetes)) as it
-moves to be adopted as OpenShift "Pipelines"
+There is a lot of industry chatter about [Tekton
+(Kubernetes)](https://duck.com/lite?kd=-1&kp=-1&q=Tekton (Kubernetes))
+as it moves to be adopted as OpenShift "Pipelines". 
+
+If Tekton gets traction and integration into OpenShift it will *destroy*
+GitLab (more than it already is) because the IBM and CNF backing and ranking of
+OpenShift could seriously sway high level CTO buying decisions. In fact,
+I keep getting the sense that people actually don't *want* the
+one-stop-shopping option GitLab provides. They want to plug and play
+their own high-level infrastructure components. GitLab is essentially a
+monolith, and most high-end IT shops don't usually like that level of
+dependency and rigidity. 
+
+I seriously cannot recommend GitLab for anything right now; from the
+architecture perspective it makes less sense; from a sustainability it
+makes less sense when the CEO says "I hope that someone will integrate
+that into GitLab" in tweets revealing his dependency on open source
+development instead of internal resources; from a usability perspective
+the GitLab API is abysmal and there is still no `gh` equivalent in site;
+from a market capitalization point of view there is no financial backing
+like GitHub has. I really cannot get over these serious flaws, not even
+for their perceived dedication to open source.
 
 ## Wednesday, March 31, 2021, 11:20:20AM EDT <1617204020>
 
