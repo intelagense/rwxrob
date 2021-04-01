@@ -14,6 +14,13 @@ become a Google Fanboy (just as I could become a Microsoft fanboy under
 the right conditions, although that has waned somewhat given how shitty
 WSL2 has been for me).
 
+And as @ygbsm brought up on the community stream, "containerized
+deployments should help with mitigating the cost/inertia of switching
+cloud service providers to help facilitate that competition."
+
+In short, time to learn GCP, it's a career imperative for my current
+employer and will be likely for others.
+
 ## Thursday, April 1, 2021, 8:59:03AM EDT <1617281943>
 
 Three prominent Cloud Native engineers and presenters have now
