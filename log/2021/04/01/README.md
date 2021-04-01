@@ -1,3 +1,8 @@
+## Thursday, April 1, 2021, 11:55:20AM EDT <1617292520>
+
+Reminded today what a pain in the ass Git submodules are. I've always
+hated them. Just having a separate repo is so much easier.
+
 ## Thursday, April 1, 2021, 10:24:19AM EDT <1617287059>
 
 I'm really glad to see Google moving to make more money from
