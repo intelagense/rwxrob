@@ -1,3 +1,9 @@
+## Thursday, April 1, 2021, 1:16:49PM EDT <1617297409>
+
+It might make more sense to use `minikube` for isolated cases where one
+doesn't want the network and other changes to affect the current system
+(since it uses a virtual machine).
+
 ## Thursday, April 1, 2021, 11:55:20AM EDT <1617292520>
 
 Reminded today what a pain in the ass Git submodules are. I've always
