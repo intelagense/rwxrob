@@ -1,3 +1,15 @@
+## Wednesday, March 31, 2021, 10:15:33PM EDT <1617243333>
+
+TIL that the <https://kubernetes.io> site has a lot of fatal flaws (from
+my way of thinking) about its education approach. For starters, it uses
+`minikube` which is *not* the way you would use `kubeadm` and such in
+a real deployment. I'm hearing that `kind` is exactly the same and is
+used by developers regularly to model the k8s space so that there are
+not surprises.
+
+So once again, I'm burned by a "let's make it easier to learn" tool
+rather than using a *real* tool from the start.
+
 ## Wednesday, March 31, 2021, 11:51:16AM EDT <1617205876>
 
 There is a lot of industry chatter about [Tekton
