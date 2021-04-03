@@ -1,3 +1,8 @@
+## Saturday, April 3, 2021, 3:50:10PM EDT <1617479410>
+
+Reminded about the UDP ProtoBuf cousin `capnproto` which was made by the
+same guy who made ProtoBuf, Kenton Vardan.
+
 ## Saturday, April 3, 2021, 2:54:24PM EDT <1617476064>
 
 TIL that Lens, The Kubernetes IDE is a thing and it makes visualizing
