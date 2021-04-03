@@ -1,5 +1,10 @@
 # Great Quotes
 
+> @myndzi you were talking about receivers earlier and i realized that
+> go's method pattern is basically an inversion of control: instead
+> of the code being the base unit and attaching data to  it, the data is
+> the base unit and you attach code to it
+
 > @floredon Nature has a very messy desk but it always knows where to
 > find something it needs
 
