@@ -1,3 +1,13 @@
+## Saturday, April 3, 2021, 2:54:24PM EDT <1617476064>
+
+TIL that Lens, The Kubernetes IDE is a thing and it makes visualizing
+things (at first while I'm learning it) nice. Eventually, I will be
+command line all the way, but the number of moving parts in Kubernetes
+really benefits from a graphical representation.
+
+Apparently, there is also a great terminal UI called `k9s` that is worth
+looking into.
+
 ## Saturday, April 3, 2021, 2:04:28PM EDT <1617473068>
 
 TIL that M1 is not yet compatible with Docker. How FUCKING STUPID IS
