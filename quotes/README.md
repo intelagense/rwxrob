@@ -1,5 +1,8 @@
 # Great Quotes
 
+> @togglebit  A language is a tool. My hammer, however, is very left
+> wing... ¬_¬
+
 > @myndzi you were talking about receivers earlier and i realized that
 > go's method pattern is basically an inversion of control: instead
 > of the code being the base unit and attaching data to  it, the data is
