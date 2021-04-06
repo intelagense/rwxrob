@@ -1,3 +1,9 @@
+## Tuesday, April 6, 2021, 3:41:34PM EDT <1617738094>
+
+TIL that <https://openapi-generator.tech> is used to automagically
+create code APIs for more than a few dozen languages. Possibly an
+alternative to GraphQL.
+
 ## Tuesday, April 6, 2021, 1:05:32PM EDT <1617728732>
 
 TIL that `conda` requires `Anaconda` which requires a commercial license
