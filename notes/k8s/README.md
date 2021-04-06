@@ -4,6 +4,10 @@ Kubernetes is mandatory learning for everything I do for work and play.
 I might get the CKAD and CAD eventually, but having the skills is more
 important than the paper.
 
+## Python API Documentation
+
+<https://github.com/kubernetes-client/python/tree/master/kubernetes/docs>
+
 ## Essential Elements of a Home Lab
 
 1. Linux system with 16+ cores
