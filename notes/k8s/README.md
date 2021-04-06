@@ -4,12 +4,32 @@ Kubernetes is mandatory learning for everything I do for work and play.
 I might get the CKAD and CAD eventually, but having the skills is more
 important than the paper.
 
+## Essential Elements of a Home Lab
+
+1. Linux system with 16+ cores
+1. Kind
+1. Local Registry (probably in Docker, port 5000)
+
+## Later Elements
+
+1. Load Balancer
+1. Block Device Volume Mounts
+
+## Stuff to Learn
+
 I need to learn the following in order of priority:
 
+1. Docker (including Dockerfiles)
 1. Kubernetes (1.18 for now)
 1. Seldon.io - AI models at scale in production
 1. Prometheus - metrics collector in Go
 1. ElasticSearch - just a log search engine
+
+## Getting Started
+
+1. `minikube` - fast setup but runs in a vm so not ideal
+1. `microk8s` - requires snaps (less than ideal) but real
+1. `kind` - full local k8s
 
 ## Re: Podman
 
