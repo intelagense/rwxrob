@@ -1,3 +1,14 @@
+## Saturday, April 10, 2021, 3:53:31PM EDT <1618084411>
+
+If you get `denied: requested access to the resource is denied` with
+`docker push` you probably forgot to add your account qualifier
+(`rwxrob/some` and not `some`).
+
+## Saturday, April 10, 2021, 3:45:01PM EDT <1618083901>
+
+So it turns out the `_` in some images on hub.docker.com are because
+they are owned by Docker. So I can't make one. 
+
 ## Saturday, April 10, 2021, 3:41:28PM EDT <1618083688>
 
 TIL that the move to hard links for BusyBox is likely because a hard
