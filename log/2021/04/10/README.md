@@ -1,3 +1,35 @@
+## Saturday, April 10, 2021, 9:01:55AM EDT <1618059715>
+
+The more time I invest in the creating Learning Lab Containers and fret
+over the possible redundancies in written content I realize that we
+might have been coming at this entirely backward. 
+
+Traditionally, a bunch of written content is made and the *doing* stuff
+(exercises, projects, etc.) comes after the fact as an afterthought as
+if to say, "Read this first, then if you want do something with it." 
+
+This makes sense because authors are arrogant bastards who put their
+words in higher priority than your learning what they are blabbing on
+about. (I'm probably guilty of this.)
+
+Instead, what if the focus was *first* on what the *learner* is going to
+do, and then on explaining what they *might* need to get them through
+the learning on their own, *without a dependency on the author's words.*
+
+So the idea is that all I make is modular *learning lab containers*
+with all the description in `README.md` and then pull them all together
+eventually into a guide or web site. Using this approach, I can apply
+the best of Zettelkasten methodology to overall process of creating and
+publishing interactive learning content. This allows an organic approach
+as labs are developed as needed without thought or cognitive overhead
+for where that lesson specifically fits into a larger outline. The
+outline and organization can come later as you maintain a Zettelkasten
+register of learning lab material.
+
+Eventually, the amount of content will produce a site or book almost by
+itself by just connecting the stuff that has been organically created
+over time.
+
 ## Saturday, April 10, 2021, 8:14:31AM EDT <1618056871>
 
 Now that it has become clear that containers are really the way to do
