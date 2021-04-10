@@ -1,3 +1,9 @@
+## Saturday, April 10, 2021, 3:41:28PM EDT <1618083688>
+
+TIL that the move to hard links for BusyBox is likely because a hard
+link does not consume an inode preventing inode starvation on smaller
+embedded systems and increase speed overall.
+
 ## Saturday, April 10, 2021, 11:02:35AM EDT <1618066955>
 
 Another presentation needs to be "Git as LMS."
