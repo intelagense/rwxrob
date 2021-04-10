@@ -1,3 +1,15 @@
+## Saturday, April 10, 2021, 4:25:21PM EDT <1618086321>
+
+It seems that people tend to leave out the `v` when using semver tags
+for Docker:
+
+```
+docker build -t shykes/myapp:1.0.2 -t shykes/myapp:latest .
+```
+
+It doesn't stop you from tagging however you want, just seems to be a
+common practice. I've confirmed this with those who know best.
+
 ## Saturday, April 10, 2021, 4:21:03PM EDT <1618086063>
 
 TIL that Docker will get getting rootless once it adds `cgroupsv2`
