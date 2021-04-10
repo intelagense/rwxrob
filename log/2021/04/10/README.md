@@ -1,3 +1,14 @@
+## Saturday, April 10, 2021, 9:28:37AM EDT <1618061317>
+
+"Edge Computing for Education" localized containers that do not require
+network access that "phone home" when network access is detected and
+allow local web site and applications development via local web browser
+access or terminal command line.
+
+I really need to get good at this stuff and turn SKILSTAK into a IT
+Specialist training organization focused on Edgy Education. I can see
+the presentation titles now, "Education on the Edge" or "Edge-U-Cation".
+
 ## Saturday, April 10, 2021, 9:11:45AM EDT <1618060305>
 
 My goal is to drag Bob along with me (and maybe iscreaman) to ISTE in
