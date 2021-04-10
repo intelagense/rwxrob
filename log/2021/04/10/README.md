@@ -1,3 +1,9 @@
+## Saturday, April 10, 2021, 10:42:16AM EDT <1618065736>
+
+This whole learning lab container thing plays really nicely into the
+name "skill stack" (SKILSTAK) since you are literally stacking lab
+containers up in your "finished" pile.
+
 ## Saturday, April 10, 2021, 9:28:37AM EDT <1618061317>
 
 "Edge Computing for Education" localized containers that do not require
