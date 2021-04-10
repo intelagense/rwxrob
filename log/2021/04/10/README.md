@@ -1,3 +1,8 @@
+## Saturday, April 10, 2021, 4:21:03PM EDT <1618086063>
+
+TIL that Docker will get getting rootless once it adds `cgroupsv2`
+support. https://docs.docker.com/engine/security/rootless/>
+
 ## Saturday, April 10, 2021, 3:53:31PM EDT <1618084411>
 
 If you get `denied: requested access to the resource is denied` with
