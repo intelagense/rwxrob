@@ -1,3 +1,9 @@
+## Saturday, April 10, 2021, 9:11:45AM EDT <1618060305>
+
+My goal is to drag Bob along with me (and maybe iscreaman) to ISTE in
+2022 to present about the use method of using learning lab containers in
+technical education for both practical and financial advantages.
+
 ## Saturday, April 10, 2021, 9:01:55AM EDT <1618059715>
 
 The more time I invest in the creating Learning Lab Containers and fret
