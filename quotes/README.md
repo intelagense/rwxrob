@@ -1,5 +1,7 @@
 # Great Quotes
 
+> @tehego cloud and containers really make desktops, desktops
+
 > @togglebit  A language is a tool. My hammer, however, is very left
 > wing... ¬_¬
 
