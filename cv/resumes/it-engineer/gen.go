@@ -29,7 +29,7 @@ func main() {
 	err = yaml.Unmarshal(buf, &data)
 	check(err)
 
-	t, err := template.ParseGlob("template/*")
+	t, err := template.ParseGlob("tmpl/*")
 	check(err)
 	err = t.Execute(out, data)
 	check(err)
