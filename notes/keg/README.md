@@ -1,5 +1,11 @@
 # Notes About KEG, the Knowledge Exchange Grid
 
+## Random Notes
+
+* `gen`
+
+## Organization Needed
+
 Need to organize all the content and code. Here's some initial thoughts
 and questions:
 

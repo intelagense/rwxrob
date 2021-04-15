@@ -1,9 +1,12 @@
-## Thursday, April 1, 2021, 2:19:45PM EDT <1617301185>
+## Thursday, April 1, 2021, 2:37:13PM EDT <1617302233>
 
 Need to note that terminal width for streaming is 91, which is a Ubuntu
 Mono Nerd Font at size 31 on main screen, and size 21 on the 15"
 Dell Latitude 5411 (which is not a 16:9 aspect ratio). This way to don't
 force the screen to resize when remotely TMUX-ing in.
+
+There is an annoying off-by-one error that causes the `stty resize` to
+change by one height when switching between the two. 
 
 ## Thursday, April 1, 2021, 1:16:49PM EDT <1617297409>
 
