@@ -17,9 +17,9 @@ And here's an eating schedule I try to keep:
 
 | Time  | Food |
 | :-:   | - |
-| 4:30  | Coffee • Oatmeal • Protein
-| 8:00  | Blue Cheese Salad
-| 12:00 | Avacado / Guac / Toast
-| 2:00  | Green Smoothy 
-| 4:30  | Coffee • ½ Banana & PB
-| 6:00  | Big Dinner
+| 4:30  | Oatmeal • Protein • Coffee
+| 8:00  | Blue Cheese Salad • Coffee
+| 11:00 | Avocado w/ Something • Coffee
+| 2:00  | Green Smoothie
+| 4:30  | ½ Banana & PB • Coffee
+| 6:00  | Big Dinner w/ Protein
