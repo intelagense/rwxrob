@@ -1,3 +1,17 @@
+## Sunday, April 18, 2021, 4:57:37PM EDT <1618779457>
+
+I need to rip out the `subcommands` scaffolding of CmdBox and
+reimplement it as *commands* that are mapped to an internal command
+registry identical to the main `cmdbox.commands` but attached to each
+`Command`. That is the graph-like command organization structure I was
+looking for. Of course any of those commands could also have their own,
+etc.
+
+I can implement the shortcuts (for when tab completion isn't available)
+at the same time.
+
+Time for an overhaul.
+
 ## Sunday, April 18, 2021, 3:57:43PM EDT <1618775863>
 
 I'm back to thinking there is really no need for anything beyond three
