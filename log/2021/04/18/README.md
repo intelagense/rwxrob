@@ -1,3 +1,18 @@
+## Sunday, April 18, 2021, 1:56:26PM EDT <1618768586>
+
+So frustrating sometimes that Go is *so* dependent on a Git hosting
+service. Now that `go.mod` is pretty much mandatory, a move that is
+worth of the Node governance team (what next `go_packages` or some
+shit?). 
+
+I'm frustrated because it completely defeats the possibility for
+experimentation without *serious* scaffolding to prop it all up. This
+makes instructing others in Go programming difficult to say the least
+and overcomplicates experimental labs which have to either depend on an
+Internet connection and something like GitHub or have to completely mock
+that environment locally including a customized git account setup to
+resolve the git addresses locally to bare repos or something.
+
 ## Sunday, April 18, 2021, 12:30:20PM EDT <1618763420>
 
 I was fretting over naming conflicts and realized that they are
