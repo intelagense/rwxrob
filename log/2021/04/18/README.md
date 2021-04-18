@@ -1,3 +1,45 @@
+## Sunday, April 18, 2021, 3:57:43PM EDT <1618775863>
+
+I'm back to thinking there is really no need for anything beyond three
+levels of depth for CmdBox:
+
+```
+<cmd> <subcmd> [<action>] [<parameters>]
+```
+
+I always stress out about the potential conflicts of composition at the
+`<subcmd>` level.
+
+Here's the deal.
+
+A developer of a `cmdbox-*` module will not be aware (or care) about the
+namespace conflicts of their command. Say someone creates one called
+`print` that just prints whatever the argument is like echo. Someone
+else will likely make one with that same name as well but it might send
+something to a printer. Neither of these developers care (nor should
+they) about the naming of their subcommand. That is something to be left
+to the developer *composing* them together into a monolith to use, or to
+an end user who installs the stand-alone version and just to decide
+which one gets to be first in the path (or `mv` it to some other name).
+
+The developer wanting to put them into a single monolith never gets the
+opportunity to rename either of them during import since all that
+happens at `init()` time long before `main()` is called. Nor does the
+developer have anything they can declare to trigger a rename (since
+declarations and initial assignment happen *before* `init()` time).
+
+At the moment this leaves a developer in such a situation with a single
+option: fork the `cmdbox-print` and rename it something else, then
+import that one. Even though `cmdbox` files and repos are extremely
+portable (often only a single file copy is needed if best practices of
+keeping core code in separate libraries that only use the `cmdbox-print`
+as the front-end UX wrapper) this solution is far from ideal. It's
+rather annoying as well because usually *only one word has to change* to
+give it a new name.
+
+Time to go digging through the Go source for something that identifies
+everything during the `init()` load process.
+
 ## Sunday, April 18, 2021, 2:48:11PM EDT <1618771691>
 
 Hit another snap using containers with `you` as the account for this Go
