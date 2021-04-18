@@ -1,3 +1,14 @@
+## Sunday, April 18, 2021, 2:21:20PM EDT <1618770080>
+
+Arg, I hate that I have to build in GitHub dependencies on my own repos
+into these labs. The whole point is for them to be stand alone. I really
+don't feel like standing up my own git hosting service just to handle
+all of these, but why the hell not. People might even end up realizing
+they don't even need GitHub at all eventually. Imma try to add GitTea
+setup to my base container and use that for Go code hosting. It it
+works, it could be a good boilerplate for encapsulated labs that are
+*truly* local only.
+
 ## Sunday, April 18, 2021, 1:56:26PM EDT <1618768586>
 
 So frustrating sometimes that Go is *so* dependent on a Git hosting
