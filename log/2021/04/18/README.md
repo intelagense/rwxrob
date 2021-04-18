@@ -1,3 +1,31 @@
+## Sunday, April 18, 2021, 2:32:58PM EDT <1618770778>
+
+I'm seriously thinking about simplifying the entire lab concept into a
+single `kind cluster create -f ...` since I'm headed down the
+`docker-compose` path already and `kind` is definitely a better
+investment.
+
+I really prefer `docker` containers but the amount of setup, well, I
+wonder if at that point it is just better to automate it with a shell
+script and `kind`.
+
+One of the reasons is long term. Say I get Gitea up and working in a
+single container, what happens next? Eventually, I will have labs that
+involve multiple computers, one with a database, another serving a REST
+service, etc. In those scenarios I'll want to have the person learning
+ssh/exec into a login system and from there do all the stuff. Each lab
+at that point is literally a lab of computers abstracted as a `kind`
+cluster by name. It's easier to help people learning get their heads
+around the idea of connecting to that one login system and getting work
+done.
+
+I'm afraid at that pointing having a `lab` command is going to be the
+easiest for people with zero skills to use to begin.
+
+Another option is to have them just deal with the GitHub dependencies as
+they would in the real world using private repos until they are ready.
+That way they are learning the actual skills.
+
 ## Sunday, April 18, 2021, 2:21:20PM EDT <1618770080>
 
 Arg, I hate that I have to build in GitHub dependencies on my own repos
