@@ -1,3 +1,16 @@
+## Sunday, April 18, 2021, 2:48:11PM EDT <1618771691>
+
+Hit another snap using containers with `you` as the account for this Go
+stuff. They can't use GitHub without setting up an account to use it.
+That's a complete killer of this learning lab container idea.
+
+Looks like back to just plain old Markdown `README.md` pages that
+describe what to do for the lab without any dependency on anything being
+setup in a container. A derived registry of such labs would be easier to
+maintain because it can point to repos or containers that have example
+solutions all setup to examine but force the person learning it to set
+it all up for themselves.
+
 ## Sunday, April 18, 2021, 2:32:58PM EDT <1618770778>
 
 I'm seriously thinking about simplifying the entire lab concept into a
