@@ -1,3 +1,9 @@
+## Monday, April 19, 2021, 12:30:07PM EDT <1618849807>
+
+I have to stop forgetting to omit the `*` from both the `Stringer` and
+`MarshalJSON` methods. It keeps making them miss their match as if they
+didn't exit.
+
 ## Monday, April 19, 2021, 12:04:53PM EDT <1618848293>
 
 That's it. I'm using `x` for my receivers in everything. This variation
