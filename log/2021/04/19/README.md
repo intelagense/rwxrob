@@ -1,3 +1,9 @@
+## Monday, April 19, 2021, 1:46:30PM EDT <1618854390>
+
+Just a reminder that the best documentation I can find on the format for
+the comments in code in Go is still <https://blog.golang.org/godoc> from
+2011. I'm quite sure something has changed since then.
+
 ## Monday, April 19, 2021, 12:30:07PM EDT <1618849807>
 
 I have to stop forgetting to omit the `*` from both the `Stringer` and
