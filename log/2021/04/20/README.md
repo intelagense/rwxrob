@@ -1,3 +1,8 @@
+## Tuesday, April 20, 2021, 4:18:37PM EDT <1618949917>
+
+Need to write a TMUX plugin that reads from the `tty` like screen key
+and provides information updates in real time.
+
 ## Tuesday, April 20, 2021, 12:25:28PM EDT <1618935928>
 
 Fuck. I hate that I'm going to have to give in and use a big fat ugly
