@@ -1,3 +1,11 @@
+## Tuesday, April 20, 2021, 12:25:28PM EDT <1618935928>
+
+Fuck. I hate that I'm going to have to give in and use a big fat ugly
+prompt that puts my cursor on the following line. There's no other
+option when creating meaningful, SEO-optimized directory names and URLs.
+Having a meaningful branch (which is also mandatory) really pushes the
+boundaries even further.
+
 ## Tuesday, April 20, 2021, 11:49:02AM EDT <1618933742>
 
 Today after noticing how fucking long the GitHub repo names are getting
