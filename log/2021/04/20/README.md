@@ -1,3 +1,21 @@
+## Tuesday, April 20, 2021, 11:49:02AM EDT <1618933742>
+
+Today after noticing how fucking long the GitHub repo names are getting
+I'm seriously wondering what is the best way to organize labs. I'm
+feeling like I should be using a monolith repo instead of a bunch of
+tiny ones. In fact, why can't this just go into `rwx.gg` with all the
+other content. People are more likely to want to follow a single repo
+for changes than a bunch of tiny ones.
+
+Recently it became clear (again) that the simplest approach is just a
+`README.md` file that describes the activity rather than a complicated
+system for validating, in other words, a Knowledge Node. It can contain
+`Dockerfile` and other informational files and starting assets. 
+
+One point of confusion is what to do about labs that involve creation of
+GitHub repos and such. Again, the solution is to just say, "go create a
+repo someplace."
+
 ## Tuesday, April 20, 2021, 11:25:53AM EDT <1618932353>
 
 Realizing how completely valuable Kind is. The simple fact that you can
