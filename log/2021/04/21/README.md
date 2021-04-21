@@ -1,3 +1,28 @@
+## Wednesday, April 21, 2021, 1:56:33PM EDT <1619027793>
+
+I'm realizing that the standard (but slightly annoying) use of
+`/usr/bin/env <whateverthefuck>` is really more relevant in the
+container world than in other places because people might be using the
+same thing in a vastly different location depending on which container
+or host OS. That has always been the reason, but working with containers
+lately has really brought that home.
+
+However, people should write most things for containers in POSIX shell
+which is *always* at `/bin/sh`.
+
+Python is the real stinker in this bunch since could be any number of
+places, and at any particular version. Thankfully, that is overcome by
+containerization. And if you are creating a container then you can be
+sure the script has the explicit path rather than `/usr/bin/env` before
+you `COPY` it into the container.
+
+So I guess, no, `/usr/bin/env` still sucks as bad as it always did.
+Maybe people find comfort using it for installations and such, but if
+you are using it for that you can take a moment and read through it, and
+change the first line. After all, if you are not reading random
+installation shell scripts before running the you will end up fucked
+(like I was after running the Anaconda installer, what a piece of shit).
+
 ## Wednesday, April 21, 2021, 12:19:55PM EDT <1619021995>
 
 TIL that `goodfirstissue` is a GitHub issue label/tag that indicates an
