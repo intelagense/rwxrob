@@ -1,3 +1,21 @@
+## Wednesday, April 21, 2021, 7:11:00PM EDT <1619046660>
+
+Just learning about `git worktree add` (and company) today from @rwxeax
+and I gotta say it is exactly what I was looking for. It allows the
+ongoing work on several concurrent projects within a single repo. This
+compliments (more than replaces) using a quick `git branch dev` (or
+something) to do minor fixes and tweaks such as to my dotfiles. The
+`worktree` approach is ideally suited for ongoing lab on
+<https://rwx.gg> so that I can keep adding to them and only publish them
+when they are ready. Combined with the zero-cognitive-overhead
+Zettelkasten approach these Zettels can be added to the working trees
+for such writing until an "article" (or book even) emerges. 
+
+I do need to make sure that such branches are also pushed otherwise
+there's a risk to losing your work along the way. Also this allows
+others to participate on authoring that branch for a more collaborative
+authoring experience that doesn't step on other KEG content.
+
 ## Wednesday, April 21, 2021, 5:04:51PM EDT <1619039091>
 
 I wasn't expecting to realize that reading to learn sticks better ---
