@@ -1,3 +1,19 @@
+## Wednesday, April 21, 2021, 5:04:51PM EDT <1619039091>
+
+I wasn't expecting to realize that reading to learn sticks better ---
+not only when I write about it and exercise/execute on what I've read in
+intervals --- but when the source is from a book or graphic interface. 
+
+I don't fully understand why, or if that is a general thing. It just
+feels like I remember it better there is variety in the prose, font,
+headers, and page layout. Perhaps that is part of the approach of the
+Head First series and why they put crazy pictures in different places.
+Our brains respond to those images and latches on to help our memories.
+
+Moral of the story? When reading to learn look for stuff with lots of
+visual interest. But when reading to get information quickly, definitely
+use a text-based browser with a consistent font and search interface.
+
 ## Wednesday, April 21, 2021, 1:56:33PM EDT <1619027793>
 
 I'm realizing that the standard (but slightly annoying) use of
