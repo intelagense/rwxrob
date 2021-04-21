@@ -1,3 +1,13 @@
+## Wednesday, April 21, 2021, 12:19:55PM EDT <1619021995>
+
+TIL that `goodfirstissue` is a GitHub issue label/tag that indicates an
+issue that is good *for contributors to get started with on the
+project.* This is a very critical thing to get out to the community
+because this is one way to get involved with Open Source projects, which
+are also some of the best ways to improve skills and even find jobs. I'm
+going to start making sure to tag issues that are particularly open with
+this, as well as `helpwanted`.
+
 ## Wednesday, April 21, 2021, 10:55:54AM EDT <1619016954>
 
 Noticed that the optimal settings to get a Dell Latitude 5411 to display
