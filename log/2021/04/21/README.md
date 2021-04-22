@@ -1,3 +1,9 @@
+## Wednesday, April 21, 2021, 10:45:13PM EDT <1619059513>
+
+I wonder if it would just be easier to create an issue for each main
+branch of work and use that as the name instead of the long name. After
+all, a work tree is an entire copy of the repo not just a subdirectory.
+
 ## Wednesday, April 21, 2021, 7:11:00PM EDT <1619046660>
 
 Just learning about `git worktree add` (and company) today from @rwxeax
