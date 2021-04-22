@@ -1,3 +1,10 @@
+## Thursday, April 22, 2021, 2:33:03PM EDT <1619116383>
+
+TIL that you should almost never use a Pod during development and use a
+Deployment instead. This is because you are going to change things up
+and you cannot do that directly with a Pod. I wish I had heard about
+this a *long* time ago.
+
 ## Thursday, April 22, 2021, 1:49:07PM EDT <1619113747>
 
 Alacritty finally crapped out. It's just not ready for anything serious
