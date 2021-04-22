@@ -1,3 +1,38 @@
+## Wednesday, April 21, 2021, 11:35:21PM EDT <1619062521>
+
+Still so torn over long or short directory names for KEG nodes. On the
+one hand short makes easier to use but long is easier to search and for
+web SEO. But, I really feel like this is the same rule with unique
+identifiers. A good unique identifier should never have any semantic
+value.
+
+For example, say you create a blog post within a directory that matches
+the title. Then the title changes. You are stuck with the URL that is
+broken.
+
+In fact, I'm inclined to go the other way. To give everything a unique
+`isosec` identifier that will *never* change. Links to that particular
+resource will always work and the name can change to whatever. This is
+how file systems and databases work, but is it friendly enough for
+people today?
+
+I think so --- especially if you have some sort of index to them to look
+into. In that sense it is very much a pointer.
+
+If I take this to its conclusion you get something like this for KEG
+content:
+
+```
+/dex
+/zet/<isosec>
+/log/<isosec>
+/lab/<isosec>
+/doc/<isosec>
+/term/<term>
+```
+
+This groups things by their type, not category, and not name.
+
 ## Wednesday, April 21, 2021, 11:26:30PM EDT <1619061990>
 
 After playing with it some more it's clear to me working with real
