@@ -1,3 +1,30 @@
+## Wednesday, April 21, 2021, 11:26:30PM EDT <1619061990>
+
+After playing with it some more it's clear to me working with real
+clones is better for me than bare repos. I just have to add `../` to
+work trees and the branch names end up looking like the main repo as
+well in the directory. By adding a `-<issuenum>` I also am sure to get
+something unique so that the branch names do not have to be crazy long.
+Instead, I can save that for the lab directory names themselves that
+land in slugs for URLs and need the length for SEO. So here's the
+process:
+
+1. Get into the main repo or clone if needed
+1. `git worktree add ../<reponame>-some-thing-<issuenum>`
+1. Change into the new work tree directory (which should tab complete)
+1. Do the work and push to upstream so others can follow
+1. Add comments to the issue for discussion
+1. After testing, optionally create a PR, and merge into main
+1. Remove the work tree and branch locally and remotely
+
+## Wednesday, April 21, 2021, 10:57:07PM EDT <1619060227>
+
+On second thought, we need verbose branch names to make any sense to
+others sorting through them. I read about one persons process where they
+add `-<issuenum>` to the end of the branch and use that to associate the
+branch with an issue where all the conversation about the development is
+taking place. I suppose that is a good way to go.
+
 ## Wednesday, April 21, 2021, 10:45:13PM EDT <1619059513>
 
 I wonder if it would just be easier to create an issue for each main
