@@ -24,6 +24,7 @@ content:
 
 ```
 /dex
+/zet/reg
 /zet/<isosec>
 /log/<isosec>
 /lab/<isosec>
