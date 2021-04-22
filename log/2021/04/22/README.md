@@ -5,8 +5,19 @@ yet. I can't even explain all the subtle things wrong with it. It simply
 stopped responding. It also does not have full ANSI terminal escape
 support, which I think is a big part of the problem. 
 
-So I spent the time to configure my Windows Terminal and it was worth
-every second. It even does my Ubuntu Mono Nerd Font without a problem.
+One specific thing is how it gets all fucked up when in full screen and
+a Windows notification fires off in the upper right. For some reason it
+completely resets the position of the content in the terminal. It's bad
+enough getting annoyed by the notification. It's worst when it blows
+away your position and cursor location. That bug alone is worth dropping
+Alacritty for Windows (and therefore anything, since why do it if it
+doesn't work anywhere). 
+
+Thankfully, the Windows Terminal is much better. I threw it out because
+I was so pissed about how hard it is to manage the configuration file.
+But I'm over that now. So I spent the time to configure my Windows
+Terminal and it was worth every second. It even does my Ubuntu Mono Nerd
+Font without a problem.
 
 I now prefer to do all my work from a laptop again, which is bad for my
 stream because I'm generally not sitting at my desk much anymore. Even
