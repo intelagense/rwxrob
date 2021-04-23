@@ -1,3 +1,8 @@
+## Friday, April 23, 2021, 7:47:13PM EDT <1619221633>
+
+I've also just realized that over-the-shoulder mode allows me to focus
+on the `#rwx` IRC channel as well as the twitch one.
+
 ## Friday, April 23, 2021, 7:36:19PM EDT <1619220979>
 
 I've realized there are really two modes of streaming, hearkening back
