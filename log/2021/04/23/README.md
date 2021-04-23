@@ -1,3 +1,40 @@
+## Friday, April 23, 2021, 7:36:19PM EDT <1619220979>
+
+I've realized there are really two modes of streaming, hearkening back
+to the first days of streaming in December 2019:
+
+1. Over the shoulder
+1. Interactive
+
+In over the shoulder I'm getting stuff done, often from a laptop that is
+TMUX-ed into the session that is being streamed. All I see is a plain
+Gruvbox terminal and whatever the TMUX session reveals. I have no
+visibility into the number of people watching or anything like that
+(unless I open my own channel in a web browser). When in this mode
+people are tuning in for something aesthetically pleasing with a little
+code involved. Therefore, I'll continue to do the transparent
+backgrounds with subtle music and sound effects. That way people can put
+it on to fall asleep to if they wish. The goal of this mode is peace and
+calm along with some accidental instruction here or there. Readability
+is not as important as the experience. I can also play whatever music I
+want. Getting muted does matter because people can mute me themselves
+without fear of losing anything. Also, I can change the topics in the
+titles to be sure people know what I'm working on in that moment. That
+and the branch names should be enough to give them a clue about what I'm
+actually doing.
+
+In interactive, or cam mode, I have my voice and camera on and am
+directly responding to immediate questions and making videos to be
+highlighted about stuff. I was doing this before, but this time I make
+sure that I'm in in an opaque Gruvbox terminal because it is as if I was
+in front of a class demonstrating things and visibility is the priority.
+
+I've gone through this phase before, so it must be the right thing. The
+biggest difference is now that people will be able to quickly
+distinguish between "over the shoulder" mode (that can be muted) and
+"interactive" mode that shouldn't be muted because I'll generally be
+saying something.
+
 ## Friday, April 23, 2021, 4:31:02PM EDT <1619209862>
 
 Open credentials == managing credentials as software.
