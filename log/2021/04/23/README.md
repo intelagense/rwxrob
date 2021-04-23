@@ -1,3 +1,21 @@
+## Friday, April 23, 2021, 4:31:02PM EDT <1619209862>
+
+Open credentials == managing credentials as software.
+
+## Friday, April 23, 2021, 3:34:15PM EDT <1619206455>
+
+Toying with the idea of adding back the Open Credential thing as a part
+of SKILSTAK this time. Basically, I'd be directly ripping off the method
+that works for scouting with merit badges and rank advancement, but
+making it more real and related to technology. Scouting, after all, has
+always been about self-directed learning.
+
+What would the terminology be?
+
+* *rank* - names for different levels that aren't necessarily
+         vertically linear
+* *boost* - an accelerated review of what learning is needed 
+
 ## Friday, April 23, 2021, 7:12:54AM EDT <1619176374>
 
 I have noticed the convention for shell scripting to make some
