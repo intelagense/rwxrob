@@ -1,3 +1,16 @@
+## Friday, April 23, 2021, 9:51:58PM EDT <1619229118>
+
+Wondering if I need to keep *truly* POSIX compliant, or just *container*
+POSIX compliant. For example, `mkdir -p` works on `busybox` and `alpine`
+images but does *not* work on AIX and Solaris operating systems.
+Honestly, most of the stuff I am creating already is assumed to be on a
+Linux workstation or container --- especially stuff in my `dotfiles`
+repo. So I guess I won't sweat it. 
+
+Creating *scripts* that are POSIX compliant (will work with `ash`,
+`dash`, etc.) definitely *is* a requirement. So POSIX *shell code* and
+not necessarily POSIX tools.
+
 ## Friday, April 23, 2021, 7:47:13PM EDT <1619221633>
 
 I've also just realized that over-the-shoulder mode allows me to focus
