@@ -1,3 +1,23 @@
+## Saturday, April 24, 2021, 1:58:45PM EDT <1619287125>
+
+Here's how to replace `os.Stdin` for Go testing. Since `os.Stdin` is
+just an open file pointer (`*os.File`) you can just trade it with a file
+that you open.
+
+```go
+	// replace os.Stdin
+	f, err := os.CreateTemp("", "")
+	if err != nil {
+		t.Error(err)
+	}
+	t.Logf("CreateTemp: %v\n", f.Name())
+	_fmt.Fprint(f, "5 true gophers")
+	f.Seek(0, 0)
+	orig := os.Stdin
+	defer func() { os.Stdin = orig; os.Remove(f.Name()) }()
+	os.Stdin = f
+```
+
 ## Saturday, April 24, 2021, 1:45:36PM EDT <1619286336>
 
 Calming down from the frustration of TEKSystems asking me to "take just
