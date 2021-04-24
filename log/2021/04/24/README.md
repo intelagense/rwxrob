@@ -1,3 +1,33 @@
+## Saturday, April 24, 2021, 1:45:36PM EDT <1619286336>
+
+Calming down from the frustration of TEKSystems asking me to "take just
+15 minutes" to fill out a "Competencies" form that would have taken me
+two hours to fill out just to get what is in my resume into it. I've
+never understood such dumb-ass systems and am convinced they are more
+busy work that value.
+
+In short, I refused to do it without being paid for the time. I'm not
+looking forward to dealing with the fall out, but I cannot let them just
+sit back and pretend that it is "for my benefit" when I don't fucking
+need it to get a job, anywhere. I strongly suspect it is information
+they are going to sell to someone else. So I'm like, if you need this
+information pay someone to copy it from my well-prepared CV into your
+shitty Oracle system, or, you can pay me my hourly rate. 
+
+Bottom line, people and corporations do *not* respect you. They never
+have. They will suck every fucking free cent and second out of you they
+can. They only care when it costs *them* money. Then, suddenly, they will
+"re-evaluate" the effectiveness of the system. They will keep on sucking
+it out of your while you let them out of some unjustified fear that you
+can't do fine without them. Well, I can.
+
+If I sound pissed it is because I am. They misrepresented this activity
+and expected me to just get in line and blew away my Saturday morning in
+both time and spirit. I'm angry. Best of all, my wife supports me in
+this. I didn't say anything inappropriate. I just let them know that I
+felt the task was misrepresented and that it angered me that they asked
+me to do it. Most wouldn't say jack shit. They just wouldn't do it.
+
 ## Saturday, April 24, 2021, 11:37:33AM EDT <1619278653>
 
 As I look over my current <https://github.com/rwxrob/rwxrob> repo I
