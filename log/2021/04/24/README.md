@@ -1,3 +1,18 @@
+## Saturday, April 24, 2021, 11:37:33AM EDT <1619278653>
+
+As I look over my current <https://github.com/rwxrob/rwxrob> repo I
+can't help but fear changing everything to use `isosec` identifiers. I
+know *why* it is a good thing. Luhmann proved that. I just don't think
+anyone else will see the value in it. They will just see a bunch of
+numbers all over the place and wonder why I did it that way. 
+
+Fundamentally, no one understands this value until they have had to deal
+with reorganizing data on a massive scale. I'm on my fifth time through
+this. This is why I'm convinced Luhmann discovered Zettelkasten *after*
+he had been a professional for a while and in order to supercharge his
+learning to get the position he wanted as fast as possible. He was
+driven by immediacy, as am I. 
+
 ## Saturday, April 24, 2021, 10:45:18AM EDT <1619275518>
 
 Been thinking that the new [rwx.gg] should actually just be a big
