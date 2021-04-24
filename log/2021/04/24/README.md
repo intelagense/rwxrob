@@ -1,3 +1,11 @@
+## Saturday, April 24, 2021, 3:14:54PM EDT <1619291694>
+
+I went ahead and encapsulated that previous log post into its own
+package function `util.MockStdin(str)` along with `util.UnmockStdin()`
+within the [CmdBox] package.
+
+[CmdBox]: <https://github.com/rwxrob/cmdbox>
+
 ## Saturday, April 24, 2021, 1:58:45PM EDT <1619287125>
 
 Here's how to replace `os.Stdin` for Go testing. Since `os.Stdin` is
