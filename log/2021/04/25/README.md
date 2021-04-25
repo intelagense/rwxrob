@@ -1,3 +1,8 @@
+## Sunday, April 25, 2021, 12:13:22PM EDT <1619367202>
+
+I always forget `yaf` (as the compliment to `yif`) for yanking an entire
+function including the signature line and brackets.
+
 ## Sunday, April 25, 2021, 11:18:15AM EDT <1619363895>
 
 I have to remember there are two ways to get the type of a thing in Go.
