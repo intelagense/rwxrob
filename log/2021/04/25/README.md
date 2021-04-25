@@ -1,3 +1,28 @@
+## Sunday, April 25, 2021, 11:18:15AM EDT <1619363895>
+
+I have to remember there are two ways to get the type of a thing in Go.
+I use the `select` method so much I often forget the `if` method to do
+the same thing:
+
+```go
+if v,ok := a.(Thing); ok {
+  // do something with v, which is a Thing
+}
+```
+
+Or when have more than one potential type:
+
+```go
+switch v := a {
+case Thing:
+  // do something with v, which is a Thing
+case Other:
+  // do something with v, which is Other
+default:
+  // i have no idea what to do with this
+}
+```
+
 ## Sunday, April 25, 2021, 9:39:53AM EDT <1619357993>
 
 Here's a trick for testing anything in Go  with `os.Exit()` (or
@@ -17,6 +42,8 @@ func TestExec(t *testing.T) {
   cmd := exec.Command(os.Args[0], "-test.run=TestExec")
   cmd.Env = append(os.Environ(), "TESTING_EXEC=1")
   err := cmd.Run()
+  // ExitError is actually ProcessState
+  // if e,ok := err != nil {
   if err != nil {
     t.Fatalf("process exited with %v", err)
   }
