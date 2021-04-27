@@ -1,3 +1,15 @@
+## Tuesday, April 27, 2021, 1:32:31PM EDT <1619544751>
+
+It really chafes me that the good people at GitHub have not the sense to
+include underlines in their markdown rendering. People who have trouble
+seeing color and contrast cannot see the links without hovering over
+them. That's just fucking irresponsible.
+
+I'm particularly pissed because I have higher standards than that and
+this forces me to render all my stuff for the Web in addition to just
+having a repo. I was hoping to put off that step until I got more
+content into it. Nope. Have to do it right away (before the boost).
+
 ## Tuesday, April 27, 2021, 1:25:11PM EDT <1619544311>
 
 One of the worst violations of Zettelkasten method is allowing the
