@@ -1,3 +1,8 @@
+## Tuesday, April 27, 2021, 6:45:47PM EDT <1619563547>
+
+I need to make sure to add `yaf` and `yif` to the (new and improved) Vim
+tutorial. They are so important.
+
 ## Tuesday, April 27, 2021, 1:32:31PM EDT <1619544751>
 
 It really chafes me that the good people at GitHub have not the sense to
