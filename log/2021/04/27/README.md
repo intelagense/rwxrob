@@ -1,3 +1,15 @@
+## Tuesday, April 27, 2021, 1:24:21AM EDT <1619501061>
+
+Ya know, I really need to make the Beginner Boost its own repo. That way
+I can tag it and have it just live on its own without the hassle of
+being rendered. Hell, that would be plenty to have the boost until I
+finish `kn` for the rendering later. But I don't even fucking need the
+rendering. People need to get used to following things in GitHub anyway.
+That way people can be notified if and when things change. No need for
+the extra publishing hassle. It also means that others could
+collaboratively add content to it. Looks like
+<https://github.com/rwxrob/boost> it is.
+
 ## Tuesday, April 27, 2021, 1:03:08AM EDT <1619499788>
 
 Decided to go with a traditional "curriculum" outline for the Beginner
