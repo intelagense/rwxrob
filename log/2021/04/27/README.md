@@ -1,3 +1,39 @@
+## Tuesday, April 27, 2021, 6:50:58PM EDT <1619563858>
+
+Wondering what the best `interface{}` cast idiom is:
+
+```go
+var cmd *Command
+if v,ok := a[0].(*Command); ok {
+  cmd = v
+}
+if cmd == nil {
+  ...
+}
+```
+
+I'm thinking I need a snippet generator for that.
+
+All I'd have to do is enter the following, position the cursor on that
+line, and send that line to `snip` with `!!snip`. In fact, I think you
+could do that without all the extra since you want fatal errors early
+and the result would be the same --- especially if I'm trapping panics.
+
+```go
+var cmd *Command
+```
+
+And then perhaps only
+
+```go
+cmd := a[0].(*Command)
+```
+
+God, I cannot wait to get CmdBox finished so I can finish `cmdbox-snip`
+for this sort of thing. The world needs a new snippet framework that is
+entirely built from Go `text/template` templates and *fucking works from
+the command line requiring no fucking plugins*.
+
 ## Tuesday, April 27, 2021, 6:45:47PM EDT <1619563547>
 
 I need to make sure to add `yaf` and `yif` to the (new and improved) Vim
