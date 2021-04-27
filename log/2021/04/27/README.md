@@ -1,0 +1,35 @@
+## Tuesday, April 27, 2021, 1:03:08AM EDT <1619499788>
+
+Decided to go with a traditional "curriculum" outline for the Beginner
+Boost content. I'm estimating using 25 minutes on each line item (my
+standard ZettelCast and Pomodoro timer amount). The boost runs from
+May the 4th to July 31st, a little over 12 weeks (64 days total). Each
+day will be two hours long, but I'm only planning three ZettelCasts per
+day (even though several will be very far under the 25 minutes). That's
+192 total ZettelCast sessions and videos for a total of about 80 hours
+of total video content.
+
+
+```
+      May 2021             June 2021             July 2021        
+Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  
+                   1         1  2  3  4  5               1  2  3  
+ 2  3  4  5  6  7  8   6  7  8  9 10 11 12   4  5  6  7  8  9 10  
+ 9 10 11 12 13 14 15  13 14 15 16 17 18 19  11 12 13 14 15 16 17  
+16 17 18 19 20 21 22  20 21 22 23 24 25 26  18 19 20 21 22 23 24  
+23 24 25 26 27 28 29  27 28 29 30           25 26 27 28 29 30 31  
+30 31                                                             
+
+```
+
+Originally, I wasn't going to cover the actual stuff, but rather send
+them on their way to learn it on their own. But I figure covering my own
+sample exploration of the material and concepts and skills will be
+something they can put on to get them excited to do their own
+experimentation (as in, the Bob Ross school of coding).
+
+I suppose I could go ahead and throw it all up on Udemy as well even if
+I make it also free on YouTube. I'll have to look into that. It is
+likely that would not be that much more work and would just put it in a
+place where people will search for it. (Ouch my pinky is sore from Yoga
+today.)
