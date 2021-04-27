@@ -1,3 +1,28 @@
+## Tuesday, April 27, 2021, 1:25:11PM EDT <1619544311>
+
+One of the worst violations of Zettelkasten method is allowing the
+unlimited size of a given Zettel. This doesn't create the cognitive
+pressure required to push out the better thread and node graph of ideas.
+
+## Tuesday, April 27, 2021, 1:18:50PM EDT <1619543930>
+
+Need to add a conventions style guide for writing, probably under the
+topic of my Zettelkasten method. Here's a standard way to link that also
+prints well:
+
+```markdown
+* [[*See Luhmann's Own Words About Zettelkasten Method*]](https://luhmann.surge.sh)
+* [[*20210427132158*]](/zet/20210427132158)
+```
+
+* [[*See Luhmann's Own Words About Zettelkasten Method*]](https://luhmann.surge.sh)
+* [[*20210427132158*]](/zet/20210427132158)
+
+I think this is the best way and allows for the same use on paper.
+Obviously, linking to the zettel identifier directly is something
+convenient for the register and for the less common need to interlink
+specific zettels.
+
 ## Tuesday, April 27, 2021, 1:24:21AM EDT <1619501061>
 
 Ya know, I really need to make the Beginner Boost its own repo. That way
