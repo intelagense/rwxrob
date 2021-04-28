@@ -1,3 +1,14 @@
+## Wednesday, April 28, 2021, 3:06:27PM EDT <1619636787>
+
+Had to push back my two hours of SKILSTAK Twitch streaming stuff to 7pm
+to make sure there's enough time to cover all the expectations from my
+day job. They aren't particular formal or explicit, just an informal
+expectation that I'm around --- particularly because I'm so new.
+
+I'm also just going to delete all the stream VODs that are not those AMA
+times and even those will likely be deleted as well after I get
+highlights made from them.
+
 ## Wednesday, April 28, 2021, 2:45:27PM EDT <1619635527>
 
 I really wish someone had told me that it is extremely rare to create a
