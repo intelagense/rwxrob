@@ -1,3 +1,8 @@
+## Wednesday, April 28, 2021, 6:42:33PM EDT <1619649753>
+
+Decided to delete the Twitch VODS so that they don't clutter up the
+highlighted videos and distract people from them.
+
 ## Wednesday, April 28, 2021, 3:06:27PM EDT <1619636787>
 
 Had to push back my two hours of SKILSTAK Twitch streaming stuff to 7pm
