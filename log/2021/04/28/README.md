@@ -1,3 +1,31 @@
+## Wednesday, April 28, 2021, 2:45:27PM EDT <1619635527>
+
+I really wish someone had told me that it is extremely rare to create a
+Kubernetes Pod for *anything*. It's not mentioned on
+<https://kubernetes.io> anywhere. For me, `Deployment`, `Service`,
+`NodePort`, `PersistentVolume`, and `PersistentVolumeClaim` are the most
+important "objects" to first understand because you need them to get
+anything actually done.
+
+In fact, the "official" site is absolute shit for getting started with
+Kubernetes immediately in a *real* way.
+
+Another complete fucking waste of time was setting up and using
+`minikube` for *anything*. It's absolute shit for anything practical.
+
+Honestly, it is so much better for beginners to immediately bite off the
+trouble that `kind` is because it is more worth it long term. Most
+people starting will not have a cluster they can blow up to learn shit.
+The `kind` tool fills that space better than anything. 
+
+The next best option when experimenting with Kubernetes to learn it,
+which is absolutely the best way, is to use GCP or some other cloud
+provider. But that can get expensive.
+
+The next best option is to get a bunch of small multicore computers, old
+ones even, and build an *actual* physical cluster locally as your
+"sandbox" (as they say).
+
 ## Wednesday, April 28, 2021, 11:59:06AM EDT <1619625546>
 
 Finding out that I should use Helm for delivering my modified version of
