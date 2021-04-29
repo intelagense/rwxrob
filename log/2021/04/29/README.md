@@ -1,3 +1,11 @@
+## Thursday, April 29, 2021, 12:50:29PM EDT <1619715029>
+
+It would seem from this article that Windows and Mac users don't even
+need to use Kind and they can refer to images directly without
+indicating the registry.
+
+[[*Build Docker Kubernetes-ready Applications on your Desktop*]](https://www.docker.com/products/kubernetes)
+
 ## Thursday, April 29, 2021, 9:30:59AM EDT <1619703059>
 
 Discovered another piece of shit web site: <https://artifacthub.io>
