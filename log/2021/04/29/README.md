@@ -1,3 +1,52 @@
+## Thursday, April 29, 2021, 3:18:25PM EDT <1619723905>
+
+After participating in a Domino support call it is clear that the
+closest thing to a conventional (not standard) way to implement changes
+to a Kubernetes cluster is to create an image (or update to an image),
+transfer that image into the internal repository somehow, and run a
+shell script (bash specifically) that contains a large percentage of
+YAML being `cat`-ed into `kubectl`. 
+
+In other words, the artifacts for a project (like mine currently) to
+deliver are simply a shell script and an image or two (or three). That's
+it.
+
+Indeed, all the Helm shit is overkill. After looking through the Helm
+code and seeing what shitty architecture it is, I want nothing to do
+with it unless they fucking require it. There are so many layers of
+unnecessary complexity in Helm, and the fact that their web team is so
+fucking stupid they require JavaScript to use it scares me to death. All
+you have to do is look at the template insanity. There might not be
+another, better way yet (Helm is the only thing I know of), but I
+(personally) consider it over-engineered shit, but I myself still don't
+know shit about any of this. I can just shell this stuff.
+
+My concerns have been warranted, however, by the sheer fact that they
+had to completely abandon and discard "tiller" with Helm 3. That's a
+sure sign of shitty architecture to begin with. We should give them the
+benefit of the doubt, for sure, and allow agile approach, but there are
+just too many red flags there. If Helm is so wonderful why isn't Domino
+(a well established Kubernetes application and project) creating
+releases in Helm and allowing changes like the one we did today to be in
+Helm charts?
+
+The reason is *exactly* what we did today. We reviewed every fucking
+line of that shell script together to be sure we knew exactly what it
+was going to do to the environment. The fact that is was simple shell
+scripting meant that all the reviewers on the call could participate and
+reduce risk exposure even more by making things more legible and
+immediately clear. Having this thing as a shell script and the container
+itself in a Dockerfile with the changes captured in commit history in
+Git someplace is the way to do. Helm hides all of that with a 'just
+trust us' approach that would have taken far longer to review ---
+especially if they used those fucking God-aweful Helm templates that
+aren't even that *actual* thing.
+
+In short, Imma learn containers inside and out, backwards and forwards,
+and I'll do all my work in simple POSIX shell as much as possible (bash
+if needed) for all of the reasons Domino did. It simplifies change
+review, and that's the most important criterion of all.
+
 ## Thursday, April 29, 2021, 3:03:03PM EDT <1619722983>
 
 Need to look into Taints and Tolerations in Kubernetes soon.
