@@ -1,3 +1,7 @@
+## Thursday, April 29, 2021, 3:03:03PM EDT <1619722983>
+
+Need to look into Taints and Tolerations in Kubernetes soon.
+
 ## Thursday, April 29, 2021, 12:50:29PM EDT <1619715029>
 
 It would seem from this article that Windows and Mac users don't even
