@@ -1,3 +1,24 @@
+## Thursday, April 29, 2021, 11:35:20PM EDT <1619753720>
+
+Hit a *major* point of confusion when combining shell scripts and YAML
+for cloud-native stuff. Tabs are *required* by POSIX for indentation.
+They are defined by the standard. It's not a debate. But YAML files
+forbid tabs for indentation. This means combining the two in the same
+file is problematic at best.
+
+The unfortunate conclusion is that I refuse to use indented
+here-documents at all with YAML in shell scripts. You can do it, and it
+looks absolutely amazing. And you know people will. Some will say
+that the YAML will never need to come out of that shell script. 
+
+However, when some poor sod copies and paste it with a graphic editor
+they'll be in for a really bad day because the new YAML file will have
+both tabs and spaces in it. White-space only indentation is a fucking
+pain as it is enough to get right.
+
+One thing is for sure. Everything I have *ever* said about learning `vi`
+is being validated by all of this stuff.
+
 ## Thursday, April 29, 2021, 9:28:48PM EDT <1619746128>
 
 I've decided to allow myself to use Bash for "patches" and installations
