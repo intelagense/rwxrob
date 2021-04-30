@@ -1,3 +1,8 @@
+## Thursday, April 29, 2021, 11:47:19PM EDT <1619754439>
+
+Just realized that since YAML doesn't care how much indentation is for
+the first item that it doesn't even need a here-document to look nice.
+
 ## Thursday, April 29, 2021, 11:35:20PM EDT <1619753720>
 
 Hit a *major* point of confusion when combining shell scripts and YAML
