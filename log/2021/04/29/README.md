@@ -1,3 +1,27 @@
+## Thursday, April 29, 2021, 9:28:48PM EDT <1619746128>
+
+I've decided to allow myself to use Bash for "patches" and installations
+to Kubernetes clusters instead of just POSIX shell for no other reason
+than the following construct (which automatically formats itself):
+
+```bash
+ kubectl apply -f - <<-EOM
+    apiVersion: rbac.authorization.k8s.io/v1
+    kind: Role
+    rules:
+      # ...
+      - apiGroups:
+          - ""
+        resources:
+          - pods/exec
+        verbs:
+          - create
+          - get
+  EOM
+```
+
+This makes for beautiful and readable shell code that would be unbearable in a code review were it done with only what POSIX shell supports (no support for `-EOM`.
+
 ## Thursday, April 29, 2021, 3:18:25PM EDT <1619723905>
 
 After participating in a Domino support call it is clear that the
