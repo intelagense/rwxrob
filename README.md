@@ -1,5 +1,7 @@
-📆 [Schedule](schedule) 🗿 [Log](log) 📝 [Notes](notes) 📃 [Posts](posts) 🪄 [Tips](tips)
+📆 [Schedule](schedule) 🗿 [Log] 📝 [Notes](notes) 📃 [Posts](posts) 🪄 [Tips](tips)
 💪 [CV](cv) 📚 [Books](books) 🔖 [Bookmarks](bookmarks)
+
+[Log]: <https://github.com/rwxrob/log>
 
 Code is art. Good code is like the enigmatic innards of a fine 16th
 century timepiece, a good coder not unlike the artisan obsessed with its
