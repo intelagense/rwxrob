@@ -1,5 +1,7 @@
 # Great Quotes
 
+> @pufftux Learn about your home before you leave it, love it.
+
 > @tehego cloud and containers really make desktops, desktops
 
 > @togglebit  A language is a tool. My hammer, however, is very left

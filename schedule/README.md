@@ -21,5 +21,5 @@ And here's an eating schedule I try to keep:
 | 8:00  | Blue Cheese Salad • Coffee
 | 11:00 | Avocado w/ Something • Coffee
 | 2:00  | Green Smoothie
-| 4:30  | ½ Banana & PB • Coffee
+| 4:00  | ½ Banana & PB • Coffee
 | 6:00  | Big Dinner w/ Protein
