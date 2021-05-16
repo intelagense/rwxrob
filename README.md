@@ -1,20 +1,10 @@
 <center> <!-- I know, right! -->
 <table>
 <tbody>
-<tr><td colspan=3>
-<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<thead><tr><td colspan=3>
 Places Online You Can Find Me
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span>
-</td></tr>
+</td></tr></thead>
 <tr class="odd">
 <td style="text-align: center;"><a href="https://github.com/rwxrob/log">Personal Log</a></td>
 <td style="text-align: center;"><a href="https://github.com/rwxrob/zet">Zettelkasten (Notes)</a></td>
