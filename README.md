@@ -1,8 +1,9 @@
 <div>
-* [Personal Log](https://github.com/rwxrob/log)
-* [Zettelkasten (Notes)](https://github.com/rwxrob/zet)
-* [Curriculm Vitae (Resume)](https://github.com/rwxrob/cv)
+<a href="https://github.com/rwxrob/log">Personal Log</a>
 </div>
+
+[Zettelkasten (Notes)](https://github.com/rwxrob/zet)
+[Curriculm Vitae (Resume)](https://github.com/rwxrob/cv)
 
 <div>
 * [Twitch Stream](https://twitch.tv/rwxrob)
