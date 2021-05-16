@@ -11,3 +11,7 @@
 * [Patreon Donations](https://www.patreon.com/rwxrob)
 * [PayPal Donations](https://paypal.me/rwxrob)
 * [Curriculm Vitae (Resume)](https://github.com/rwxrob/cv)
+
+https://github.com/rwxrob/rwxrob/blob/main/assets/video/stand-by-1.mp4
+
+
