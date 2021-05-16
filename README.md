@@ -1,6 +1,13 @@
-<div>
+<div id=test>
 <a href="https://github.com/rwxrob/log">Personal Log</a>
 </div>
+
+<style>
+.id {
+  display: block;
+  float:right;
+}
+</style>
 
 [Zettelkasten (Notes)](https://github.com/rwxrob/zet)
 [Curriculm Vitae (Resume)](https://github.com/rwxrob/cv)
