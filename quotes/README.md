@@ -1,5 +1,7 @@
 # Great Quotes
 
+> @rdmc10 God was written in rust.
+
 > @pufftux Learn about your home before you leave it, love it.
 
 > @tehego cloud and containers really make desktops, desktops
