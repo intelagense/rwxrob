@@ -1,6 +1,15 @@
 <center> <!-- I know, right! -->
 <table>
 <tbody>
+<tr><td colspan=3>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>
+</td></tr>
 <tr class="odd">
 <td style="text-align: center;"><a href="https://github.com/rwxrob/log">Personal Log</a></td>
 <td style="text-align: center;"><a href="https://github.com/rwxrob/zet">Zettelkasten (Notes)</a></td>
@@ -21,8 +30,9 @@
 <td style="text-align: center;"><a href="https://www.patreon.com/rwxrob">Patreon Donations</a></td>
 <td style="text-align: center;"><a href="https://paypal.me/rwxrob">PayPal Donations</a></td>
 </tr>
+<tr><td colspan=3><a
+href="https://open.spotify.com/user/xe3r9dvrri2cbnqhu5nfs6a1b">Spotify</a></p></td></tr>
 </tbody>
 </table>
-<p><a href="https://open.spotify.com/user/xe3r9dvrri2cbnqhu5nfs6a1b">Spotify</a></p>
 
 <https://user-images.githubusercontent.com/3749067/118404049-56c6dc00-b63f-11eb-9763-dc4038c08504.mp4>
