@@ -12,6 +12,4 @@
 * [PayPal Donations](https://paypal.me/rwxrob)
 * [Curriculm Vitae (Resume)](https://github.com/rwxrob/cv)
 
-https://github.com/rwxrob/rwxrob/blob/main/assets/video/stand-by-1.mp4
-
-
+https://user-images.githubusercontent.com/3749067/118404049-56c6dc00-b63f-11eb-9763-dc4038c08504.mp4
