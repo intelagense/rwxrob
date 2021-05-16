@@ -1,8 +1,28 @@
-|[Personal Log](https://github.com/rwxrob/log)|[Zettelkasten (Notes)](https://github.com/rwxrob/zet)|[Curriculm Vitae (Resume)](https://github.com/rwxrob/cv)|
-|:-:|:-:|:-:|
-[YouTube Channel](https://youtube.com/rwxrob)|[Twitch Stream](https://twitch.tv/rwxrob)|[Streaming FAQ](https://github.com/rwxrob/faq)
-[Internet Relay Chat](https://youtu.be/yuFFY5Zgtj8)|[Discord Server](https://discord.com/invite/9wydZXY)|[Twitter](https://twitter.com/rwxrob)
-[GitHub Sponorship](https://github.com/sponsors/rwxrob)|[Patreon Donations](https://www.patreon.com/rwxrob)|[PayPal Donations](https://paypal.me/rwxrob)
-[Spotify](https://open.spotify.com/user/xe3r9dvrri2cbnqhu5nfs6a1b)
+<center> <!-- I know, right! -->
+<table>
+<tbody>
+<tr class="odd">
+<td style="text-align: center;"><a href="https://github.com/rwxrob/log">Personal Log</a></td>
+<td style="text-align: center;"><a href="https://github.com/rwxrob/zet">Zettelkasten (Notes)</a></td>
+<td style="text-align: center;"><a href="https://github.com/rwxrob/cv">Curriculm Vitae (Resume)</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><a href="https://youtube.com/rwxrob">YouTube Channel</a></td>
+<td style="text-align: center;"><a href="https://twitch.tv/rwxrob">Twitch Stream</a></td>
+<td style="text-align: center;"><a href="https://github.com/rwxrob/faq">Streaming FAQ</a></td>
+</tr>
+<tr class="odd">
+<td style="text-align: center;"><a href="https://youtu.be/yuFFY5Zgtj8">Internet Relay Chat</a></td>
+<td style="text-align: center;"><a href="https://discord.com/invite/9wydZXY">Discord Server</a></td>
+<td style="text-align: center;"><a href="https://twitter.com/rwxrob">Twitter</a></td>
+</tr>
+<tr class="even">
+<td style="text-align: center;"><a href="https://github.com/sponsors/rwxrob">GitHub Sponorship</a></td>
+<td style="text-align: center;"><a href="https://www.patreon.com/rwxrob">Patreon Donations</a></td>
+<td style="text-align: center;"><a href="https://paypal.me/rwxrob">PayPal Donations</a></td>
+</tr>
+</tbody>
+</table>
+<p><a href="https://open.spotify.com/user/xe3r9dvrri2cbnqhu5nfs6a1b">Spotify</a></p>
 
 <https://user-images.githubusercontent.com/3749067/118404049-56c6dc00-b63f-11eb-9763-dc4038c08504.mp4>
