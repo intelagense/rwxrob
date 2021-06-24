@@ -1,18 +1,12 @@
 # Great Quotes
 
-> @rdmc10 God was written in rust.
+> The reasonable man adapts himself to the world. The unreasonable man
+> adapts the world to himself. Therefore, all progress depends on the
+> unreasonable man. (George Shaw)
 
-> @pufftux Learn about your home before you leave it, love it.
-
-> @tehego cloud and containers really make desktops, desktops
-
-> @togglebit  A language is a tool. My hammer, however, is very left
-> wing... ¬_¬
-
-> @myndzi you were talking about receivers earlier and i realized that
-> go's method pattern is basically an inversion of control: instead
-> of the code being the base unit and attaching data to  it, the data is
-> the base unit and you attach code to it
+> All problems in computer science can be solved by another level of
+> indirection, except of course for the problem of too many indirections
+> (David J. Wheeler)
 
 > @floredon Nature has a very messy desk but it always knows where to
 > find something it needs
