@@ -6,9 +6,9 @@ Places Online You Can Find Me
 </span>
 </td></tr></thead>
 <tr class="odd">
-<td style="text-align: center;"><a href="https://github.com/rwxrob/log">Personal Log</a></td>
 <td style="text-align: center;"><a href="https://github.com/rwxrob/zet">Zettelkasten (Notes)</a></td>
 <td style="text-align: center;"><a href="https://github.com/rwxrob/cv">Curriculm Vitae (Resume)</a></td>
+<td style="text-align: center;"><a href="https://github.com/rwxrob/log">Personal Log</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><a href="https://youtube.com/rwxrob">YouTube Channel</a></td>
@@ -25,8 +25,8 @@ Places Online You Can Find Me
 <td style="text-align: center;"><a href="https://www.patreon.com/rwxrob">Patreon Donations</a></td>
 <td style="text-align: center;"><a href="https://paypal.me/rwxrob">PayPal Donations</a></td>
 </tr>
-<tr><td colspan=3><a
-href="https://open.spotify.com/user/xe3r9dvrri2cbnqhu5nfs6a1b">Spotify</a></p></td></tr>
+<tr><td><a href="https://open.spotify.com/user/xe3r9dvrri2cbnqhu5nfs6a1b">Spotify</a></p></td></tr>
+<tr><td><a href="https://calendar.google.com/calendar/u/0?cid=cm9iQHJ3eC5nZw">Stream Calendar</a></p></td></tr>
 </tbody>
 </table>
 
