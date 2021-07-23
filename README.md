@@ -8,12 +8,12 @@ Places Online You Can Find Me
 <tr class="odd">
 <td style="text-align: center;"><a href="https://github.com/rwxrob/zet">Zettelkasten (Notes)</a></td>
 <td style="text-align: center;"><a href="https://github.com/rwxrob/cv">Curriculm Vitae (Resume)</a></td>
-<td style="text-align: center;"><a href="https://github.com/rwxrob/log">Personal Log</a></td>
+<td><a href="https://instagram.com/rwxrob">Instagram</a></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><a href="https://youtube.com/rwxrob">YouTube Channel</a></td>
 <td style="text-align: center;"><a href="https://twitch.tv/rwxrob">Twitch Stream</a></td>
-<td style="text-align: center;"><a href="https://github.com/rwxrob/faq">Streaming FAQ</a></td>
+<td><a href="https://open.spotify.com/user/xe3r9dvrri2cbnqhu5nfs6a1b">Spotify</a></td>
 </tr>
 <tr class="odd">
 <td style="text-align: center;"><a href="https://youtu.be/yuFFY5Zgtj8">Internet Relay Chat</a></td>
@@ -24,10 +24,6 @@ Places Online You Can Find Me
 <td style="text-align: center;"><a href="https://github.com/sponsors/rwxrob">GitHub Sponorship</a></td>
 <td style="text-align: center;"><a href="https://www.patreon.com/rwxrob">Patreon Donations</a></td>
 <td style="text-align: center;"><a href="https://paypal.me/rwxrob">PayPal Donations</a></td>
-</tr>
-<tr>
-<td><a href="https://open.spotify.com/user/xe3r9dvrri2cbnqhu5nfs6a1b">Spotify</a></td>
-<td><a href="https://instagram.com/rwxrob">Instagram</td>
 </tr>
 </tbody>
 </table>
