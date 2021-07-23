@@ -26,8 +26,8 @@ Places Online You Can Find Me
 <td style="text-align: center;"><a href="https://paypal.me/rwxrob">PayPal Donations</a></td>
 </tr>
 <tr>
-<td><a href="https://open.spotify.com/user/xe3r9dvrri2cbnqhu5nfs6a1b">Spotify</a></p></td>
-<td><a href="https://calendar.google.com/calendar/u/0?cid=cm9iQHJ3eC5nZw">Stream Calendar</a></p></td>
+<td><a href="https://open.spotify.com/user/xe3r9dvrri2cbnqhu5nfs6a1b">Spotify</a></td>
+<td><a href="https://instagram.com/rwxrob">Instagram</td>
 </tr>
 </tbody>
 </table>
