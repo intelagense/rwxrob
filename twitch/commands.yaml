@@ -1,0 +1,178 @@
+job: &job >-
+  💰 I work for TEKSystems (!tek) as a full-time Kubernetes cloud native
+  infrastructure engineer and software developer (!dev) for
+  a well-paying multinational corporation (!dox) supporting thousands of
+  high performance machine learning compute nodes.
+  
+work: *job
+
+dev: &dev >-
+  💻 I prefer "software developer" or "coder" over "engineer" (which is
+  illegal to call youself in Canada without specific schooling). I've
+  written thousands of lines of code a dozen or so different languages
+  running on millions of systems including most of the Fortune 100.
+  While computer science has its place, my work has always been
+  practical.
+
+coder: *dev
+
+tek: >-
+  🤝 TEKSystems is one of the largest recruiting tech contract work
+  companies. You work for TEK, but TEK equally works for you. Unlike
+  other companies, you are their customer and their product. You makes
+  20-40% less, but they are financially motivated to have your back,
+  keep you happy, and find your next gig. The independence is worth it.
+
+vi: &vi >-
+  😎 I use Vim with vi-centricity because I want to be productive
+  quickly on *any* UNIX-like (!unix) system and I actually know how to
+  use leverage the full power of !UNIX !filters. Most Vim and !NeoVim
+  users have no idea with that !filter command even does. The smaller
+  your .vimrc, the better UNIX user you are.
+
+vim: *vi
+
+neovim: &neovim >-
+  💩 Neovim is shit. Mostly because it has no fucking clue what the UNIX
+  philosophy is about or for. Don't ruin yourself by learning it. Learn
+  !vi properly. https://github.com/rwxrob/zet/tree/main/20210502133019 
+
+nvim: *neovim
+
+about: &about >-
+  🔎 I'm Rob Muhlestein, an !engineer, !coder by !trade and !polyglot,
+  !grayhat, !mentor and !FOSS contributor when not working. I live in
+  Mooresville, North Carolina, USA in an apartment while my !wife
+  completes her !art residency in Charlotte.  I choose not to dox my
+  company so I can talk about it without disclaimers.  Yes, people from
+  work know and watch the stream sometimes. Please don't dox. (Also
+  !email !gh !zet !job !project !boost)
+
+info: *about
+dox: *about
+
+foss: &foss >-
+  🐧 Free and Open Source Software (FOSS) powers the world these days.
+  The device you are using right now likely contains significant work
+  from FOSS contributors --- especially !Apple computers, which are
+  entirely built on "darwin" !BSD UNIX.
+
+opensource: *foss
+
+conduct: &conduct >-
+  😊 My personal code of conduct (which I regularly fail to keep).  My
+  main life mantra is "don't get mad, get busy" (because I get mad all
+  the fucking time). I guess it is my version of "be the change you want
+  to seen in the world".  https://github.com/rwxrob/zet/tree/main/20210502120622
+
+mad: *conduct
+sad: *conduct
+mean: *conduct
+
+faang: >-
+  💩 FAANG is shit. It means nothing. Hell, Microsoft (!ms) isn't even
+  included that's how fucking stupid the term is. People who willfully
+  use it are morons. Facebook (!fb) doesn't belong, at all. MANGA is cooler,
+  but still, look for more than these companies, so many companies are
+  BETTER on most every objective level.
+
+mute: &mute >-
+  🙊 Mute just means I'm not using my microphone usually because I'm
+  focused (!focused) and working on something and speaking breaks the
+  flow (!flow). Occasionally, I'll beak the silence (when raided to say
+  hello, for example).
+
+voice: *mute
+
+facebook: &facebook >-
+  💩 Facebook got famous ranking women's faces against one another
+  without their consent. It deliberately promoted illegal use to
+  children under 12 ("whales") using their parents credit cards. It
+  hires experts in neurological addiction and deliberately incites
+  violence for money. It's  popular with hate mongers and manipulators
+  (like Putin) to blow up civil society, divide families, and bring us
+  to war. If you use it YOU are a part of the problem. I don't.
+
+fb: *facebook
+
+music: &music >-
+  🎧 https://www.last.fm/user/rwxrob and !song for music. Want something
+  added to the playlist? Just find a link to the song on Spotify and
+  post it in chat. Happy to take requests.  I have Yoga, Beach,
+  Industrial, Chillhop, Synthwave, CoffeeHouse and Piano Jazz. I don't
+  really listen to more than that on stream.
+
+playlist: *music
+
+flow: >-
+  🤔 Getting in the !flow is something that got popular with techie Cal
+  Newport's completely unscientific (but probably correct) book 'Deep
+  Work'. Breaking someone's flow is a cardinal sin at most tech shops.
+  Keeping a flow is nearly impossible on Twitch, nearly. Using pomodoro
+  helps (!pomo).
+
+pomo: &pomo >-
+   🍅 ding dong, time to take a 12 pomo break! ❓ Pomodoro method means
+   focusing on something intensely then taking a regular break.  Our
+   sessions are 54 minutes long since Twitch gives us free,
+   uninterrupted time if we take a 12 minute break. Nobody wants an add
+   to interrupt them during their flow, right? (!flow) Read more at
+   https://github.com/rwxrob/pomo, or add to your own Bonzai tree (!bonzai)
+
+break: *pomo
+
+bonzai: &bonzai >-
+  🌳 Bonzai™ (z) is a command compositor with recursive tab completion
+  I made to replace messy shell scripts with a single Go monolith
+  command tree binary that I can curl onto any device, anywhere. You
+  can make everything from utility libraries to modular, extensible root
+  kits with it. If you need help creating your own 'z' just ask. If you
+  want to learn Go make sure to catch the Beginner Boost on May 4th
+  (!boost).  http://github.com/rwxrob/bonzai
+
+z: *bonzai
+
+boost: &boost >-
+  ⚡ The SKILSTAK Beginner Boost™ series is an annual cycle of free,
+  live, no-strings-attached tech instruction starting on May the 4th at
+  11:11:11 and happening weekly live for five hours every Saturday with
+  AMA sessions on Sundays. (There's a countdown timer in on my screen.)
+  Follow the git repo to see changes to the outline and materials or do
+  to any of the previous year's boosts. https://github.com/rwxrob/boost
+
+beginner: *boost
+
+song: "{readapi.https://groke.se/twitch/spotify/?db6e44917a20ad6113d8bd93620a748e}"
+
+focus: &focus >-
+  🤔🎧 I'm focused right now to stay in the flow (!flow). Best way to
+  communicate is send a chat message that I'll maybe eventually read --
+  especially if you have a Q at the beginning. Catch me on my break
+  (!pomo). I might talk then. Please chat away though, others here might
+  be able to answer your questions. Also look up the commands (!cmds).
+
+focused: *focus
+
+search: &search >-
+  ❓ I search from the command line using three commands 'duck' (?) or
+  'google' (??) or 'bing' (???) which open the results in my highly
+  customized lynx (!lynx) browser. This means my command line history
+  becomes my search history, which I search using Vim mode ('set -o
+  vi').
+
+?: *search
+??: *search
+???: *search
+
+lynx: &lynx >-
+  😼 Lynx (the text-based web browser) in Vi mode is the fastest way to
+  do web research, period. I pity graphic web browser users ---
+  especailly hackers --- who haven't learned it. Need a graphic browser?
+  Just hit comma (,) to open it. There's no tracking and text is
+  consistent so your eyes remain focused and able to scan at maximum
+  speed. Watch me if you're not convinced. Start with w3m if Lynx is too
+  much at first.  https://github.com/rwxrob/lynx
+
+web: *lynx
+browser: *lynx
+
