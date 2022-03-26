@@ -133,12 +133,12 @@ bonzai: &bonzai >-
 z: *bonzai
 
 boost: &boost >-
-  ⚡ The SKILSTAK Beginner Boost™ series is an annual cycle of free,
-  live, no-strings-attached tech instruction starting on May the 4th at
-  11:11:11 and happening weekly live for five hours every Saturday with
-  AMA sessions on Sundays. (There's a countdown timer in on my screen.)
-  Follow the git repo to see changes to the outline and materials or do
-  to any of the previous year's boosts. https://github.com/rwxrob/boost
+  ⚡ https://github.com/rwxrob/boost The SKILSTAK Beginner Boost™ series
+  is an annual cycle of free, live, no-strings-attached tech instruction
+  starting on May the 4th at 11:11:11 and happening weekly live for five
+  hours every Saturday with AMA sessions on Sundays. (There's
+  a countdown timer in on my screen.) Check GitHub for prereqs, outline,
+  and previous year's boosts. Every year changes.
 
 beginner: *boost
 
