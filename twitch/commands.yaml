@@ -200,3 +200,8 @@ name: &name >-
 
 rwx: *name
 
+beej: >-
+  📕 http://beej.us/guide/bgnet/ Beej's Guide to Network Programming is
+  one of the best resources any developer should ever read. It covers
+  things that are not intuitive to beginners like proper UNIX file locking.
+
