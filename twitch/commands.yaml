@@ -246,3 +246,13 @@ go: &go >-
   Google. It was specifically designed to replace Java/Python/C/C++.
 
 golang: *go
+
+sleep: >-
+  🥱💤 I do sleep. I promise. People just have a hard time tracking when
+  I do because I break my sleep schedule up. It's called "bi-modal"
+  sleep and people have been doing it for as long as there have been
+  people. Look it up. Not for everyone, and I can't do it when I am also
+  training for 10k's (or whatever). But otherwise, I get two maximized
+  brain-power times per day (instead of pushing through groggy the
+  second half of the day and wasting it).
+
