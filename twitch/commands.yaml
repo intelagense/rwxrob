@@ -134,11 +134,12 @@ z: *bonzai
 
 boost: &boost >-
   ⚡ https://github.com/rwxrob/boost The SKILSTAK Beginner Boost™ series
-  is an annual cycle of free, live, no-strings-attached tech instruction
-  starting on May the 4th at 11:11:11 and happening weekly live for five
-  hours every Saturday with AMA sessions on Sundays. (There's
-  a countdown timer in on my screen.) Check GitHub for prereqs, outline,
-  and previous year's boosts. Every year changes.
+  is an annual cycle of free, live, no-strings-attached, tech
+  instruction focused on helping people get (and keep) infrastructure
+  engineering jobs. It always starts on May the 4th at 11:11:11 and
+  happening weekly live for five hours every Saturday with AMA sessions
+  on Sundays. (There's a countdown timer in on my screen.) Check GitHub
+  for prereqs, outline, and previous year's boosts. Every year changes.
 
 beginner: *boost
 
@@ -254,5 +255,22 @@ sleep: >-
   people. Look it up. Not for everyone, and I can't do it when I am also
   training for 10k's (or whatever). But otherwise, I get two maximized
   brain-power times per day (instead of pushing through groggy the
-  second half of the day and wasting it).
+  second half of the day and wasting it). !schedule
 
+terminal: &terminal >-
+  💻 I use a slightly darkened version of GruvBox on a 81x25 Microsoft
+  Terminal from which I ssh into "anton" (my local Ubuntu Server vm in
+  VirtualBox named in honor of Gilfoyle) and run nested TMUX. Font is
+  28p Ubuntu Mono with wrap set to 72 column. I used to do transparent
+  background for streaming but it was murder on my eyes.
+
+color: *terminal
+font: *terminal
+
+schedule: &schedule >-
+  🕐 https://twitch.tv/rwxrob/schedule I try to keep a schedule but
+  regularly fail. Generally, I follow this bi-modal !sleep schedule.
+  I usually stream most of my waking hours: 10pm-7am, 11am-6pm (US
+  Eastern Time !dox) See !boost for Beginner Boost schedule.
+
+sched: *schedule
