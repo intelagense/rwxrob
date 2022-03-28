@@ -266,6 +266,7 @@ terminal: &terminal >-
 
 color: *terminal
 font: *terminal
+theme: *terminal
 
 schedule: &schedule >-
   🕐 https://twitch.tv/rwxrob/schedule I try to keep a schedule but
