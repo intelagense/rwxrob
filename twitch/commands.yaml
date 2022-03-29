@@ -3,7 +3,7 @@ job: &job >-
   infrastructure engineer and software developer (!dev) for
   a well-paying multinational corporation (!dox) supporting thousands of
   high performance machine learning compute nodes.
-  
+
 work: *job
 
 dev: &dev >-
@@ -98,9 +98,9 @@ fb: *facebook
 music: &music >-
   🎧 https://www.last.fm/user/rwxrob and !song for music. Want something
   added to the playlist? Just find a link to the song on Spotify and
-  post it in chat. Happy to take requests.  I have Yoga, Beach,
-  Industrial, Chillhop, Synthwave, CoffeeHouse and Piano Jazz. I don't
-  really listen to more than that on stream.
+  post it in chat. Happy to take requests.  I have HackerYoga,
+  BeachConcert, Industrial, Chillhop, Synthwave, CoffeeHouse and Piano
+  Jazz. I don't really listen to more than that on stream.
 
 playlist: *music
 
@@ -150,7 +150,7 @@ focus: &focus >-
   communicate is send a chat message that I'll maybe eventually read --
   especially if you have a Q at the beginning. Catch me on my break
   (!pomo). I might talk then. Please chat away though, others here might
-  be able to answer your questions. Also look up the commands (!cmds).
+  be able to answer your questions. Also look up the !commands.
 
 focused: *focus
 
@@ -161,18 +161,14 @@ search: &search >-
   becomes my search history, which I search using Vim mode ('set -o
   vi').
 
-?: *search
-??: *search
-???: *search
-
 lynx: &lynx >-
-  😼 Lynx (the text-based web browser) in Vi mode is the fastest way to
-  do web research, period. I pity graphic web browser users ---
-  especailly hackers --- who haven't learned it. Need a graphic browser?
-  Just hit comma (,) to open it. There's no tracking and text is
-  consistent so your eyes remain focused and able to scan at maximum
-  speed. Watch me if you're not convinced. Start with w3m if Lynx is too
-  much at first.  https://github.com/rwxrob/lynx
+  😼 Lynx (the text-based web browser) in vi mode is the fastest way to
+  do web research. I pity graphic web browser users --- especailly
+  hackers --- who haven't learned it. Need a graphic browser?  Just hit
+  comma (,) to open it. There's no tracking and text is consistent so
+  your eyes remain focused and able to scan at maximum speed. Watch me
+  if you're not convinced. Start with w3m if Lynx is too much at first.
+  https://github.com/rwxrob/lynx
 
 web: *lynx
 browser: *lynx
@@ -272,6 +268,82 @@ schedule: &schedule >-
   🕐 https://twitch.tv/rwxrob/schedule I try to keep a schedule but
   regularly fail. Generally, I follow this bi-modal !sleep schedule.
   I usually stream most of my waking hours: 10pm-7am, 11am-6pm (US
-  Eastern Time !dox) See !boost for Beginner Boost schedule.
+  Eastern Time !about) See !boost for Beginner Boost schedule.
 
 sched: *schedule
+
+hug: "/me hugs {target.name} <3"
+
+up: "The stream has been live for {uptime}"
+
+lurk: "/me {user.name} is now lurking"
+
+title: "{channel.name}'s title is {channel.title}"
+
+followage: "{touser.name} has been following {channel.name} for {touser.followage}"
+
+so: "Check out {target.name} over at {target.url}, doing {target.game}"
+
+discord: https://discord.gg/9wydZXY
+
+youtube: https://youtube.com/rwxrob
+
+github: https://github.com/rwxrob
+
+twitter: https://twitter.com/rwxrob
+
+instagram: https://instagram.com/rwxrob
+
+spotify: https://open.spotify.com/user/xe3r9dvrri2cbnqhu5nfs6a1b
+
+doris: 💚💙 https://instagram.com/doriskapner 🎨
+
+sponsor: >-
+  🙏 https://github.com/sponsors/rwxrob Thank you for sponsoring with
+  subs and follows and bits, but preferred sponsorship is through GitHub
+  where you will get recognition as well for being a FOSS supporter.
+  Money I get frees me up to make more software and content including
+  traveling to conferences and covering them for the community.
+
+commands: &commands >-
+  ❗https://github.com/rwxrob/rwxrob/blob/main/twitch/commands.yaml If
+  you see a command I'm missing (or a typo) go ahead and make a PR (if
+  you like).
+
+cmds: *commands
+
+zet: >-
+  📃 https://github.com/rwxrob/zet My "zettelkasten" repo where I brain
+  dump everything with little attention to grammar, spelling, and
+  political correctness. You've been warned. Eventually, this will
+  become a part of my !KEG node.
+
+afk: "/me 🐟 {user.name} is afk"
+
+fluff: >-
+  ⛅ https://github.com/rwxrob/fluff Happy little clouds at home, on
+  your desktop, in VirtualBox or VMware.
+
+pegn: >-
+  🔥 https://pegn.dev I created the Parsing Expression Grammar Notation
+  (PEGN) (inspired by Brian Ford's PEG) for expressing any grammar in
+  a way that is easy to parse cognitively and programmatically without
+  any specific application or implementation in mind. It builds on the
+  best of existing meta and data structure languages such as PEG, ABNF,
+  EBNF, and JSON.
+
+lang: >-
+  🌎 I am a native English speaker but went to college for Russian and
+  lived in Russia and Ukraine for a few years. I also served a Mormon
+  mission to the French West Indies where I learned French and Creole.
+  I would really love to learn Mandarin and German and Spanish and
+  Portugese eventually.
+
+rust: >-
+  💩 I hate Rust, the syntax is ugly, the mod team resigned in disgust
+  with the hipocracy and lunacy of the governance board, Ph.Ds have done
+  dissertations on how Rust "safety" is a lie, and nothing substantial
+  (like Docker or Kubernetes) has ever been made in it. Maybe that's why
+  there are virtually no jobs for Rust. !go blows Rust away for the
+  things which matter most.
+
