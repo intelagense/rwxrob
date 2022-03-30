@@ -9,13 +9,13 @@ work: *job
 jobs: &jobs >-
   💰 According to US Bureau of Labor and Statistics and job boards (like
   Indeed) the Fastest growing jobs (not just in tech) are 1) security
-  analyst, 2) cloud-native insfrastructure engineer, and 3) software
+  analyst, 2) cloud-native infrastructure engineer, and 3) software
   developer. All of them have starting salaries over $100k and all
   require !linux and !coding skills that we go over during !boost
 
 dev: &dev >-
   💻 I prefer "software developer" or "coder" over "engineer" (which is
-  illegal to call youself in Canada without specific schooling). I've
+  illegal to call yourself in Canada without specific schooling). I've
   written thousands of lines of code a dozen or so different languages
   running on millions of systems including most of the Fortune 100.
   While computer science has its place, my work has always been
@@ -51,7 +51,7 @@ emacs: >-
 
 vscode: >-
   💻 vscode (from Microsoft) is an my favorite graphical editor, but
-  I prefera universal terminal editor like !vim which can do things
+  I prefer a universal terminal editor like !vim which can do things
   VSCode users can't even dream of by implementing the !UNIX shell into
   the development process by using !filters over plugins.
 
@@ -61,12 +61,12 @@ unix: >-
   people know that Apple macOS is the largest UNIX distro in the world.
   "Do one thing well, and make it integrate" is the UNIX philosophy.
   UNIX !filters are the most powerful, functional approach to the
-  terminal and and !editor.
+  terminal and !editor.
 
 filter: >-
   💻 A !UNIX filter is a functional approach to command line piping of
   the output of one command into input of another. Using this method any
-  program, small script or large application, can integrate seemlessly
+  program, small script or large application, can integrate seamlessly
   with everything else. The !vim "filter" command is an exclamation mark
   (!). It is the single most powerful command in all of !vim. Learn it!
   https://rwx.gg/vimagic
@@ -95,7 +95,7 @@ foss: &foss >-
   🐧 Free and Open Source Software (FOSS) powers the world these days.
   The device you are using right now likely contains significant work
   from FOSS contributors --- especially !Apple computers, which are
-  entirely built on "darwin" !BSD UNIX.
+  entirely built on "darwin" !BSD !UNIX.
 
 opensource: *foss
 
@@ -159,8 +159,6 @@ pomo: &pomo >-
    to interrupt them during their flow, right? (!flow) Read more at
    https://github.com/rwxrob/pomo, or add to your own Bonzai tree (!bonzai)
 
-break: *pomo
-
 bonzai: &bonzai >-
   🌳 https://github.com/rwxrob/bonzai Bonzai™ is a unique command
   compositor with recursive tab completion that I create to replace
@@ -188,6 +186,13 @@ boost: &boost >-
 beginner: *boost
 
 song: "{readapi.https://groke.se/twitch/spotify/?db6e44917a20ad6113d8bd93620a748e}"
+
+musician: >-
+  🎼 I've loved music my whole life but never been good enough to make
+  money at it. I was a Madrigal in high-school and in percussion
+  emsemble. I learned guitar in college to get chicks. It worked. I did
+  open mics in Second Life and later in real life, mostly Jack Johnson
+  and beach stuff.
 
 focus: &focus >-
   🤔🎧 I'm focused right now to stay in the flow (!flow). Best way to
@@ -248,31 +253,28 @@ beej: >-
 
 started: >-
   🐣👶 I started !coding at 11 on the only Atari 400 at school coding
-  !BASIC making !dnd character generation programs I dropped coding for most of
+  BASIC making !dnd character generation programs I dropped coding for most of
   my teen years and picked up again in my 20s in college where I taught
-  myself HTML from by reading !rfcs and learned Pascal before changing
+  myself HTML from by reading RFCS (!rfc) and learned Pascal before changing
   majors from CS to !Russian.
 
 dnd: >-
-  🐉 I played tons of Dungeons and Dragons as a kid. I credit it for so
-  much of what I've been able to do since then. It really engrains
-  problem-solving and creativity in ways few other things can. I created
-  my own huge campaigns and hoped to work for TSR one day (which would
-  have been a very bad idea). I had hundreds of figures that I hand
-  painted and did some of my own art for the game. I was obsessed with
-  Boris Vallejo and Dungeon Magazine. (I was also really hornt).
+  🐉 I played tons of Dungeons and Dragons. I credit it for a lot of
+  what I've been able to do since. It helps with problem-solving and
+  creativity. I created huge campaigns and hoped to work for TSR one
+  day. I had hundreds of hand-painted figures and did some of my own art
+  for the game. I was obsessed with Boris Vallejo and Dungeon Magazine
+  (I was really hornt).
 
 russian: >-
-  The Cold War ended while I was in college. I ended up majoring in
-  Russian. I worked as a cruise and tour director in Moscow, St.
-  Petersburg, and Ukraine and made deep friendships (and some enemies)
-  while there. I have *many* stories about living and working in Russia
-  (including traveling with an arms dealer on the train, translating
-  rough conversations for the mafia, and being body guard to Samatha Fox
-  on tour). I deeply love the Russian people (except Putin who should
-  die painfully).
+  The Cold War ended while I was in college and I majored in Russian.
+  I was a cruise director and tour guide in Moscow, St.  Petersburg, and
+  Ukraine and made deep friendships (and enemies) while there. I have
+  *many* stories including traveling with an arms dealer on the train,
+  translating for mob bosses, and being body guard to Samatha Fox.
+  I deeply love the Russian people.
 
-rfcs: >-
+rfc: >-
   📗 An IETF RFC is what specifies how the Internet works. Reading them
   can be very illuminating.
 
@@ -451,17 +453,32 @@ lang: >-
 
 rust: >-
   💩 I hate Rust, the syntax is ugly, the mod team resigned in disgust
-  over "hipocracy" of the governance board, Ph.Ds have done
+  over "hypocrisy" of the governance board, PhDs have done
   dissertations on how Rust "safety" is a lie, and nothing substantial
   (like Docker or Kubernetes) has ever been made in Rust. Maybe that's
   why there are virtually no jobs for it. Meanwhile, !go blows Rust away
   for the things which matter most and has tons of projects and !jobs.
 
 distro: >-
-  💻 I run Ubuntu Server running on a VirtualBox virtual machine.
-  Personally, after running a Linux desktop for more than a decade
-  I want nothing to do with Linux desktops anymore. They suck. There
-  I said it.  Most people cannot run Linux desktops at work, and I want
-  to help *them*. Plus, I stream and Streamlabs is essential software
-  and only works on Windows of Mac.
+  💻 I run Ubuntu Server running in VirtualBox on both Windows desktop,
+  and Mac laptop. Personally, after running a Linux desktop for more
+  than a decade I want nothing to do with Linux desktops  Most people
+  cannot run Linux desktops at work, and I want to help *them*. Plus,
+  I stream and Streamlabs is essential software and only works on
+  Windows of Mac.
+
+learn: >-
+  ⚡ Stuff I think you should learn: 1) research like a hacker 2) Linux
+  terminal 3) Vim editing the UNIX way 4) bash/perl/python scripting 5)
+  Go programming 6) writing in Markdown, 7) source management with git
+  and GitHub 8) self-publishing on web (HTML/CSS/JS, but don't go crazy)
+  and 9) Docker containers 10) text-based browsing (!lynx if you are up
+  to it) !rwx
+
+streamlabs: >-
+  💡 I fucking love Streamlabs. Just the video clip publisher and
+  message highlighter are worth every penny. I don't care that they
+  didn't mention OBS and changed their name. It is an *amazing* product
+  that has saved me so much time writing my own stuff I can't even
+  calculate it.
 
