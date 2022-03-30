@@ -458,3 +458,11 @@ rust: >-
   why there are virtually no jobs for it. Meanwhile, !go blows Rust away
   for the things which matter most and has tons of projects and !jobs.
 
+distro: >-
+  💻 I run Ubuntu Server running on a VirtualBox virtual machine.
+  Personally, after running a Linux desktop for more than a decade
+  I want nothing to do with Linux desktops anymore. They suck. There
+  I said it.  Most people cannot run Linux desktops at work, and I want
+  to help *them*. Plus, I stream and Streamlabs is essential software
+  and only works on Windows of Mac.
+
