@@ -35,12 +35,20 @@ vi: &vi >-
   on *any* UNIX-like (!unix) system and I prefer to leverage the full
   power of !UNIX !filters over bloated, non-portable plugins. These days
   I build all my filters into my !go !Bonzai command tree that I can
-  take anywhere with me and use for scripting as well. (See !neovim
+  take anywhere with me and use for scripting as well. (See !ed !neovim
   !emacs !vscode)
 
 vim: *vi
 
 editor: *vi
+
+editors: *vi
+
+ed: >-
+  💻 Ed is the "standard editor" and although people joke about it, it
+  is worth using. Every time you use : in vi/m you are using ex (the newer
+  version of ed). Every time you use sed you are using ed. Ed leverages
+  the !UNIX !filter philosophy to the fullest. !editor
 
 emacs: >-
   💻 emacs is a fine editor if you use the same system to do your
@@ -63,7 +71,7 @@ unix: >-
   UNIX !filters are the most powerful, functional approach to the
   terminal and !editor.
 
-filter: >-
+filter: &filter >-
   💻 A !UNIX filter is a functional approach to command line piping of
   the output of one command into input of another. Using this method any
   program, small script or large application, can integrate seamlessly
@@ -71,11 +79,13 @@ filter: >-
   (!). It is the single most powerful command in all of !vim. Learn it!
   https://rwx.gg/vimagic
 
+filters: *filter
+
 neovim: &neovim >-
   💩 Neovim is shit. Mostly because it has no fucking clue what the
   !UNIX philosophy is about or for. Don't ruin yourself by learning it.
   Learn !vim and how to !filter properly.
-  https://github.com/rwxrob/zet/tree/main/20210502133019 
+  https://github.com/rwxrob/zet/tree/main/20210502133019
 
 nvim: *neovim
 
