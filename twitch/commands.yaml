@@ -6,6 +6,13 @@ job: &job >-
 
 work: *job
 
+jobs: &jobs >-
+  💰 According to US Bureau of Labor and Statistics and job boards (like
+  Indeed) the Fastest growing jobs (not just in tech) are 1) security
+  analyst, 2) cloud-native insfrastructure engineer, and 3) software
+  developer. All of them have starting salaries over $100k and all
+  require !linux and !coding skills that we go over during !boost
+
 dev: &dev >-
   💻 I prefer "software developer" or "coder" over "engineer" (which is
   illegal to call youself in Canada without specific schooling). I've
@@ -27,15 +34,48 @@ vi: &vi >-
   😎 I use Vim (aliased to vi) because I want to be productive quickly
   on *any* UNIX-like (!unix) system and I prefer to leverage the full
   power of !UNIX !filters over bloated, non-portable plugins. These days
-  I build all my filters into my !go !Bonzai command tree that I can take
-  anywhere with me and use for scripting as well.
+  I build all my filters into my !go !Bonzai command tree that I can
+  take anywhere with me and use for scripting as well. (See !neovim
+  !emacs !vscode)
 
 vim: *vi
 
+editor: *vi
+
+emacs: >-
+  💻 emacs is a fine editor if you use the same system to do your
+  editing. It's a horrible editor if you want to edit files on multiple,
+  different UNIX systems without installing anything. You also cannot
+  use emacs to certify in anything. I prefer !vim with very few plugins
+  (as do most hackers and ops people).
+
+vscode: >-
+  💻 vscode (from Microsoft) is an my favorite graphical editor, but
+  I prefera universal terminal editor like !vim which can do things
+  VSCode users can't even dream of by implementing the !UNIX shell into
+  the development process by using !filters over plugins.
+
+unix: >-
+  💻 Way before there was !linux, UNIX existed. The UNIX philosophy is
+  the reason UNIX beat every other serious operating system. Not many
+  people know that Apple macOS is the largest UNIX distro in the world.
+  "Do one thing well, and make it integrate" is the UNIX philosophy.
+  UNIX !filters are the most powerful, functional approach to the
+  terminal and and !editor.
+
+filter: >-
+  💻 A !UNIX filter is a functional approach to command line piping of
+  the output of one command into input of another. Using this method any
+  program, small script or large application, can integrate seemlessly
+  with everything else. The !vim "filter" command is an exclamation mark
+  (!). It is the single most powerful command in all of !vim. Learn it!
+  https://rwx.gg/vimagic
+
 neovim: &neovim >-
-  💩 Neovim is shit. Mostly because it has no fucking clue what the UNIX
-  philosophy is about or for. Don't ruin yourself by learning it. Learn
-  !vi properly. https://github.com/rwxrob/zet/tree/main/20210502133019 
+  💩 Neovim is shit. Mostly because it has no fucking clue what the
+  !UNIX philosophy is about or for. Don't ruin yourself by learning it.
+  Learn !vim and how to !filter properly.
+  https://github.com/rwxrob/zet/tree/main/20210502133019 
 
 nvim: *neovim
 
@@ -122,15 +162,19 @@ pomo: &pomo >-
 break: *pomo
 
 bonzai: &bonzai >-
-  🌳 Bonzai™ (z) is a command compositor with recursive tab completion
-  I made to replace messy shell scripts with a single Go monolith
-  command tree binary that I can curl onto any device, anywhere. You
-  can make everything from utility libraries to modular, extensible root
-  kits with it. If you need help creating your own 'z' just ask. If you
-  want to learn Go make sure to catch the Beginner Boost on May 4th
-  (!boost).  http://github.com/rwxrob/bonzai
+  🌳 https://github.com/rwxrob/bonzai Bonzai™ is a unique command
+  compositor with recursive tab completion that I create to replace
+  !shell scripts with a single, portable !go multicall, command tree
+  binary that I can curl onto anything. I use it for everything (!z).
+  Want to learn  to make your own?  Be sure to catch the Beginner Boost
+  on May 4th (!boost).
 
-z: *bonzai
+z: >-
+  🌳 https://github.com/rwxrob/z is my !bonzai composite command tree,
+  something I invented. I'm migrating my !bash and !perl !shell scripts
+  to it so I have a portable, single collection of commands I can use
+  anywhere. Plus because !go, my code is useable in other !work and
+  !foss projects so I'm not wasting time porting.
 
 boost: &boost >-
   ⚡ https://github.com/rwxrob/boost The SKILSTAK Beginner Boost™ series
@@ -247,13 +291,13 @@ golang: *go
 coding: &coding >-
   💢 The term "coding" includes things that most people do not consider
   to be "programming". It's a more colloquial as well. I've coded in
-  more than a dozen languages (!codelang) at this point. Coding is
+  more than a dozen languages (!codelangs) at this point. Coding is
   a fundamental part of *any* tech job. Don't let anyone tell you
   differently.
 
 programming: *coding
 
-codelang: >-
+codelangs: >-
   💢 I have coded markdown yaml json !go bash perl awk python peg
   !pegn hcl rego html css sql javascript ruby abnf ebnf typescript deno
   coffeescript toml ini c cpp csharp graphql uml pug stylus php java
@@ -346,6 +390,39 @@ commands: &commands >-
 
 cmds: *commands
 
+shell: &shell >-
+  💻 I live on the !bash Linux shell (as do most hackers and
+  infrastructure engineers, !work). A "shell" is technically any program
+  that interfaces with a user to pass on commands to the
+  operating system. Most shells use a !repl
+
+bash: >-
+  💻 bash is the default Linux !shell and the most powerful shell
+  currently in existence. It's in my top five favorite !codelangs of all
+  time. It's `complete -C` is madatory for any reasonable modern tab
+  completion (!bonzai). BTW, Make sure to use !shellcheck when writing
+  *any* shell script.
+
+shellcheck: >-
+  💻 https://www.shellcheck.net is a critical tool that should be used
+  on *every* !shell script every written. Shell scripts are notoriously
+  buggy and unsafe. This is the only way to be 100% sure you are okay.
+  Plus there is an exhaustive wiki with descriptions of all the
+  potential errors.
+
+zsh: >-
+  💩 zsh is the default !shell on Mac cuz Apple steals from !FOSS, not
+  because it's better.  Zsh is, in fact, inferior to !bash and
+  dangerously encouraging floating point math which is NOT !POSIX.
+  !Bonzai completion fails on zsh because zsh does not support minimal
+  `complete -C` completion.
+
+repl: >-
+  A "read, evaluate, print, loop" is what you get when you are prompted
+  to enter a command or data and then something happens and you are
+  prompted again. !bash is a REPL. https://repl.it is a service that
+  focuses on this.
+
 zet: >-
   📃 https://github.com/rwxrob/zet My "zettelkasten" repo where I brain
   dump everything with little attention to grammar, spelling, and
@@ -371,13 +448,13 @@ lang: >-
   lived in Russia and Ukraine for a few years. I also served a Mormon
   mission to the French West Indies where I learned French and Creole.
   I would really love to learn Mandarin and German and Spanish and
-  Portugese eventually. Also see !codelang
+  Portugese eventually. Also see !codelangs
 
 rust: >-
   💩 I hate Rust, the syntax is ugly, the mod team resigned in disgust
-  with the hipocracy and lunacy of the governance board, Ph.Ds have done
+  over "hipocracy" of the governance board, Ph.Ds have done
   dissertations on how Rust "safety" is a lie, and nothing substantial
-  (like Docker or Kubernetes) has ever been made in it. Maybe that's why
-  there are virtually no jobs for Rust. !go blows Rust away for the
-  things which matter most.
+  (like Docker or Kubernetes) has ever been made in Rust. Maybe that's
+  why there are virtually no jobs for it. Meanwhile, !go blows Rust away
+  for the things which matter most and has tons of projects and !jobs.
 
