@@ -275,7 +275,7 @@ russian: >-
 
 rfcs: >-
   📗 An IETF RFC is what specifies how the Internet works. Reading them
-  can be very illumiating.
+  can be very illuminating.
 
 go: &go >-
   💻💨 https://github.com/rwxrob/awesome-go Go is the language of cloud
@@ -327,7 +327,7 @@ sleep: >-
   made too many critical errors in the past from lack of sleep. That
   means I sleep at random times other than the regular stuff.  I get two
   or three maximized brain-power times per day by taking stategic naps
-  and have been doing this since I was a triathele at Nike. !schedule
+  and have been doing this since I was a triathlete at Nike. !schedule
 
 terminal: &terminal >-
   💻 I use a slightly darkened version of GruvBox on a 81x25 Microsoft
@@ -448,7 +448,7 @@ lang: >-
   lived in Russia and Ukraine for a few years. I also served a Mormon
   mission to the French West Indies where I learned French and Creole.
   I would really love to learn Mandarin and German and Spanish and
-  Portugese eventually. Also see !codelangs
+  Portuguese eventually. Also see !codelangs
 
 rust: >-
   💩 I hate Rust, the syntax is ugly, the mod team resigned in disgust
