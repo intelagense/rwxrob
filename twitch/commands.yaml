@@ -24,11 +24,11 @@ tek: >-
   keep you happy, and find your next gig. The independence is worth it.
 
 vi: &vi >-
-  😎 I use Vim with vi-centricity because I want to be productive
-  quickly on *any* UNIX-like (!unix) system and I actually know how to
-  use leverage the full power of !UNIX !filters. Most Vim and !NeoVim
-  users have no idea with that !filter command even does. The smaller
-  your .vimrc, the better UNIX user you are.
+  😎 I use Vim (aliased to vi) because I want to be productive quickly
+  on *any* UNIX-like (!unix) system and I prefer to leverage the full
+  power of !UNIX !filters over bloated, non-portable plugins. These days
+  I build all my filters into my !go !Bonzai command tree that I can take
+  anywhere with me and use for scripting as well.
 
 vim: *vi
 
@@ -203,8 +203,8 @@ beej: >-
   things that are not intuitive to beginners like proper UNIX file locking.
 
 started: >-
-  🐣👶 I started coding at 11 on the only Atari 400 at school coding
-  BASIC making !dnd character generation programs and my simple take on
+  🐣👶 I started !coding at 11 on the only Atari 400 at school coding
+  !BASIC making !dnd character generation programs and my simple take on
   missle command by entering the position. I dropped coding for most of
   my teen years and picked up again in my 20s in college where I taught
   myself HTML from by reading !rfcs and learned Pascal before changing
@@ -244,14 +244,46 @@ go: &go >-
 
 golang: *go
 
+coding: &coding >-
+  💢 The term "coding" includes things that most people do not consider
+  to be "programming". It's a more colloquial as well. I've coded in
+  more than a dozen languages (!codelang) at this point. Coding is
+  a fundamental part of *any* tech job. Don't let anyone tell you
+  differently.
+
+programming: *coding
+
+codelang: >-
+  💢 I have coded markdown yaml json !go bash perl awk python peg
+  !pegn hcl rego html css sql javascript ruby abnf ebnf typescript deno
+  coffeescript toml ini c cpp csharp graphql uml pug stylus php java
+  actionscript hypercard lsl haskel basic. I want to learn erlang and
+  lisp and hate !rust.
+
+anton: >-
+  💻 Yes, "anton" is a Silicon Valley (!sv) reference. !gilfoyle
+
+sv: &sv >-
+  📺 Silicon Valley is one of my favorite shows out there. It satirizes
+  Silicon Valley in a way that makes me cry laughing. The show it full
+  of Easter eggs for those looking. !Gilfoyle is one of my favorite
+  characters of all time.
+
+gilfoyle: >-
+  😎 Gilfoyle is from the Silicon Valley (!sv) show. Watch the "what the
+  fuck do I do" YouTube video about Gilfoyle. It's perfect.  I aspire to
+  be a !Gilfoyle and named my VM !anton in his memory. I love the
+  Gilfoyle (ops) vs Dinesh (apps) dynamic which mirrors my experience
+  working in both sides of tech.
+
+siliconvalley: *sv
+
 sleep: >-
-  🥱💤 I do sleep. I promise. People just have a hard time tracking when
-  I do because I break my sleep schedule up. It's called "bi-modal"
-  sleep and people have been doing it for as long as there have been
-  people. Look it up. Not for everyone, and I can't do it when I am also
-  training for 10k's (or whatever). But otherwise, I get two maximized
-  brain-power times per day (instead of pushing through groggy the
-  second half of the day and wasting it). !schedule
+  🥱💤 I do sleep. I promise. I refuse to work when I'm sleepy. I've
+  made too many critical errors in the past from lack of sleep. That
+  means I sleep at random times other than the regular stuff.  I get two
+  or three maximized brain-power times per day by taking stategic naps
+  and have been doing this since I was a triathele at Nike. !schedule
 
 terminal: &terminal >-
   💻 I use a slightly darkened version of GruvBox on a 81x25 Microsoft
@@ -266,9 +298,9 @@ theme: *terminal
 
 schedule: &schedule >-
   🕐 https://twitch.tv/rwxrob/schedule I try to keep a schedule but
-  regularly fail. Generally, I follow this bi-modal !sleep schedule.
-  I usually stream most of my waking hours: 10pm-7am, 11am-6pm (US
-  Eastern Time !about) See !boost for Beginner Boost schedule.
+  regularly fail. Generally, I stream most of my waking hours. These
+  days that is 5am-9pm (US Eastern Time !about) but it varies. See
+  !boost for Beginner Boost schedule.
 
 sched: *schedule
 
@@ -337,7 +369,7 @@ lang: >-
   lived in Russia and Ukraine for a few years. I also served a Mormon
   mission to the French West Indies where I learned French and Creole.
   I would really love to learn Mandarin and German and Spanish and
-  Portugese eventually.
+  Portugese eventually. Also see !codelang
 
 rust: >-
   💩 I hate Rust, the syntax is ugly, the mod team resigned in disgust
