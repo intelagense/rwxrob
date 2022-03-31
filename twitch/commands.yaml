@@ -192,7 +192,9 @@ boost: &boost >-
   Saturday with AMA on Sundays. See GitHub for prereqs, outline, and
   previous Boosts.
 
-beginner: *boost
+course: *boost
+courses: *boost
+boosts: *boost
 
 song: "{readapi.https://groke.se/twitch/spotify/?db6e44917a20ad6113d8bd93620a748e}"
 
@@ -232,10 +234,17 @@ web: *lynx
 browser: *lynx
 
 fish: &fish >-
-  🐟 The fishies are the ancient Perl asciiquarium script that has been
-  modified (by @qmacro) to have "rwx" on one of the fish and uses
+  🐟 The fishies are the ancient !Perl asciiquarium script that has been
+  modified (by @qmacro) to have !rwx on one of the fish and uses
   transparent background (instead of black). You can get a copy under
-  "scripts" in my https://github.com/rwxrob/dot files.
+  "scripts" in my !dot files.
+
+dot: >-
+  💥 https://github.com/rwxrob/dot Here are my "dotfiles" (which are
+  named that because configuration files on !UNIX and !Linux usually
+  start with a dot in your home directory.) I include a bunch of scripts
+  in there as well even though I am moving most of them into my !z
+  !bonzai tree.
 
 help: >-
   😃 I'm happy to help when and if I can, but often I just can't. We
@@ -251,7 +260,7 @@ name: &name >-
   UNIX/Linux permissions on any file or directory. But RWX is also
   a personal recipe for learning and success: 'read, research', 'write
   about it', and 'experiment, explore, experience'. There's no better
-  learning methodolog, grounded in pragmatism. !boost
+  learning methodology, grounded in pragmatism. !boost
 
 rwx: *name
 
@@ -308,11 +317,19 @@ coding: &coding >-
 programming: *coding
 
 codelangs: >-
-  💢 I have coded markdown yaml json !go bash perl awk python peg
-  !pegn hcl rego html css sql javascript ruby abnf ebnf typescript deno
-  coffeescript toml ini c cpp csharp graphql uml pug stylus php java
-  actionscript hypercard lsl haskel basic. I want to learn erlang and
-  lisp and hate !rust.
+  💢 I have coded markdown yaml json !go bash perl dockerfile makefile
+  awk python peg !pegn hcl rego html css sql javascript ruby abnf ebnf
+  typescript deno coffeescript toml ini c cpp csharp graphql uml pug
+  stylus php java actionscript hypercard lsl haskel basic. I want to
+  learn erlang and lisp and hate !rust.
+
+zig: >-
+  🤷 People like Zig. It's intriguing, but will never be significant.
+  I found using *any* identifier variation (underscores, hyphens,
+  dashes, mixed case) a particularly cool (and at the same time stupid)
+  design decision. Wasted compile time is a silly over site. People
+  never think about code in the millions of lines. Zig would crash and
+  burn.
 
 anton: >-
   💻 Yes, "anton" is a Silicon Valley (!sv) reference. !gilfoyle
@@ -411,7 +428,17 @@ bash: >-
   currently in existence. It's in my top five favorite !codelangs of all
   time. It's `complete -C` is madatory for any reasonable modern tab
   completion (!bonzai). BTW, Make sure to use !shellcheck when writing
-  *any* shell script.
+  *any* shell script and !RTFM if you want to learn it.
+
+rtfm: &rtfm >-
+  😎📖 READ THE FUCKING MANUAL! (man man) This is the best way to get
+  solid answers for !UNIX and !Linux and the *only* way to truly learn
+  !bash. NOT doing this is one thing that distinguishes !hackers from
+  normies. Hackers read shit: Whitepapers, !RFCs, man pages, source code
+  for fun. These are your bibles. Learn to love them. And stop reading
+  Reddit and Dev.to.
+
+man: *rtfm
 
 shellcheck: >-
   💻 https://www.shellcheck.net is a critical tool that should be used
@@ -477,12 +504,12 @@ distro: >-
   Windows of Mac.
 
 learn: >-
-  ⚡ Stuff I think you should learn: 1) research like a hacker 2) Linux
-  terminal 3) Vim editing the UNIX way 4) bash/perl/python scripting 5)
-  Go programming 6) writing in Markdown, 7) source management with git
-  and GitHub 8) self-publishing on web (HTML/CSS/JS, but don't go crazy)
-  and 9) Docker containers 10) text-based browsing (!lynx if you are up
-  to it) !rwx
+  ⚡ Stuff you should learn: 1) learn like a hacker (!rwx) 2) Linux
+  terminal 3) !Vim editing with !UNIX !filters 4) !bash scripting 5) !Go
+  programming 6) !Markdown and !Pandoc 7) !Git and !GitHub 8) minimal
+  web publishing (HTML/CSS/JS) 9) Docker !containers 10) text-based
+  !search with !lynx 11) !C for understanding 12) !python 13) !perl 14)
+  Kubernetes (!k8s)
 
 streamlabs: >-
   💡 I fucking love Streamlabs. Just the video clip publisher and
@@ -491,3 +518,12 @@ streamlabs: >-
   that has saved me so much time writing my own stuff I can't even
   calculate it.
 
+hacker: &hacker >-
+  😎💻 Hacking is a mind-set. Hackers figures shit out on their own,
+  !autodidacts who make stuff do what they want in unexpected ways.
+  Hackers learn more about stuff than the original creators. That's
+  really it. Hackers are, therefore, pragmatic scientists in the truest
+  sense. They !rwx their way though life for fun and profit. Hack the
+  planet! You'll be glad you did.
+
+hackers: *hacker
