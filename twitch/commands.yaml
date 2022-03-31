@@ -185,13 +185,12 @@ z: >-
   !foss projects so I'm not wasting time porting.
 
 boost: &boost >-
-  ⚡ https://github.com/rwxrob/boost The SKILSTAK Beginner Boost™ series
-  is an annual cycle of free, live, no-strings-attached, tech
-  instruction focused on helping people get (and keep) infrastructure
-  engineering jobs. It always starts on May the 4th at 11:11:11 and
-  happening weekly live for five hours every Saturday with AMA sessions
-  on Sundays. (There's a countdown timer in on my screen.) Check GitHub
-  for prereqs, outline, and previous year's boosts. Every year changes.
+  ⚡ https://github.com/rwxrob/boost The SKILSTAK Beginner Boost™ is an
+  annual free, live, tech series focused on helping people get (and
+  keep) infrastructure engineering jobs. We start Wednesday May the 4th
+  at 11:11:11 and have weekly live five-hour sessions most every
+  Saturday with AMA on Sundays. See GitHub for prereqs, outline, and
+  previous Boosts.
 
 beginner: *boost
 
