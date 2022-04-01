@@ -371,10 +371,10 @@ font: *terminal
 theme: *terminal
 
 schedule: &schedule >-
-  🕐 https://twitch.tv/rwxrob/schedule I try to keep a schedule but
-  regularly fail. Generally, I stream most of my waking hours. These
-  days that is 5am-9pm (US Eastern Time !about) but it varies. See
-  !boost for Beginner Boost schedule.
+  🕐 https://twitch.tv/rwxrob/schedule I don't have any sort of schedule
+  except Saturdays 12-5pm and Sundays 12-3pm for Beginner Boost (!boost)
+  stuff. The rest is really random but almost always HackerYoga music
+  and !coding, hacking, and !coworking. I'm in US Easter Time zone. !about
 
 sched: *schedule
 
