@@ -498,7 +498,7 @@ rust: >-
 distro: >-
   💻 I run Ubuntu Server running in VirtualBox on both Windows desktop,
   and Mac laptop. Personally, after running a Linux desktop for more
-  than a decade I want nothing to do with Linux desktops  Most people
+  than a decade I want nothing to do with Linux desktops. Most people
   cannot run Linux desktops at work, and I want to help *them*. Plus,
   I stream and Streamlabs is essential software and only works on
   Windows of Mac.
