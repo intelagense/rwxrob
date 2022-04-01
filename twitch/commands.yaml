@@ -374,7 +374,7 @@ schedule: &schedule >-
   🕐 https://twitch.tv/rwxrob/schedule I don't have any sort of schedule
   except Saturdays 12-5pm and Sundays 12-3pm for Beginner Boost (!boost)
   stuff. The rest is really random but almost always HackerYoga music
-  and !coding, hacking, and !coworking. I'm in US Easter Time zone. !about
+  and !coding, hacking, and !coworking. I'm in US Eastern Time zone. !about
 
 sched: *schedule
 
