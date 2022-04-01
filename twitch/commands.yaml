@@ -530,3 +530,22 @@ hacker: &hacker >-
   planet! You'll be glad you did.
 
 hackers: *hacker
+
+irc: >-
+  💬 Internet Relay Chat is the first real messaging system that worked
+  across the network. It is still very popular with !hackers and is the
+  basis for all Twitch chat. That's right. You don't need Twitch. You
+  can just use IRC. Look for "Twitch Without the Twitch" on my
+  https://twitch.tv/rwxrob/about page.
+
+cowork: &cowork >-
+  🤔 Coworking is like you are sitting next to me working on something
+  of your own. Occasionally, we'll take a break and chat, rant, or
+  share.  The HackerYoga !music is usually always on, even when I'm AFK.
+  Why am I SO busy? There's a lot wrong with the world and I try to
+  follow the creed: don't get mad, get busy. Now let's get some shit
+  done, together.
+
+coworking: *cowork
+co-working: *cowork
+co-work: *cowork
