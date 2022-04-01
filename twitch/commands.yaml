@@ -463,11 +463,13 @@ repl: >-
   prompted again. !bash is a REPL. https://repl.it is a service that
   focuses on this.
 
-zet: >-
+zettelkasten: >-
   📃 https://github.com/rwxrob/zet My "zettelkasten" repo where I brain
   dump everything with little attention to grammar, spelling, and
   political correctness. You've been warned. Eventually, this will
   become a part of my !KEG node.
+
+zet: https://github.com/rwxrob/zet/search?q={1} 
 
 afk: "/me 🐟 {user.name} is afk"
 
@@ -549,3 +551,6 @@ cowork: &cowork >-
 coworking: *cowork
 co-working: *cowork
 co-work: *cowork
+
+vids: https://www.youtube.com/c/rwxrob/search?query={1}
+
