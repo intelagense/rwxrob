@@ -1,3 +1,6 @@
+# Maximum for any entry is 380 characters (which is usually 6 lines
+# with line 6 ending on column 38).
+
 job: &job >-
   💰 I work for TEKSystems (!tek) as a full-time Kubernetes cloud native
   infrastructure engineer and software developer (!dev) for
@@ -501,7 +504,7 @@ distro: >-
   than a decade I want nothing to do with Linux desktops. Most people
   cannot run Linux desktops at work, and I want to help *them*. Plus,
   I stream and Streamlabs is essential software and only works on
-  Windows of Mac.
+  Windows or Mac.
 
 learn: >-
   ⚡ Stuff you should learn: 1) learn like a !hacker 2) !Linux terminal
