@@ -2,12 +2,20 @@
 # with line 6 ending on column 38).
 
 job: &job >-
-  💰 I work for TEKSystems (!tek) as a full-time Kubernetes cloud native
-  infrastructure engineer and software developer (!dev) for
-  a well-paying multinational corporation (!dox) supporting thousands of
-  high performance machine learning compute nodes.
+  💰 I work for 100 !remote for TEKSystems (!tek) as a full-time
+  Kubernetes cloud native infrastructure engineer and software developer
+  (!dev) for a well-paying multinational corporation (!dox) supporting
+  thousands of high performance machine learning compute nodes.
 
 work: *job
+
+remote: >-
+  💻📞 I've been working 100% remote since 2000. I was hired as fully
+  remote by !IBM after I was head-hunted by a recruiter out of !Nike.
+  Working remotely requires strong separation of your work environment
+  from your living space, usually. After 20 years I'm okay mixing the
+  two. Most can't. I plan on working from the road and !irl !twitch
+  streaming in 2022 at some point.
 
 jobs: &jobs >-
   💰 According to US Bureau of Labor and Statistics and job boards (like
@@ -113,10 +121,12 @@ foss: &foss >-
 opensource: *foss
 
 conduct: &conduct >-
-  😊 My personal code of conduct (which I regularly fail to keep).  My
+  😊 Here's my personal code of conduct (which I regularly fail to keep).  My
   main life mantra is "don't get mad, get busy" (because I get mad all
   the fucking time). I guess it is my version of "be the change you want
-  to seen in the world".  https://github.com/rwxrob/zet/tree/main/20210502120622
+  to seen in the world". But, I have no problem calling out morons and
+  people saying stupid shit. Sorry.
+  https://github.com/rwxrob/zet/tree/main/20210502120622
 
 mad: *conduct
 sad: *conduct
