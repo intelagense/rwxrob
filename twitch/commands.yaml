@@ -457,7 +457,7 @@ shell: &shell >-
 bash: >-
   💻 bash is the default Linux !shell and the most powerful shell
   currently in existence. It's in my top five favorite !codelangs of all
-  time. It's `complete -C` is madatory for any reasonable modern tab
+  time. It's `complete -C` is mandatory for any reasonable modern tab
   completion (!bonzai). BTW, Make sure to use !shellcheck when writing
   *any* shell script and !RTFM if you want to learn it.
 
