@@ -384,10 +384,16 @@ theme: *terminal
 schedule: &schedule >-
   🕐 https://twitch.tv/rwxrob/schedule I don't have any sort of schedule
   except Saturdays 12-5pm and Sundays 12-3pm for Beginner Boost (!boost)
-  stuff. The rest is really random but almost always HackerYoga music
-  and !coding, hacking, and !coworking. I'm in US Eastern Time zone. !about
+  stuff. The rest is really random. These days the stream is up 24x7
+  with !music and I am here about 10 hours a day !coworking. Also !about
+  !time
 
 sched: *schedule
+
+time: >-
+  🕐 Right now its {time.America/New_York} in Mooresville, North
+  Carolina (US Eastern time zone, same as New York. Note: my time almost
+  always on the bottom of the screen.
 
 hug: "/me hugs {target.name} <3"
 
