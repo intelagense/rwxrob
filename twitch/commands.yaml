@@ -582,3 +582,10 @@ co-work: *cowork
 
 vids: https://www.youtube.com/c/rwxrob/search?query={1}
 
+pandoc: >-
+  📃 I write everything with !vim and usually write !markdown in Pandoc
+  notation. The automatic formatting and stuff is from my Vim plugin
+  that I upgraded to have smart-quotes and such.
+  https://github.com/vim-pandoc/vim-pandoc and
+  https://github.com/rwxrob/vim-pandoc-syntax-simple
+
