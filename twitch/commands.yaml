@@ -586,6 +586,6 @@ pandoc: >-
   📃 I write everything with !vim and usually write !markdown in Pandoc
   notation. The automatic formatting and stuff is from my Vim plugin
   that I upgraded to have smart-quotes and such.
-  https://github.com/vim-pandoc/vim-pandoc and
-  https://github.com/rwxrob/vim-pandoc-syntax-simple
+  https://github.com/vim-pandoc/vim-pandoc,
+  https://github.com/rwxrob/vim-pandoc-syntax-simple, https://pandoc.org
 
