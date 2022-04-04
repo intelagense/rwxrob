@@ -323,12 +323,11 @@ rfc: >-
 
 go: &go >-
   💻💨 https://github.com/rwxrob/awesome-go Go is the best general
-  purpose modern language, period. You can get shit done quickly and
-  safely in it which is why it was picked for Docker, Kubernetes,
-  Prometheus, Helm, and so many more. It has had huge impact, designed
-  by tech-gods Thompson/Pike/Griesemer (also UNIX, C, Unicode) to meet
-  real needs at Google. It was specifically designed to replace
-  Java/Python/C/C++.
+  purpose modern language. You can do shit quickly and safely. Docker,
+  Kubernetes, Prometheus, Helm, all written in Go. Designed by tech-gods
+  Thompson/Pike/Griesemer (also UNIX, C, Unicode) it meets the real
+  needs of Google and major enterprises. It was specifically designed to
+  replace Java/Python/C/C++.
 
 golang: *go
 
