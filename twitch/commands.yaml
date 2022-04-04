@@ -102,12 +102,11 @@ nvim: *neovim
 
 about: &about >-
   🔎 I'm Rob Muhlestein, an !engineer, !coder by !trade and !polyglot,
-  !grayhat, !mentor and !FOSS contributor when not working. I live in
-  Mooresville, North Carolina, USA in an apartment while my !wife
-  completes her !art residency in Charlotte.  I choose not to dox my
-  company so I can talk about it without disclaimers.  Yes, people from
-  work know and watch the stream sometimes. Please don't dox. See also
-  !email !gh !zet !job !project !boost)
+  !grayhat, !mentor and !FOSS contributor. I live in Mooresville, North
+  Carolina, USA in an apartment while my !wife completes her !art
+  residency.  I don't dox my company so I can talk about it. People from
+  work watch the stream sometimes. See also !email !gh !zet !job
+  !project !boost)
 
 info: *about
 dox: *about
