@@ -261,13 +261,11 @@ dot: >-
   !bonzai tree.
 
 help: >-
-  😃 I'm happy to help when and if I can, but often I just can't. We
-  like to help people help themselves. If you haven't even done miminal
-  research expect to be gently mocked. (It's just fucking rude.)
-  Otherwise, ask with a Q and someone will maybe help you out. You can
-  also ask in our !discord where you will have a better chance of
-  getting help. If you are asking us to do your homework or hack
-  someone, forget it.
+  😃 I'm happy to help when and if I can, but often I just can't. I like
+  to help people help themselves. If you haven't even done miminal
+  research expect to be mocked. Ask a question with Q and someone will
+  maybe help you out. Try !discord as well. If you are asking us to do
+  your homework or hack someone, forget it.
 
 name: &name >-
   🔒 The 'rwx' in my name means 'read, write, execute' and refers to the
