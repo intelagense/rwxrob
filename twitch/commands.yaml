@@ -100,6 +100,23 @@ neovim: &neovim >-
 
 nvim: *neovim
 
+primedrama: >-
+  😟 Yes, I've had drama with him when he very publicly attacked me on
+  Twitter (later YouTube) because he thought a zet I wrote was about him
+  (even though there were no names). The zet was about how grateful I am
+  for the quality of my community (compared to others generally).
+  I deleted it after multiple trolling PR attacks from him and his
+  followers on my zet repo (confirming my original post). !primeagen
+
+primeagen:
+  💀 Danger: theprimeagen content is dangerously wrong on so many
+  levels. I cannot stress enough how important it is that you seek out
+  more experienced mentors from the industry who don't spend their
+  free-time making bathroom cut scenes and pushing their social-media
+  presence. The more likely you are to hear from someone, the less
+  likely they are to have something useful to say. Ask around, find
+  GOOD mentors. !primedrama
+
 about: &about >-
   🔎 I'm Rob Muhlestein, an !engineer, !coder by !trade and !polyglot,
   !grayhat, !mentor and !FOSS contributor. I live in Mooresville, North
