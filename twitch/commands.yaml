@@ -322,13 +322,13 @@ rfc: >-
   can be very illuminating.
 
 go: &go >-
-  💻💨 https://github.com/rwxrob/awesome-go Go is the language of cloud
-  native computing and my personal favorite. You can get shit done
-  quickly and safely in it which is why it was picked for Docker,
-  Kubernetes, Prometheus, Helm, and so many more massive applications
-  with huge impact and designed by the tech-gods Thompson/Pike/Griesemer
-  (also involved in creating UNIX, C, and Unicode) to meet real needs at
-  Google. It was specifically designed to replace Java/Python/C/C++.
+  💻💨 https://github.com/rwxrob/awesome-go Go is the best general
+  purpose modern language, period. You can get shit done quickly and
+  safely in it which is why it was picked for Docker, Kubernetes,
+  Prometheus, Helm, and so many more. It has had huge impact, designed
+  by tech-gods Thompson/Pike/Griesemer (also UNIX, C, Unicode) to meet
+  real needs at Google. It was specifically designed to replace
+  Java/Python/C/C++.
 
 golang: *go
 
