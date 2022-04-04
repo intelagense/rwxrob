@@ -162,8 +162,9 @@ music: &music >-
   🎧 https://www.last.fm/user/rwxrob and !song for music. Want something
   added to the playlist? Just find a link to the song on Spotify and
   post it in chat. Happy to take requests.  I have HackerYoga,
-  BeachConcert, Industrial, Chillhop, Synthwave, CoffeeHouse and Piano
-  Jazz. I don't really listen to more than that on stream.
+  BeachConcert, FolkGrass, 90sChicks, Industrial, Chillhop,
+  Synthwave, CoffeeHouse and Piano Jazz. I don't really listen to more
+  than that on stream.
 
 playlist: *music
 
