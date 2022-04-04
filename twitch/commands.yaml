@@ -392,8 +392,9 @@ sched: *schedule
 
 time: >-
   🕐 Right now its {time.America/New_York} in Mooresville, North
-  Carolina (US Eastern time zone, same as New York. Note: my time almost
-  always on the bottom of the screen.
+  Carolina, US Eastern time zone, same as New York. The date and time
+  and time left until the boost are almost always on the bottom of the
+  screen.
 
 hug: "/me hugs {target.name} <3"
 
