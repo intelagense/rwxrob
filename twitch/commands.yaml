@@ -332,9 +332,10 @@ go: &go >-
 golang: *go
 
 coding: &coding >-
-  💢 The term "coding" includes things that most people do not consider
-  to be "programming". It's a more colloquial as well. I've coded in
-  more than a dozen languages (!codelangs) at this point. Coding is
+  💢 You can find current coding lang in brackets at the bottom of the
+  screen. The term "coding" includes things that most people do not
+  consider to be "programming". It's more colloquial. I've coded in more
+  than a dozen languages (!codelangs) at this point. Coding is
   a fundamental part of *any* tech job. Don't let anyone tell you
   differently. (See also !project !started.)
 
@@ -517,7 +518,7 @@ lang: >-
   lived in Russia and Ukraine for a few years. I also served a Mormon
   mission to the French West Indies where I learned French and Creole.
   I would really love to learn Mandarin and German and Spanish and
-  Portuguese eventually. Also see !codelangs
+  Portuguese eventually. Also see !coding for coding language.
 
 rust: >-
   💩 I hate Rust, the syntax is ugly, the mod team resigned in disgust
