@@ -588,3 +588,11 @@ pandoc: >-
   https://github.com/vim-pandoc/vim-pandoc,
   https://github.com/rwxrob/vim-pandoc-syntax-simple, https://pandoc.org
 
+unicode: >-
+  📑 Unicode is an information technology standard for the consistent
+  encoding, representation, and handling of text expressed in most of
+  the world's writing systems. It's where emojis come from. Unlike
+  "characters" a Unicode code point (rune) can be from 7 to 32 bits
+  long. A lot of code dealing with text is really broken (reason for
+  Python 3). The !go language was created by two co-creators of Unicode.
+
