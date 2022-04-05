@@ -511,7 +511,7 @@ pegn: >-
   a way that is easy to parse cognitively and programmatically without
   any specific application or implementation in mind. It builds on the
   best of existing meta and data structure languages such as PEG, ABNF,
-  EBNF, and JSON.
+  EBNF, and !JSON.
 
 lang: >-
   🌎 I am a native English speaker but went to college for Russian and
@@ -596,4 +596,30 @@ unicode: >-
   "characters" a Unicode code point (rune) can be from 7 to 32 bits
   long. A lot of code dealing with text is really broken (reason for
   Python 3). The !go language was created by two co-creators of Unicode.
+
+json: >-
+  📑 Javascript Object Notation (JSON) is a structured data language.
+  !Learn it even though YAML is better for configs and Protobuf is
+  better for transfer and storage. JSON organizes data consistently in
+  a way that humans can read and transfer quickly over the web. MongoDB
+  and most REST APIs are based on JSON.
+  https://github.com/rwxrob/zet/tree/main/20220403130630
+
+college: &college >-
+  💢💤 Don't college. If you must, !wgu or community. Don't pay a lot.
+  No one cares. Be a big fish in a small pond. You'll do better.  Jobs
+  just want your skills. Don't care how learned. Why college? 1) learn
+  skill 2) meet people 3) find yourself 4) use resources 5) learn to do
+  your own laundry. College just bundles that stuff for convenience ---
+  at a huge fucking price.
+
+university: *college
+
+prof: >-
+  👨🏫 Taught at community college. Hated it. People want passing grade.
+  Recruited for private schools. Hated it. No mentoring. Offered big
+  money to make closed learning content. Nope. Almost became
+  a professor. Talked out of it by another one. "Definitely, not you."
+  I love helping others learn. Turns out academia prioritizes profit and
+  football over learning. !college
 
