@@ -625,3 +625,10 @@ prof: >-
   I love helping others learn. Turns out academia prioritizes profit and
   football over learning. !college
 
+ruby: >-
+  👎 In 2007 I was obsessed with Ruby, even talked with Matz and made
+  a popular INI gem. These days Ruby is the fastest dying language.
+  Check TIOBE and others, or just ask around. Ruby will be used for
+  decades, but it is *not* a "greenfield" language any longer. Learn !go
+  !python !javascript, even Java instead.
+
