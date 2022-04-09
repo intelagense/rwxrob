@@ -654,11 +654,25 @@ sound: >-
   here.
 
 cobra: >-
-  💩 The people behind Cobra are amazing, but Cobra commander itself is
-  absolute shit, popular shit. Now we are all fucked because of it being
-  forced to use it. Consider kubectl requires 12637 lines of eval-ed
-  shell code just for completion, plus it was made my !getopt zombies.
-  Not !bonzai, created to start fresh with *good* command line !UX.
+  💩 The people behind Cobra are amazing, but the !go Cobra commander
+  itself is absolute shit, popular shit. Now we are all fucked because
+  of being forced to use it. Consider kubectl requires 12637 lines of
+  eval-ed shell code just for completion, plus it was made by !getopt
+  zombies 🧟. Consider 🌳 !bonzai instead, created to start fresh with
+  *good* command line !UX.
+
+getopt: >-
+  💩 GetOpt is the shit that forces us to use dashes for everything on
+  the command line. It's always been a horrible disaster. For a full
+  explanation, read *all* of the following. Then, keep calm, and !go
+  !bozai. 🌳😊 https://github.com/rwxrob/zet/tree/main/20220409085345
+
+ux: >-
+  😊💻 User experience (UX) is the art of creating amazing interactions
+  with those using whatever you create. People go to school just for UX
+  design (which is generally associated with graphic user interfaces,
+  but not necessarily). !getopt is an example of a fucking terrible
+  command-line UX.
 
 monitors: >-
   💻 I have four monitors and a laptop to my left, 24"-ish and 4k. I use
