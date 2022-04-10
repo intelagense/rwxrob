@@ -463,6 +463,27 @@ bash: >-
   !shellcheck when writing *any* shell script and !RTFM if you want to
   learn it.
 
+shell: >-
+  💻 A shell usually means a !repl application that allows the user to
+  run commands.
+
+repl: &repl >-
+  💻 "Read, evaluate/execute, print loop" is a method of user interaction
+  with a program. Also sometimes called a "command line interface" and
+  (mistakenly) called a "terminal interface" (!tui). Steps: 0) app prompts
+  user for input, 1) user enters input, 2) app reads input 3), app does
+  something 4) repeat. !bash is a REPL. https://repl.it is a service that
+  focuses on this.
+
+cli: *repl
+
+tui: >-
+  💻 A "terminal user interface" is when a user interacts with the
+  text-only terminal where the screen is divided up into cells of
+  columns and lines. Emojis are usually supported, but no other
+  graphics. TUI apps may be !CLI, but not necessarily. Sometimes arrow
+  or other keys are used to navigate, like !vi or !tmux or !lynx.
+
 rtfm: &rtfm >-
   😎📖 READ THE FUCKING MANUAL! (man man) This is the best way to get
   solid answers for !UNIX and !Linux and the *only* way to truly learn
@@ -487,11 +508,6 @@ zsh: >-
   !Bonzai completion fails on zsh because zsh does not support minimal
   `complete -C` completion.
 
-repl: >-
-  A "read, evaluate, print, loop" is what you get when you are prompted
-  to enter a command or data and then something happens and you are
-  prompted again. !bash is a REPL. https://repl.it is a service that
-  focuses on this.
 
 zettelkasten: >-
   📃 https://github.com/rwxrob/zet My "zettelkasten" repo where I brain
