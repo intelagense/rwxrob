@@ -726,3 +726,12 @@ stallman: &stallman >-
   disaster. FSF is criminal.
 
 rms: *stallman
+
+keg: &keg >-
+  🌐 The Knowledge Exchange Grid (KEG) is a project I've been working on
+  since 2016 to provide an alternative to the Web itself (while
+  leveraging it where possible). It's a decentralized graph network of
+  content that is transport agnostic, based on CommonMark + MathJax, and
+  semantic so anyone can create search engine. You "follow" others (like
+  RSS) for updates and use ring of trust so only good content.
+
