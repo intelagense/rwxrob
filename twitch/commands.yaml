@@ -5,7 +5,7 @@ job: &job >-
   💰 I work for 100 !remote for TEKSystems (!tek) as a full-time
   Kubernetes cloud native infrastructure engineer and software developer
   (!dev) for a well-paying multinational corporation (!dox) supporting
-  thousands of high performance machine learning compute nodes.
+  thousands of high performance machine learning compute nodes. !findjob
 
 work: *job
 
@@ -22,7 +22,8 @@ jobs: &jobs >-
   Indeed) the Fastest growing jobs (not just in tech) are 1) security
   analyst, 2) cloud-native infrastructure engineer, and 3) software
   developer. All of them have starting salaries over $100k and all
-  require !linux and !coding skills that we go over during !boost
+  require !linux and !coding skills that we go over during !boost.
+  !findjob
 
 dev: &dev >-
   💻 I prefer "software developer" or "coder" over "engineer" (which is
