@@ -509,13 +509,15 @@ zsh: >-
   `complete -C` completion.
 
 
-zettelkasten: >-
+zet: &zet >-
   📃 https://github.com/rwxrob/zet My "zettelkasten" repo where I brain
   dump everything with little attention to grammar, spelling, and
   political correctness. You've been warned. Eventually, this will
   become a part of my !KEG node.
 
-zet: https://github.com/rwxrob/zet/search?q={1} 
+zettelkasten: *zet
+
+zetq: https://github.com/rwxrob/zet/search?q={1} 
 
 afk: "/me 🐟 {user.name} is afk"
 
@@ -732,6 +734,6 @@ keg: &keg >-
   alternative to the Web, decentralized at the core, a graph network of
   content focused on knowledge over advertising written in CommonMark
   with MathJax, no scripts, semantic so anyone can easily create own
-  search engine. You "follow" others (like RSS) for updates and use ring
-  of trust so only good content. !zettelkasten
+  search engine. You "follow" others (like RSS but !zet) for updates and
+  use ring of trust so only good content.
 
