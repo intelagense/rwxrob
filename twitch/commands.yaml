@@ -678,6 +678,7 @@ sound: >-
   here.
 
 24hour: *24
+24hours: *24
 
 cobra: >-
   💩 The people behind Cobra are amazing, but the !go Cobra commander
