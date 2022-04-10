@@ -728,10 +728,10 @@ stallman: &stallman >-
 rms: *stallman
 
 keg: &keg >-
-  🌐 I've been working on the Knowledge Exchange Grid (KEG) since 2016.
-  It's an alternative to the Web itself, decentralized at the core,
-  a graph network of content that is focused on knowledge, transport
-  agnostic, based on CommonMark + MathJax, and semantic so anyone can
-  easily create own search engine. You "follow" others (like RSS) for
-  updates and use ring of trust so only good content.
+  🌐 Been working on Knowledge Exchange Grid (KEG) since 2016, an
+  alternative to the Web, decentralized at the core, a graph network of
+  content focused on knowledge over advertising written in CommonMark
+  with MathJax, no scripts, semantic so anyone can easily create own
+  search engine. You "follow" others (like RSS) for updates and use ring
+  of trust so only good content.
 
