@@ -733,5 +733,5 @@ keg: &keg >-
   content focused on knowledge over advertising written in CommonMark
   with MathJax, no scripts, semantic so anyone can easily create own
   search engine. You "follow" others (like RSS) for updates and use ring
-  of trust so only good content.
+  of trust so only good content. !zettelkasten
 
