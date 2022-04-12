@@ -507,7 +507,7 @@ zsh: >-
   because it's better.  Zsh is, in fact, inferior to !bash and
   dangerously encouraging floating point math which is NOT !POSIX.
   !Bonzai completion fails on zsh because zsh does not support minimal
-  `complete -C` completion.
+  `complete -C` completion. People just don't know better I guess. I do.
 
 
 zet: &zet >-
