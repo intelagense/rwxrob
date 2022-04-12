@@ -753,3 +753,11 @@ lab: >-
   experimenting rather than reading through tons of potentially
   incorrect docs. Have a look.
 
+curl: >-
+  🌐 curl is a program for making web requests from the command line
+  !cli and is a critical tool when working with web service interfaces
+  (!apis) that allow different things, like posting a twitch chat,
+  tweet, or checking bank statements. The data is usually in !JSON
+  format. Learning curl is critical thing to learn for any technologist.
+  It's even builtin to Chrome DevTools.
+
