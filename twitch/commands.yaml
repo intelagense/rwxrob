@@ -520,7 +520,7 @@ zettelkasten: *zet
 
 zetq: https://github.com/rwxrob/zet/search?q={1} 
 
-afk: "/me 🐟 {user.name} is afk"
+afk: "/me 🐟 {user.name} is afk ({1:5})"
 
 fluff: >-
   ⛅ https://github.com/rwxrob/fluff Happy little clouds at home, on
