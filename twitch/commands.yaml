@@ -43,12 +43,11 @@ tek: >-
   keep you happy, and find your next gig. The independence is worth it.
 
 vi: &vi >-
-  😎 https://rwx.gg/visurvive I use Vim (aliased to vi) because I want
-  to be productive quickly on *any* UNIX-like (!unix) system and
-  I prefer to leverage the full power of !UNIX !filters over bloated,
-  non-portable plugins. These days I build all my filters into my !go
-  !Bonzai command tree that I can take anywhere with me and use for
-  scripting as well. (See !ed !neovim !emacs !vscode
+  😎 https://rwx.gg/visurvive Vi/m make me productive quickly on *any*
+  UNIX-like (!unix) system and leverages the full power of !UNIX
+  !filters over bloated, non-portable plugins. I build my filters into
+  my !go !Bonzai command tree that I can take anywhere with me and use
+  for scripting as well. (See !ed !neovim !emacs !vscode
 
 vim: *vi
 
