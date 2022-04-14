@@ -114,6 +114,8 @@ primeagen: >-
   usually a lot harder to find than him. @learnwithleon is a good one.
   !primedrama
 
+prime: *primeagen
+
 about: &about >-
   🔎 I'm Rob Muhlestein, a 54-year-old !engineer, !coder by !trade and
   !polyglot, !grayhat, !mentor and !FOSS contributor. I live in
