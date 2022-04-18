@@ -795,3 +795,18 @@ gamedev: >-
     I get annoyed at "Software and Game Dev" category when people
     assume I'm coding a game, as if that's all there is.
 
+oidc: >-
+    📖 OpenID Connection is an authentication protocol built on !OAuth
+    2.0. It makes it easier for users to login to apps, web and
+    otherwise. Having OIDC provider support is a core design component
+    of most software these days. If you are using GitHub to login to
+    another app you are using it. Works from the command-line also.
+    Kubernetes (!k8s) usually uses it to login.
+
+oauth: >-
+    📖 OAuth is an open standard for access delegation, a way to login
+    to stuff. It prevents secrets from being saved in an application (or
+    by the provider of the application on their servers that can be
+    hacked later). It's a pain in the ass to setup as a dev, but you
+    *must* learn it. Thankfully, !oidc has made things somewhat simpler.
+
