@@ -108,13 +108,13 @@ primedrama: >-
   I deleted it after trolling PR attacks from him and his followers on
   my zet repo. !primeagen
 
-primeagen: >-
+prime: &prime >-
   💀 Danger: @theprimeagen content is dangerously wrong on multiple
   levels. Seek out more experienced mentors (not just me) who are
   usually a lot harder to find than him. @learnwithleon is a good one.
   !primedrama
 
-prime: *primeagen
+primeagen: *prime
 
 about: &about >-
   🔎 I'm Rob Muhlestein, a 54-year-old !engineer, !coder by !trade and
@@ -135,17 +135,18 @@ foss: &foss >-
 
 opensource: *foss
 
-conduct: &conduct >-
-  😊 Here's my personal code of conduct (which I regularly fail to keep).  My
+creed: &creed >-
+  😊 Here's my personal creed (which I regularly fail to keep).  My
   main life mantra is "don't get mad, get busy" (because I get mad all
   the fucking time). I guess it is my version of "be the change you want
   to seen in the world". But, I have no problem calling out morons and
   people saying stupid shit. Sorry.
   https://github.com/rwxrob/zet/tree/main/20210502120622
 
-mad: *conduct
-sad: *conduct
-mean: *conduct
+mad: *creed
+sad: *creed
+mean: *creed
+
 
 faang: >-
   💩 FAANG is shit. It means nothing. Hell, Microsoft (!ms) isn't even
@@ -161,6 +162,7 @@ mute: &mute >-
   hello, for example).
 
 voice: *mute
+talking: *mute
 
 facebook: &facebook >-
   💩 Facebook got famous ranking women's faces against one another
@@ -599,16 +601,20 @@ irc: >-
   https://twitch.tv/rwxrob/about page.
 
 cowork: &cowork >-
-  🤔 Coworking is like you are sitting next to me working on something
-  of your own. Occasionally, we'll take a break and chat, rant, or
-  share.  The HackerYoga !music is usually always on, even when I'm AFK.
-  Why am I SO busy? There's a lot wrong with the world and I try to
-  follow the creed: don't get mad, get busy. Now let's get some shit
-  done, together.
+  🤔 Coworking is like going someplace quiet with friends to !focus on
+  stuff we have to get done, individually.  Occasionally, we'll take
+  a break to chat but no !talking so people can bring their own !music or
+  use !irc and not miss anything.
 
 coworking: *cowork
 co-working: *cowork
 co-work: *cowork
+
+busy: >-
+  💢💨 Why am I SO busy? There's a lot wrong with the world and I try to
+  follow the creed: don't get mad, get busy. There's a lot to get angry
+  about,  you can waste time complaining and arguing, or you can
+  actually do something about it. !creed
 
 vids: https://www.youtube.com/c/rwxrob/search?query={1}
 
@@ -761,4 +767,31 @@ curl: >-
   tweet, or checking bank statements. The data is usually in !JSON
   format. Learning curl is critical thing to learn for any technologist.
   It's even builtin to Chrome DevTools.
+
+kb: &kb >-
+  📝 My keyboard is same as the world's greatest writers, journalists,
+  and creatives: a 2016 Apple chicklet keyboard (no butterfly keys). I do
+  about 108 wpm on a good day.  Coding demands comfort above all. I know
+  so many coders who started using mechanical and have been to doctor
+  because of it. But hey, you do you (and welcome the carpel tunnel).
+
+keyboard: *kb
+
+offscreen: >-
+    🚫💻 When !coworking I'm using another computer or screen a lot.
+    Usually, I'll put the !fishies and !music on. I try to leave the
+    webcam on anyway, even if !muted during conference calls for !work.
+
+games: >-
+    💚 Witcher3, Dota2, Overwatch, ShenzenIO, TF2, Minecraft. Those are
+    the only games I play. I usually enjoying !hacking and !coding more
+    than playing games.
+
+gamedev: >-
+    💢 I've made educational games for !skilstak, but not many others.
+    My idea of a good game is one that makes you solve problems and
+    think. I wish more game devs made *good* games that didn't smell
+    like educational games. The world would be in a much better place.
+    I get annoyed at "Software and Game Dev" category when people
+    assume I'm coding a game, as if that's all there is.
 
