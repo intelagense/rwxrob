@@ -2,14 +2,15 @@
 # with line 6 ending on column 38).
 
 job: &job >-
-  💰 I work for 100 !remote for TEKSystems (!tek) as a full-time
-  Kubernetes cloud native infrastructure engineer and software developer
-  (!dev) for a well-paying multinational corporation (!dox) supporting
-  thousands of high performance machine learning compute nodes. !findjob
+  💰🏦🌐 I work from !home for TEKSystems (!tek) as a full-time
+  Kubernetes (!k8s) cloud native infrastructure engineer and software
+  developer (!dev) for a well-paying multinational corporation (!dox)
+  supporting thousands of high performance machine learning compute
+  nodes. !findjob
 
 work: *job
 
-remote: >-
+remote: &remote >-
   💻📞 I've been working 100% remote since 2000. I was hired as fully
   remote by !IBM after I was head-hunted by a recruiter out of !Nike.
   Working remotely requires strong separation of your work environment
@@ -17,13 +18,15 @@ remote: >-
   two. Most can't. I plan on working from the road and !irl !twitch
   streaming in 2022 at some point.
 
+home: *remote
+
 jobs: &jobs >-
-  💰 According to US Bureau of Labor and Statistics and job boards (like
-  Indeed) the Fastest growing jobs (not just in tech) are 1) security
-  analyst, 2) cloud-native infrastructure engineer, and 3) software
-  developer. All of them have starting salaries over $100k and all
-  require !linux and !coding skills that we go over during !boost.
-  !findjob
+  💰💪🧠 According to US Bureau of Labor and Statistics and job boards
+  (like Indeed) the Fastest growing jobs (not just in tech) are 1)
+  security analyst, 2) cloud-native infrastructure engineer, and 3)
+  software developer. All of them have starting salaries well over $100k
+  and all require !linux and !coding skills that we go over during
+  !boost. !findjob
 
 dev: &dev >-
   💻 I prefer "software developer" or "coder" over "engineer" (which is
@@ -809,4 +812,22 @@ oauth: >-
     by the provider of the application on their servers that can be
     hacked later). It's a pain in the ass to setup as a dev, but you
     *must* learn it. Thankfully, !oidc has made things somewhat simpler.
+
+k8s: &k8s >-
+    📖 What if you could plug thousands of CPUs, GPUs, and RAM sticks
+    into your gaming rig or server and divide them up dynamically to do
+    different jobs safely. That's !containers in Kubernetes. K8S is like
+    a meta operating system for thousands of combined machines doing
+    millions of different things, like processes in a single machine,
+    but across many. !job
+
+kubernetes: *k8s
+
+reppoints: >-
+    🌟 Rep (!rep) just a way to thank you for helping and chatting and
+    just hanging out. They will never get you anything. They just are.
+    I do take into account when you have a question or comment. It's
+    a way to tell people who just get here and ask me to personally
+    mentor them to fuck off until they've contributed a little bit to
+    the community themselves first.
 
