@@ -835,3 +835,48 @@ reppoints: >-
     mentor them to fuck off until they've contributed a little bit to
     the community themselves first.
 
+wsl: >-
+    💩 WSL2 is shit. Use !gitbash and a !VM instead. I hate saying that.
+    I raved about it for two full weeks. People took bets on how long
+    "Windows is the best desktop Linux" would last. It didn't.  1) It is
+    slow, even stopped Vim from being useful. 2) It fucks up
+    permissions. 3) Can't mount thumb drives. 4) Mixes exes with Linux
+    commands. 5) Always behind current Linux.
+
+vm: >-
+    💻 A "virtual machine" is a computer (machine) made out of software
+    (not hardware). VMs and the basis of all modern "elastic" computing.
+    You can run 10 VMs on your !desktop for whatever reason (and there are
+    many) or you can run 10s of thousands in your !onprem !cloud. There are
+    three main VM providers: !VirtualBox !VMWare !KVM
+
+kvm: >-
+    ⛅ KVM is the primary !vm for !Linux but is mostly used by cloud
+    providers and not so much on the !desktop. For that people use
+    !VirtualBox or !VMWare.
+
+vbox: &vbox >-
+    💻⛅ VirtualBox is the leading !VM !desktop application (mostly
+    because it's 100% free. It also has the sharpest !CLI and integrates
+    well with !dev tools. I use it extensively (!os) and so should you.
+    !boost requires it. You *must* know it to be a tech today. !vmware
+    is a professional, proprietary alternative. WARNING: Does not
+    work on Mac M1 *and never will*.
+
+vmware: >-
+    💻⛅ VMWare is the leading *proprietary* !VM !desktop application.
+    It costs about $300 but runs on Mac M1 (!vbox does not). They also
+    try to sell you their other stuff rather than give you a good !API
+    and !CLI. They have a *free* version but it is limited to one VM
+    (which is useless).
+
+virtualbox: *vbox
+
+gitbash: &gitbash >-
+    💻 https://git-scm.com The best way to get the essential tools (git,
+    ssh, and bash) on Windows and have everything just work. Maintained
+    by the !git project (not Microsoft). Commands like chmod actually
+    does what you expect (unlike !wsl). BTW, you don't need this on Mac
+    or Linux.
+
+git-bash: *gitbash
