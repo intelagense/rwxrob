@@ -408,11 +408,11 @@ font: *terminal
 theme: *terminal
 
 schedule: &schedule >-
-  🕐 https://twitch.tv/rwxrob/schedule I don't have any sort of schedule
-  except Saturdays 12-5pm and Sundays 12-3pm for Beginner Boost (!boost)
-  stuff. The rest is really random. These days the stream is up 24x7
-  with !music and I am here about 10 hours a day !coworking. Also !about
-  !time
+    🕐 https://twitch.tv/rwxrob/schedule I do !WalkTalk daily at 12:30
+    my !time.  Saturdays 12:30-5:30pm will be Beginner Boost (!boost).
+    Sundays 12:30-2:30 are recorded AMA. The rest is really random.
+    These days the stream is up 24x7 with !music and I am here about 10
+    hours a day !coworking. Also !about !time
 
 sched: *schedule
 
@@ -421,6 +421,13 @@ time: >-
   Carolina, US Eastern time zone, same as New York. The date and time
   and time left until the boost are almost always on the bottom of the
   screen. Also see !about !schedule !sleep.
+
+walktalk: >-
+    ⛅🚶🌄 Nothing like going outside to do our random talking about
+    tech, art, music, and just life. This is the time to ask completely
+    random questions, to get me to tell you stories, and watch me crash
+    on my skateboard. (Sometimes I run or skate or bike instead of
+    walk.)
 
 hug: "/me hugs {target.name} <3"
 
@@ -534,6 +541,44 @@ zettelkasten: *zet
 
 zetq: https://github.com/rwxrob/zet/search?q={1} 
 
+zetplan: >-
+    📃 Planning to port !zet from !bash to !go this year. It will be one
+    of the !bonzai branches being grafted into Mimir (!mim)
+
+mim: >-
+    💡 Mimir is a comprehensive knowledge management suite of
+    applications I'm slowly creating focused specifically on personal
+    learning, mentoring, and live community building. Eventually, mim will
+    contain related !go !bonzai branches: !keg, kn, web, dl, live, twitch,
+    yt, twitter, project, todo, pomo, cv, agent. Mim will leverage CLI and
+    local WebUI. !edtech !iste
+
+edtech: >-
+    🏫🧠💻 I love educational technology and Instructional Technology
+    Specialists. I believe tech's primary purpose should be reduction of
+    human suffering and improvement to quality of life and knowledge.
+    Learning is at the core of that. I've presented at !ISTE, given
+    workshops, and even run Second Life (!sl) EDTECH Retreat for several
+    years. !mim
+
+iste: >-
+    🏫💻 https://iste.org The International Society for Technology in
+    Education is a place where !edtech people come together and geek out
+    about ways tech can actually be more than just a diversion, but make
+    a real difference in education. I was an !sl docent for ISTE and
+    have presented, etc. One day I'll present !mim and Twitch for
+    mentored community learning.
+
+sl: &sl >-
+    🐱 I am MoHax in Second Life, a virtual worlds platform that
+    took off in 2007. I ran Mo's Mentored, played guitar, managed sims for
+    IBM and the SL Ballet. Did triathlon training there. I've built
+    combat systems, simulators for fire and rescue, diploma giver,
+    MoPose, and EDTECH Retreat. It was a huge part of my life from 2007
+    until 2010. I've met thousands. Oh the stories.
+
+secondlife: *sl
+
 afk: "/me 🐟 {user.name} is afk ({1:5})"
 
 fluff: >-
@@ -570,6 +615,20 @@ rust: >-
   (like Docker or Kubernetes) has ever been made in Rust. Maybe that's
   why there are virtually no jobs for it. Meanwhile, !go blows Rust away
   for the things which matter most and has tons of projects and !jobs.
+
+python: >-
+    💢 Learn Python, because you must these days. It's fucking
+    everywhere (not just !ml).  Python is like a bad breakup, an X who
+    threw my stuff in the street.  I've witnessed it turn good coders
+    into bigots who wouldn't learn anything else. Taught 5 years at
+    !skilstak. !Go is a much better language than Python on every single
+    level, even !Guido agrees.
+
+guido: >-
+    🔥 "I learned a painful lesson, that for small programs dynamic typing is
+    great, for large programs you have to have a more disciplined approach
+    and it helps if the language actually gives you that discipline, rather
+    than telling you 'Well you can do whatever you want'" (Guido, Python !BDFL)
 
 os: &os >-
   💻 I run Ubuntu Server running in VirtualBox on both Windows desktop,
