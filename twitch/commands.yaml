@@ -125,10 +125,18 @@ about: &about >-
   Mooresville, North Carolina, USA in an apartment while my !wife
   completes her !art residency.  I don't dox my company. People from
   work watch the stream sometimes. See also !email !gh !zet !job
-  !project !boost)
+  !project !boost !learning !school)
 
 info: *about
 dox: *about
+
+school: >-
+    🏫 I graduated Brigham Young University (BYU) with Russian Language
+    degree, partial Honors, and just shy of a minor in French and
+    Computers and Linguistics. I was there >6 years, worked 3 jobs
+    concurrently: language lab, French/Russian instructor, bike shop
+    mechanic, language/culture instructor and Resident Assistant at
+    Mormon Missionary Training Center.
 
 foss: &foss >-
   🐧 Free and Open Source Software (FOSS) powers the world these days.
@@ -582,6 +590,14 @@ learn: >-
   !web publishing (!HTML/!CSS/!JS) 9) !Docker !containers 10) text-based
   !search with !lynx 11) !C for understanding 12) !python 13) !perl 14)
   Kubernetes (!k8s)
+
+learning: >-
+    ⚡ I'm learning Kubernetes (!k8s) at modern, cloud native
+    infrastructure,  both !onprem and !gcp. I hope to get Kubernetes CKAD,
+    CKA, CKS by August 1st. I'm also learning all the shit related to
+    Kubernetes they don't tell you that you need to learn: Istio, Calico,
+    OPA Gatekeeper, Tekton, ElasticSearch, etc. I'm always learning better
+    !Go coding techniques as well.
 
 streamlabs: >-
   💡 I fucking love Streamlabs. Just the video clip publisher and
