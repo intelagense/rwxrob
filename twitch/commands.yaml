@@ -112,8 +112,7 @@ primedrama: >-
   my zet repo. !primeagen
 
 prime: &prime >-
-  💀 Danger: @theprimeagen content is dangerously wrong on multiple
-  levels. Seek out more experienced mentors (not just me) who are
+  I suggest seeking out more experienced mentors (not just me) who are
   usually a lot harder to find than him. @learnwithleon is a good one.
   !primedrama
 
@@ -532,10 +531,10 @@ zsh: >-
 
 
 zet: &zet >-
-  📃 https://github.com/rwxrob/zet My "zettelkasten" repo where I brain
-  dump everything with little attention to grammar, spelling, and
-  political correctness. You've been warned. Eventually, this will
-  become a part of my !KEG node.
+  📃 https://github.com/rwxrob/zet/blob/main/README.md  My
+  "zettelkasten" repo where I brain dump everything with little
+  attention to grammar, spelling, and political correctness. You've been
+  warned. Eventually, this will become a part of my !KEG node.
 
 zettelkasten: *zet
 
