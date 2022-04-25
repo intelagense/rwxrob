@@ -218,6 +218,13 @@ bonzai: &bonzai >-
   Want to learn  to make your own?  Be sure to catch the Beginner Boost
   on May 4th (!boost).
 
+bon: >-
+  🌳 https://github.com/rwxrob/bon is a !bonzai utility to help with
+  development, use, distribution, and discovery of Bonzai™ commands.
+  Eventually, it will be able to cache and search through all Bonzai
+  tree descriptions and summaries. Use it to initialize a new branch and
+  compile and create new standalone releases.
+
 z: >-
   🌳 https://github.com/rwxrob/z is my !bonzai composite command tree,
   something I invented. I'm migrating my !bash and !perl !shell scripts
