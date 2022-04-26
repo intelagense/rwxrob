@@ -1,4 +1,4 @@
-#job
+# job
 
 💰🏦🌐 I work from [remote] from home for TEKSystems (!tek) as a
 full-time Kubernetes (!k8s) cloud native infrastructure engineer and
@@ -6,7 +6,7 @@ software developer (!dev) for a well-paying multinational corporation
 (!dox) supporting thousands of high performance machine learning compute
 nodes. !findjob
 
-#remote
+# remote
 
 💻📞 I've been working 100% remote since 2000. I was hired as fully
 remote by !IBM after I was head-hunted by a recruiter out of !Nike.
