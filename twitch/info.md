@@ -1,6 +1,6 @@
 # job
 
-💰🏦🌐 I work from [remote](remote) from home for TEKSystems (!tek) as a
+💰🏦🌐 I work from [remote](#remote) from home for TEKSystems (!tek) as a
 full-time Kubernetes (!k8s) cloud native infrastructure engineer and
 software developer (!dev) for a well-paying multinational corporation
 (!dox) supporting thousands of high performance machine learning compute
