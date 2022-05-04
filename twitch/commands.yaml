@@ -15,7 +15,7 @@ remote: &remote >-
   remote by !IBM after I was head-hunted by a recruiter out of !Nike.
   Working remotely requires strong separation of your work environment
   from your living space, usually. After 20 years I'm okay mixing the
-  two. Most can't. I plan on working from the road and !irl !twitch
+  two. Most can't. I plan on !coworking from the road and !IRL !twitch
   streaming in 2022 at some point.
 
 home: *remote
@@ -305,10 +305,37 @@ name: &name >-
   🔒 The 'rwx' in my name means 'read, write, execute' and refers to the
   UNIX/Linux permissions on any file or directory. But RWX is also
   a personal recipe for learning and success: 'read, research', 'write
-  about it', and 'experiment, explore, experience'. There's no better
-  learning methodology, grounded in pragmatism. !boost
+  it', and 'experiment, explore, experience, exchange'. There's no better
+  learning methodology, grounded in pragmatism. !boost !read !comm !publish
 
 rwx: *name
+
+read: &read >-
+  📖👓☕ Everyone should be reading at least two hours a day,
+  technologists will be reading about six hours. Research is active
+  reading when you do things while reading. !lynx is by far the fastest
+  way to do effective !Web research. Watch me and make your own decision.
+  Reading is a major part of the !RWX method.
+
+research: *read
+
+nature: &nature >-
+  🌄😃🌲🌊 Nature is my temple, and running my communion. There's
+  nothing that centers me more than being under the open sky, the same
+  sky we all share. It's not just about being one with nature, it's
+  about being one with everyone in it, realizing we are fundamentally
+  the same. I need that reminder constantly. Go outside.  Right now.
+  You'll be glad you did.
+
+outside: *nature
+running: *nature
+
+irl: >-
+    💚 You have permission to have a life, a real life. You don't need
+    anyone to give that to you. Seize the day. Do something "in real
+    life" that one day you won't be able to. Do one thing every day that
+    scares you. Keep it real. I try to do this myself, to get !outside
+    and do more than just sit at my desk.
 
 beej: >-
   📕 http://beej.us/guide/bgnet/ Beej's Guide to Network Programming is
@@ -337,6 +364,14 @@ russian: >-
   *many* stories including traveling with an arms dealer on the train,
   translating for mob bosses, and being body guard to Samatha Fox.
   I deeply love the Russian people.
+
+french: >-
+  I served a !Mormon mission to the French West Indies and upon my
+  return taught French at !school where I also was a few credit hours
+  shy of a Minor. I deeply love French and Caribbean culture and have
+  grown an affinity for French Canadians as well. Twitch is a phenomenal
+  place for language training. OMG, it's just amazing. Changed my major
+  to !Russian later though.
 
 rfc: >-
   📗 An IETF RFC is what specifies how the Internet works. Reading them
@@ -401,7 +436,7 @@ sleep: >-
   Generally, I sleep from 7pm to 2:30am. My body naturally wants almost
   exactly 7.5 hours of sleep every time. !schedule
 
-terminal: &terminal >-
+theme: &theme >-
   💻 I use a slightly darkened version of GruvBox on a 81x25, Microsoft
   Terminal (1920x1080 screen) from which I ssh into "anton" (my local
   Ubuntu Server vm in VirtualBox named in honor of Gilfoyle) and run
@@ -409,9 +444,17 @@ terminal: &terminal >-
   I used to do transparent background for streaming but it was murder on
   my eyes.
 
-color: *terminal
-font: *terminal
-theme: *terminal
+color: *theme
+font: *theme
+
+term: &term >-
+  💻 Learn to use the !linux !bash terminal (!tui). It's objectively the
+  most powerful and efficient interface for most human-computer
+  interactions when a keyboard is available. It feels like magic when
+  you learn it compared to others. This requires learning !vim !tmux and
+  !lynx to be the most effective.
+
+terminal: *term
 
 schedule: &schedule >-
     🕐 https://twitch.tv/rwxrob/schedule I do !WalkTalk daily at 12:30
@@ -421,6 +464,33 @@ schedule: &schedule >-
     hours a day !coworking. Also !about !time
 
 sched: *schedule
+
+meet: &meet >-
+    😊 Life is about meeting people. You might not like it, but them are
+    the facts. You need to meet to people to !findjob, to love, and from
+    whom you can learn while !coworking. So get to meeting people.
+    Twitch is a great place, so is https://meetup.com. Then there's
+    Tinder (if you're into that sort of thing). I met !doris on
+    https://pof.com. (I'm not proud, oh the stories).
+
+meetup: *meet
+
+comm: &comm >-
+  💬 Communication is the most important skill no one talks about, the
+  W in RWX, learning how write, to present yourself, your ideas, your
+  concerns in multiple languages, to people from multiple cultures and
+  backgrounds. Good communicators dominate everything they do (including
+  social engineering, if you are into that sort of thing). Learn it.
+
+communicate: *comm
+communication: *comm
+
+publish: >-
+    💻📃📖 Publish what you do. It's not hard. It's a core part of the
+    !RWX process. It also makes the world a better place. Everyone can
+    do it. Even if just learning. Share how you learned it. Some else
+    will relate. Learn !Web !dev enough to make your own free site. Get
+    on !KEG and maintain a !zet.
 
 time: >-
   🕐 Right now its {time.America/New_York} in Mooresville, North
@@ -490,10 +560,6 @@ bash: >-
   reasonable modern tab completion (!bonzai). BTW, Make sure to use
   !shellcheck when writing *any* shell script and !RTFM if you want to
   learn it.
-
-shell: >-
-  💻 A shell usually means a !repl application that allows the user to
-  run commands.
 
 repl: &repl >-
   💻 "Read, evaluate/execute, print loop" is a method of user interaction
@@ -649,7 +715,7 @@ distro: *os
 driver: *os
 
 learn: >-
-  ⚡ Stuff you should learn: 1) learn like a !hacker 2) !Linux terminal
+  ⚡ Stuff you should learn: 1) think like a !hacker 2) !Linux terminal
   3) !Vim editing with !UNIX !filters 4) !bash scripting 5) !Go
   programming 6) !Markdown and !Pandoc 7) !Git and !GitHub 8) minimal
   !web publishing (!HTML/!CSS/!JS) 9) !Docker !containers 10) text-based
@@ -672,14 +738,32 @@ streamlabs: >-
   calculate it.
 
 hacker: &hacker >-
-  😎💻 Hacking is a mind-set. Hackers figures shit out on their own,
-  !autodidacts who make stuff do what they want in unexpected ways.
-  Hackers learn more about stuff than the original creators. That's
-  really it. Hackers are, therefore, pragmatic scientists in the truest
-  sense. They !rwx their way though life for fun and profit. Hack the
-  planet! You'll be glad you did.
+  😎💻 Hacking is a mind-set. Hackers figures shit out, !autodidacts who
+  make stuff do what they want in unexpected ways. Hackers learn more
+  about than the original creators. That's it. Hackers are, therefore,
+  pragmatic scientists. They !RWX their way though life for fun and
+  profit. Learn to think like a hacker. You'll be smarter for it. Hack
+  the !planet.
 
 hackers: *hacker
+
+planet: >-
+    🌎🌏🌍 Hack the planet! It's more than just a call to arms for geeks
+    with purpose all over the world, it's a way of life, a commitment to
+    making a difference. To being !hackers in the best sense doing what
+    it takes to reduce suffering for everyone (and everything) on this
+    pretty blue marble. We need everyone's help. No need to join. You're
+    already on the team.
+
+pay: &pay >-
+    💰💨 Pay it forward. Humans have been doing it forever. It's how we
+    progress, always has been. Someone helped you. Now help someone
+    yourself. You don't need permission or a formal arrangement or
+    a fucking school. Share what you know.  Scarcity mentality is from
+    greed and fear, fear leads to hate, hate leads to suffering. There's
+    plenty for everyone. Let go. You'll be fine.
+
+payitforward: *pay
 
 irc: >-
   💬 Internet Relay Chat is the first real messaging system that worked
@@ -833,6 +917,14 @@ keg: &keg >-
   engine. You "follow" others (like RSS but !zet) for updates and use
   ring of trust so only good content.
 
+kegml: >-
+    📓 The markup language for !keg is a very simplified version of
+    CommonMark + MathJax that also recognizes KEG node IDs (which is
+    just an !isosec that begins with `K`). KEGML is designed to require
+    nothing but paper and pencil to create and maintain and is more then
+    10 times faster than CommonMark to parse making it ideal for KEG
+    where parsing happens often.
+
 xmas: >-
   🎅🎄 Okay, so I look like Santa and have a perpetual Xmas tree with
   lights on it. (Yes, I'm X-ing Christ on purpose, Jesus-freaks can fuck
@@ -843,10 +935,10 @@ xmas: >-
 
 lab: >-
   🧪🥼🤯💥 https://github.com/rwxrob/lab The X in !rwx means to
-  experiment, explore, and experience. Well you can't do that without
-  a lab, that's right a lab. I'm constantly blowing code up in there
-  experimenting rather than reading through tons of potentially
-  incorrect docs. Have a look.
+  experiment, explore, experience, and exchange. You can't do that
+  without a lab.  That's right a lab. I'm constantly blowing stuff up in
+  there experimenting rather than reading through tons of potentially
+  incorrect docs. Have a look at my lab and share yours with others.
 
 curl: >-
   🌐 curl is a program for making web requests from the command line
@@ -916,13 +1008,15 @@ reppoints: >-
     mentor them to fuck off until they've contributed a little bit to
     the community themselves first.
 
-wsl: >-
-    💩 WSL2 is shit. Use !gitbash and a !VM instead. I hate saying that.
-    I raved about it for two full weeks. People took bets on how long
-    "Windows is the best desktop Linux" would last. It didn't.  1) It is
-    slow, even stopped Vim from being useful. 2) It fucks up
-    permissions. 3) Can't mount thumb drives. 4) Mixes exes with Linux
-    commands. 5) Always behind current Linux.
+wsl2: &wsl2 >-
+    💩 WSL2 is shit. Use !GitBash and a !VM instead.  I raved about it
+    for two full weeks. People took bets on how long "Windows is the
+    best desktop Linux" would last. It didn't.  WSL2 1) is too slow,
+    even stopped Vim from being useful; 2) fucks up permissions; 3)
+    can't mount thumb drives; 4) mixes exes with !Linux commands; 5) and
+    is always behind current Linux.
+
+wsl: *wsl2
 
 vm: >-
     💻 A "virtual machine" is a computer (machine) made out of software
